@@ -1,0 +1,132 @@
+# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-06)
+
+## LANGUAGE RULE (mandatory)
+- ALWAYS speak English with the user in every conversation on this project,
+  regardless of the language the user writes in. All replies, explanations,
+  summaries and questions — English only. (Code, file contents and data
+  descriptions in data.json stay in their own language as they are.)
+
+## FULL PROJECT CONTEXT:
+- CONTEXT.md — read first (stack, services, backups, data state, rules)
+- This file is maintained in English (translated 2026-10-05; older Russian versions: CONTEXT.md.bak*)
+
+## WHAT IT IS
+Personal library of software/tools/links. Single-page app:
+dark theme, compact sidebar tree of sections on the left, interactive
+category map-graph in the center (Obsidian style), slide-out panel with
+item list on the right. Categories can be dragged & dropped right on the
+map (node onto node → becomes a subcategory). RMB — context menus everywhere.
+
+## STACK
+- `api.py` — Flask on 100.97.181.59:5055 (tailscale IP, access only inside private
+  network), serves/stores `data.json` (GET/POST /api/data)
+- `index.html` — entire front-end app in one file (HTML+CSS+vanilla JS, canvas graph)
+- `data.json` — the only storage: `{cats:[…], items:[…]}`
+  - cat: `{id, name, emoji, icon(base64|null), color, parentId}` — new ids: `cat_<timestamp>`
+  - item: `{id, name, desc, url, cat}`
+- nginx: 127.0.0.1:8181, server_name van7sklad.internal, root=/var/www/van7_sklad,
+  /api/ → proxy 5055 (config: /etc/nginx/sites-available/van7_sklad)
+
+## ACCESS (Tailscale only)
+- http://van7sklad.internal:8181 (if tailscale MagicDNS is enabled)
+- http://<tailscale-ip>:8181
+
+## SYSTEMD SERVICES
+- `van7-api.service` — Flask API (port 5055). Restart: `systemctl restart van7-api`
+- nginx — shared, don't touch separately
+- `van7-clean.timer` — temp files cleanup (04:30)
+- `van7-sessions-backup.timer` — backup of AI-agent sessions (05:00), NOT the sklad
+- `van7-notion-sync.timer` — sync data.json → Notion (every 6h, at :10).
+  Service: `/etc/systemd/system/van7-notion-sync.service` (token inside, chmod 600).
+  Script: `/var/www/van7_sklad/notion_sync.py`, state: `notion_sync_state.json`.
+  Notion database "Склад" (now ~715 rows): columns Название/Описание/URL/Раздел/Категория/Склад ID.
+  The database is incremental: adds new, updates changed, archives disappeared ones.
+  IMPORTANT: item ids are compared as str() (old ids are numbers, new ones are it_<ts>).
+
+## NOTION (mirror of the sklad for web-Claude)
+- integration "vps", workspace "Van7 Склад", page Van7 + database "Склад"
+- the page is shared with the bot via Connections
+- web-Claude: connect the Notion connector → Claude sees the database and answers
+  questions about the sklad ("какие тулзы для компа есть" etc.)
+
+## BACKUPS (in order of importance)
+1. **Mega (primary)**: `/etc/cron.d/van7-backup` → every night 03:00
+   `rclone copy /var/www/van7_sklad/ "MEGA Sklad:van7-sklad-backup/"`
+   Check: `rclone lsl "MEGA Sklad:van7-sklad-backup/data.json"`
+2. **Local snapshots**: `/var/www/van7_sklad/backups/data_*.json` — created manually
+   BEFORE EVERY data.json change (rule below)
+3. "↓ бэкап" button in the UI downloads JSON locally into the browser
+4. GitHub backup of the whole VPS: root crontab 03:00 → /backup/github/backup-v2.sh (not ours, don't touch)
+
+## WORK RULES (mandatory)
+- Before ANY edit of api.py/index.html/data.json: `cp file file.bak` +
+  snapshot of data.json into backups/ with suffix `_pre_<operation>`
+- After edits: `systemctl restart van7-api`, check `curl -s http://100.97.181.59:5055/api/data`
+- JS check: `node -e "new Function(require('fs').readFileSync('/var/www/van7_sklad/index.html','utf8').match(/<script>([\s\S]*)<\/script>/)[1])"`
+- After manual data.json changes: `rclone copy data.json "MEGA Sklad:van7-sklad-backup/"` (don't wait for the night)
+- NEVER delete items/categories without confirm-logic and a backup. Data = the sklad itself.
+- Every batch of new items must come with descriptions (empty desc is not allowed)
+- When adding by URL list: dedupe against existing items by url and name first
+
+## DATA STATE (2026-10-06)
+- 16 root sections, 113 categories, 734 items, all have desc
+- Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
+  chat, biz, edu, life, dev, games
+- Largest sections: ИИ и агенты/ai (193) · Знания/edu (64) · OSINT (59) ·
+  Автоматизация/auto (52) · Инфраструктура/infra (51) · Дизайн/design (51)
+- Legacy item: find_bot_owner.py (id 498) — old schema (category/path/tags
+  instead of cat/url), don't touch, front-end tolerates it
+- VPS subcategories — 3rd level (Инфраструктура → VPS → Управление/Аренда/Безопасность)
+- PNG category icons: win, auto_browser, devices_android, chat_bots
+  (48x48 base64 in the icon field; if icon exists — emoji is empty, and vice versa)
+- Known same-name items (not duplicates): NetViz (ShadowArcanist) / NetViz (CSU),
+  Agent Skills (Osmani) / Agent Skills (стандарт)
+- VanGram Release Script — the only item without url (local script
+  scripts/vangram-release.sh, path in desc)
+
+## BATCHES OF ADDED ITEMS (history)
+- 2026-10-03 (+25 → 690): Clef; Neon, R2, Lambda, DynamoDB, Firestore, CloudFront,
+  Workers, GCE (Облака); GitHub Actions + Pages docs (Хостинги); Resend (Рассылка);
+  John the Ripper, Hydra (Брутфорс); BloodHound, NetExec, Metasploit, Nikto, ffuf,
+  sqlmap, Burp Pro, Nuclei, Amass, Masscan (Пентест); Wireshark (Трафик и файрвол).
+  Skipped as duplicates: AI Youtube Shorts Generator, Cloudflare Pages, Hashcat, GitHub Pages.
+- 2026-10-05 (+33 → 723): REA (Тулзы); Reactive Resume, AIHawk, Hiring Agent (Собесы);
+  ResumeSkills (Скиллы); mlcourse.ai, 30 Days of Python, Made With ML,
+  ML Projects (Курсы); n8n (Самохост); Umami, Argus (Мониторинг); Coolify (Хостинги);
+  LeakIX, GitGraber, DeHashed (Утечки); GeoIntel (GEOINT); Maigret (По нику);
+  Shodan, FOFA, Censys (Анализ сайтов); Torch, Ahmia (OSINT-фреймворки);
+  Tron (Настройка Win); Octotree (Редакторы); Subtitle Edit (Видеомонтаж);
+  Ludusavi, ScummVM (Библиотеки); RetroArch, Cemu (Эмуляторы);
+  Steam Headless (Сервера); Code2Video (ИИ-видео); Dify (AI-агенты).
+  Skipped as duplicates: Nuclei, SigNoz, MCP Toolbox, GEO Optimizer skill, ExifTool,
+  Blackbird (fork), Intelligence X (intelx.io).
+- 2026-10-05 (+3 → 726): Flowsint (OSINT-фреймворки), AIPex (Браузер),
+  YouTube Skills (Скиллы). Skipped as duplicate: Social Analyzer (qeeqbox).
+- 2026-10-06 (+8 → 734): OSINT Catalog (OSINT-подборки); Definitive Open Source
+  (Знания/Подборки); Haystack, Milvus, Qdrant (Память агентов); Aider, AutoGen
+  (AI-агенты); Apache Doris (Архивы данных). No duplicates skipped.
+
+## FRONT-END: MAP (main)
+- buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
+  outward (R=360) in the parent's sector
+- Zoom wheel/buttons/pinch, panning with inertia, auto-fit on first render
+- Node click → selectNode → panel + branch highlight; dblclick → openPanelFor
+- Node drag onto another node → reparent (parentId changes, persist()) with
+  cycle protection (can't drop into own subtree)
+- Sidebar synced with the map (shared state view.sel); rendered from draw()
+  keyed by G._sbKey to avoid rebuilding every frame
+- Topbar search: filter by name+desc, grouped by categories, link to category
+- Icons: iconH() — unified PNG/emoji render for map, sidebar, panel, search;
+  onerror swaps broken PNG for emoji fallback; imgOf() does the same on canvas
+- UI (2026-09-29): large fonts (sidebar 13.5px, titles 15px, desc 13px),
+  enlarged buttons/zoom/icons — comfort mode, no tiny text
+
+## WHAT THE PROJECT DOESN'T HAVE / don't do
+- No bundlers, packages, CDN dependencies except Google Fonts (Geist/Geist Mono)
+- No auth — access is closed by the Tailscale network
+- Don't split the front-end into separate files — everything in one index.html
+- Don't change ports 5055/8181 or API paths
+
+## JUNK (can be cleaned if desired)
+- `*.bak`, `*.bak2`, `opencode.json.direct`, `__pycache__` — historical copies
+- keep backups/ entirely — it's the sklad's history
