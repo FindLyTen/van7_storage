@@ -6060,6 +6060,258 @@
       "desc": "MPP-аналитическая СУБД в реальном времени: sub-second запросы на миллиардах строк, join'ы, ANSI SQL, для дашбордов и ad-hoc аналитики.",
       "url": "https://github.com/apache/doris",
       "cat": "edu_arch"
+    },
+    {
+      "cat": "media_video",
+      "desc": "Free video editor and video maker from Microsoft with a web app: edit video, audio and images from scratch or start from templates.",
+      "id": "it_1791895567994",
+      "name": "Clipchamp",
+      "url": "https://app.clipchamp.com/"
+    },
+    {
+      "cat": "ai_image",
+      "desc": "Library of AI image prompts and visual references for designers and developers (posters, mockups, gradients, backdrops), grouped into collections that share one art direction.",
+      "id": "it_1791895567995",
+      "name": "OnePromptDesign",
+      "url": "https://onepromptdesign.com/"
+    },
+    {
+      "cat": "design_anim",
+      "desc": "Browser gallery of 100 text animations: preview them, pick the ones you like and copy the code straight into a site.",
+      "id": "it_1791895567996",
+      "name": "Kawai Text Animations",
+      "url": "https://kawai-text-animation.pages.dev/"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "Python tool that turns a text prompt into a narrated hand-drawn whiteboard explainer video: Gemini writes the script, draws scenes and narration, FFmpeg-based local engine animates it. Also has an HTTP API and React frontend; can animate your own ink-on-white images without an API key. No license stated.",
+      "id": "it_1791895567997",
+      "name": "Animator",
+      "url": "https://github.com/ashishjamarkattel/Animator"
+    },
+    {
+      "cat": "devices_emu",
+      "desc": "GPL-2.0 C++ project that ports PS5 executables to Linux and Windows without emulation: a relinker converts them to the native format, system PRX libraries are reimplemented, and a shader recompiler outputs SPIR-V. Ships no copyrighted software or keys.",
+      "id": "it_1791895567998",
+      "name": "AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "cat": "devices_emu",
+      "desc": "Open-source PlayStation 5 translation layer for Windows and Linux (experimental macOS), a heavily modified fork of Kyty. Vulkan 1.3 renderer, shader recompiler, Qt 6 launcher that scans game dumps. GPL-2.0, under active development; boots some Unreal, Unity and custom-engine titles.",
+      "id": "it_1791895567999",
+      "name": "KytyPS5",
+      "url": "https://github.com/KytyPS5/KytyPS5"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Community directory of 841 MCP integrations from Anthropic's Claude Connectors catalog, in 30 categories with a description and use case for each. Refreshed weekly, CC0-1.0, not affiliated with Anthropic.",
+      "id": "it_1791895568000",
+      "name": "Awesome Claude Connectors",
+      "url": "https://github.com/rdmgator12/awesome-claude-connectors"
+    },
+    {
+      "cat": "ai_local",
+      "desc": "Runs the 321B-parameter GLM-5.3-Flash MoE model locally on one or two NVIDIA GPUs under Linux, with tiered expert caching across GPU, RAM and NVMe. Includes a server with OpenAI- and Anthropic-compatible APIs and a browser dashboard. Needs about 32 GB RAM and 100 GB of NVMe space. MIT.",
+      "id": "it_1791895568001",
+      "name": "Project Maya",
+      "url": "https://github.com/mw00/project-maya"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Define AI workflows as repeatable YAML processes: models reason, code verifies results, people approve judgment steps. Go engine and CLI on Temporal, PostgreSQL and Docker sandboxes, optional Tauri desktop app; works with Ollama, OpenAI, Anthropic and MCP tools. MIT, single-host dev and evaluation setup.",
+      "id": "it_1791895568002",
+      "name": "Knotra",
+      "url": "https://github.com/michael-bill/knotra"
+    },
+    {
+      "cat": "devices_android",
+      "desc": "Brings a SteamOS-style experience to Android: Steam Big Picture with Windows games via ARM64 Proton and DXVK, plus GOG, Epic and Amazon titles. Needs Android 9+ and an Adreno 730 or newer GPU. GPL-3.0, not affiliated with Valve.",
+      "id": "it_1791895568003",
+      "name": "DroidDeck",
+      "url": "https://github.com/Droid-Deck/DroidDeck"
+    },
+    {
+      "cat": "infra_cloud",
+      "desc": "Single Go binary (gd) that mounts regular Google Drive accounts as local drives without a Cloud project or API keys, pools several accounts into one storage, and exposes S3, WebDAV and an MCP server. Wraps rclone, has a local web panel. Not for live databases. Apache-2.0.",
+      "id": "it_1791895568004",
+      "name": "OnlyDrive",
+      "url": "https://github.com/yava-code/OnlyDrive"
+    },
+    {
+      "cat": "edu_int",
+      "desc": "Paid Windows 10/11 app that listens to both sides of a call and shows live translation and short answer hints, with interview, language-practice and general call modes. Bring your own speech and AI providers; no bot joins the meeting. Five-day demo per computer.",
+      "id": "it_1791895568005",
+      "name": "Talkaside",
+      "url": "https://app.talkaside.workers.dev/"
+    },
+    {
+      "cat": "hack_def",
+      "desc": "Anthropic's enrollment hub for model-driven vulnerability scanning of critical open-source projects: maintainers add a project.yaml and Dockerfile via PR, the project is built and scanned in an isolated VM, and findings with reproducers and patches are emailed to the contact. Reports are not human-reviewed. Apache-2.0.",
+      "id": "it_1791895568006",
+      "name": "OSS Scanner",
+      "url": "https://github.com/anthropics/oss-scanner"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "Reference library of 424 cinematography techniques in 13 categories (camera movement, lighting, lenses, editing and more), each with a definition, film grammar, examples and a ready prompt for AI shot generation in Melies.",
+      "id": "it_1791895568007",
+      "name": "Melies Cinematic Bible",
+      "url": "https://melies.co/cinematic-techniques"
+    },
+    {
+      "cat": "hack_pentest",
+      "desc": "LLM multi-agent autonomous pentesting system (English and Korean localization of ARTEX): planner and worker agents over shared asset and exploration graphs, traffic-recording proxy, approval gate for tool execution. Go backend, Next.js UI, PostgreSQL, needs an LLM API key. AGPL-3.0; the README limits use to personal study and local validation, not real online targets.",
+      "id": "it_1791895568008",
+      "name": "ScopeWeaver",
+      "url": "https://github.com/cskwork/scopeweaver"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Anthropic's blueprint (announced 2026-09-02) for commerce agents on Claude: reference shopping and merchant agents plus a Claude Code plugin, buildable with the Messages API, Agent SDK or Managed Agents and deployable via Claude API, Bedrock, Foundry or Vertex AI.",
+      "id": "it_1791895568009",
+      "name": "Claude Commerce Agents",
+      "url": "https://claude.com/blog/claude-for-commerce-agents"
+    },
+    {
+      "cat": "win_clean",
+      "desc": "Rust disk usage analyzer that draws your home directory (or a whole disk) as a nested treemap sized by real usage. Navigate by keyboard or mouse, mark items for removal and review before anything is deleted (trash by default, permanent delete asks first). Linux, macOS and Windows, MIT.",
+      "id": "it_1791895568036",
+      "name": "disktree",
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "cat": "hack_pentest",
+      "desc": "Official PortSwigger site for Burp Suite, the standard web application security testing toolkit: free Community edition for manual testing, Professional with Burp Scanner for pentesters, and DAST for automated CI-driven scanning.",
+      "id": "it_1791895568037",
+      "name": "Burp Suite (PortSwigger)",
+      "url": "https://portswigger.net/burp"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Trend discovery platform (owned by Semrush) that spots topics and products before they go mainstream, using search, social, forum and e-commerce data reviewed by human curators. Free SEO and keyword tools; trend databases and trending products on paid plans with a 7-day trial.",
+      "id": "it_1791895568038",
+      "name": "Exploding Topics",
+      "url": "https://explodingtopics.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Keyword and content idea tool from NP Digital: enter a topic or URL and see the questions and phrases people search across Google, YouTube, Amazon and ChatGPT. Has trend monitoring and an AI dashboard; free to start, paid plans for more.",
+      "id": "it_1791895568039",
+      "name": "AnswerThePublic",
+      "url": "https://answerthepublic.com/en"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Free Google tool for exploring search interest in terms and topics by time, region and popularity, with a Trending Now view of what people searched for in the last 24 hours.",
+      "id": "it_1791895568040",
+      "name": "Google Trends",
+      "url": "https://trends.google.com/trends/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Question-and-answer platform where people ask and answer questions on any topic; useful for audience and question research, content ideas and community answers.",
+      "id": "it_1791895568041",
+      "name": "Quora",
+      "url": "https://www.quora.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Free keyword research tool inside Google Ads: related keyword ideas, search volume and its trend, bid estimates and click/impression forecasts. Requires a Google Ads account with at least one campaign, in Expert Mode.",
+      "id": "it_1791895568042",
+      "name": "Google Keyword Planner",
+      "url": "https://business.google.com/en-all/ad-tools/keyword-planner/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "AI service for growing YouTube channels (and Instagram): video ideas, title, tag and thumbnail optimization, analytics and coaching, plus a browser extension. Free plan with paid tiers.",
+      "id": "it_1791895568043",
+      "name": "vidIQ",
+      "url": "https://vidiq.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Statistics site tracking daily growth of creators on YouTube, TikTok, Twitch, Instagram and Facebook (about 168M creators): rankings, channel comparison, earnings calculator. Paid membership adds longer history and report cards; Business API available.",
+      "id": "it_1791895568044",
+      "name": "Social Blade",
+      "url": "https://socialblade.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Digital marketing suite for SEO and AI search visibility: keyword research, backlink analysis, rank tracking, site audits, traffic and competitor analysis, content, local and ad tools. Several free checkers; full platform on paid plans with a 7-day trial.",
+      "id": "it_1791895568045",
+      "name": "Semrush",
+      "url": "https://www.semrush.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "SEO and marketing platform built on its own web index: Site Explorer, Keywords Explorer, Rank Tracker, Site Audit, Content Explorer and Brand Radar for AI-chatbot visibility. Free SEO tools and AI Visibility Checker; core products are paid.",
+      "id": "it_1791895568046",
+      "name": "Ahrefs",
+      "url": "https://ahrefs.com/"
+    },
+    {
+      "cat": "design_tools",
+      "desc": "Open-source visual website builder with full CSS control, headless CMS data (Ghost, Strapi, Notion, Airtable), automatic WebP/AVIF images, and a CLI/MCP for agents. Publish to Webstudio Cloud (Cloudflare) or export and self-host on GitHub Pages, Netlify, Vercel and others.",
+      "id": "it_1791895568047",
+      "name": "Webstudio",
+      "url": "https://webstudio.is/"
+    },
+    {
+      "cat": "auto_selfhost",
+      "desc": "Open-source e-signature platform for PDF documents, a DocuSign alternative: multiple signers, completion certificate with access logs, API, OpenSign Drive storage. Free plan with unlimited e-signatures, or self-host from GitHub.",
+      "id": "it_1791895568048",
+      "name": "OpenSign",
+      "url": "https://www.opensignlabs.com/"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Commercial maritime AI platform: computer-vision lookout (SeaPod) detects marine targets for ship crews, FleetView gives shore teams navigation-risk insights, plus products for autonomous vessels. Reports 1,600+ vessels; demo on request, no public pricing.",
+      "id": "it_1791895568049",
+      "name": "Orca AI",
+      "url": "https://www.orca-ai.io/"
+    },
+    {
+      "cat": "biz_crm",
+      "desc": "Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.",
+      "id": "it_1791895568050",
+      "name": "Twenty",
+      "url": "https://twenty.com/"
+    },
+    {
+      "cat": "biz_crm",
+      "desc": "Open-source customer support platform with one shared inbox for live chat, email, WhatsApp, social messaging and voice. Captain AI agent answers from your help center, plus macros, automations, chat widget and API. Self-host or use the hosted cloud.",
+      "id": "it_1791895568051",
+      "name": "Chatwoot",
+      "url": "https://www.chatwoot.com/"
+    },
+    {
+      "cat": "infra_mon",
+      "desc": "Open-source cookieless web and product analytics, a Google Analytics alternative: events, session replay, funnels, user journeys, Core Web Vitals, error tracking, API and MCP server. About 11 KB script, AGPL-3.0; self-host with Docker or use the EU cloud.",
+      "id": "it_1791895568052",
+      "name": "Rybbit",
+      "url": "https://rybbit.com/"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Python tool that captures an app's own network traffic (mitmproxy for iOS, cURL or HAR for web) and has Claude generate a Python client for its API, with a Session class that reuses captured auth. Fails on certificate pinning and DPoP tokens. Meant for your own accounts. MIT.",
+      "id": "it_1791895568053",
+      "name": "Mimic",
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "AI generator of faceless YouTube and TikTok videos: topic in, script, narration, scene images, animation and captions out. Reusable visual styles, B-roll generator, Shorts and long-form, API and MCP access. Paid credit plans, free MCP planning before subscribing.",
+      "id": "it_1791895568054",
+      "name": "Calliope",
+      "url": "https://www.calliopelabs.co/"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "AI video editor built for coding agents like Claude Code, Codex and Cursor: every edit is written to a real codebase agents can read and render, with manual multitrack timeline editing, effects and 4K export. Runs in browser, desktop (macOS, Windows) or terminal; editor is open source.",
+      "id": "it_1791895568055",
+      "name": "Diffusion Studio",
+      "url": "https://diffusion.studio/"
     }
   ]
 }
