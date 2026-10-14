@@ -3,8 +3,8 @@
 ## LANGUAGE RULE (mandatory)
 - ALWAYS speak English with the user in every conversation on this project,
   regardless of the language the user writes in. All replies, explanations,
-  summaries and questions — English only. (Code, file contents and data
-  descriptions in data.json stay in their own language as they are.)
+  summaries and questions — English only. (Code and file contents stay in their own language;
+  data.json descriptions are English since 2026-10-14.)
 
 ## FULL PROJECT CONTEXT:
 - CONTEXT.md — read first (stack, services, backups, data state, rules)
@@ -69,7 +69,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 775 items, all have desc
+- 16 root sections, 113 categories, 775 items, all have desc; all descriptions, category names
+  and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
 - Largest sections: ИИ и агенты/ai (193) · Знания/edu (64) · OSINT (59) ·
@@ -80,7 +81,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - PNG category icons: win, auto_browser, devices_android, chat_bots
   (48x48 base64 in the icon field; if icon exists — emoji is empty, and vice versa)
 - Known same-name items (not duplicates): NetViz (ShadowArcanist) / NetViz (CSU),
-  Agent Skills (Osmani) / Agent Skills (стандарт)
+  Agent Skills (Osmani) / Agent Skills (standard)
 - VanGram Release Script — the only item without url (local script
   scripts/vangram-release.sh, path in desc)
 
