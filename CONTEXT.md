@@ -1,4 +1,4 @@
-# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-13)
+# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-14)
 
 ## LANGUAGE RULE (mandatory)
 - ALWAYS speak English with the user in every conversation on this project,
@@ -68,8 +68,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - Every batch of new items must come with descriptions (empty desc is not allowed)
 - When adding by URL list: dedupe against existing items by url and name first
 
-## DATA STATE (2026-10-13)
-- 16 root sections, 113 categories, 770 items, all have desc
+## DATA STATE (2026-10-14)
+- 16 root sections, 113 categories, 775 items, all have desc
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
 - Largest sections: ИИ и агенты/ai (193) · Знания/edu (64) · OSINT (59) ·
@@ -116,6 +116,9 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
   (Инструменты); OpenSign (Самохост-тулзы); Twenty, Chatwoot (CRM); Rybbit
   (Мониторинг); Mimic (Парсинг). Skipped as duplicate: FreeToken (id 491).
   New descriptions in this batch are written in English.
+- 2026-10-14 (+5 → 775): HOL Plugin Directory (Подборки); Pipedream (Самохост-тулзы);
+  Social Media Skills (Скиллы); DNSDumpster (Анализ сайтов); Dorks Collections List
+  (OSINT-подборки). No duplicates skipped. Descriptions in English.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned

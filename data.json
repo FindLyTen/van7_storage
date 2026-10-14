@@ -6312,6 +6312,41 @@
       "id": "it_1791895568055",
       "name": "Diffusion Studio",
       "url": "https://diffusion.studio/"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Public directory of plugins for AI coding agents and MCP runtimes (Claude Code, Codex, Cursor, OpenCode and others) with a trust score and security signals per listing, search and filters, and copyable install commands. A scan is not a safety guarantee; free listing via a public GitHub repo.",
+      "id": "it_1791978273172",
+      "name": "HOL Plugin Directory",
+      "url": "https://hol.org/plugins"
+    },
+    {
+      "cat": "auto_selfhost",
+      "desc": "Developer integration platform for event-driven workflows: triggers (HTTP, new row, GitHub, Slack events) plus prebuilt actions or custom Node.js, Python, Go and Bash steps, with 1,000+ app integrations. Hosted service with a free tier; the repo holds the prebuilt components, roadmap and docs.",
+      "id": "it_1791978273173",
+      "name": "Pipedream",
+      "url": "https://github.com/PipedreamHQ/pipedream"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "17 markdown skills for Codex and Claude covering LinkedIn profile and post writing, post scoring, niche research, content planning, Reel and YouTube thumbnail scripts, carousels and infographics prompts. Installs as a Claude Code plugin marketplace, a Codex skill, or zipped folders in Claude Desktop. MIT.",
+      "id": "it_1791978273174",
+      "name": "Social Media Skills",
+      "url": "https://github.com/charlie947/social-media-skills"
+    },
+    {
+      "cat": "osint_web",
+      "desc": "Free passive recon tool from HackerTarget that maps a domain's internet-visible hosts through its DNS records, showing the attack surface for pentesters, bug bounty hunters and defenders. Membership and API available.",
+      "id": "it_1791978273175",
+      "name": "DNSDumpster",
+      "url": "https://dnsdumpster.com/"
+    },
+    {
+      "cat": "osint_lists",
+      "desc": "Curated list of search dorks and related repos, articles and tools, grouped by platform and topic (Google, Shodan, Censys, GitHub, admin panels, SQLi, cloud, logs, CMS, bug bounty, LinkedIn X-ray), plus dork text files for AWS, Azure, CCTV and more. No license shown.",
+      "id": "it_1791978273176",
+      "name": "Dorks Collections List",
+      "url": "https://github.com/cipher387/Dorks-collections-list"
     }
   ]
 }
