@@ -6347,6 +6347,13 @@
       "id": "it_1791978273176",
       "name": "Dorks Collections List",
       "url": "https://github.com/cipher387/Dorks-collections-list"
+    },
+    {
+      "cat": "auto_browser",
+      "desc": "Open-source Python MCP server (nodriver, Chrome DevTools Protocol, FastMCP) that lets AI agents drive real Chrome, Chromium or Edge: 98 tools in 11 sections (browser and tab management, element interaction and cloning, network inspection, cookies and storage, CDP execution, request/response hooks), plus a 21-tool minimal mode. Reported to pass Cloudflare-style challenges in tests, results vary. Python 3.10+, Windows/macOS/Linux/Docker. MIT.",
+      "id": "it_1792081899795",
+      "name": "Stealth Browser MCP",
+      "url": "https://github.com/vibheksoni/stealth-browser-mcp"
     }
   ]
 }

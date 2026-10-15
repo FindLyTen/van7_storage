@@ -1,4 +1,4 @@
-# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-14)
+# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-15)
 
 ## LANGUAGE RULE (mandatory)
 - ALWAYS speak English with the user in every conversation on this project,
@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 775 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 776 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -120,6 +120,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-14 (+5 → 775): HOL Plugin Directory (Подборки); Pipedream (Самохост-тулзы);
   Social Media Skills (Скиллы); DNSDumpster (Анализ сайтов); Dorks Collections List
   (OSINT-подборки). No duplicates skipped. Descriptions in English.
+- 2026-10-15 (+1 → 776): Stealth Browser MCP (Browser). Skipped as duplicate: ProxyBridge (id 500).
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
