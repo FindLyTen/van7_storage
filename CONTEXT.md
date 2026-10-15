@@ -1,10 +1,10 @@
-# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-06)
+# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-15)
 
 ## LANGUAGE RULE (mandatory)
 - ALWAYS speak English with the user in every conversation on this project,
   regardless of the language the user writes in. All replies, explanations,
-  summaries and questions — English only. (Code, file contents and data
-  descriptions in data.json stay in their own language as they are.)
+  summaries and questions — English only. (Code and file contents stay in their own language;
+  data.json descriptions are English since 2026-10-14.)
 
 ## FULL PROJECT CONTEXT:
 - CONTEXT.md — read first (stack, services, backups, data state, rules)
@@ -68,8 +68,9 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - Every batch of new items must come with descriptions (empty desc is not allowed)
 - When adding by URL list: dedupe against existing items by url and name first
 
-## DATA STATE (2026-10-06)
-- 16 root sections, 113 categories, 734 items, all have desc
+## DATA STATE (2026-10-14)
+- 16 root sections, 113 categories, 776 items, all have desc; all descriptions, category names
+  and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
 - Largest sections: ИИ и агенты/ai (193) · Знания/edu (64) · OSINT (59) ·
@@ -80,7 +81,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - PNG category icons: win, auto_browser, devices_android, chat_bots
   (48x48 base64 in the icon field; if icon exists — emoji is empty, and vice versa)
 - Known same-name items (not duplicates): NetViz (ShadowArcanist) / NetViz (CSU),
-  Agent Skills (Osmani) / Agent Skills (стандарт)
+  Agent Skills (Osmani) / Agent Skills (standard)
 - VanGram Release Script — the only item without url (local script
   scripts/vangram-release.sh, path in desc)
 
@@ -105,6 +106,21 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-06 (+8 → 734): OSINT Catalog (OSINT-подборки); Definitive Open Source
   (Знания/Подборки); Haystack, Milvus, Qdrant (Память агентов); Aider, AutoGen
   (AI-агенты); Apache Doris (Архивы данных). No duplicates skipped.
+- 2026-10-13 (+36 → 770): Clipchamp (Видеомонтаж); OnePromptDesign (ИИ-картинки);
+  Kawai Text Animations (Анимации); Animator, Melies Cinematic Bible, Calliope,
+  Diffusion Studio (ИИ-видео); AnyPS5, KytyPS5 (Эмуляторы); DroidDeck (Android);
+  Awesome Claude Connectors (Подборки); Project Maya (Локальные модели); Knotra,
+  Claude Commerce Agents, Orca AI (AI-агенты); OnlyDrive (Облака); Talkaside (Собесы);
+  OSS Scanner (Защита); ScopeWeaver, Burp Suite (PortSwigger) (Пентест); disktree
+  (Чистка и файлы); Exploding Topics, AnswerThePublic, Google Trends, Quora, Google
+  Keyword Planner, vidIQ, Social Blade, Semrush, Ahrefs (Маркетинг и SEO); Webstudio
+  (Инструменты); OpenSign (Самохост-тулзы); Twenty, Chatwoot (CRM); Rybbit
+  (Мониторинг); Mimic (Парсинг). Skipped as duplicate: FreeToken (id 491).
+  New descriptions in this batch are written in English.
+- 2026-10-14 (+5 → 775): HOL Plugin Directory (Подборки); Pipedream (Самохост-тулзы);
+  Social Media Skills (Скиллы); DNSDumpster (Анализ сайтов); Dorks Collections List
+  (OSINT-подборки). No duplicates skipped. Descriptions in English.
+- 2026-10-15 (+1 → 776): Stealth Browser MCP (Browser). Skipped as duplicate: ProxyBridge (id 500).
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
