@@ -6354,6 +6354,27 @@
       "id": "it_1792081899795",
       "name": "Stealth Browser MCP",
       "url": "https://github.com/vibheksoni/stealth-browser-mcp"
+    },
+    {
+      "cat": "osint_phone",
+      "desc": "Open-source Go framework for gathering information on phone numbers: country, area, carrier and line type, then configurable scanners query external APIs, phone directories and search engines (VoIP provider, reputation reports, social links, disposable-number checks). Web UI, REST API, Docker. GPL-3.0. README says it is stable but unmaintained; results are not verified and it cannot track a phone or its owner.",
+      "id": "it_1792192703823",
+      "name": "PhoneInfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga"
+    },
+    {
+      "cat": "osint_geo",
+      "desc": "404 Media report (2026-10-12) on Graylark Technologies' Raven, formerly GeoSpy: an AI that reportedly identifies the specific home shown in a single photo, apparently using data from sites like Zillow and Airbnb, now with interior analysis. LAPD and Miami-Dade Sheriff's Office reportedly bought access. Article is paywalled.",
+      "id": "it_1792192703824",
+      "name": "Raven (GeoSpy)",
+      "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/"
+    },
+    {
+      "cat": "dev_viz",
+      "desc": "CLI by Ahmad Awais that draws terminal charts from numeric text (file or stdin): ASCII line charts, sparklines, bars, columns, heatmaps, Unicode bars, Braille plots and SVG output, with axis titles and labels. TypeScript; run with npx chartli or install via npm; also offers an agent skill (npx skills add ahmadawais/chartli). Apache-2.0.",
+      "id": "it_1792192703825",
+      "name": "chartli",
+      "url": "https://github.com/ahmadawais/chartli"
     }
   ]
 }
