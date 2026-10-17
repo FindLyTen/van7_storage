@@ -6389,6 +6389,27 @@
       "id": "it_1792238286044",
       "name": "Horizon",
       "url": "https://github.com/Thysrael/Horizon"
+    },
+    {
+      "cat": "design_tools",
+      "desc": "Open-source creative studio of 13 free native desktop apps written in Rust: image editing (PhotoCraft), vector (VectorCraft), video (FilmCraft), raw photos, PDF, motion graphics, page layout, UI design (FigCraft), word processing, audio, presentations, CAD and spreadsheets. Runs locally on macOS, Windows and Linux without Electron; automation via CLI, JSON channel or MCP server; 12 apps also compile to WebAssembly. Permissive licenses; some apps are early alpha.",
+      "id": "it_1792239605968",
+      "name": "ArtCraft",
+      "url": "https://getartcraft.com/apps"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Community directory of MCP servers and clients with setup guides: remote servers, clients, CLI tools, Agent Skills and agents, with rankings, categories, tags, search and a feed of trending and new servers. Anyone can submit a server by repo URL; listings go live after review.",
+      "id": "it_1792239605969",
+      "name": "MCP.so",
+      "url": "https://mcp.so/"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Integration layer between AI agents and 1,500+ apps (Gmail, Slack, GitHub, Notion, HubSpot): works with Claude, ChatGPT, Codex, Cursor and any MCP client via one-click install, MCP URL or managed MCP Gateway; SDKs handle auth, token refresh, triggers and sandboxed execution. Free Hobby plan with 100,000 tool calls per month. Open-source status not stated on the page.",
+      "id": "it_1792239605970",
+      "name": "Composio",
+      "url": "https://composio.dev/"
     }
   ]
 }
