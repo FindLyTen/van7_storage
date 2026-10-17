@@ -6375,6 +6375,20 @@
       "id": "it_1792192703825",
       "name": "chartli",
       "url": "https://github.com/ahmadawais/chartli"
+    },
+    {
+      "cat": "infra_mon",
+      "desc": "Self-hosted infrastructure visualizer for homelabs: interactive network diagram of devices and services with live status checks (ping, HTTP/HTTPS, TCP, SSH, Prometheus, /health), nmap scan queue, Zigbee2MQTT, Z-Wave JS UI and Proxmox VE imports, rack canvas, optional public Live View and MCP server. Docker, Proxmox LXC or bare-metal install script. MIT.",
+      "id": "it_1792238286043",
+      "name": "Homelable",
+      "url": "https://github.com/Pouzor/homelable"
+    },
+    {
+      "cat": "edu_res",
+      "desc": "Open-source Python personal news radar: collects items from Hacker News, RSS/Atom, Reddit, Telegram, Twitter/X, GitHub and OpenBB, removes duplicates, scores and filters them with an LLM, adds context and comments, and writes daily English/Chinese briefings (GitHub Pages, email, Slack/Discord/Feishu webhooks, MCP server). Works with OpenAI, Gemini, DeepSeek, Ollama. uv and Docker. MIT.",
+      "id": "it_1792238286044",
+      "name": "Horizon",
+      "url": "https://github.com/Thysrael/Horizon"
     }
   ]
 }
