@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 781 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 784 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -123,6 +123,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-15 (+1 → 776): Stealth Browser MCP (Browser). Skipped as duplicate: ProxyBridge (id 500).
 - 2026-10-17 (+3 → 779): PhoneInfoga (OSINT / By Phone Number); Raven (GeoSpy), a 404 Media report (GEOINT); chartli (Visualization). No duplicates skipped.
 - 2026-10-17 (+2 → 781): Homelable (Monitoring); Horizon (Research). Skipped as duplicate: Uncover (id 56).
+- 2026-10-17 (+3 → 784): ArtCraft (Design / Tools); MCP.so (AI / Collections); Composio (AI / API & MCP). No duplicates skipped.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
