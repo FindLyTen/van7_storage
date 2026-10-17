@@ -6410,6 +6410,20 @@
       "id": "it_1792239605970",
       "name": "Composio",
       "url": "https://composio.dev/"
+    },
+    {
+      "cat": "biz_crm",
+      "desc": "Self-hosted personal CRM for proactive networking: merges contacts from Apple, Google and LinkedIn, deduplicates them and uses AI (Gemini, OpenAI or Anthropic) to enrich profiles and suggest people to reconnect with. Interaction timelines, Relationship Pulse scoring, map view, natural-language search. React, Express/TypeScript, SQLite; Docker Compose or npm. AGPL-3.0.",
+      "id": "it_1792250963955",
+      "name": "Contrack",
+      "url": "https://github.com/arvarik/contrack"
+    },
+    {
+      "cat": "chat_msg",
+      "desc": "Single bash script that manages Telegram MTProto proxies on Linux, wrapping the telemt Rust engine in Docker: interactive menu, CLI and Telegram admin bot, per-user secrets with connection, IP, quota and expiry limits, traffic stats, FakeTLS and proxy chaining, bandwidth shaping, backups and migration. Needs Bash 4.2+ and root. MIT.",
+      "id": "it_1792250963956",
+      "name": "MTProxyMax",
+      "url": "https://github.com/SamNet-dev/MTProxyMax"
     }
   ]
 }
