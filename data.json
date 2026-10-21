@@ -6550,6 +6550,41 @@
       "id": "it_1792598557737",
       "name": "NemoClaw",
       "url": "https://github.com/NVIDIA/NemoClaw"
+    },
+    {
+      "cat": "net_traffic",
+      "desc": "Simple Windows GUI to check IPv4 TCP ports on a host: editable target IP, adjustable timeout with F1-F4 hotkeys, single exe; C# WinForms; MIT.",
+      "id": "it_1792598566287",
+      "name": "PortCheck",
+      "url": "https://github.com/JamiKettunen/PortCheck"
+    },
+    {
+      "cat": "infra_mon",
+      "desc": "Checks availability of a list of network targets and exports Prometheus metrics for Alertmanager; Docker container and Helm chart for Kubernetes, pingdom alternative; Rust; GPL-3.0.",
+      "id": "it_1792598566288",
+      "name": "netcheck",
+      "url": "https://github.com/m1/netcheck"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Self-hosted agent with own personality, local memory, permission rules and daily token budget; reachable from terminal, Telegram, Discord, Slack, Signal; npm @cosmicstack/mercury-agent; MIT.",
+      "id": "it_1792598566289",
+      "name": "Mercury Agent",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Factory self-hosted orchestrator for agent sandboxes: on-demand provisioning and lifecycle of agent computers on your infrastructure, with Environments, Automations, Remote Control; private preview.",
+      "id": "it_1792598566290",
+      "name": "OpenCompute",
+      "url": "https://factory.com/news/opencompute"
+    },
+    {
+      "cat": "hack_pentest",
+      "desc": "Autonomous pentest agent in the terminal: multi-agent attack chain with nmap, SMB/LDAP enumeration, AS-REP roast, spraying, post-exploit, engagement state, 20+ LLM providers; fork of OpenCode; MIT.",
+      "id": "it_1792598566291",
+      "name": "PentestCode",
+      "url": "https://github.com/s0ld13rr/pentestcode"
     }
   ]
 }
