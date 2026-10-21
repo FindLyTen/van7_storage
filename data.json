@@ -6424,6 +6424,27 @@
       "id": "it_1792250963956",
       "name": "MTProxyMax",
       "url": "https://github.com/SamNet-dev/MTProxyMax"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Async Python Reddit scraper, no API key: posts, comments, profiles, keyword and domain search, 24+ fields, proxy rotation, optional Camoufox. pip install reddrix, MIT.",
+      "id": "it_1792597175189",
+      "name": "Reddrix",
+      "url": "https://github.com/Coding-Doctor-Omar/reddrix"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Curated link list for getting the first 10/100/1000 users: launch sites, SEO, AEO/GEO, Reddit, cold outreach, email, pricing, landing pages, validation. CC-BY-SA-4.0.",
+      "id": "it_1792597175190",
+      "name": "Marketing for Founders",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders"
+    },
+    {
+      "cat": "ai_local",
+      "desc": "Uncensored Qwen3.8-27B GGUF (IQ4_XS 15.7 GB, Q6_K_P 25.9 GB), 40 selectable modes via chat template, MTP draft file for llama.cpp. 24 GB GPU for IQ4_XS. Apache-2.0.",
+      "id": "it_1792597175191",
+      "name": "Qwen3.8-27B Defiance Uncensored",
+      "url": "https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF"
     }
   ]
 }
