@@ -6613,6 +6613,27 @@
       "id": "it_1792598576215",
       "name": "AgentCrew",
       "url": "https://github.com/saigontechnology/AgentCrew"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "AI agent framework: recursive agent harnessing for open-world tasks; Propose-Probe-Compose recursion; OpenCode and Codex executors; JobBench/LAB/WorkBuddy-Bench; Python 3.12, uv; Apache-2.0.",
+      "id": "it_17926171777641",
+      "name": "Harness²",
+      "url": "https://github.com/google-research/harness2"
+    },
+    {
+      "cat": "hack_pentest",
+      "desc": "Autonomous AI agent system for complex penetration testing tasks; multi-agent pentest workflows; self-hosted via Docker; Go/React; pentagi.com; MIT.",
+      "id": "it_17926171777642",
+      "name": "Pentagi",
+      "url": "https://github.com/vxcontrol/pentagi"
+    },
+    {
+      "cat": "design",
+      "desc": "AI-powered online whiteboard and visual collaboration workspace; Intelligent Canvas, diagrams, wireframes, roadmaps; MCP server for AI agents; web SaaS; 100M+ users.",
+      "id": "it_17926171777643",
+      "name": "Miro",
+      "url": "https://miro.com/"
     }
   ]
 }
