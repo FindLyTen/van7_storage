@@ -6585,6 +6585,34 @@
       "id": "it_1792598566291",
       "name": "PentestCode",
       "url": "https://github.com/s0ld13rr/pentestcode"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Agent skill for clean code and clean architecture: rule packs for 21 languages and 27 frameworks, repo structure map, project context loading; works with Claude Code, Codex, Cursor; MIT.",
+      "id": "it_1792598576212",
+      "name": "Clean Code Skills",
+      "url": "https://github.com/btseee/clean-code-skills"
+    },
+    {
+      "cat": "ai_router",
+      "desc": "Unified API and web chat for 500+ models from 80+ providers: automatic routing and fallbacks, per-model pricing, data policies, ranked models; REST API with own key, paid per token.",
+      "id": "it_1792598576213",
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai/"
+    },
+    {
+      "cat": "ai_local",
+      "desc": "Model runner for local and cloud LLMs: 257 models (21 cloud) with tools, thinking, vision, embedding support; ollama pull and run, local REST API, one binary; Go; MIT.",
+      "id": "it_1792598576214",
+      "name": "Ollama",
+      "url": "https://ollama.com/"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Multi-agent crew framework with role agents (architect, coder, reviewer, researcher, browser) and handoffs; runs from desktop, terminal, HTTP API or CI; pip install agentcrew, Python; Apache-2.0.",
+      "id": "it_1792598576215",
+      "name": "AgentCrew",
+      "url": "https://github.com/saigontechnology/AgentCrew"
     }
   ]
 }
