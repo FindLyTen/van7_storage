@@ -6480,6 +6480,41 @@
       "id": "it_1792598485735",
       "name": "OpenCreator",
       "url": "https://github.com/krillinai/OpenCreator"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "14 agent skills for social research via ScrapeCreators API: outlier posts, comment mining, transcripts, competitor teardown, ad libraries, trends, influencers; npx skills add; MIT.",
+      "id": "it_1792598542560",
+      "name": "Social Media Research Skills",
+      "url": "https://github.com/ScrapeCreators/social-media-research-skills"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "Desktop app that turns a text prompt plus clips into product marketing shorts: AI script, TTS voice, batch auto editing, subtitle effects; Electron and TypeScript, Windows/macOS/Linux; AGPL-3.0.",
+      "id": "it_1792598542561",
+      "name": "AI Short Video Factory",
+      "url": "https://github.com/YILS-LIN/short-video-factory"
+    },
+    {
+      "cat": "media_video",
+      "desc": "Local-first open-source AI video editor: multitrack timeline, Remotion render, Agent Skills and MCP so Codex or Claude Code edits and exports real projects; Electron, React; AGPL-3.0.",
+      "id": "it_1792598542562",
+      "name": "OpenChatCut",
+      "url": "https://github.com/0xsline/OpenChatCut"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "15 agent skills for Codex and Claude Code to edit videos and Shorts on HyperFrames and GSAP: cut dead air, captions, B-roll, motion graphics, 406 template cards; markdown; MIT.",
+      "id": "it_1792598542563",
+      "name": "Herk Edit Kit",
+      "url": "https://github.com/nateherkai/herk-edit-kit"
+    },
+    {
+      "cat": "ai_voice",
+      "desc": "On-device speech-to-text subtitles with speaker labels and 1000+ languages, fully offline; plugins for DaVinci Resolve, Premiere, After Effects; Rust and TypeScript desktop app; MIT.",
+      "id": "it_1792598542564",
+      "name": "AutoSubs",
+      "url": "https://github.com/tmoroney/auto-subs"
     }
   ]
 }
