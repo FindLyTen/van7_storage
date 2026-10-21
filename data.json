@@ -6445,6 +6445,41 @@
       "id": "it_1792597175191",
       "name": "Qwen3.8-27B Defiance Uncensored",
       "url": "https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "AI video studio: text/image-to-video, lip sync, voice, music, upscale via OpenRouter/fal/Runware plus multitrack NLE timeline; Rust+Tauri desktop app with MCP server; MIT.",
+      "id": "it_1792598485731",
+      "name": "VideoSOS",
+      "url": "https://github.com/timoncool/videosos"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Desktop GUI to run many Claude Code and Codex agents in parallel, each in its own git worktree, with an inbox of results; npx agentbox-app, Node 22, Electron; GPL-3.0.",
+      "id": "it_1792598485732",
+      "name": "Agentbox",
+      "url": "https://github.com/savannahfeder/agentbox"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Open-source AEO toolkit: keyword ideas, volume, SERP and People Also Ask mining so products get cited in AI answers; Seranking+DataForSEO; repo superdesigndev/treg; Apache-2.0 plus addendum.",
+      "id": "it_1792598485733",
+      "name": "treg",
+      "url": "https://treg.to/aeo"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Google ADK toolkit for AI agents to find, reproduce and patch vulnerabilities: threat modelling, review, patching, reporting, GitHub Action, knowledge base; Python skills; Apache-2.0.",
+      "id": "it_1792598485734",
+      "name": "Mantis",
+      "url": "https://github.com/google/mantis"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "Open-source AI creator workspace (ex-KrillinAI): video translation and dubbing, image and video generation, TTS, scripts, agent chat, Skills, MCP, local runtime; TypeScript; Apache-2.0.",
+      "id": "it_1792598485735",
+      "name": "OpenCreator",
+      "url": "https://github.com/krillinai/OpenCreator"
     }
   ]
 }
