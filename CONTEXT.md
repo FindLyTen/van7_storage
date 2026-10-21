@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 799 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 804 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -128,6 +128,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-21 (+3 → 789): Reddrix (Scraping); Marketing for Founders (Marketing & SEO); Qwen3.8-27B Defiance Uncensored (Local Models). No duplicates skipped.
 - 2026-10-21 (+5 → 794): VideoSOS (AI Video); Agentbox (AI Agents); treg (Marketing & SEO); Mantis (Skills); OpenCreator (AI Video). No duplicates skipped.
 - 2026-10-21 (+5 → 799): Social Media Research Skills (Skills); AI Short Video Factory (AI Video); OpenChatCut (Video Editing); Herk Edit Kit (Skills); AutoSubs (Voice & Transcription). No duplicates skipped.
+- 2026-10-21 (+5 → 804): FunClip (Video Editing); Polymarket Insider Tracker (Trading); Bitwarden (VPS / Security); Botasaurus (Scraping); NemoClaw (AI Agents). No duplicates skipped.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned

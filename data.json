@@ -6515,6 +6515,41 @@
       "id": "it_1792598542564",
       "name": "AutoSubs",
       "url": "https://github.com/tmoroney/auto-subs"
+    },
+    {
+      "cat": "media_video",
+      "desc": "Open-source local video clipping tool: FunASR/Paraformer speech recognition with timestamps and speaker labels, LLM-assisted clip selection, SRT subtitles, Gradio UI; Python; MIT.",
+      "id": "it_1792598557733",
+      "name": "FunClip",
+      "url": "https://github.com/modelscope/FunClip"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Detects suspicious trading on Polymarket: polls public trades, profiles wallets on Polygon, scores risk with ML plus heuristics, alerts to Discord/Telegram; Python, uv, Docker, Postgres, Redis; MIT.",
+      "id": "it_1792598557734",
+      "name": "Polymarket Insider Tracker",
+      "url": "https://github.com/pselamy/polymarket-insider-tracker"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Open-source password manager: clients for web, browser, desktop, CLI (GPL-3.0) and self-hostable server (AGPL-3.0), secrets manager, passkeys, Docker image, SDKs.",
+      "id": "it_1792598557735",
+      "name": "Bitwarden",
+      "url": "https://github.com/bitwarden"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Python wrapper for Selenium that slips past most bot detection: patches webdriver flag, randomizes fingerprints, stealth navigation and cookies, headless or headed; pip install; MIT.",
+      "id": "it_1792598557736",
+      "name": "Botasaurus",
+      "url": "https://github.com/omkarcloud/botasaurus"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "NVIDIA reference stack to run AI agents in OpenShell sandboxes: guided onboarding, managed inference, network policy, integrations, state persistence, CLI; OpenClaw, Hermes, Deep Agents; Apache-2.0.",
+      "id": "it_1792598557737",
+      "name": "NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw"
     }
   ]
 }
