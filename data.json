@@ -7845,6 +7845,55 @@
       "id": "it_17927071830887",
       "name": "Docker MCP Gateway",
       "url": "https://github.com/docker/mcp-gateway"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM engineering platform: application observability (traces, sessions), prompt management with versioning, playground, evals; self-host (Docker) or cloud; TypeScript/Python SDKs; MIT core.",
+      "id": "it_17927074124611",
+      "name": "Langfuse",
+      "url": "https://github.com/langfuse/langfuse"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "AI engineering platform: experiment tracking, tracing, LLM evaluation, prompt registry and optimization, AI gateway for model access; Python SDK; Apache-2.0.",
+      "id": "it_17927074124612",
+      "name": "MLflow",
+      "url": "https://github.com/mlflow/mlflow"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "AI observability platform: OpenTelemetry tracing, LLM evals (response, retrieval), experiments and datasets, MCP server; Python, Docker deployments; Elastic License 2.0.",
+      "id": "it_17927074124613",
+      "name": "Phoenix (Arize)",
+      "url": "https://github.com/Arize-ai/phoenix"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "OpenTelemetry instrumentations for LLM apps: standards for LLM providers, vector DBs, frameworks; Traceloop SDK; outputs OpenTelemetry data to any observability stack; Python/TS; Apache-2.0.",
+      "id": "it_17927074124614",
+      "name": "OpenLLMetry",
+      "url": "https://github.com/traceloop/openllmetry"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "AI production platform: trace, test, route and govern company LLM calls and coding agents (npx langwatch claude/codex); self-host on Node.js 24 or cloud; TypeScript; Apache-2.0 core + enterprise.",
+      "id": "it_17927074124615",
+      "name": "LangWatch",
+      "url": "https://github.com/langwatch/langwatch"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Observability platform purpose-built for AI agents: OTel-native tracing SDK, plain-English signals (loop detection), evals SDK/CLI, SQL dashboards; Rust, Docker self-host; Apache-2.0.",
+      "id": "it_17927074124616",
+      "name": "Laminar",
+      "url": "https://github.com/lmnr-ai/lmnr"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Agent harness engineering platform: OpenTelemetry tracing, evals, guardrails, prompt and context management, cost and GPU monitoring for agents; 70+ integrations; self-host; Apache-2.0.",
+      "id": "it_17927074124617",
+      "name": "OpenLIT",
+      "url": "https://github.com/openlit/openlit"
     }
   ]
 }
