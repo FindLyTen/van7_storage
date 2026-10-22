@@ -165,6 +165,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+8 → 966): SWE-bench, Harbor, Giskard, TruLens, Inspect AI, Tau2-Bench, Autoevals, Scenario (AI Agents, LLM eval/benchmarks). No duplicates skipped. Batch G2, group 3.
 
+- 2026-10-23 (+8 → 974): System Prompts and Models of AI Tools, Prompt Engineering Guide, OpenAI Cookbook, System Prompts Leaks, Claude Cookbooks, Prompt Engineering Interactive Tutorial, Leaked System Prompts (Collections); Fabric (CLI Tools). Skipped duplicate: claude-code-system-prompts (442). Batch G2, group 4.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector

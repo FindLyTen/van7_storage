@@ -7684,6 +7684,62 @@
       "id": "it_17927070276278",
       "name": "Scenario",
       "url": "https://github.com/langwatch/scenario"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection: full verbatim system prompts and prompt chains of popular AI tools and apps (leaked/extracted), plus monetization context; GPL-3.0.",
+      "id": "it_17927070825241",
+      "name": "System Prompts and Models of AI Tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-AI-tools"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Guide and reference: papers, learning guides, lectures and tools on prompting LLMs (zero-shot, CoT, RAG, agents); 13 languages, web version promptingguide.ai; MIT.",
+      "id": "it_17927070825242",
+      "name": "Prompt Engineering Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection: example code and guides for common tasks with the OpenAI API (RAG, embeddings, function calling, evals); mostly Python notebooks; MIT.",
+      "id": "it_17927070825243",
+      "name": "OpenAI Cookbook",
+      "url": "https://github.com/openai/openai-cookbook"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection: full verbatim system prompts of the most popular chatbots, curated and complete; CC0.",
+      "id": "it_17927070825244",
+      "name": "System Prompts Leaks (asgeirtj)",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection: Anthropic cookbook of copyable code recipes and guides for building with the Claude API; Python; MIT.",
+      "id": "it_17927070825245",
+      "name": "Claude Cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Open-source framework augmenting humans with AI: crowd-selected prompt patterns (summarize, extract) applied anywhere via CLI; Go; MIT.",
+      "id": "it_17927070825246",
+      "name": "Fabric",
+      "url": "https://github.com/danielmiessler/fabric"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Anthropic course: 9 chapters with exercises and example playgrounds teaching prompt engineering for Claude; Jupyter notebooks; no license file.",
+      "id": "it_17927070825247",
+      "name": "Prompt Engineering Interactive Tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection: leaked system prompts from widely used LLM services, verified sources or reproducible prompts only, cited in papers; no license file.",
+      "id": "it_17927070825248",
+      "name": "Leaked System Prompts (jujumilk3)",
+      "url": "https://github.com/jujumilk3/leaked-system-prompts"
     }
   ]
 }
