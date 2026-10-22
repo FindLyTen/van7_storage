@@ -8188,6 +8188,13 @@
       "id": "it_17927083110292",
       "name": "Minitap mobile-use",
       "url": "https://github.com/minitap-ai/mobile-use"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Open financial data platform: integrates proprietary, licensed and public data for quants, analysts and AI agents via Python API, REST, Excel and MCP; pip install openbb; Apache-2.0.",
+      "id": "it_17927085547181",
+      "name": "OpenBB",
+      "url": "https://github.com/openbq-org/OpenBB"
     }
   ]
 }
