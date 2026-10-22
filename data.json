@@ -8184,7 +8184,7 @@
     },
     {
       "cat": "ai_agents",
-      "desc": "AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Python, pip install mobile-use; Apache-2.0.",
+      "desc": "AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Docker quickstart (Android), Python; Apache-2.0.",
       "id": "it_17927083110292",
       "name": "Minitap mobile-use",
       "url": "https://github.com/minitap-ai/mobile-use"
