@@ -7943,6 +7943,55 @@
       "id": "it_17927080631675",
       "name": "Oumi",
       "url": "https://github.com/oumi-ai/oumi"
+    },
+    {
+      "cat": "media_ocr",
+      "desc": "OCR toolkit and document AI engine: PDF and image pages to LLM-ready JSON/Markdown, PaddleOCR-VL 0.9B model, tables, formulas, layout models; pip install paddleocr; Python; Apache-2.0.",
+      "id": "it_17927081138351",
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+      "cat": "media_ocr",
+      "desc": "PDF and image documents converted to clean Markdown with a 7B vision-language model: equations, tables, handwriting, reading order, header/footer cleanup; GPU needed; Python; Apache-2.0.",
+      "id": "it_17927081138352",
+      "name": "olmOCR",
+      "url": "https://github.com/allenai/olmocr"
+    },
+    {
+      "cat": "media_ocr",
+      "desc": "Fast lightweight PDF parser: spatial text with bounding boxes via PDFium, pluggable OCR (bundled Tesseract or HTTP OCR servers), local run; pip install liteparse; Rust core; Apache-2.0.",
+      "id": "it_17927081138353",
+      "name": "LiteParse",
+      "url": "https://github.com/run-llama/liteparse"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Phone agent framework by Zhipu AI: AutoGLM-powered Android control over ADB, VLM screen perception, plan and execute flows, CLI chat with GLM models; Python; Apache-2.0.",
+      "id": "it_17927081138354",
+      "name": "Open-AutoGLM",
+      "url": "https://github.com/zai-org/Open-AutoGLM"
+    },
+    {
+      "cat": "devices_android",
+      "desc": "Mobile and web UI/E2E testing framework: YAML test flows for Android, iOS and web, single-binary CLI, no drivers or SDK, Maestro Studio, MCP server for coding agents; Apache-2.0.",
+      "id": "it_17927081138355",
+      "name": "Maestro",
+      "url": "https://github.com/mobile-dev-inc/Maestro"
+    },
+    {
+      "cat": "auto_browser",
+      "desc": "AI-vision E2E testing: natural-language steps and assertions for web, Android and desktop UIs, YAML cases and Agent APIs, Playwright/Puppeteer support; npm @midscene/web; MIT.",
+      "id": "it_17927081138356",
+      "name": "Midscene",
+      "url": "https://github.com/web-infra-dev/midscene"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "GUI agent family by Alibaba Tongyi Lab: phone and computer use with GUI-Owl models, multimodal screen understanding, planning and reflection loops; Python; MIT.",
+      "id": "it_17927081138357",
+      "name": "Mobile-Agent (Tongyi Lab)",
+      "url": "https://github.com/X-PLUG/MobileAgent"
     }
   ]
 }
