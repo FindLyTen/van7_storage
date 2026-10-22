@@ -7628,6 +7628,62 @@
       "id": "it_17927069541597",
       "name": "DeepEval",
       "url": "https://github.com/confident-ai/deepeval"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Benchmark: evaluates LLMs on real-world GitHub issues; model gets codebase + issue, must generate a resolving patch; Docker harness, Verified 500-task subset, Multimodal v2; Python; MIT.",
+      "id": "it_17927070276271",
+      "name": "SWE-bench",
+      "url": "https://github.com/SWE-bench/SWE-bench"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Agent evaluation framework from Terminal-Bench creators: evaluate Claude Code/OpenHands/Codex CLI agents, build custom benchmarks, parallel sandbox providers, RL rollout generation; Python; Apache-2.0.",
+      "id": "it_17927070276272",
+      "name": "Harbor",
+      "url": "https://github.com/harbor-framework/harbor"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM eval, red-teaming and test generation for agents: dynamic multi-turn tests, vulnerability scanner (giskard-scan), RAG evaluation, async-first modular design; Python 3.12+; Apache-2.0.",
+      "id": "it_17927070276273",
+      "name": "Giskard",
+      "url": "https://github.com/Giskard-AI/giskard-oss"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Agent tracing and eval: OpenTelemetry-native traces with per-step latency/tokens/cost, self-explaining LLM judges (RAG Triad), version comparison leaderboards; Python; MIT.",
+      "id": "it_17927070276274",
+      "name": "TruLens",
+      "url": "https://github.com/truera/trulens"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM evaluation framework by UK AI Security Institute: prompt engineering, tools, multi-turn dialog, model-graded evals, 200+ prebuilt evals, extensible via Python packages; MIT.",
+      "id": "it_17927070276275",
+      "name": "Inspect AI",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Benchmark: tool-agent-user interaction in realistic customer service (airline, retail, telecom); tau-bench 2.0 adds 6 languages, full-duplex voice, post-hoc judges; live leaderboard; Python; MIT.",
+      "id": "it_17927070276276",
+      "name": "Tau2-Bench",
+      "url": "https://github.com/sierra-research/tau2-bench"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Library of automatic eval methods: LLM-as-a-judge, heuristic (Levenshtein), statistical (BLEU); fact-check and safety scorers adapted from OpenAI evals, custom model-graded evals; TypeScript/Python; MIT.",
+      "id": "it_17927070276277",
+      "name": "Autoevals",
+      "url": "https://github.com/braintrustdata/autoevals"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Agent testing framework based on simulations: simulated users in scenarios and edge cases, multi-turn control, judges at any point, works with any eval framework via one call() method; Python/TS/Go; Apache-2.0.",
+      "id": "it_17927070276278",
+      "name": "Scenario",
+      "url": "https://github.com/langwatch/scenario"
     }
   ]
 }

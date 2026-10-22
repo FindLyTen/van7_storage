@@ -163,6 +163,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+7 → 958): OpenCode for Termux, MobileCode (CLI Tools); FindOpenSource.dev (Collections); GigaMail (Clients); SEOnaut (Marketing & SEO); Promptfoo, DeepEval (AI Agents). Unreadable: x.com/i/history (login-only). Batch G2, group 2.
 
+- 2026-10-23 (+8 → 966): SWE-bench, Harbor, Giskard, TruLens, Inspect AI, Tau2-Bench, Autoevals, Scenario (AI Agents, LLM eval/benchmarks). No duplicates skipped. Batch G2, group 3.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
