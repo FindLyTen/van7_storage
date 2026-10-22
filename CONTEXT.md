@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 896 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 904 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -152,6 +152,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-22 (+8 → 888): ccswap (CLI); Firecrawl (Scraping); Minke, GPT Researcher (AI Agents); Awesome AI Startups (Collections); prompts.chat (Skills); Duck.ai (Routers & Gateways); PhoneHackScan (Defense). No duplicates skipped.
 
 - 2026-10-22 (+8 → 896): aifree.dev Offers (Collections); reKover (Pentest); Crypto Trading Desk, Freqtrade (Trading); ADCode (Editors); APInexGate Reseller (Routers & Gateways); Hermes DaVinci Resolve Plugin (Skills); Hy-MT2 (Local Models). No duplicates skipped.
+
+- 2026-10-22 (+8 → 904): Awesome Reverse-Engineered (Collections); TinyFish Hermes Plugin (Skills); oly (CLI); Atomic Agent (AI Agents); Apify (Scraping); Docling (OCR); LlamaIndex (Agent Memory); web-retrieval-mcp (API & MCP). No duplicates skipped.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned

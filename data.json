@@ -7194,6 +7194,62 @@
       "id": "it_17926863966998",
       "name": "Hy-MT2",
       "url": "https://github.com/Tencent-Hunyuan/Hy-MT2"
+    },
+    {
+      "cat": "edu_lists",
+      "desc": "Curated index of 12,865 open-source reverse-engineered projects across apps, APIs, devices, protocols and formats; searchable site, agent skill, nightly refresh; MIT + CC0.",
+      "id": "it_17926864222511",
+      "name": "Awesome Reverse-Engineered",
+      "url": "https://github.com/alexgaoth/awesome-reverse-engineered"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "First-party Hermes Agent plugin: free TinyFish search/fetch for web_search and web_extract, plus cloud browser and goal-based tinyfish_agent; Python; API key; MIT.",
+      "id": "it_17926864222512",
+      "name": "TinyFish Hermes Plugin",
+      "url": "https://hermes-agent.nousresearch.com/docs/plugins/tinyfish"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Local-first session supervisor for coding agents and REPLs: daemon owns the PTY, TUI/web dashboard, attach/send input, recordings, remote access; Rust/Node; MIT.",
+      "id": "it_17926864222513",
+      "name": "oly (Open Relay)",
+      "url": "https://github.com/slaveOftime/open-relay"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Local-first AI agent: browser control, file edits, approved shell commands, memory, MCP, local/cloud models and Fusion mode; TypeScript/Node, llama.cpp; MIT.",
+      "id": "it_17926864222514",
+      "name": "Atomic Agent",
+      "url": "https://github.com/AtomicBot-ai/atomic-agent"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Web scraping and browser automation platform: Actors store, cloud runs, residential/datacenter proxies, API; free plan with $5 usage, paid from $19/month; hosted.",
+      "id": "it_17926864222515",
+      "name": "Apify",
+      "url": "https://fluyeporlaweb.com/herramientas/apify/"
+    },
+    {
+      "cat": "media_ocr",
+      "desc": "Document parsing library: PDF, DOCX, PPTX, XLSX, HTML, EPUB and images to Markdown/JSON with layout, tables and formulas; Python, pip; MIT.",
+      "id": "it_17926864222516",
+      "name": "Docling",
+      "url": "https://github.com/docling-project/docling"
+    },
+    {
+      "cat": "ai_memory",
+      "desc": "Python/TypeScript framework for RAG and agentic apps: connectors, indexes, retrieval, workflows, LlamaParse integration; pip/npm; MIT.",
+      "id": "it_17926864222517",
+      "name": "LlamaIndex",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP server for source-grounded web research: Exa/Tavily search, multi-tier page fetch with Camoufox and Firecrawl, paper and developer search; Python, stdio/HTTP; MIT.",
+      "id": "it_17926864222518",
+      "name": "web-retrieval-mcp",
+      "url": "https://github.com/VelvetSP/web-retrieval-mcp"
     }
   ]
 }
