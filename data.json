@@ -6970,6 +6970,62 @@
       "id": "it_179268501308548",
       "name": "ghidraMCP",
       "url": "https://github.com/LaurieWired/GhidraMCP"
+    },
+    {
+      "cat": "hack",
+      "desc": "MCP server for 'vibe reversing' in IDA Pro 8.3+/9: LLM-guided decompile, analyze and inspect via tools exposed to any MCP client; Python 3.11, uv, idalib; MIT.",
+      "id": "it_179268501308549",
+      "name": "IDA Pro MCP",
+      "url": "https://github.com/mrexodia/ida-pro-mcp"
+    },
+    {
+      "cat": "hack",
+      "desc": "Dex to Java decompiler: command-line and GUI tools producing Java source from APK/dex/aab, plus Java bytecode and smali; deobfuscator, resource decoding, smali debugger; Java 11; Apache-2.0.",
+      "id": "it_179268501308550",
+      "name": "jadx",
+      "url": "https://github.com/skylot/jadx"
+    },
+    {
+      "cat": "hack",
+      "desc": "Tool for reverse engineering closed Android apps: decode resources to near-original form and rebuild after modification, debug smali step-by-step; Java; Apache-2.0.",
+      "id": "it_179268501308551",
+      "name": "Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool"
+    },
+    {
+      "cat": "hack",
+      "desc": "Dynamic instrumentation toolkit for reverse engineers and security researchers: inject code into running iOS/Android/desktop apps; C core, Python/Node bindings; custom license.",
+      "id": "it_179268501308552",
+      "name": "Frida",
+      "url": "https://github.com/frida/frida"
+    },
+    {
+      "cat": "hack",
+      "desc": "Open-source cross-platform .NET assembly browser and decompiler: Avalonia desktop UI, VS and VS Code extensions, ILSpyCmd dotnet tool, decompile F12 in Visual Studio; C#; MIT.",
+      "id": "it_179268501308553",
+      "name": "ILSpy",
+      "url": "https://github.com/icsharpcode/ILSpy"
+    },
+    {
+      "cat": "hack",
+      "desc": "Libre reversing framework: disassemble, debug, edit and emulate any binary on any architecture; embedded JS interpreter and r2pipe; pip-style install script; C; LGPL-3.0.",
+      "id": "it_179268501308554",
+      "name": "radare2",
+      "url": "https://github.com/radareorg/radare2"
+    },
+    {
+      "cat": "hack",
+      "desc": "Open-source Windows user-mode debugger for x86/x64 aimed at malware analysis: CPU tracing graph, memory map, plugin system; C++; freeware.",
+      "id": "it_179268501308555",
+      "name": "x64dbg",
+      "url": "https://github.com/x64dbg/x64dbg"
+    },
+    {
+      "cat": "hack",
+      "desc": "Hex editor for reverse engineers and programmers: pattern language structures, bookmarks, data inspector, diffing, custom encodings and visualizes with themes; C++ (Qt); GPL-2.0.",
+      "id": "it_179268501308556",
+      "name": "ImHex",
+      "url": "https://github.com/WerWolv/ImHex"
     }
   ]
 }
