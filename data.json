@@ -7082,6 +7082,62 @@
       "id": "it_179268501308564",
       "name": "xMatrix",
       "url": "https://github.com/LambdaLabsHQ/xmatrix"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Go CLI/daemon that switches Claude Code between your own subscription accounts when limits near; TUI and local web dashboard, auto-switch; macOS/Linux; MIT.",
+      "id": "it_17926863098071",
+      "name": "ccswap",
+      "url": "https://github.com/Dudude-bit/ccswap"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Web data API for AI agents: search, scrape, map, crawl, interact; Markdown, JSON, screenshots; Python/Node/CLI SDKs; hosted free tier; AGPL-3.0.",
+      "id": "it_17926863098072",
+      "name": "Firecrawl",
+      "url": "https://www.firecrawl.dev/"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Local-first desktop agent workspace on DeepSeek Harness: shared browser, files, terminal, plugins, remote PWA; Electron/Node; macOS/Windows/Linux; Apache-2.0.",
+      "id": "it_17926863098073",
+      "name": "Minke",
+      "url": "https://github.com/lencx/Minke"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Curated directory of 2,000+ independent AI startups in 18 categories: agents, coding, video, design, infra, finance; Markdown list with PR submissions; CC0-1.0.",
+      "id": "it_17926863098074",
+      "name": "Awesome AI Startups",
+      "url": "https://github.com/nowork-studio/awesome-ai-startups"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Open-source prompt library and community: browse, share, collect prompts, skills and workflows; self-host, CLI/App Store/Raycast clients; MIT code, CC0 content.",
+      "id": "it_17926863098075",
+      "name": "prompts.chat",
+      "url": "https://prompts.chat/"
+    },
+    {
+      "cat": "ai_router",
+      "desc": "Private AI chat front-end by DuckDuckGo: free access to ChatGPT, Claude and other models without an account; browser-based.",
+      "id": "it_17926863098076",
+      "name": "Duck.ai",
+      "url": "https://duck.ai/"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Open deep-research agent: planner and executor agents, web/local sources, cited reports, multi-agent and recursive research; Python, pip/Docker/Claude Skill; Apache-2.0.",
+      "id": "it_17926863098077",
+      "name": "GPT Researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher"
+    },
+    {
+      "cat": "hack_def",
+      "desc": "Android/iPhone spyware check: USB quick scan, androidqf + MVT full scan, iOS backup analysis, optional VirusTotal hashes; Python 3.10+; GPL-3.0.",
+      "id": "it_17926863098078",
+      "name": "PhoneHackScan",
+      "url": "https://github.com/UCYBERS/PhoneHackScan"
     }
   ]
 }

@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 880 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 888 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -148,6 +148,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-22 (+8 → 872): IDA Pro MCP, jadx, Apktool, Frida, ILSpy, radare2, x64dbg, ImHex (Hacking). No duplicates skipped.
 
 - 2026-10-22 (+8 → 880): angr, mitmproxy, dnSpyEx, rizin, RAD Debugger (Hacking); Awesome Reversing (Collections); VibeSkills (Skills); xMatrix (Clients). No duplicates skipped. Batch E complete: 64 added; skipped duplicates transitions.dev (id 144), gsap-skills (411), taste-skill (257), harness2 (it_17926171777641), amass (it_1791034692215), trufflehog (361); opendesign.dev skipped (dead/sunset site).
+
+- 2026-10-22 (+8 → 888): ccswap (CLI); Firecrawl (Scraping); Minke, GPT Researcher (AI Agents); Awesome AI Startups (Collections); prompts.chat (Skills); Duck.ai (Routers & Gateways); PhoneHackScan (Defense). No duplicates skipped.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
