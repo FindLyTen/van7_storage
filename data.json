@@ -8055,6 +8055,69 @@
       "id": "it_17927081345979",
       "name": "PayPal Agent Toolkit",
       "url": "https://github.com/paypal/agent-toolkit"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Database MCP gateway for MCP clients: schema exploration, SQL execution and markdown results on PostgreSQL, MySQL, MariaDB, SQLite and others; npx @bytebase/dbhub; MIT.",
+      "id": "it_17927081843501",
+      "name": "DBHub",
+      "url": "https://github.com/bytebase/dbhub"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Postgres MCP server for the whole dev cycle: index tuning, EXPLAIN plan analysis, health checks and safe-mode SQL execution; Docker image or pip install postgres-mcp; MIT.",
+      "id": "it_17927081843502",
+      "name": "Postgres MCP Pro",
+      "url": "https://github.com/crystaldba/postgres-mcp"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Official MCP server for Supabase projects: manage tables, fetch logs and configs, run queries and generate TypeScript types for AI assistants; npx @supabase/mcp-server-supabase; Apache-2.0.",
+      "id": "it_17927081843503",
+      "name": "Supabase MCP",
+      "url": "https://github.com/supabase/mcp"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP server for MySQL: schema inspection, read-only SQL queries by default with opt-in writes, SSH tunnels, multi-database mode, PII redaction; npx; TypeScript; MIT.",
+      "id": "it_17927081843504",
+      "name": "MySQL MCP Server (benborla)",
+      "url": "https://github.com/benborla/mcp-server-mysql"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Official MCP server exposing Qdrant vector search as semantic memory: qdrant-store and qdrant-search tools with metadata and collections; uvx mcp-server-qdrant; Apache-2.0.",
+      "id": "it_17927081843505",
+      "name": "Qdrant MCP Server",
+      "url": "https://github.com/qdrant/mcp-server-qdrant"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Official MCP server for MongoDB and Atlas: CRUD, query analysis, indexes and schemas; hosted Atlas mode over OAuth with read-only default; npx mongodb-mcp-server; TypeScript; Apache-2.0.",
+      "id": "it_17927081843506",
+      "name": "MongoDB MCP Server",
+      "url": "https://github.com/mongodb-js/mongodb-mcp-server"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP server for ClickHouse: read-only SQL queries, database and table listing and schema access for self-hosted or ClickHouse Cloud via HTTP or native; pip install mcp-clickhouse; Apache-2.0.",
+      "id": "it_17927081843507",
+      "name": "ClickHouse MCP Server",
+      "url": "https://github.com/ClickHouse/mcp-clickhouse"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Official Redis MCP server: natural-language interface for agentic storage, vector search, caching and streams over ACL-restricted tools; pip install mcp-redis; Python; MIT.",
+      "id": "it_17927081843508",
+      "name": "Redis MCP Server",
+      "url": "https://github.com/redis/mcp-redis"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Local MCP server for DuckDB and MotherDuck: read/write analytics SQL, catalog browsing and on-the-fly connection switching, local files and S3; uvx mcp-server-motherduck; MIT.",
+      "id": "it_17927081843509",
+      "name": "DuckDB MCP Server",
+      "url": "https://github.com/motherduckdb/mcp-server-motherduck"
     }
   ]
 }

@@ -178,6 +178,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-23 (+5 -> 1003): Machine Learning for Trading (Trading); OpenLore (Agent Memory); TRL, ART (Agent Reinforcement Trainer), Oumi (AI Agents). Skipped duplicates: ImHex (it_179268501308556), mitmproxy (it_179268501308558), ILSpy (it_179268501308553). Batch H, group 1.
 - 2026-10-23 (+7 -> 1010): PaddleOCR, olmOCR, LiteParse (OCR); Open-AutoGLM, Mobile-Agent (Tongyi Lab) (AI Agents); Maestro (Android); Midscene (Browser). Skipped duplicate: Mobile MCP (id 493). Batch H, group 2.
 - 2026-10-23 (+9 -> 1019): TradingView MCP, Stripe AI, Coinbase AgentKit, Alpaca MCP Server, MaverickMCP, QuickBooks Online MCP Server, Xero MCP Server, SEC EDGAR MCP, PayPal Agent Toolkit (all Trading). No duplicates skipped. Batch H, group 3.
+- 2026-10-23 (+9 -> 1028): DBHub, Postgres MCP Pro, Supabase MCP, MySQL MCP Server (benborla), Qdrant MCP Server, MongoDB MCP Server, ClickHouse MCP Server, Redis MCP Server, DuckDB MCP Server (API & MCP). Skipped duplicate: mcp-toolbox (275). Batch H, group 4.
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
