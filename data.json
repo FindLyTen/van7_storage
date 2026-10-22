@@ -6914,6 +6914,62 @@
       "id": "it_179268501308540",
       "name": "Uniichat",
       "url": "https://github.com/VictorTaelin/uniichat"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Safe private runtime for autonomous AI agent fleets: kernel-enforced sandbox, formally verified policy changes, gateway, secrets only for approved endpoints; Docker; Rust; Apache-2.0.",
+      "id": "it_179268501308541",
+      "name": "OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "cat": "auto_pc",
+      "desc": "Hub for all your machines: agent sessions, live desktops, file/clipboard sync, GitHub, self-hosted runners, health; MCP server for agents; GPUI app; Apache-2.0.",
+      "id": "it_179268501308542",
+      "name": "Muxin",
+      "url": "https://github.com/LumaryLabsLLC/muxin"
+    },
+    {
+      "cat": "osint",
+      "desc": "Fast multi-purpose HTTP toolkit for probing hosts, URLs and CIDRs: titles, status codes, TLS certificates, HTTP2, virtual hosts, CSP, tech detection; Go; MIT.",
+      "id": "it_179268501308543",
+      "name": "httpx",
+      "url": "https://github.com/projectdiscovery/httpx"
+    },
+    {
+      "cat": "osint",
+      "desc": "Fast passive subdomain enumeration from curated sources with resolution and wildcard elimination; JSON/file/stdout outputs, stdin pipeline support; Go; MIT.",
+      "id": "it_179268501308544",
+      "name": "subfinder",
+      "url": "https://github.com/projectdiscovery/subfinder"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Next-generation crawling and spidering framework: standard and headless modes, JavaScript rendering, automatic form filling, scope control, ML page classification, JSON output; Go 1.26+; MIT.",
+      "id": "it_179268501308545",
+      "name": "katana",
+      "url": "https://github.com/projectdiscovery/katana"
+    },
+    {
+      "cat": "hack_def",
+      "desc": "Tool for detecting secrets (passwords, API keys, tokens) in git repos, files and stdin with rules and entropy scanning; git/cron integration; Docker, Homebrew, Go installs; MIT.",
+      "id": "it_179268501308546",
+      "name": "gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks"
+    },
+    {
+      "cat": "osint",
+      "desc": "Fetches every URL a domain ever responded to, from the Wayback Machine/CDX index; one domain in, raw URLs out; Go; license not stated.",
+      "id": "it_179268501308547",
+      "name": "waybackurls",
+      "url": "https://github.com/tomnomnom/waybackurls"
+    },
+    {
+      "cat": "hack",
+      "desc": "MCP server plus Ghidra plugin for LLM-driven reverse engineering: decompile and analyze binaries, auto-rename methods and data, list methods/classes/imports/exports; Python + uv; Apache-2.0.",
+      "id": "it_179268501308548",
+      "name": "ghidraMCP",
+      "url": "https://github.com/LaurieWired/GhidraMCP"
     }
   ]
 }
