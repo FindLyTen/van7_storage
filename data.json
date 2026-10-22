@@ -7138,6 +7138,62 @@
       "id": "it_17926863098078",
       "name": "PhoneHackScan",
       "url": "https://github.com/UCYBERS/PhoneHackScan"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Catalog of 231 free AI offers: free tiers, credits, student and startup programs, card/no-card filters, monthly verification; web list.",
+      "id": "it_17926863966991",
+      "name": "aifree.dev Offers",
+      "url": "https://aifree.dev/offers"
+    },
+    {
+      "cat": "hack_pentest",
+      "desc": "Bash URL mapper for recon: robots/sitemap parsing, weighted brute force, JS-aware crawl, Wayback CDX probes; JSON output; needs parallel+curl; MIT.",
+      "id": "it_17926863966992",
+      "name": "reKover",
+      "url": "https://github.com/BruteLogic/reKover"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Claude Code plugin: 7 crypto trading agents, 83 tools, 9 MCP servers, paper portfolio, monitoring and self-learning; markdown + MCP; MIT.",
+      "id": "it_17926863966993",
+      "name": "Crypto Trading Desk",
+      "url": "https://github.com/hugoguerrap/crypto-claude-desk"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Python crypto trading bot: backtesting, dry-run, FreqAI strategy optimization, Telegram/WebUI, major spot/futures exchanges; Python 3.12+; GPL-3.0.",
+      "id": "it_17926863966994",
+      "name": "Freqtrade",
+      "url": "https://github.com/freqtrade/freqtrade"
+    },
+    {
+      "cat": "dev_edit",
+      "desc": "Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.",
+      "id": "it_17926863966995",
+      "name": "ADCode",
+      "url": "https://adcode.bluethenics.com/versions"
+    },
+    {
+      "cat": "ai_router",
+      "desc": "Open-source AI API gateway and reseller storefront: branded API platform from one upstream key, billing, subscriptions, vouchers, admin panel; web.",
+      "id": "it_17926863966996",
+      "name": "APInexGate Reseller",
+      "url": "https://apinex.bond/resell"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Hermes Agent plugin for DaVinci Resolve on macOS: Studio live control of media, timelines, markers and renders, or FCPXML/CSV interchange for free Resolve; Python; MIT.",
+      "id": "it_17926863966997",
+      "name": "Hermes DaVinci Resolve Plugin",
+      "url": "https://github.com/wassermanproductions/hermes-davinci-resolve-plugin"
+    },
+    {
+      "cat": "ai_local",
+      "desc": "Multilingual translation model family: 1.8B, 7B and 30B-A3B MoE, 33 languages, instruction following, GGUF/FP8, on-device quantization; HuggingFace/ModelScope; Apache-2.0.",
+      "id": "it_17926863966998",
+      "name": "Hy-MT2",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2"
     }
   ]
 }
