@@ -6858,6 +6858,62 @@
       "id": "it_179268501308532",
       "name": "dsh-data-quality",
       "url": "https://github.com/PerryLink/dsh-data-quality"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "DeepSeek Harness plugin producing deterministic Chinese mutual-fund research reports: every key number traces to a hashed source snapshot; Node 22; Apache-2.0.",
+      "id": "it_179268501308533",
+      "name": "dsh-fund-research",
+      "url": "https://github.com/PerryLink/dsh-fund-research"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Collection of 418 viral videos made with Claude Opus 5.5 animation-as-code (HTML, Canvas, SVG, Three.js), each with its creator prompt, plus 703 prompts in the repo; MIT.",
+      "id": "it_179268501308534",
+      "name": "Awesome Opus 5.5 Videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+    },
+    {
+      "cat": "biz_crm",
+      "desc": "Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.",
+      "id": "it_179268501308535",
+      "name": "Gr8r Studio",
+      "url": "https://github.com/gr8rstudio/gr8r-studio"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Code-review pane for the herdr agent terminal: read the agent's diff next to the chat, comment on lines and send comments back to the agent; unified and split views; Rust; MIT.",
+      "id": "it_179268501308536",
+      "name": "herdr-reviewr",
+      "url": "https://github.com/persiyanov/herdr-reviewr"
+    },
+    {
+      "cat": "chat_clients",
+      "desc": "Fast native macOS mail app for self-hosted Mailflare servers plus Gmail, Outlook, iCloud, Yahoo and more: offline, rich text, AI writer, templates, unsubscribe; Swift; AGPL-3.0.",
+      "id": "it_179268501308537",
+      "name": "Mailflare for macOS",
+      "url": "https://github.com/hieunc229/mailflare-macos"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Historical order-book data API for Polymarket backtesting: BTC/ETH/SOL UP/DOWN depth snapshots, Binance BTC spot/futures depth (Pro), strategy replay on resolved markets; REST API with tiered pricing.",
+      "id": "it_179268501308538",
+      "name": "PolyHistorical",
+      "url": "https://polyhistorical.com/"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Video editing skill for Claude Code and Codex: cut pauses and mistakes, add captions, fix audio, reframe, turn speech into motion scenes - all local transcription and rendering; MIT.",
+      "id": "it_179268501308539",
+      "name": "editonny",
+      "url": "https://github.com/soumatheusgomes/editonny"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Multimodal design agent that turns designs and sketches into production-ready code via CLI, API or webhook; works headless in pipelines; TypeScript; Apache-2.0.",
+      "id": "it_179268501308540",
+      "name": "Uniichat",
+      "url": "https://github.com/VictorTaelin/uniichat"
     }
   ]
 }
