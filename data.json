@@ -6802,6 +6802,62 @@
       "id": "it_179268501308524",
       "name": "motion-designer",
       "url": "https://github.com/kaventro/motion-designer"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Claude Code skill that turns a one-line theme into a beat-synced, render-ready HyperFrames+GSAP video (120 BPM / 60 FPS presets); English and Japanese docs; MIT.",
+      "id": "it_179268501308525",
+      "name": "HyperFrames Motion Reel Skill",
+      "url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "15 skills that make launch-grade motion graphics every frame as code with Claude Code or Codex: trailers, titles, loops, product films; MIT.",
+      "id": "it_179268501308526",
+      "name": "Motion Graphics Skill Pack",
+      "url": "https://github.com/charlie947/motion-graphics-skills"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Self-hosted investment decision engine for AI agents: verifiable multi-agent committee, evidence-based reasoning, long-horizon backtesting, auditable decision trail; Python 3.13, MCP server; MIT.",
+      "id": "it_179268501308527",
+      "name": "openInvest",
+      "url": "https://github.com/longsizhuo/openInvest"
+    },
+    {
+      "cat": "auto_browser",
+      "desc": "Clone-phishing platform: build and monitor cloned login pages to test protections, real-time credential capture with notifications and tracking; SaaS; proprietary.",
+      "id": "it_179268501308528",
+      "name": "Clon1X",
+      "url": "https://clon1x.com/"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Toolkit of documentation, prompts and templates: prepare your machine and scaffold or upgrade AI-built projects with agent-driven setup and verification; code stays in your project; MIT.",
+      "id": "it_179268501308529",
+      "name": "Vibe Coding Toolkit",
+      "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Zero-dependency Python TUI dashboard to browse, filter and profile frontier AI models (context windows, pricing, knowledge cutoffs) as an ANSI table; clone and run python3 aio4.py; MIT.",
+      "id": "it_179268501308530",
+      "name": "ModelMatrix",
+      "url": "https://gitlab.com/hack8us/modelmatrix"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Terminal to run many coding agents at once - Claude Code, Codex, OpenCode, plain shells - each in a live rail, on your laptop or any SSH machine; prebuilt binaries + install script; Rust; GPL-3.0.",
+      "id": "it_179268501308531",
+      "name": "Medulla",
+      "url": "https://github.com/tinyhumansai/medulla"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "DeepSeek Harness plugin for deterministic data profiling, cleaning and verification of datasets used by dsh agents; npm dsh-data-quality; TypeScript; Apache-2.0.",
+      "id": "it_179268501308532",
+      "name": "dsh-data-quality",
+      "url": "https://github.com/PerryLink/dsh-data-quality"
     }
   ]
 }
