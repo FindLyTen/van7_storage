@@ -6746,6 +6746,62 @@
       "id": "it_179268501308516",
       "name": "claude-motion",
       "url": "https://github.com/whaleyxbt/claude-motion"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Design agency marketplace for Claude Code: 27 plugins / 22 skills covering Three.js, GSAP, React Three Fiber, Framer Motion, Babylon, A-Frame, Rive and integration patterns; /plugin install; MIT.",
+      "id": "it_179268501308517",
+      "name": "Claude Design Skillstack",
+      "url": "https://github.com/freshtechbro/claudedesignskills"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Claude Code skill that produces 120fps Motion.dev (Framer Motion successor) animations with accessibility and performance rules from one-line requests; TypeScript; MIT.",
+      "id": "it_179268501308518",
+      "name": "Motion.dev Animations Skill",
+      "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Official Remotion skill pack for agents: create projects, markup best practices, studio preview, render, maps; Claude Code, Codex, Cursor, Kimi; npx skills add remotion-dev/skills; Apache-2.0.",
+      "id": "it_179268501308519",
+      "name": "Remotion Agent Skills",
+      "url": "https://github.com/remotion-dev/skills"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Claude agent skill for Remotion motion graphics: springs, staggered choreography, color grade, grain, synced captions, sound design; enforced render-inspect-fix loop; MIT.",
+      "id": "it_179268501308520",
+      "name": "Claude Remotion Skill",
+      "url": "https://github.com/haidrrrry/claude-remotion-skill"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Four skills producing broadcast-quality Remotion motion graphics: kinetic text, workflow diagrams, cinematic camera moves, terminal demos; guided intake, QA, render; MIT.",
+      "id": "it_179268501308521",
+      "name": "Remotion Motion Graphics Skills",
+      "url": "https://github.com/Liamrjohnston/remotion-motion-graphics-skill"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Skills + MCP toolkit for programmatic video in Claude Code: Remotion, Manim, Playwright screen recording, YouTube clipping/subtitles, FFmpeg post-processing; license not stated.",
+      "id": "it_179268501308522",
+      "name": "Claude Code Video Toolkit",
+      "url": "https://github.com/wilwaldon/Claude-Code-Video-Toolkit"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Open-source suite of 55 motion-graphics skills in 18 packs (kinetic type, data charts, explainers, TikTok, 3D/WebGL, lower thirds); deliver-and-verify loops; MIT.",
+      "id": "it_179268501308523",
+      "name": "Motion Skills",
+      "url": "https://github.com/iart-ai/motion-skills"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Agent skill for launch films for apps and short code-drawn videos: rebuilds real UI in HTML, mobile/window framing, music-synced timing, frame-by-frame checks, video render; MIT.",
+      "id": "it_179268501308524",
+      "name": "motion-designer",
+      "url": "https://github.com/kaventro/motion-designer"
     }
   ]
 }
