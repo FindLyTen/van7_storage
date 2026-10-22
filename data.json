@@ -7250,6 +7250,55 @@
       "id": "it_17926864222518",
       "name": "web-retrieval-mcp",
       "url": "https://github.com/VelvetSP/web-retrieval-mcp"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Oxylabs Web API MCP server: search, scrape to Markdown/JSON/screenshot, async polling, target scrapers, token-aware output; Python 3.10+, self-host; MIT.",
+      "id": "it_17926864503171",
+      "name": "Oxylabs Web API MCP",
+      "url": "https://github.com/oxylabs/web-api-mcp"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Tavily MCP server: web search, extract, map and crawl tools for AI agents; local npm or remote HTTP with API key; Node/TypeScript; MIT.",
+      "id": "it_17926864503172",
+      "name": "Tavily MCP",
+      "url": "https://github.com/tavily-ai/tavily-mcp"
+    },
+    {
+      "cat": "osint_web",
+      "desc": "OSINT evidence-capture desktop app and Chromium extension: MHTML, screenshot and text per case, SHA-256 hash chain, RFC 3161 timestamps, export; Windows/Ubuntu; MIT.",
+      "id": "it_17926864503173",
+      "name": "Birdbrain",
+      "url": "https://github.com/thebristolsound/birdbrain"
+    },
+    {
+      "cat": "auto_parse",
+      "desc": "Python CLI and MCP server that collects public HTTP/SOCKS proxies, runs up to four live checks and keeps per-check results; uvx/pip; Python 3.9-3.14; MIT.",
+      "id": "it_17926864503174",
+      "name": "proxy-scraper",
+      "url": "https://github.com/maximilianfeix/proxy-scraper"
+    },
+    {
+      "cat": "media_down",
+      "desc": "Media downloader: paste a public link and get the file; self-hostable API and web UI, no ads or trackers; Node.js; AGPL-3.0.",
+      "id": "it_17926864503175",
+      "name": "cobalt",
+      "url": "https://github.com/imputnet/cobalt"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Android GUI agent: controls real devices via ADB with multimodal LLMs, hierarchical reflection and multi-agent tasks; WebUI/Python API; MIT.",
+      "id": "it_17926864503176",
+      "name": "MobileUse",
+      "url": "https://github.com/MadeAgents/mobile-use"
+    },
+    {
+      "cat": "dev_edit",
+      "desc": "AI coding IDE/CLI: spec-driven development, parallel agents, property-based tests, headless CI review; macOS/Windows/Linux, web/mobile; proprietary, free tier.",
+      "id": "it_17926864503177",
+      "name": "Kiro",
+      "url": "https://kiro.dev/"
     }
   ]
 }

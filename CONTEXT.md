@@ -1,4 +1,4 @@
-# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-21)
+# PROJECT CONTEXT — VAN7 SKLAD (updated: 2026-10-22)
 
 ## LANGUAGE RULE (mandatory)
 - ALWAYS speak English with the user in every conversation on this project,
@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 904 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 911 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -154,6 +154,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-22 (+8 → 896): aifree.dev Offers (Collections); reKover (Pentest); Crypto Trading Desk, Freqtrade (Trading); ADCode (Editors); APInexGate Reseller (Routers & Gateways); Hermes DaVinci Resolve Plugin (Skills); Hy-MT2 (Local Models). No duplicates skipped.
 
 - 2026-10-22 (+8 → 904): Awesome Reverse-Engineered (Collections); TinyFish Hermes Plugin (Skills); oly (CLI); Atomic Agent (AI Agents); Apify (Scraping); Docling (OCR); LlamaIndex (Agent Memory); web-retrieval-mcp (API & MCP). No duplicates skipped.
+
+- 2026-10-22 (+7 → 911): Oxylabs Web API MCP, Tavily MCP (API & MCP); Birdbrain (Website Analysis); proxy-scraper (Scraping); cobalt (Downloads); MobileUse (AI Agents); Kiro (Editors). No duplicates skipped. Batch F complete: 31 added; skipped duplicates Crawl4AI (308), SearXNG (it_178982395593123), RAGFlow (462), Haystack (it_1791310598948), Agent Reach (264), Hermes Agent (393), Osiris (156); list repeats 7/31 and 15/33 processed once.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
