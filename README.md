@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1010 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1019 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.

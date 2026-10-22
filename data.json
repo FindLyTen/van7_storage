@@ -7992,6 +7992,69 @@
       "id": "it_17927081138357",
       "name": "Mobile-Agent (Tongyi Lab)",
       "url": "https://github.com/X-PLUG/MobileAgent"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "MCP server for TradingView market data: quotes, technical indicators, screeners and backtesting for MCP clients across stocks, crypto, forex, futures; MIT.",
+      "id": "it_17927081345971",
+      "name": "TradingView MCP",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Stripe SDK collection for AI products: ai-sdk and token-meter packages for billing LLM apps, hosted MCP at mcp.stripe.com, agent skills; npm, TypeScript; MIT.",
+      "id": "it_17927081345972",
+      "name": "Stripe AI",
+      "url": "https://github.com/stripe/ai"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Coinbase toolkit giving AI agents a crypto wallet: onchain actions and stablecoin payments, framework-agnostic Python and Node.js SDKs; Apache-2.0.",
+      "id": "it_17927081345973",
+      "name": "Coinbase AgentKit",
+      "url": "https://github.com/coinbase/agentkit"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "MCP server for Alpaca Trading API: natural-language trading operations over stocks, options and crypto, portfolio and market data tools for Claude and Cursor; MIT.",
+      "id": "it_17927081345974",
+      "name": "Alpaca MCP Server",
+      "url": "https://github.com/alpacahq/alpaca-mcp-server"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Local stock-market MCP server: Yahoo Finance data, technical analysis, screeners, portfolio tracking, watchlists and Python backtesting in a local database; MIT.",
+      "id": "it_17927081345975",
+      "name": "MaverickMCP",
+      "url": "https://github.com/wshobson/maverick-mcp"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "MCP server for QuickBooks Online: 145 tools, CRUD for 29 entity types, 11 financial reports, OAuth 2.0; local stdio server for MCP clients; TypeScript; Apache-2.0.",
+      "id": "it_17927081345976",
+      "name": "QuickBooks Online MCP Server",
+      "url": "https://github.com/intuit/quickbooks-online-mcp-server"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "MCP server for the Xero accounting API: OAuth2 custom connections, contacts, chart of accounts and invoice management; Node.js 18+, npm; MIT.",
+      "id": "it_17927081345977",
+      "name": "Xero MCP Server",
+      "url": "https://github.com/XeroAPI/xero-mcp-server"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "MCP server for SEC EDGAR: company filings, financial statements and insider trading data with exact numeric precision; Docker, pip or uv; Python; AGPL-3.0.",
+      "id": "it_17927081345978",
+      "name": "SEC EDGAR MCP",
+      "url": "https://github.com/stefanoamorelli/sec-edgar-mcp"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "SDK for agent frameworks (OpenAI Agents SDK, LangChain, Vercel AI SDK, MCP) to call PayPal APIs: invoice, dispute, shipment and balance tools; npm, TypeScript; Apache-2.0.",
+      "id": "it_17927081345979",
+      "name": "PayPal Agent Toolkit",
+      "url": "https://github.com/paypal/agent-toolkit"
     }
   ]
 }
