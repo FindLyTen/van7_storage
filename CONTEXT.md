@@ -157,6 +157,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-22 (+7 → 911): Oxylabs Web API MCP, Tavily MCP (API & MCP); Birdbrain (Website Analysis); proxy-scraper (Scraping); cobalt (Downloads); MobileUse (AI Agents); Kiro (Editors). No duplicates skipped. Batch F complete: 31 added; skipped duplicates Crawl4AI (308), SearXNG (it_178982395593123), RAGFlow (462), Haystack (it_1791310598948), Agent Reach (264), Hermes Agent (393), Osiris (156); list repeats 7/31 and 15/33 processed once.
 
+- 2026-10-23 (+34 → 945): Hacker News, GeekNews, What Launched Today, BetaList (dev/biz_mkt); Dev Hunt, SaaSHub, Slashdot, Launch Llama, ConfettiSaaS, Aura++, StartupBase, SideProjectors, Microlaunch, Better Launch, FoundrList, PeerPush, Shipybara, SaaSCity, Startup Fame, ScrollLaunch, RankInPublic, TinyLaunch, Tiny Startups, Nick Launches (biz_mkt); Futurepedia, Future Tools, AI Directory, PitchWall (ai_lists); Crunchbase, Wellfound (biz_fund). No duplicates skipped. 16 links unreadable (Cloudflare/429/429 blocks): Reddit, ProductHunt, IndieHackers, uneed.best, peerlist.io, launchingnext.com, alternativeto.net, g2.com, capterra.com, getapp.com, trustradius.com, theresanaiforthat.com, toolify.ai, crazyaboutai.com, rankanything.online, sourceforge.net.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector

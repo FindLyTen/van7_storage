@@ -7299,6 +7299,244 @@
       "id": "it_17926864503177",
       "name": "Kiro",
       "url": "https://kiro.dev/"
+    },
+    {
+      "cat": "dev",
+      "desc": "tech news and startup community; submit and discuss stories; for developers and founders; free; user moderation",
+      "id": "it_179270318010101",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/"
+    },
+    {
+      "cat": "dev",
+      "desc": "Korean tech and startup news community; submit and discuss stories; for developers; free; email newsletter",
+      "id": "it_179270318010102",
+      "name": "GeekNews",
+      "url": "https://news.hada.io/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "product launch directory; daily startup launches from stealth to established; for makers; free submission; Product Hunt alternative",
+      "id": "it_179270318010103",
+      "name": "What Launched Today",
+      "url": "https://whatlaunched.today/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "upcoming startups directory; early access to tomorrow's startups; for founders; free discovery; email newsletter",
+      "id": "it_179270318010104",
+      "name": "BetaList",
+      "url": "https://betalist.com/"
+    },
+    {
+      "cat": "dev",
+      "desc": "developer tools launchpad; new dev tools weekly; for developers; open source; fair voting",
+      "id": "it_179270318010105",
+      "name": "Dev Hunt",
+      "url": "https://devhunt.org/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "software alternatives and startups directory; compare SaaS products; for buyers and founders; free listing",
+      "id": "it_179270318010106",
+      "name": "SaaSHub",
+      "url": "https://saashub.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "tech news and B2B software reviews; news for nerds; for tech professionals; free; user submissions",
+      "id": "it_179270318010107",
+      "name": "Slashdot",
+      "url": "https://slashdot.org/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "free startup launch platform; submit and promote your startup; for founders; permanent free listing; backlinks",
+      "id": "it_179270318010108",
+      "name": "Launch Llama",
+      "url": "https://tools.launchllama.co/"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "AI tools and software directory; updated daily; for professionals; free; newsletter",
+      "id": "it_179270318010109",
+      "name": "Futurepedia",
+      "url": "https://futurepedia.io/"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "AI news and tools directory; curated AI picks; for AI users; free; newsletter",
+      "id": "it_179270318010110",
+      "name": "Future Tools",
+      "url": "https://futuretools.io/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "SaaS directory for founders; submit product for visibility and backlinks; for founders; free listing; backlinks",
+      "id": "it_179270318010111",
+      "name": "ConfettiSaaS",
+      "url": "https://confettisaas.com/"
+    },
+    {
+      "cat": "biz_fund",
+      "desc": "private company data and funding insights; for investors and founders; free and paid; AI-powered predictions",
+      "id": "it_179270318010112",
+      "name": "Crunchbase",
+      "url": "https://crunchbase.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "one-click product launch platform; get featured, badges, backlinks; for makers; free and paid; launch blog post",
+      "id": "it_179270318010113",
+      "name": "Aura++",
+      "url": "https://auraplusplus.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "launch and discover new products daily; for founders; free listing",
+      "id": "it_179270318010114",
+      "name": "StartupBase",
+      "url": "https://startupbase.io/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "marketplace to buy and sell side projects; for developers; free listing",
+      "id": "it_179270318010115",
+      "name": "SideProjectors",
+      "url": "https://sideprojectors.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "launch platform for makers and startups; launch, get feedback, make first sales; for makers; free and paid",
+      "id": "it_179270318010116",
+      "name": "Microlaunch",
+      "url": "https://microlaunch.net/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "post your product and get discovered; for builders and founders; free; community of early adopters",
+      "id": "it_179270318010117",
+      "name": "Better Launch",
+      "url": "https://betterlaunch.co/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "social network for founders and startup builders; list your SaaS and discover launches; for founders; free",
+      "id": "it_179270318010118",
+      "name": "FoundrList",
+      "url": "https://foundrlist.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "product discovery platform for people and AI; structured product data; for builders; free; AI discoverability",
+      "id": "it_179270318010119",
+      "name": "PeerPush",
+      "url": "https://peerpush.net/"
+    },
+    {
+      "cat": "dev",
+      "desc": "curated list of 12 best tools; updated daily; for everyone; free",
+      "id": "it_179270318010120",
+      "name": "twelve.tools",
+      "url": "https://twelve.tools/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "discover and upvote best tech products; daily launches; for product hunters; free",
+      "id": "it_179270318010121",
+      "name": "Shipybara",
+      "url": "https://shipybara.com/"
+    },
+    {
+      "cat": "dev",
+      "desc": "blogging platform for builders in tech; blog on your own domain; for developers; free to start; SEO",
+      "id": "it_179270318010122",
+      "name": "Hashnode",
+      "url": "https://hashnode.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "SaaS directory and launch platform on a live map; browse and vote SaaS and AI tools; for founders; free",
+      "id": "it_179270318010123",
+      "name": "SaaSCity",
+      "url": "https://saascity.io/"
+    },
+    {
+      "cat": "dev",
+      "desc": "curated list of 500 best tools; for everyone; free",
+      "id": "it_179270318010124",
+      "name": "500.tools",
+      "url": "https://500.tools/"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "AI tool directory submission to 100+ directories; for AI tool makers; paid submission; backlinks and SEO",
+      "id": "it_179270318010125",
+      "name": "AI Directory",
+      "url": "https://aidirectori.es/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "reviewed startup directory with do-follow backlinks; free Verified badge or premium placement; for startups; backlinks",
+      "id": "it_179270318010126",
+      "name": "Startup Fame",
+      "url": "https://startupfa.me/"
+    },
+    {
+      "cat": "dev",
+      "desc": "AI-powered developer platform; build software and open source; for developers and businesses; free and paid; code hosting",
+      "id": "it_179270318010127",
+      "name": "GitHub",
+      "url": "https://github.com/"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "discover new AI products every day; curated AI innovations; for AI users; free",
+      "id": "it_179270318010128",
+      "name": "PitchWall",
+      "url": "https://pitchwall.co/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Product Hunt alternative for indie makers; weekly launches and dofollow pages; for indie makers; free; backlinks",
+      "id": "it_179270318010129",
+      "name": "ScrollLaunch",
+      "url": "https://scrolllaunch.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "launch SaaS in weekly tournaments; get backlinks, traffic, votes; for SaaS founders; free and paid",
+      "id": "it_179270318010130",
+      "name": "RankInPublic",
+      "url": "https://rankinpublic.xyz/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "product launch platform with high-authority backlinks and badges; for makers; free and paid",
+      "id": "it_179270318010131",
+      "name": "TinyLaunch",
+      "url": "https://tinylaunch.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "pay-what-you-want startup launch platform and directory; for founders; paid ranking; do-follow backlinks",
+      "id": "it_179270318010132",
+      "name": "Tiny Startups",
+      "url": "https://tinystartups.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "build and launch AI products faster; tutorials, AI tool reviews, launch strategies; for developers; free",
+      "id": "it_179270318010133",
+      "name": "Nick Launches",
+      "url": "https://nicklaunches.com/"
+    },
+    {
+      "cat": "biz_fund",
+      "desc": "startup jobs and AI recruiting platform; post jobs and hire talent; for startups and job seekers; free and paid",
+      "id": "it_179270318010134",
+      "name": "Wellfound",
+      "url": "https://wellfound.com/"
     }
   ]
 }
