@@ -6690,6 +6690,62 @@
       "id": "it_17926850130858",
       "name": "Cerebras Inference",
       "url": "https://www.cerebras.ai/"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Mistral developer console (La Plateforme): create/manage API keys, view usage and docs, playgrounds for chat models; web console for Mistral AI APIs; usage-based billing.",
+      "id": "it_17926850130859",
+      "name": "Mistral Console",
+      "url": "https://console.mistral.ai/"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Serverless AI inference at the edge: LLMs, image models, embeddings/vectorize, fine-tuning on Workers or REST endpoint; usage-based pricing with free tier and Hobby.",
+      "id": "it_179268501308510",
+      "name": "Cloudflare Workers AI",
+      "url": "https://developers.cloudflare.com/workers-ai/"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Google AI Studio API keys page: create and manage keys for Gemini generative AI (chat, code, image, speech) and restrict them by app; keys work with Google Gen AI SDKs; web console.",
+      "id": "it_179268501308511",
+      "name": "Google AI Studio API Keys",
+      "url": "https://aistudio.google.com/api-keys"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "Agent video-creation CLI: turn raw footage into edit-ready projects from Codex/Claude Code/Cursor - oralcut, transcripts, narration, render/export; npx @gitruck/cli, Node >=20.6, FFmpeg; MIT.",
+      "id": "it_179268501308512",
+      "name": "gtrk CLI",
+      "url": "https://github.com/Gitruck/cli"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Principles-first motion design skill for agents: timing, easing, choreography, emotion mapped to code across CSS, Framer Motion, GSAP, Lottie, Spring; install with npx skills add; MIT.",
+      "id": "it_179268501308513",
+      "name": "Motion Design Skill",
+      "url": "https://github.com/LottieFiles/motion-design-skill"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Curated fleet of motion-design skills for any agent: GSAP, Motion, Remotion, Lottie and Rive libraries installable in one line with agents skills add; CC0-1.0.",
+      "id": "it_179268501308514",
+      "name": "Awesome Motion Design Agent Skills",
+      "url": "https://github.com/frankxai/awesome-motion-design-agent-skills"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Marketplace of 144 Claude Code skills teaching Disney's 12 principles of animation and their application across UI, games, loading states and complex sequences; markdown skills; MIT.",
+      "id": "it_179268501308515",
+      "name": "Animation Principles Skills",
+      "url": "https://github.com/dylantarre/animation-principles"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Motion design toolkit for coding agents: taste rules, mandatory render-and-inspect loop, sound engine, and web-sim-to-60fps-video rendering; Claude Code/Cursor skills with AGENTS.md fallback; MIT.",
+      "id": "it_179268501308516",
+      "name": "claude-motion",
+      "url": "https://github.com/whaleyxbt/claude-motion"
     }
   ]
 }

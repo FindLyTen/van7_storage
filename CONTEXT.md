@@ -69,7 +69,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - When adding by URL list: dedupe against existing items by url and name first
 
 ## DATA STATE (2026-10-14)
-- 16 root sections, 113 categories, 824 items, all have desc; all descriptions, category names
+- 16 root sections, 113 categories, 832 items, all have desc; all descriptions, category names
   and item names are in English (translated 2026-10-14; ids and urls unchanged)
 - Root ids: ai, osint, hack, infra, auto, design, media, win, net, devices,
   chat, biz, edu, life, dev, games
@@ -134,6 +134,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-21 (+3 → 816): Harness2 (AI Agents); Pentagi (Pentest); Miro (Design). No duplicates skipped. Short machine-oriented descriptions; immediate push per Maxim's 2026-10-21 pre-approval.
 
 - 2026-10-22 (+8 → 824): Ninite (Windows); APInex CLI (CLI); Chops, Skill Issue, Vibe Prompts (Skills); OpenCode Zen, Inception Labs, Cerebras Inference (API & MCP). No duplicates skipped; descriptions ≤200 chars.
+
+- 2026-10-22 (+8 → 832): Mistral Console, Cloudflare Workers AI, Google AI Studio API Keys (API & MCP); gtrk CLI (AI Video); Motion Design Skill, Awesome Motion Design Agent Skills, Animation Principles Skills, claude-motion (Skills). No duplicates skipped.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
