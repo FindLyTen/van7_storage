@@ -6634,6 +6634,62 @@
       "id": "it_17926171777643",
       "name": "Miro",
       "url": "https://miro.com/"
+    },
+    {
+      "cat": "win",
+      "desc": "Software installer site: pick apps, one Ninite per-app installer updates them without toolbars and bloatware; free tier and Pro for business management; proprietary web service.",
+      "id": "it_17926850130851",
+      "name": "Ninite",
+      "url": "https://ninite.com/"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Zero-config autonomous terminal coding assistant for APInex: full-screen TUI, native tools (write_file, shell, package managers), animated pixel mascot; npm apinex-cli, Node >=20; MIT.",
+      "id": "it_17926850130852",
+      "name": "APInex CLI",
+      "url": "https://github.com/Apinex-AI/APInex-CLI"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "macOS app to discover, organize, edit coding-agent skills/agents (Claude Code, Cursor, Codex, Windsurf, Amp): frontmatter editor, collections, file watching, skills.sh browsing; SwiftUI; FSL-1.1-MIT.",
+      "id": "it_17926850130853",
+      "name": "Chops",
+      "url": "https://github.com/Shpigford/chops"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Ranked library of agent skills (SKILL.md files) curated by actual usage with per-domain stats; filter by design, frontend, backend, motion graphics and more; account only for favorites.",
+      "id": "it_17926850130854",
+      "name": "Skill Issue",
+      "url": "https://skill-issue.in/"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "UI prompt library for vibe coders: 286 ready-to-paste Tailwind CSS layout prompts in 15 categories (auth, pricing, bento, nav, CTA, hero, stats); copy, paste into any agent; free web library.",
+      "id": "it_17926850130855",
+      "name": "Vibe Prompts",
+      "url": "https://vibeprompts.dev/"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Curated model set for coding agents from the OpenCode team: models tested and benchmarked for agent use, transparent per-request pricing with zero markup, monthly spend limits; proprietary SaaS.",
+      "id": "it_17926850130856",
+      "name": "OpenCode Zen",
+      "url": "https://opencode.ai/zen"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Streaming diffusion API for real-time AI video/image generation: output streams progressively instead of full-sequence render; hosted API with key, Python/JS SDKs, docs and cookbook.",
+      "id": "it_17926850130857",
+      "name": "Inception Labs",
+      "url": "https://docs.inceptionlabs.ai/get-started"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Cerebras cloud inference on WSE hardware: very fast time-to-first-token for open LLMs at low per-token latency; REST API with key or hosted chat, docs, usage-based pricing.",
+      "id": "it_17926850130858",
+      "name": "Cerebras Inference",
+      "url": "https://www.cerebras.ai/"
     }
   ]
 }
