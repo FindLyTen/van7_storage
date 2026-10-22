@@ -8118,6 +8118,62 @@
       "id": "it_17927081843509",
       "name": "DuckDB MCP Server",
       "url": "https://github.com/motherduckdb/mcp-server-motherduck"
+    },
+    {
+      "cat": "ai_voice",
+      "desc": "Offline speech-to-text desktop app: hotkey dictation into any text field with local Whisper models, recording history, custom vocabularies, cross-platform; Tauri; MIT.",
+      "id": "it_17927082176861",
+      "name": "Handy",
+      "url": "https://github.com/cjpais/Handy"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Google Agent Development Kit for Python: code-first framework to build, evaluate and deploy AI agents and multi-agent workflows with tools and MCP; pip install google-adk; Apache-2.0.",
+      "id": "it_17927082176862",
+      "name": "ADK Python",
+      "url": "https://github.com/google/adk-python"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP server letting coding agents control and inspect live Chrome: performance traces, network requests, screenshots, console logs, Puppeteer automation; npx chrome-devtools-mcp; Apache-2.0.",
+      "id": "it_17927082176863",
+      "name": "Chrome DevTools MCP",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "cat": "dev",
+      "desc": "API and integration testing tool: records user traffic and auto-generates E2E tests, mocks and stubs for HTTP, gRPC and database calls; keploy CLI, Go binary; Apache-2.0.",
+      "id": "it_17927082176864",
+      "name": "Keploy",
+      "url": "https://github.com/keploy/keploy"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Reference MCP server implementations by the MCP steering group: filesystem, fetch, memory, git and time servers as educational examples, plus community links; Python/Node; Apache-2.0/MIT.",
+      "id": "it_17927082176865",
+      "name": "MCP Reference Servers",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP application framework: servers, clients and interactive apps defined in plain Python with decorators, auth, proxying and composition; pip install fastmcp; Apache-2.0.",
+      "id": "it_17927082176866",
+      "name": "FastMCP",
+      "url": "https://github.com/PrefectHQ/fastmcp"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "TypeScript framework to build, test and ship MCP servers, ChatGPT plugins and Claude connectors: native MCP Apps, built-in Inspector, agent support; npm i mcp-use; MIT.",
+      "id": "it_17927082176867",
+      "name": "mcp-use",
+      "url": "https://github.com/mcp-use/mcp-use"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Go SDK implementing MCP: servers and clients with tools, resources and prompts over stdio and SSE/streamable-HTTP transports; go get github.com/mark3labs/mcp-go; MIT.",
+      "id": "it_17927082176868",
+      "name": "mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go"
     }
   ]
 }
