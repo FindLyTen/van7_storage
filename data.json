@@ -7894,6 +7894,20 @@
       "id": "it_17927074124617",
       "name": "OpenLIT",
       "url": "https://github.com/openlit/openlit"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Desktop app and headless server: browse, search and analyze AI coding assistant histories (Claude Code, Codex CLI, Cursor, Aider, OpenCode, Gemini CLI); analytics, token stats; 100% offline; MIT.",
+      "id": "it_17927074482961",
+      "name": "Claude Code History Viewer",
+      "url": "https://github.com/jhlee0409/claude-code-history-viewer"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Python CLI converting Claude Code transcript JSONL into readable HTML/Markdown/JSON: TUI browser, watch mode, project hierarchy index, token usage, Obsidian-friendly; uvx install; MIT.",
+      "id": "it_17927074482962",
+      "name": "Claude Code Log",
+      "url": "https://github.com/daaain/claude-code-log"
     }
   ]
 }
