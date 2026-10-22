@@ -7740,6 +7740,62 @@
       "id": "it_17927070825248",
       "name": "Leaked System Prompts (jujumilk3)",
       "url": "https://github.com/jujumilk3/leaked-system-prompts"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Credential broker by Infisical: agents route HTTP through it and never hold real secrets; placeholders swapped on outbound requests, egress filtering, request logging, pluggable stores; Go.",
+      "id": "it_17927071269461",
+      "name": "Agent Vault",
+      "url": "https://github.com/Infisical/agent-vault"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Authorization layer (PDP): context-aware access rules in YAML policies, gitops deployment, RBAC/ABAC, CheckResources and PlanResources APIs, SDKs; Go, self-hosted; Apache-2.0.",
+      "id": "it_17927071269462",
+      "name": "Cerbos",
+      "url": "https://github.com/cerbos/cerbos"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Open source proxy for agent traffic on MCP and A2A protocols: security, observability and governance for agent-to-LLM, agent-to-tool and agent-to-agent communication; Rust; Apache-2.0.",
+      "id": "it_17927071269463",
+      "name": "AgentGateway",
+      "url": "https://github.com/agentgateway/agentgateway"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Fine-grained authorization engine based on Google Zanzibar: HTTP/gRPC APIs, PostgreSQL/MySQL/SQLite storage, multi-language SDKs, CLI, playground; CNCF project, Go; Apache-2.0.",
+      "id": "it_17927071269464",
+      "name": "OpenFGA",
+      "url": "https://github.com/openfga/openfga"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Authorization database inspired by Google Zanzibar: scalable fine-grained permissions, relationships as data, consistent permission checks; Go; Apache-2.0.",
+      "id": "it_17927071269465",
+      "name": "SpiceDB",
+      "url": "https://github.com/authzed/spicedb"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Access control library: enforces authorization across ACL, RBAC, ABAC models via a model+policy config; production-ready ports for Go, Java, Node, PHP, Python, .NET, C++, Rust; Apache-2.0.",
+      "id": "it_17927071269466",
+      "name": "Apache Casbin",
+      "url": "https://github.com/apache/casbin"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Framework-agnostic TypeScript authentication framework: email/social auth, 2FA, multi-tenant, sessions, plugin ecosystem; npm; MIT.",
+      "id": "it_17927071269467",
+      "name": "Better Auth",
+      "url": "https://github.com/better-auth/better-auth"
+    },
+    {
+      "cat": "infra_vps_sec",
+      "desc": "Identity and access management server: SSO, user federation (LDAP/AD), strong auth (2FA, passkeys), fine-grained authorization, admin console; Java, self-hosted; Apache-2.0.",
+      "id": "it_17927071269468",
+      "name": "Keycloak",
+      "url": "https://github.com/keycloak/keycloak"
     }
   ]
 }
