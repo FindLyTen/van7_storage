@@ -7579,6 +7579,55 @@
       "id": "it_17927058164046",
       "name": "Botmail",
       "url": "https://botmail.pro/"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Installer: OpenCode AI coding agent on Android/Termux (aarch64); uses Android/Bionic build with pidfd_open shim, SHA-256-verified download, wrapper script; bash installer; MIT.",
+      "id": "it_17927069541591",
+      "name": "OpenCode for Termux",
+      "url": "https://github.com/dextune/opencode-termux"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "AI coding agent for mobile apps: opencode fork that detects iOS/Android/React Native/Expo projects, runs simulator/emulator preview streams in-app, agent-driven device_run builds; TypeScript; MIT.",
+      "id": "it_17927069541592",
+      "name": "MobileCode",
+      "url": "https://github.com/hsandhu/mobilecode"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Web directory: curated open-source projects ranked by real signals, not only stars; categories, trending, alternatives, updated daily from GitHub; 500+ projects tracked; free site.",
+      "id": "it_17927069541593",
+      "name": "FindOpenSource.dev",
+      "url": "https://findopensource.dev/"
+    },
+    {
+      "cat": "chat_clients",
+      "desc": "MCP email server for AI agents: multi-account Microsoft Graph + IMAP, calendar, local search index, sender memory, permission model, data masking; local data, stdio only; Python; AGPL-3.0.",
+      "id": "it_17927069541594",
+      "name": "GigaMail",
+      "url": "https://github.com/adecubed/gigamail"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Self-hosted SEO site auditor: crawls a site, reports issues by severity (broken links, redirects, meta tags, headings); Go + MySQL, Docker deployment, ECharts dashboard; MIT.",
+      "id": "it_17927069541595",
+      "name": "SEOnaut",
+      "url": "https://github.com/StJudeWasHere/seonaut"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM eval and red-teaming CLI/library: test prompts, models and agents before release, vulnerability scanning, CI integration, web viewer; npm/pip/brew; TypeScript; MIT (now part of OpenAI).",
+      "id": "it_17927069541596",
+      "name": "Promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM evaluation framework, pytest-style: 20+ metrics (G-Eval, hallucination, task completion, tool correctness, RAG), LLM-as-a-judge or local NLP models, agent trajectory evals; Python pip; Apache-2.0.",
+      "id": "it_17927069541597",
+      "name": "DeepEval",
+      "url": "https://github.com/confident-ai/deepeval"
     }
   ]
 }

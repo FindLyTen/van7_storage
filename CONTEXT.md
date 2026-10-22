@@ -161,6 +161,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-22 (+6 → 951): SoPilot, SerpBear, SEO Machine, Awesome Open-Source SEO (Marketing & SEO); Orca (Stably AI) (AI Agents); Botmail (Temporary Email). Skipped duplicates: OpenSEO repo (id it_17898239559318, same product as openseo.so), helmor (287). Batch G2, group 1.
 
+- 2026-10-23 (+7 → 958): OpenCode for Termux, MobileCode (CLI Tools); FindOpenSource.dev (Collections); GigaMail (Clients); SEOnaut (Marketing & SEO); Promptfoo, DeepEval (AI Agents). Unreadable: x.com/i/history (login-only). Batch G2, group 2.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
