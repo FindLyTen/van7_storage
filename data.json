@@ -7908,6 +7908,41 @@
       "id": "it_17927074482962",
       "name": "Claude Code Log",
       "url": "https://github.com/daaain/claude-code-log"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Book code, 3rd edition: build, backtest and deploy ML trading strategies from data sourcing to live execution; 27 chapters, 9 case studies; Python, pandas, scikit-learn, PyTorch; MIT.",
+      "id": "it_17927080631671",
+      "name": "Machine Learning for Trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
+    },
+    {
+      "cat": "ai_memory",
+      "desc": "Deterministic code memory and guardrails for AI coding agents: static-analysis call graph in SQLite, task context lookup, unsafe-change gate; no API key; npm install openlore; MIT.",
+      "id": "it_17927080631672",
+      "name": "OpenLore",
+      "url": "https://github.com/clay-good/OpenLore"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Hugging Face post-training library for foundation models: SFT, DPO, GRPO and reward modelling with Extensible Trainer API, LoRA and multi-GPU support; pip install trl; Python; Apache-2.0.",
+      "id": "it_17927080631673",
+      "name": "TRL",
+      "url": "https://github.com/huggingface/trl"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Train multi-step agents with GRPO for real-world tasks: LLM and RAG integrations, vLLM rollouts, W&B serverless RL backend; pip install openpipe-art; Python; Apache-2.0.",
+      "id": "it_17927080631674",
+      "name": "ART (Agent Reinforcement Trainer)",
+      "url": "https://github.com/OpenPipe/ART"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "End-to-end platform to build foundation models: SFT/DPO/GRPO with tool use, synthetic data, inference and oumi-mcp server; pip install oumi; Python, PyTorch, vLLM; Apache-2.0.",
+      "id": "it_17927080631675",
+      "name": "Oumi",
+      "url": "https://github.com/oumi-ai/oumi"
     }
   ]
 }

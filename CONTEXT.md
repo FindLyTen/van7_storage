@@ -175,6 +175,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+2 → 998): Claude Code History Viewer, Claude Code Log (CLI Tools). No duplicates skipped. Batch G2 complete: 53 added; skipped duplicates helmor (287), claude-code-system-prompts (442), awesome-agent-skills (216), mcp-toolbox (275), composio (it_1792239605970), OpenSEO repo (it_17898239559318); unreadable x.com/i/history.
 
+- 2026-10-23 (+5 -> 1003): Machine Learning for Trading (Trading); OpenLore (Agent Memory); TRL, ART (Agent Reinforcement Trainer), Oumi (AI Agents). Skipped duplicates: ImHex (it_179268501308556), mitmproxy (it_179268501308558), ILSpy (it_179268501308553). Batch H, group 1.
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
