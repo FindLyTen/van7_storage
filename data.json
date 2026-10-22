@@ -7537,6 +7537,48 @@
       "id": "it_179270318010134",
       "name": "Wellfound",
       "url": "https://wellfound.com/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Web service: X (Twitter) marketing growth system; tracks rising creators, topics and breakout posts, AI-assisted content creation, engagement and publishing; SaaS, free tier.",
+      "id": "it_17927058164041",
+      "name": "SoPilot",
+      "url": "https://sopilot.net/"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Self-hosted SEO rank tracker: unlimited keywords and domains, position tracking via proxies or SERP APIs, email alerts, REST API, Google Search Console/Ads integration; Node.js, Docker; MIT.",
+      "id": "it_17927058164042",
+      "name": "SerpBear",
+      "url": "https://github.com/towfiqi/serpbear"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Claude Code workspace for long-form SEO content: research/write/optimize commands, specialized agents, 26 marketing skills, GA4/GSC/DataForSEO integrations; Python, Docker; MIT.",
+      "id": "it_17927058164043",
+      "name": "SEO Machine",
+      "url": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Curated list: only open-source self-hostable SEO tools (crawlers, audits, rank trackers, analytics, GEO/llms.txt, agent skills); badges auto-refreshed monthly; CC0.",
+      "id": "it_17927058164044",
+      "name": "Awesome Open-Source SEO",
+      "url": "https://github.com/ZensInk/awesome-open-source-seo"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Desktop AI orchestrator: runs Codex, Claude Code, OpenCode, Pi in parallel git worktrees, terminal splits, embedded browser/design mode, SSH worktrees, mobile companion; macOS/Windows/Linux; MIT.",
+      "id": "it_17927058164045",
+      "name": "Orca (Stably AI)",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "cat": "chat_mail",
+      "desc": "Email service for AI agents: agent claims an address via POST /v1/claim, owner approves, then send/receive/reply over MCP, REST API or CLI (npx botmail); spam checks; SaaS, free tier.",
+      "id": "it_17927058164046",
+      "name": "Botmail",
+      "url": "https://botmail.pro/"
     }
   ]
 }

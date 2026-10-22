@@ -159,6 +159,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+34 → 945): Hacker News, GeekNews, What Launched Today, BetaList (dev/biz_mkt); Dev Hunt, SaaSHub, Slashdot, Launch Llama, ConfettiSaaS, Aura++, StartupBase, SideProjectors, Microlaunch, Better Launch, FoundrList, PeerPush, Shipybara, SaaSCity, Startup Fame, ScrollLaunch, RankInPublic, TinyLaunch, Tiny Startups, Nick Launches (biz_mkt); Futurepedia, Future Tools, AI Directory, PitchWall (ai_lists); Crunchbase, Wellfound (biz_fund). No duplicates skipped. 16 links unreadable (Cloudflare/429/429 blocks): Reddit, ProductHunt, IndieHackers, uneed.best, peerlist.io, launchingnext.com, alternativeto.net, g2.com, capterra.com, getapp.com, trustradius.com, theresanaiforthat.com, toolify.ai, crazyaboutai.com, rankanything.online, sourceforge.net.
 
+- 2026-10-22 (+6 → 951): SoPilot, SerpBear, SEO Machine, Awesome Open-Source SEO (Marketing & SEO); Orca (Stably AI) (AI Agents); Botmail (Temporary Email). Skipped duplicates: OpenSEO repo (id it_17898239559318, same product as openseo.so), helmor (287). Batch G2, group 1.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
