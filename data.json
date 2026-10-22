@@ -7796,6 +7796,55 @@
       "id": "it_17927071269468",
       "name": "Keycloak",
       "url": "https://github.com/keycloak/keycloak"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Curated list: Model Context Protocol servers (file access, databases, API integrations), MCP clients, tutorials and frameworks; the reference MCP directory; MIT.",
+      "id": "it_17927071830881",
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers"
+    },
+    {
+      "cat": "auto_selfhost",
+      "desc": "Open source no-code automation, Zapier replacement: flow builder, 280+ integrations, pieces in TypeScript, MCP support, self-host or cloud; MIT core.",
+      "id": "it_17927071830882",
+      "name": "Activepieces",
+      "url": "https://github.com/activepieces/activepieces"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP integration platform: Strata connectors optimize agent context window across thousands of tools, plus MCP servers for Slack/GitHub/Docs and custom tools; Python, SaaS + open source; Apache-2.0.",
+      "id": "it_17927071830883",
+      "name": "Klavis",
+      "url": "https://github.com/Klavis-AI/klavis"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Self-hosted MCP gateway and control plane: connect local/remote MCP servers once, stable endpoints, auth with scoped credentials and per-user visibility, logs and health monitoring; TypeScript; Apache-2.0.",
+      "id": "it_17927071830884",
+      "name": "MCPHub",
+      "url": "https://github.com/samanhappy/mcphub"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP platform: runs every MCP server in an isolated container, identity and access policy per request, semantic tool search (up to 85% token savings), Kubernetes operator, OTel traces; Go; Apache-2.0.",
+      "id": "it_17927071830885",
+      "name": "ToolHive",
+      "url": "https://github.com/stacklok/toolhive"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "MCP server ecosystem for AI scientists: 1000+ ML models, datasets, APIs and scientific packages via AI-Tool Interaction Protocol; tool composition, async ops; Harvard MIMS; Python; Apache-2.0.",
+      "id": "it_17927071830886",
+      "name": "ToolUniverse",
+      "url": "https://github.com/mims-harvard/ToolUniverse"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Docker CLI plugin (docker-mcp) running MCP servers in isolated containers: unified gateway, secrets management, OAuth flows, dynamic tool discovery, catalog; works with Docker Desktop or standalone; Go; MIT.",
+      "id": "it_17927071830887",
+      "name": "Docker MCP Gateway",
+      "url": "https://github.com/docker/mcp-gateway"
     }
   ]
 }

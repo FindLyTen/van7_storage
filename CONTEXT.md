@@ -169,6 +169,8 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+8 → 982): Agent Vault, Cerbos, OpenFGA, SpiceDB, Apache Casbin, Better Auth, Keycloak (VPS / Security); AgentGateway (API & MCP). No duplicates skipped. Batch G2, group 5.
 
+- 2026-10-23 (+7 → 989): Awesome MCP Servers (Collections); Activepieces (Self-hosted Tools); Klavis, MCPHub, ToolHive, ToolUniverse, Docker MCP Gateway (API & MCP). Skipped duplicates: composio (it_1792239605970, same product), mcp-toolbox (275). Batch G2, group 6.
+
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector
