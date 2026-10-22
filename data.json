@@ -7026,6 +7026,62 @@
       "id": "it_179268501308556",
       "name": "ImHex",
       "url": "https://github.com/WerWolv/ImHex"
+    },
+    {
+      "cat": "hack",
+      "desc": "Platform-agnostic binary analysis framework: symbolic execution, decompilation, control-flow and data-dependency analysis, value-set analysis, program instrumentation; Python 3; BSD-2-Clause.",
+      "id": "it_179268501308557",
+      "name": "angr",
+      "url": "https://github.com/angr/angr"
+    },
+    {
+      "cat": "hack_tools",
+      "desc": "Interactive intercepting HTTPS proxy in Python: TLS cert spoofing, replay, scripting, mitmdump CLI and mitmweb UI, HAR export; TLS-capable debugging of HTTP traffic; MIT.",
+      "id": "it_179268501308558",
+      "name": "mitmproxy",
+      "url": "https://github.com/mitmproxy/mitmproxy"
+    },
+    {
+      "cat": "hack",
+      "desc": "Unofficial continuation of dnSpy: debugger and assembly editor for .NET and Unity without source code - edit metadata in C#/VB, breakpoints, tracepoints, hex memory window; C#; GPL-3.0.",
+      "id": "it_179268501308559",
+      "name": "dnSpyEx",
+      "url": "https://github.com/dnSpyEx/dnSpy"
+    },
+    {
+      "cat": "hack",
+      "desc": "Reversing framework born as a fork of radare2 focused on usability and cleanliness: analyze binaries, disassemble, debug, forensics, scriptable hex editor; C, meson build; LGPL-3.0.",
+      "id": "it_179268501308560",
+      "name": "rizin",
+      "url": "https://github.com/rizinorg/rizin"
+    },
+    {
+      "cat": "hack",
+      "desc": "Native, user-mode, multi-process graphical debugger from Epic Games: local x64 on Windows and early Linux, RDI debug-info format, radbin conversion, alpha; C; MIT.",
+      "id": "it_179268501308561",
+      "name": "RAD Debugger",
+      "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+      "cat": "edu_lists",
+      "desc": "Curated list of awesome reversing resources: books, courses, YouTube channels, practice sites, hex editors, disassemblers, binary analysis, debugging and Android tooling.",
+      "id": "it_179268501308562",
+      "name": "Awesome Reversing",
+      "url": "https://github.com/tylerha97/awesome-reversing"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "General-purpose agent skill that discovers, routes and orchestrates local Skills across multi-step tasks: confirms the requirement, plans (L/XL), assigns Skills, verifies delivery; Apache-2.0.",
+      "id": "it_179268501308563",
+      "name": "VibeSkills",
+      "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+    },
+    {
+      "cat": "chat_clients",
+      "desc": "Group chat for humans and coding agents: mention @claude/@codex etc and the agent starts on your machine in your repo; web, desktop, mobile apps + Rust CLI; FSL-1.1-ALv2.",
+      "id": "it_179268501308564",
+      "name": "xMatrix",
+      "url": "https://github.com/LambdaLabsHQ/xmatrix"
     }
   ]
 }
