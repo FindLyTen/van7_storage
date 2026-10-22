@@ -8174,6 +8174,20 @@
       "id": "it_17927082176868",
       "name": "mcp-go",
       "url": "https://github.com/mark3labs/mcp-go"
+    },
+    {
+      "cat": "devices_android",
+      "desc": "Mobile app automation for AI coding agents: inspect, control, debug and verify iOS, Android, HarmonyOS, TV and web apps via CLI, built-in MCP server or Node.js API; npm; MIT.",
+      "id": "it_17927083110291",
+      "name": "agent-device",
+      "url": "https://github.com/callstack/agent-device"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Python, pip install mobile-use; Apache-2.0.",
+      "id": "it_17927083110292",
+      "name": "Minitap mobile-use",
+      "url": "https://github.com/minitap-ai/mobile-use"
     }
   ]
 }
