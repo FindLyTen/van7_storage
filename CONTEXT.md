@@ -173,7 +173,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 
 - 2026-10-23 (+7 → 996): Langfuse, MLflow, Phoenix (Arize), OpenLLMetry, LangWatch, Laminar, OpenLIT (AI Agents, LLM observability/tracing). No duplicates skipped. Batch G2, group 7.
 
-- 2026-10-23 (+2 → 998): Claude Code History Viewer, Claude Code Log (CLI Tools). No duplicates skipped. Batch G2 complete: 52 added; skipped duplicates helmor (287), claude-code-system-prompts (442), awesome-agent-skills (216), mcp-toolbox (275), composio (it_1792239605970), OpenSEO repo (it_17898239559318); unreadable x.com/i/history.
+- 2026-10-23 (+2 → 998): Claude Code History Viewer, Claude Code Log (CLI Tools). No duplicates skipped. Batch G2 complete: 53 added; skipped duplicates helmor (287), claude-code-system-prompts (442), awesome-agent-skills (216), mcp-toolbox (275), composio (it_1792239605970), OpenSEO repo (it_17898239559318); unreadable x.com/i/history.
 
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
