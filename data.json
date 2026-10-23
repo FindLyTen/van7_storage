@@ -3389,7 +3389,7 @@
       "desc": "autonomous AI agent for professional red team that goes through the full attack chain on its own",
       "id": 363,
       "name": "Decepticon",
-      "url": "https://github.com/PurpleAILAB/Decepticon"
+      "url": "https://github.com/BitterSecurity/Decepticon"
     },
     {
       "cat": "auto_browser",
