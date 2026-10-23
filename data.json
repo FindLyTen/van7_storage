@@ -8195,6 +8195,41 @@
       "id": "it_17927085547181",
       "name": "OpenBB",
       "url": "https://github.com/openbq-org/OpenBB"
+    },
+    {
+      "cat": "ai_router",
+      "desc": "Self-hosted gateway: one OpenAI Responses-compatible API for Codex, Claude Code, OpenCode and 26 agent harnesses; sessions, streaming, files; Docker; Apache-2.0.",
+      "id": "it_17927438809451",
+      "name": "HarnessRouter",
+      "url": "https://github.com/HarnessRouter/harnessrouter"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Super-agent harness: orchestrates sub-agents, memory, sandboxes and skills for long research and coding tasks; Python/Node; Docker quickstart; MIT.",
+      "id": "it_17927438809452",
+      "name": "DeerFlow",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Low-code visual builder for AI agents and chatflows: drag-and-drop LLM chains, tools, RAG and API endpoints; npm or Docker; Apache-2.0; repo archived.",
+      "id": "it_17927438809453",
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "LLM observability and evaluation platform: agent tracing, datasets, LLM-as-judge metrics, prompt playground, production dashboards; Python SDK; Docker self-host; Apache-2.0.",
+      "id": "it_17927438809454",
+      "name": "Opik",
+      "url": "https://github.com/comet-ml/opik"
+    },
+    {
+      "cat": "ai_memory",
+      "desc": "Graph-based RAG pipeline: LLM extracts entities and relationships into a knowledge graph for global and local question answering; Python CLI; pip install graphrag; MIT.",
+      "id": "it_17927438809455",
+      "name": "GraphRAG",
+      "url": "https://github.com/microsoft/graphrag"
     }
   ]
 }
