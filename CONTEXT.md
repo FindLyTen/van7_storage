@@ -183,6 +183,7 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - 2026-10-23 (+2 -> 1038): agent-device (Android); Minitap mobile-use (AI Agents, different project from MadeAgents MobileUse it_17926864503176). No duplicates skipped. Batch H, group 6 (final): 41 added.
 - 2026-10-23 (+1 -> 1039): OpenBB (Trading). No duplicates skipped. Batch H closed after re-audit: OpenBB was missed between groups; 41 items total.
 - 2026-10-23 (+5 -> 1044): HarnessRouter (Routers & Gateways); DeerFlow, Flowise, Opik (AI Agents); GraphRAG (Agent Memory). Skipped duplicates: ECC (249), Langfuse (it_17927074124611), Qdrant (it_1791310598950). Batch I, group 1.
+- 2026-10-23 (+7 -> 1051): R2R (Agent Memory); free-pi (CLI Tools); Company Researcher (Website Analysis); PrivacyTools.io (Defense); Monid Rankings (Collections); x402, UCP (Trading). Skipped duplicate: Dify (it_1791217649107). Batch I, group 2.
 ## FRONT-END: MAP (main)
 - buildGraph(): center "СКЛАД" → ring of 16 roots (R=420) → subcategories fanned
   outward (R=360) in the parent's sector

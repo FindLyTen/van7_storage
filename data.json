@@ -8230,6 +8230,55 @@
       "id": "it_17927438809455",
       "name": "GraphRAG",
       "url": "https://github.com/microsoft/graphrag"
+    },
+    {
+      "cat": "ai_memory",
+      "desc": "Agentic RAG retrieval system with REST API: multimodal ingestion, hybrid search, knowledge graphs, document management, Deep Research agent; pip or Docker; MIT.",
+      "id": "it_17927438809456",
+      "name": "R2R",
+      "url": "https://github.com/SciPhi-AI/R2R"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Free AI coding agent CLI for the terminal: Pi harness, daily free allowance funded by terminal ads, several hosted models; npx free-pi-cli; TypeScript; MIT.",
+      "id": "it_17927438809457",
+      "name": "free-pi",
+      "url": "https://freepi.ai/"
+    },
+    {
+      "cat": "osint_web",
+      "desc": "Company research tool: takes a company URL and returns website, LinkedIn, funding, news and competitor data via Exa search API; Next.js/TypeScript; MIT.",
+      "id": "it_17927438809458",
+      "name": "Company Researcher",
+      "url": "https://github.com/exa-labs/company-researcher"
+    },
+    {
+      "cat": "hack_def",
+      "desc": "Curated privacy app directory: 350+ reviewed tools and services with filters, ratings and alternatives for encryption, VPN, browsers and self-hosting; web directory.",
+      "id": "it_17927438809459",
+      "name": "PrivacyTools.io",
+      "url": "https://privacytools.io/apps"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Live ranking of AI tools and API endpoints by real agent transaction volume: weekly and monthly most-used and fastest-growing lists; web only.",
+      "id": "it_179274388094510",
+      "name": "Monid Rankings",
+      "url": "https://monid.ai/rankings"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Open payment protocol built on HTTP 402: charge APIs and AI agents in stablecoins or fiat across many chains; TypeScript, Python and Go SDKs; npm/pip; Apache-2.0.",
+      "id": "it_179274388094511",
+      "name": "x402",
+      "url": "https://github.com/x402-foundation/x402"
+    },
+    {
+      "cat": "biz_trade",
+      "desc": "Universal Commerce Protocol: open spec for agentic commerce, product discovery, checkout sessions and orders between platforms, businesses and payment providers; Apache-2.0.",
+      "id": "it_179274388094512",
+      "name": "UCP",
+      "url": "https://github.com/Universal-Commerce-Protocol/ucp"
     }
   ]
 }
