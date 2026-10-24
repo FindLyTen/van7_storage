@@ -212,3 +212,4 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - keep backups/ entirely — it's the sklad's history
 - 2026-10-24 (+4 -> 1061): Claude Code Subagents (Skills); Video Edit MCP (AI Video); Agency Agents (AI Agents); Agents and Plugins wshobson (Skills). Batch C group 1 of 3.
 - 2026-10-24 (+4 -> 1065): Claude Quickstarts (Collections); Reserve (Monitoring); Monid (API & MCP); auto-editor (Video Editing). Batch C group 2 of 3.
+- 2026-10-24 (+3 -> 1068): DeepFilterNet (Voice & Transcription); Okara (Marketing & SEO); Polar (Browser). Batch C complete: 18 links processed, 11 added; skipped duplicates: browser-use Video Use (it_17902579808786), DaVinci Resolve MCP (241), Knowledge Work Plugins (246), Agent Skills Osmani (218), DeepSeek Harness (407, same product), ML for Trading (it_17927080631671), Semrush (it_1791895568045).
