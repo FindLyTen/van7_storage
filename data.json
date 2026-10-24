@@ -8349,6 +8349,34 @@
       "id": "it_17928034748894",
       "name": "Agents and Plugins (wshobson)",
       "url": "https://github.com/wshobson/agents"
+    },
+    {
+      "cat": "ai_lists",
+      "desc": "Anthropic's collection of Claude API starter projects: customer support agent, financial data analyst, computer use and browser use demos; official sample agents; MIT.",
+      "id": "it_17928035080891",
+      "name": "Claude Quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "cat": "infra_mon",
+      "desc": "macOS menu-bar app showing reported subscription capacity for OpenAI Codex, Claude, Grok, Cursor, Copilot, Gemini, Z.ai GLM coding plan and Kimi; local-only, no accounts or telemetry; Swift, MIT.",
+      "id": "it_17928035080892",
+      "name": "Reserve",
+      "url": "https://github.com/Apiruck-Corp/reserve"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Agent skill hub: one skill unlocks 1800+ tools and APIs for AI agents; discovery and pay-per-call usage billing instead of per-tool sign-ups or subscriptions; commercial.",
+      "id": "it_17928035080893",
+      "name": "Monid",
+      "url": "https://monid.ai/"
+    },
+    {
+      "cat": "media_video",
+      "desc": "CLI that automatically edits video and audio by cutting silence and dead space; loudness-based first pass, pace via margin options; prebuilt binaries; Nim, Unlicense.",
+      "id": "it_17928035080894",
+      "name": "auto-editor",
+      "url": "https://github.com/WyattBlue/auto-editor"
     }
   ]
 }

@@ -211,3 +211,4 @@ map (node onto node → becomes a subcategory). RMB — context menus everywhere
 - `*.bak`, `*.bak2`, `opencode.json.direct`, `__pycache__` — historical copies
 - keep backups/ entirely — it's the sklad's history
 - 2026-10-24 (+4 -> 1061): Claude Code Subagents (Skills); Video Edit MCP (AI Video); Agency Agents (AI Agents); Agents and Plugins wshobson (Skills). Batch C group 1 of 3.
+- 2026-10-24 (+4 -> 1065): Claude Quickstarts (Collections); Reserve (Monitoring); Monid (API & MCP); auto-editor (Video Editing). Batch C group 2 of 3.
