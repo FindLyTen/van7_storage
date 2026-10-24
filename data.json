@@ -8321,6 +8321,34 @@
       "id": "it_179274388094518",
       "name": "Appwrite",
       "url": "https://github.com/appwrite/appwrite"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Official docs for Claude Code subagents: separate AI workers, each with its own context window, system prompt, tool access and permissions; defined as markdown files in .claude/agents.",
+      "id": "it_17928034748891",
+      "name": "Claude Code Subagents",
+      "url": "https://code.claude.com/docs/en/sub-agents"
+    },
+    {
+      "cat": "ai_video",
+      "desc": "MCP server for video and audio editing: trim, merge, crop, resize, overlays, text and video overlays, format conversion, audio operations; works with Claude Desktop and Cursor; Python, MIT.",
+      "id": "it_17928034748892",
+      "name": "Video Edit MCP",
+      "url": "https://github.com/Aditya2755/video-edit-mcp"
+    },
+    {
+      "cat": "ai_agents",
+      "desc": "Collection of role-based AI agents for Claude Code: frontend, marketing, QA and other specialists as ready-to-install markdown subagents; desktop app for macOS, Linux, Windows; MIT.",
+      "id": "it_17928034748893",
+      "name": "Agency Agents",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "cat": "ai_skills",
+      "desc": "Catalog of 94 plugins for AI coding tools: 202 agents, 185 skills, 105 commands shared from one Markdown source; multi-harness install (Claude Code, Codex CLI, Cursor, OpenCode, Copilot); MIT.",
+      "id": "it_17928034748894",
+      "name": "Agents and Plugins (wshobson)",
+      "url": "https://github.com/wshobson/agents"
     }
   ]
 }
