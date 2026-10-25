@@ -8398,6 +8398,83 @@
       "id": "it_17928035210983",
       "name": "Polar",
       "url": "https://polarbrowser.com/"
+    },
+    {
+      "cat": "design_maps",
+      "desc": "Interactive world map for the terminal: countries, place names, live aircraft, city weather, radar overlay, earthquakes and day/night bands; Python curses with Unicode Braille; pip or brew.",
+      "id": "it_17929462201871",
+      "name": "Terrascope",
+      "url": "https://github.com/a-shygun/Terrascope"
+    },
+    {
+      "cat": "media_comp",
+      "desc": "Archive extractor that unpacks huge zip/rar/7z/tar archives in place, shrinking the archive as files hatch, so only free space for the output is needed; CLI hz with right-click menu; MIT/Apache-2.0.",
+      "id": "it_17929462201872",
+      "name": "HatchZip",
+      "url": "https://github.com/xevrion/hatchzip"
+    },
+    {
+      "cat": "design_3d",
+      "desc": "Free open-source framework for cinematic interactive 3D websites: the 3D scene is the page, AI-generated hero assets (image-to-3D), real lighting, choreographed camera; 20 example sites; JavaScript.",
+      "id": "it_17929462201873",
+      "name": "Dioramas",
+      "url": "https://github.com/blendi-remade/dioramas"
+    },
+    {
+      "cat": "ai_api",
+      "desc": "Uncensored GLM-5.3 listing on the Experiential gateway: 1.05M token context, $1.40 input / $4.40 output per 1M tokens, one API key for every model; OpenAI-compatible API.",
+      "id": "it_17929462201874",
+      "name": "GLM-5.3 Uncensored (Experiential)",
+      "url": "https://platform.experientiallabs.ai/models/glm-5.3-uncensored"
+    },
+    {
+      "cat": "media_img",
+      "desc": "Browser ASCII art generator: converts images and videos into ASCII, braille, halftone dots, dither or brick mosaics; runs client-side, free account to export without watermark.",
+      "id": "it_17929462201875",
+      "name": "Devault ASCII",
+      "url": "https://devault-ascii.pages.dev/ascii-generator/"
+    },
+    {
+      "cat": "edu_lists",
+      "desc": "Independent software directory of open-source reimplementations: discover projects that replace commercial software (Photoshop, Fusion, Animate), plus community project requests; catalog JSON export.",
+      "id": "it_17929462201876",
+      "name": "Remade",
+      "url": "https://remade.wiki/"
+    },
+    {
+      "cat": "infra_mon",
+      "desc": "Developer health dashboard: monitors services via HTTP, ICMP, TCP and DNS with conditions on status code, response time, certificate expiry; alerts to Slack, Teams, PagerDuty; Go, Docker.",
+      "id": "it_17929462201877",
+      "name": "Gatus",
+      "url": "https://github.com/TwiN/gatus"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Token-saving wrapper for AI coding agents: fewer words in agent output (33% fewer input tokens in tests), code stays exact; works with Claude Code, Codex, OpenCode and 30+ agents; npx; Apache-2.0.",
+      "id": "it_17929462201878",
+      "name": "Caveman",
+      "url": "https://github.com/juliusbrussee/caveman"
+    },
+    {
+      "cat": "ai_cli",
+      "desc": "Agent-agnostic token optimization: Rust binary filters and compresses command output before it reaches LLM context; 100+ supported commands, up to 90% smaller bash output, under 10ms; brew/winget.",
+      "id": "it_17929462201879",
+      "name": "RTK",
+      "url": "https://github.com/rtk-ai/rtk"
+    },
+    {
+      "cat": "biz_mkt",
+      "desc": "Microsoft Clarity free web analytics: session recordings, heatmaps, AI summaries and chat, AI visibility tracking, brand agents; MCP server and browser extension; GDPR/CCPA ready, free forever.",
+      "id": "it_179294622018710",
+      "name": "Clarity",
+      "url": "https://clarity.microsoft.com/"
+    },
+    {
+      "cat": "auto_acc",
+      "desc": "Digital-goods marketplace: social media accounts, software keys, gift cards, subscriptions and AI accounts from verified sellers with secure checkout and buyer protection.",
+      "id": "it_179294622018711",
+      "name": "HStora",
+      "url": "https://hstora.com/"
     }
   ]
 }
