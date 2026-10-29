@@ -1,0 +1,20 @@
+{
+"section": {"id": "games", "name": "Games", "emoji": "🎮"},
+"cats": [{"color":"#c084fc","emoji":"🎮","icon":null,"id":"games","name":"Games","parentId":null},{"color":"#c084fc","emoji":"🚀","icon":null,"id":"games_claim","name":"Claimers","parentId":"games"},{"color":"#c084fc","emoji":"🕹️","icon":null,"id":"games_lib","name":"Libraries","parentId":"games"},{"color":"#c084fc","emoji":"🧩","icon":null,"id":"games_mods","name":"Mods","parentId":"games"},{"color":"#c084fc","emoji":"🔌","icon":null,"id":"games_srv","name":"Servers","parentId":"games"}],
+"items": [
+{"id":307,"name":"Mineplex","url":"https://mineplex.com/","desc":"Legendary network of Minecraft servers","cat":"games_srv"},
+{"id":"it_1791217649105","name":"Steam Headless","url":"https://github.com/Steam-Headless/docker-steam-headless","desc":"Docker container with Steam on a server without a monitor: games + Sunshine/Moonlight streaming to any devices.","cat":"games_srv"},
+{"id":320,"name":"Cisco's Fantasy Medieval RPG","url":"https://www.curseforge.com/minecraft/modpacks/ciscos-adventure-rpg-ultimate","desc":"RPG Minecraft modpack in a medieval fantasy setting","cat":"games_mods"},
+{"id":232,"name":"GTA SA High Traffic Mode","url":"https://www.gta-modding.com/area/file-1004-high-traffic-mod.html","desc":"Mod for realistic dense traffic for GTA SA","cat":"games_mods"},
+{"id":319,"name":"Industrial Village Modpack","url":"https://www.curseforge.com/minecraft/modpacks/industrial-village","desc":"Industrial Minecraft modpack with technologies","cat":"games_mods"},
+{"id":199,"name":"Liberty-city.ru","url":"https://libertycity.ru/files/","desc":"Mods and files for Rockstar projects, mostly GTA","cat":"games_mods"},
+{"id":316,"name":"Project Eagle Mod","url":"https://www.projecteaglemod.games/","desc":"GTA SA mod for an enlarged map and global improvements","cat":"games_mods"},
+{"id":321,"name":"Prominence 2: Hasturian Era","url":"https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era","desc":"One of the best RPG Minecraft modpacks","cat":"games_mods"},
+{"id":318,"name":"Stalker Anomaly","url":"https://anomalymod.com/","desc":"Hardcore Stalker mod with full survival","cat":"games_mods"},
+{"id":317,"name":"Stalker Gamma","url":"https://www.stalkergamma.com/","desc":"A more detailed and difficult Stalker, available over the network","cat":"games_mods"},
+{"id":"it_1791217649101","name":"Ludusavi","url":"https://github.com/mtkennerly/ludusavi","desc":"Game save backup: finds saves of thousands of games (Steam/GOG/emulators) and syncs them to the cloud.","cat":"games_lib"},
+{"id":231,"name":"PlayNite","url":"https://playnite.link/","desc":"program that collects all your games from different platforms in one library","cat":"games_lib"},
+{"id":"it_1791217649102","name":"ScummVM","url":"https://www.scummvm.org/","desc":"Engine for classic LucasArts/Sierra quests: running old adventures on modern systems.","cat":"games_lib"},
+{"id":224,"name":"Free Games Claimer","url":"https://github.com/vogler/free-games-claimer","desc":"Auto-claims free games/DLC from Epic, Prime Gaming, GOG, Unreal Engine assets; experimental Xbox support. Launches Firefox, logs in, claims without user input.","cat":"games_claim"}
+]
+}

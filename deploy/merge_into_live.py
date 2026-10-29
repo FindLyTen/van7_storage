@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
-"""Three-way merge of the GitHub catalog into the LIVE data.json on the server.
+"""DEPRECATED / LEGACY (marked 2026-10-29): three-way merge into the LIVE data.json
+of the retired van7_sklad warehouse (Flask :5055, deleted 2026-10-16).
 
-The live file is edited through the UI (POST /api/data), so it must never be
-replaced wholesale. BASE = catalog at the commit the changes were made on,
+The live target no longer exists, so this script has nothing to merge into.
+Kept for history only — do not run. The catalog now lives in this repository:
+data.json is the single source of truth.
+
+Original purpose:
+BASE = catalog at the commit the changes were made on,
 NEW = catalog on GitHub main, LIVE = file on the server.
 
  - item in NEW but not in LIVE and not in BASE  -> added (new tool)

@@ -1,0 +1,24 @@
+{
+"section": {"id": "win", "name": "Windows", "emoji": "🪟"},
+"cats": [{"color":"#60a5fa","emoji":"🪟","icon":null,"id":"win","name":"Windows","parentId":null},{"color":"#60a5fa","emoji":"🔑","icon":null,"id":"win_act","name":"Activators","parentId":"win"},{"color":"#60a5fa","emoji":"🧹","icon":null,"id":"win_clean","name":"Cleanup & Files","parentId":"win"},{"color":"#60a5fa","emoji":"🔩","icon":null,"id":"win_tune","name":"Tuning","parentId":"win"}],
+"items": [
+{"id":"it_17926850130851","name":"Ninite","url":"https://ninite.com/","desc":"Software installer site: pick apps, one Ninite per-app installer updates them without toolbars and bloatware; free tier and Pro for business management; proprietary web service.","cat":"win"},
+{"id":154,"name":"Remove Windows AI","url":"https://github.com/zoicware/RemoveWindowsAI","desc":"removing the built-in AI in Windows","cat":"win_tune"},
+{"id":"it_1791217649098","name":"Tron","url":"https://github.com/bmrf/tron","desc":"Automatic repair and cleanup of Windows: kills malware, cleans junk, debloats the system with one script.","cat":"win_tune"},
+{"id":39,"name":"Winhance","url":"https://github.com/memstechtips/Winhance","desc":"similar to WinUtil","cat":"win_tune"},
+{"id":25,"name":"WinUtil","url":"https://github.com/christitustech/winutil","desc":"lets you customize Windows to your liking, remove unneeded features and enable the Windows features you need","cat":"win_tune"},
+{"id":193,"name":"BleachBit","url":"https://www.bleachbit.org/","desc":"open-source program for cleaning disks on a PC","cat":"win_clean"},
+{"id":195,"name":"Crystal Disk Info","url":"https://crystalmark.info/en/software/crystaldiskinfo/","desc":"full disk monitoring","cat":"win_clean"},
+{"id":"it_1791895568036","name":"disktree","url":"https://github.com/tobi/disktree","desc":"Rust disk analyzer: nested treemap of home dir/whole disk by real usage. Keyboard/mouse nav, mark for removal, review before delete (trash default). Linux/macOS/Windows. MIT.","cat":"win_clean"},
+{"id":32,"name":"Everything","url":"https://www.voidtools.com/ru-ru/","desc":"search for files on your own PC","cat":"win_clean"},
+{"id":"it_17903396165562","name":"LibreOffice","url":"https://www.libreoffice.org/","desc":"Free office suite: Writer/Calc/Impress/Draw — a replacement for Word/Excel/PowerPoint, open formats.","cat":"win_clean"},
+{"id":192,"name":"Localsend","url":"https://localsend.org/ru","desc":"file transfer between devices over a local WiFi network","cat":"win_clean"},
+{"id":"it_17900042420310","name":"NanaZip","url":"https://github.com/M2Team/Nanazip","desc":"Modern archiver for Windows (successor to 7-Zip, lzma): app store, Win11 context menu, support for all formats.","cat":"win_clean"},
+{"id":270,"name":"Revo Uninstaller","url":"https://www.revouninstaller.com/ru/","desc":"program for uninstalling applications on Windows. Unlike the standard uninstaller, it finds and removes \"leftovers\": residual files and registry entries","cat":"win_clean"},
+{"id":269,"name":"TreeSize","url":"https://www.jam-software.com/treesize","desc":"program shows what takes up disk space. Builds a folder tree by size, so you can immediately see where the gigabytes of junk are","cat":"win_clean"},
+{"id":194,"name":"WinDirStat","url":"https://windirstat.net/","desc":"similar to WizTree","cat":"win_clean"},
+{"id":33,"name":"WizTree","url":"https://diskanalyzer.com/","desc":"disk analysis and cleanup","cat":"win_clean"},
+{"id":34,"name":"KMS Auto ++","url":"https://kmsauto.org/","desc":"key picking and activation","cat":"win_act"},
+{"id":23,"name":"MAS","url":"https://github.com/massgravel/microsoft-activation-scripts","desc":"picking Windows activation keys","cat":"win_act"}
+]
+}

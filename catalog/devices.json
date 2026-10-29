@@ -1,0 +1,30 @@
+{
+"section": {"id": "devices", "name": "Devices", "emoji": "📱"},
+"cats": [{"color":"#34d399","emoji":"📱","icon":null,"id":"devices","name":"Devices","parentId":null},{"color":"#34d399","emoji":"🤖","icon":null,"id":"devices_android","name":"Android","parentId":"devices"},{"color":"#34d399","emoji":"📲","icon":null,"id":"devices_emu","name":"Emulators","parentId":"devices"},{"color":"#34d399","emoji":"💽","icon":null,"id":"devices_os","name":"Operating Systems","parentId":"devices"},{"color":"#34d399","emoji":"📦","icon":null,"id":"devices_vm","name":"Virtual Machines","parentId":"devices"}],
+"items": [
+{"id":"it_17897407730301","name":"Dockur Windows","url":"https://hub.docker.com/r/dockurr/windows/tags","desc":"Windows in Docker: a KVM virtual machine image, it picks the ISO edition and license itself, web interface. Self-host on any VPS.","cat":"devices_vm"},
+{"id":31,"name":"Virtual Box","url":"https://www.virtualbox.org/","desc":"Virtualization classic: run any OS on your own computer","cat":"devices_vm"},
+{"id":160,"name":"Lineage OS","url":"https://lineageos.org/","desc":"a very light and convenient Linux OS for smartphones","cat":"devices_os"},
+{"id":162,"name":"Lingmo OS","url":"https://lingmo.org/","desc":"a light Linux OS similar to macOS","cat":"devices_os"},
+{"id":473,"name":"Another","url":"https://github.com/Zfinix/another","desc":"A desktop app for mirroring and controlling Android over USB. Tauri + Rust + React, light and snappy; an analog of scrcpy with a modern UI.","cat":"devices_emu"},
+{"id":"it_1791895567998","name":"AnyPS5","url":"https://github.com/boykopovar/AnyPS5","desc":"GPL-2.0 C++ PS5toLinux/Windows port (no emulation): relinker converts executables, reimplements PRX libs, shader recompiler outputs SPIR-V. No copyrighted software/keys shipped.","cat":"devices_emu"},
+{"id":"it_1791217649104","name":"Cemu","url":"https://cemu.info/","desc":"Wii U emulator for Windows: runs most of the library, upscaling to 4K.","cat":"devices_emu"},
+{"id":"it_1790793363843","name":"Docker Android","url":"https://github.com/budtmo/docker-android","desc":"Android emulator in Docker: a full Android with VNC/noVNC access, video stream, ADB. For testing apps, bots and automation in the cloud.","cat":"devices_emu"},
+{"id":2,"name":"Escrpy","url":"https://github.com/viarotel-org/escrcpy","desc":"control a phone from a computer","cat":"devices_emu"},
+{"id":"it_1791895567999","name":"KytyPS5","url":"https://github.com/KytyPS5/KytyPS5","desc":"Open-source PS5 translation layer (Windows/Linux/macOS), Kyty fork. Vulkan 1.3, shader recompiler, Qt 6 launcher. GPL-2.0, active; boots Unreal/Unity/custom titles.","cat":"devices_emu"},
+{"id":167,"name":"Lamda","url":"https://github.com/firerpa/lamda","desc":"Android emulator for automation","cat":"devices_emu"},
+{"id":1,"name":"LD Player","url":"https://www.ldplayer.net/","desc":"phone emulator","cat":"devices_emu"},
+{"id":"it_1791217649103","name":"RetroArch","url":"https://www.retroarch.com/","desc":"Multi-emulator of retro consoles: one interface for dozens of platforms (NES, SNES, PS1...), shaders, netplay.","cat":"devices_emu"},
+{"id":"it_17927083110291","name":"agent-device","url":"https://github.com/callstack/agent-device","desc":"Mobile app automation for AI coding agents: inspect, control, debug and verify iOS, Android, HarmonyOS, TV and web apps via CLI, built-in MCP server or Node.js API; npm; MIT.","cat":"devices_android"},
+{"id":"it_1791895568003","name":"DroidDeck","url":"https://github.com/Droid-Deck/DroidDeck","desc":"SteamOS-style Android: Steam Big Picture with Windows games via ARM64 Proton/DXVK, plus GOG/Epic/Amazon. Android 9+, Adreno 730+ GPU. GPL-3.0, not Valve-affiliated.","cat":"devices_android"},
+{"id":166,"name":"F-Droid","url":"https://f-droid.org/en/","desc":"an app market like Google Play or the App Store","cat":"devices_android"},
+{"id":"it_17927081138355","name":"Maestro","url":"https://github.com/mobile-dev-inc/Maestro","desc":"Mobile and web UI/E2E testing framework: YAML test flows for Android, iOS and web, single-binary CLI, no drivers or SDK, Maestro Studio, MCP server for coding agents; Apache-2.0.","cat":"devices_android"},
+{"id":165,"name":"Obtanium","url":"https://github.com/ImranR98/Obtainium","desc":"installing and updating apps directly from GitHub and other sources","cat":"devices_android"},
+{"id":40,"name":"PakePlus","url":"https://github.com/Sjj1024/PakePlus-Android?tab=readme-ov-file","desc":"Package any website into a native app for Win/Mac/Linux/Android","cat":"devices_android"},
+{"id":164,"name":"Sdmaid Se","url":"https://github.com/d4rken-org/sdmaid-se","desc":"Android device cleaner","cat":"devices_android"},
+{"id":145,"name":"Shelter","url":"https://github.com/achalmgucker/Shelter","desc":"a virtual machine on Android, duplicating apps","cat":"devices_android"},
+{"id":323,"name":"StrykerOSS","url":"https://github.com/zalexdev/strykerapp","desc":"free mobile pentest kit for rooted Android, combining Nmap, Metasploit, Nuclei, Hydra, SearchSploit and other heavy tools in a single interface","cat":"devices_android"},
+{"id":163,"name":"Universal Installer","url":"https://github.com/pass-with-high-score/universal-installer","desc":"installer for Android","cat":"devices_android"},
+{"id":322,"name":"WPSApp","url":"https://play.google.com/store/apps/details?id=com.themausoft.wpsapp&hl=en","desc":"checks whether WiFi can be hacked via known/computed WPS pins","cat":"devices_android"}
+]
+}

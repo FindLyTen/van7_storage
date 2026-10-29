@@ -1,0 +1,654 @@
+{
+ "generated_by": "scripts/build_views.py",
+ "source": "data.json",
+ "items_total": 1198,
+ "categories_total": 113,
+ "sections": [
+  {
+   "id": "ai",
+   "name": "AI & Agents",
+   "emoji": "🤖",
+   "count": 444,
+   "subsections": [
+    {
+     "id": "ai_memory",
+     "name": "Agent Memory",
+     "count": 22
+    },
+    {
+     "id": "ai_agents",
+     "name": "AI Agents",
+     "count": 119
+    },
+    {
+     "id": "ai_image",
+     "name": "AI Images",
+     "count": 6
+    },
+    {
+     "id": "ai_video",
+     "name": "AI Video",
+     "count": 34
+    },
+    {
+     "id": "ai_api",
+     "name": "API & MCP",
+     "count": 72
+    },
+    {
+     "id": "ai_avatar",
+     "name": "Avatars & Deepfakes",
+     "count": 4
+    },
+    {
+     "id": "ai_cli",
+     "name": "CLI Tools",
+     "count": 26
+    },
+    {
+     "id": "ai_lists",
+     "name": "Collections",
+     "count": 28
+    },
+    {
+     "id": "ai_local",
+     "name": "Local Models",
+     "count": 24
+    },
+    {
+     "id": "ai_router",
+     "name": "Routers & Gateways",
+     "count": 14
+    },
+    {
+     "id": "ai_skills",
+     "name": "Skills",
+     "count": 82
+    },
+    {
+     "id": "ai_voice",
+     "name": "Voice & Transcription",
+     "count": 13
+    }
+   ],
+   "json": "catalog/ai.json",
+   "md": "catalog/ai.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/ai.json"
+  },
+  {
+   "id": "auto",
+   "name": "Automation",
+   "emoji": "⚙️",
+   "count": 73,
+   "subsections": [
+    {
+     "id": "auto_acc",
+     "name": "Accounts & Mail",
+     "count": 4
+    },
+    {
+     "id": "auto_browser",
+     "name": "Browser",
+     "count": 17
+    },
+    {
+     "id": "auto_pc",
+     "name": "PC Control",
+     "count": 6
+    },
+    {
+     "id": "auto_parse",
+     "name": "Scraping",
+     "count": 22
+    },
+    {
+     "id": "auto_selfhost",
+     "name": "Self-hosted Tools",
+     "count": 18
+    },
+    {
+     "id": "auto_home",
+     "name": "Smart Home",
+     "count": 2
+    }
+   ],
+   "json": "catalog/auto.json",
+   "md": "catalog/auto.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/auto.json"
+  },
+  {
+   "id": "biz",
+   "name": "Business",
+   "emoji": "💼",
+   "count": 125,
+   "subsections": [
+    {
+     "id": "biz_crm",
+     "name": "CRM",
+     "count": 7
+    },
+    {
+     "id": "biz_mkt",
+     "name": "Marketing & SEO",
+     "count": 57
+    },
+    {
+     "id": "biz_realty",
+     "name": "Real Estate",
+     "count": 2
+    },
+    {
+     "id": "biz_shop",
+     "name": "Shops",
+     "count": 3
+    },
+    {
+     "id": "biz_fund",
+     "name": "Startup Funds",
+     "count": 8
+    },
+    {
+     "id": "biz_tender",
+     "name": "Tenders & Procurement",
+     "count": 1
+    },
+    {
+     "id": "biz_trade",
+     "name": "Trading",
+     "count": 43
+    }
+   ],
+   "json": "catalog/biz.json",
+   "md": "catalog/biz.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/biz.json"
+  },
+  {
+   "id": "chat",
+   "name": "Communications",
+   "emoji": "💬",
+   "count": 30,
+   "subsections": [
+    {
+     "id": "chat_bots",
+     "name": "Bots & API",
+     "count": 4
+    },
+    {
+     "id": "chat_clients",
+     "name": "Clients",
+     "count": 7
+    },
+    {
+     "id": "chat_send",
+     "name": "Mailing",
+     "count": 7
+    },
+    {
+     "id": "chat_msg",
+     "name": "Messengers",
+     "count": 4
+    },
+    {
+     "id": "chat_mail",
+     "name": "Temporary Email",
+     "count": 6
+    },
+    {
+     "id": "chat_num",
+     "name": "Virtual Numbers",
+     "count": 1
+    }
+   ],
+   "json": "catalog/chat.json",
+   "md": "catalog/chat.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/chat.json"
+  },
+  {
+   "id": "design",
+   "name": "Design",
+   "emoji": "🎨",
+   "count": 66,
+   "subsections": [
+    {
+     "id": "design_3d",
+     "name": "3D",
+     "count": 4
+    },
+    {
+     "id": "design_anim",
+     "name": "Animations",
+     "count": 9
+    },
+    {
+     "id": "design_fonts",
+     "name": "Fonts",
+     "count": 2
+    },
+    {
+     "id": "design_icons",
+     "name": "Icons",
+     "count": 10
+    },
+    {
+     "id": "design_maps",
+     "name": "Maps",
+     "count": 3
+    },
+    {
+     "id": "design_tools",
+     "name": "Tools",
+     "count": 12
+    },
+    {
+     "id": "design_ui",
+     "name": "UI Libraries",
+     "count": 22
+    }
+   ],
+   "json": "catalog/design.json",
+   "md": "catalog/design.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/design.json"
+  },
+  {
+   "id": "dev",
+   "name": "Development",
+   "emoji": "💻",
+   "count": 30,
+   "subsections": [
+    {
+     "id": "dev_api",
+     "name": "API Catalogs",
+     "count": 3
+    },
+    {
+     "id": "dev_backup",
+     "name": "Data Recovery",
+     "count": 2
+    },
+    {
+     "id": "dev_edit",
+     "name": "Editors",
+     "count": 8
+    },
+    {
+     "id": "dev_viz",
+     "name": "Visualization",
+     "count": 7
+    }
+   ],
+   "json": "catalog/dev.json",
+   "md": "catalog/dev.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/dev.json"
+  },
+  {
+   "id": "devices",
+   "name": "Devices",
+   "emoji": "📱",
+   "count": 24,
+   "subsections": [
+    {
+     "id": "devices_android",
+     "name": "Android",
+     "count": 11
+    },
+    {
+     "id": "devices_emu",
+     "name": "Emulators",
+     "count": 9
+    },
+    {
+     "id": "devices_os",
+     "name": "Operating Systems",
+     "count": 2
+    },
+    {
+     "id": "devices_vm",
+     "name": "Virtual Machines",
+     "count": 2
+    }
+   ],
+   "json": "catalog/devices.json",
+   "md": "catalog/devices.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/devices.json"
+  },
+  {
+   "id": "games",
+   "name": "Games",
+   "emoji": "🎮",
+   "count": 14,
+   "subsections": [
+    {
+     "id": "games_claim",
+     "name": "Claimers",
+     "count": 1
+    },
+    {
+     "id": "games_lib",
+     "name": "Libraries",
+     "count": 3
+    },
+    {
+     "id": "games_mods",
+     "name": "Mods",
+     "count": 8
+    },
+    {
+     "id": "games_srv",
+     "name": "Servers",
+     "count": 2
+    }
+   ],
+   "json": "catalog/games.json",
+   "md": "catalog/games.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/games.json"
+  },
+  {
+   "id": "hack",
+   "name": "Hacking",
+   "emoji": "🛡️",
+   "count": 62,
+   "subsections": [
+    {
+     "id": "hack_brute",
+     "name": "Brute Force",
+     "count": 3
+    },
+    {
+     "id": "hack_ddos",
+     "name": "DDoS",
+     "count": 2
+    },
+    {
+     "id": "hack_def",
+     "name": "Defense",
+     "count": 7
+    },
+    {
+     "id": "hack_pentest",
+     "name": "Pentest",
+     "count": 25
+    },
+    {
+     "id": "hack_phish",
+     "name": "Phishing",
+     "count": 3
+    },
+    {
+     "id": "hack_tools",
+     "name": "Tools",
+     "count": 9
+    }
+   ],
+   "json": "catalog/hack.json",
+   "md": "catalog/hack.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/hack.json"
+  },
+  {
+   "id": "infra",
+   "name": "Infrastructure",
+   "emoji": "🖥️",
+   "count": 87,
+   "subsections": [
+    {
+     "id": "infra_cloud",
+     "name": "Cloud",
+     "count": 17
+    },
+    {
+     "id": "infra_domain",
+     "name": "Domains",
+     "count": 13
+    },
+    {
+     "id": "infra_host",
+     "name": "Hosting",
+     "count": 11
+    },
+    {
+     "id": "infra_mon",
+     "name": "Monitoring",
+     "count": 22
+    },
+    {
+     "id": "infra_vps",
+     "name": "VPS",
+     "count": 24
+    }
+   ],
+   "json": "catalog/infra.json",
+   "md": "catalog/infra.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/infra.json"
+  },
+  {
+   "id": "edu",
+   "name": "Knowledge",
+   "emoji": "📚",
+   "count": 72,
+   "subsections": [
+    {
+     "id": "edu_lists",
+     "name": "Collections",
+     "count": 7
+    },
+    {
+     "id": "edu_courses",
+     "name": "Courses",
+     "count": 23
+    },
+    {
+     "id": "edu_arch",
+     "name": "Data Archives",
+     "count": 6
+    },
+    {
+     "id": "edu_int",
+     "name": "Interviews",
+     "count": 15
+    },
+    {
+     "id": "edu_lib",
+     "name": "Libraries",
+     "count": 7
+    },
+    {
+     "id": "edu_res",
+     "name": "Research",
+     "count": 13
+    }
+   ],
+   "json": "catalog/edu.json",
+   "md": "catalog/edu.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/edu.json"
+  },
+  {
+   "id": "life",
+   "name": "Life",
+   "emoji": "🌍",
+   "count": 15,
+   "subsections": [
+    {
+     "id": "life_md",
+     "name": "Moldova",
+     "count": 11
+    },
+    {
+     "id": "life_sport",
+     "name": "Sports",
+     "count": 1
+    },
+    {
+     "id": "life_travel_w",
+     "name": "Travel · World",
+     "count": 3
+    }
+   ],
+   "json": "catalog/life.json",
+   "md": "catalog/life.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/life.json"
+  },
+  {
+   "id": "media",
+   "name": "Media",
+   "emoji": "🎬",
+   "count": 37,
+   "subsections": [
+    {
+     "id": "media_comp",
+     "name": "Compression",
+     "count": 2
+    },
+    {
+     "id": "media_img",
+     "name": "Images",
+     "count": 2
+    },
+    {
+     "id": "media_ocr",
+     "name": "OCR",
+     "count": 10
+    },
+    {
+     "id": "media_down",
+     "name": "Torrents & Downloads",
+     "count": 8
+    },
+    {
+     "id": "media_video",
+     "name": "Video Editing",
+     "count": 15
+    }
+   ],
+   "json": "catalog/media.json",
+   "md": "catalog/media.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/media.json"
+  },
+  {
+   "id": "net",
+   "name": "Networks & Hardware",
+   "emoji": "📡",
+   "count": 31,
+   "subsections": [
+    {
+     "id": "net_hw",
+     "name": "Hardware Monitoring",
+     "count": 9
+    },
+    {
+     "id": "net_remote",
+     "name": "Remote Access",
+     "count": 3
+    },
+    {
+     "id": "net_traffic",
+     "name": "Traffic & Firewall",
+     "count": 14
+    },
+    {
+     "id": "net_wifi",
+     "name": "Wi-Fi",
+     "count": 4
+    }
+   ],
+   "json": "catalog/net.json",
+   "md": "catalog/net.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/net.json"
+  },
+  {
+   "id": "osint",
+   "name": "OSINT",
+   "emoji": "🕵️",
+   "count": 70,
+   "subsections": [
+    {
+     "id": "osint_mail",
+     "name": "By Email",
+     "count": 3
+    },
+    {
+     "id": "osint_phone",
+     "name": "By Phone Number",
+     "count": 5
+    },
+    {
+     "id": "osint_photo",
+     "name": "By Photo",
+     "count": 2
+    },
+    {
+     "id": "osint_nick",
+     "name": "By Username",
+     "count": 5
+    },
+    {
+     "id": "osint_video",
+     "name": "By Video",
+     "count": 1
+    },
+    {
+     "id": "osint_lists",
+     "name": "Collections",
+     "count": 6
+    },
+    {
+     "id": "osint_fw",
+     "name": "Frameworks",
+     "count": 20
+    },
+    {
+     "id": "osint_geo",
+     "name": "GEOINT",
+     "count": 5
+    },
+    {
+     "id": "osint_ig",
+     "name": "Instagram",
+     "count": 3
+    },
+    {
+     "id": "osint_leak",
+     "name": "Leaks",
+     "count": 8
+    },
+    {
+     "id": "osint_tg",
+     "name": "Telegram",
+     "count": 2
+    },
+    {
+     "id": "osint_web",
+     "name": "Website Analysis",
+     "count": 7
+    }
+   ],
+   "json": "catalog/osint.json",
+   "md": "catalog/osint.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/osint.json"
+  },
+  {
+   "id": "win",
+   "name": "Windows",
+   "emoji": "🪟",
+   "count": 18,
+   "subsections": [
+    {
+     "id": "win_act",
+     "name": "Activators",
+     "count": 2
+    },
+    {
+     "id": "win_clean",
+     "name": "Cleanup & Files",
+     "count": 11
+    },
+    {
+     "id": "win_tune",
+     "name": "Tuning",
+     "count": 4
+    }
+   ],
+   "json": "catalog/win.json",
+   "md": "catalog/win.md",
+   "raw": "https://raw.githubusercontent.com/FindLyTen/van7_storage/main/catalog/win.json"
+  }
+ ]
+}

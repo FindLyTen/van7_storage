@@ -1,0 +1,21 @@
+{
+"section": {"id": "life", "name": "Life", "emoji": "🌍"},
+"cats": [{"color":"#4ade80","emoji":"🌍","icon":null,"id":"life","name":"Life","parentId":null},{"color":"#4ade80","emoji":"🇲🇩","icon":null,"id":"life_md","name":"Moldova","parentId":"life"},{"color":"#4ade80","emoji":"⚽","icon":null,"id":"life_sport","name":"Sports","parentId":"life"},{"color":"#4ade80","emoji":"✈️","icon":null,"id":"life_travel_w","name":"Travel · World","parentId":"life"}],
+"items": [
+{"id":168,"name":"FlixBus","url":"https://global.flixbus.com/","desc":"cheap buses across all of Europe","cat":"life_travel_w"},
+{"id":152,"name":"Kiwi","url":"https://www.kiwi.com/en/","desc":"cheap flights","cat":"life_travel_w"},
+{"id":108,"name":"TrypCom","url":"https://www.tryp.com/en","desc":"Search for tours and trips worldwide","cat":"life_travel_w"},
+{"id":169,"name":"MuscleWiki","url":"https://musclewiki.com/ru-ru","desc":"picking exercises based on your info","cat":"life_sport"},
+{"id":187,"name":"Admiral Tur","url":"https://admiral.travel/ru/search/tours","desc":"Moldovan tour operator: tours, visas, tickets","cat":"life_md"},
+{"id":255,"name":"Around.md","url":"https://around.md/","desc":"website of places to visit and travel within Moldova","cat":"life_md"},
+{"id":105,"name":"BosforTur","url":"https://bosfortur.md/index.html","desc":"Moldovan tourism portal","cat":"life_md"},
+{"id":333,"name":"Family Tur","url":"https://familytur.md/","desc":"Family vacations and tours from Moldova","cat":"life_md"},
+{"id":104,"name":"Hochu Tuda","url":"https://hoshutuda.md/main","desc":"Moldovan travel agency: destinations and tickets","cat":"life_md"},
+{"id":101,"name":"Libra.md","url":"https://libra.md/ro/","desc":"Comparing prices for services in Moldova","cat":"life_md"},
+{"id":102,"name":"NeleaTur","url":"https://neleatur.md/ru","desc":"Moldovan tour operator: tours and vacation packages","cat":"life_md"},
+{"id":107,"name":"Teletur","url":"https://teletur.md/index.php/ro/","desc":"Moldovan travel agency","cat":"life_md"},
+{"id":240,"name":"Top100 TravelTur","url":"https://md.top100.travel/ru/","desc":"Ranking and selection of travel agencies in Moldova","cat":"life_md"},
+{"id":106,"name":"Turistic.md","url":"https://turistic.md/","desc":"Moldovan travel agency: domestic and outbound tourism","cat":"life_md"},
+{"id":103,"name":"WowLife","url":"https://wowlife.travel/","desc":"Moldovan travel agency: tour selection","cat":"life_md"}
+]
+}
