@@ -3,21 +3,20 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Brute Force](#brute-force) (6)
+- [Brute Force](#brute-force) (5)
 - [DDoS](#ddos) (2)
 - [Defense](#defense) (98)
 - [Pentest](#pentest) (37)
-- [Phishing](#phishing) (3)
+- [Phishing](#phishing) (4)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
 
 ## Brute Force
 - [Hashcat](https://hashcat.net/hashcat/) - brute-forcing passwords of zips, folders, etc. via hash files
-- [Hydra (THC)](https://hydra.cc/) - Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.
+- [Hydra (THC)](https://github.com/vanhauser-thc/thc-hydra) - Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.
 - [John the Ripper](https://www.openwall.com/john/) - Classic hash brute-forcer: hundreds of Unix/Windows/DB/archive formats, wordlist/rules/GPU modes. Jumbo build.
 - [Medusa](https://github.com/jmk-foofus/medusa) - Parallel modular login brute-forcer for many protocols; free, GPL-2.0; for authorized testing.
 - [Ophcrack](https://ophcrack.sourceforge.io/) - Windows password cracker using rainbow tables; free, GPL.
-- [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) - Parallel login cracker supporting many protocols (HTTP, SMB, SSH and more); free, GPL; for authorized testing.
 
 ## DDoS
 - [DDOS Ripper](https://github.com/palahsu/DDoS-Ripper) - Server stress-testing tool
@@ -165,6 +164,7 @@
 ## Phishing
 - [CamFish](https://github.com/firidon/CamFish) - phishing for camera shots
 - [DockDroid](https://github.com/sickcodes/dock-droid) - Android in Docker: an isolated sandbox for testing
+- [GoPhish](https://getgophish.com/) - Open-source phishing simulation framework: campaigns, landing pages, tracking; for authorized security awareness testing only; free, MIT.
 - [ZPhisher](https://github.com/htr-tech/zphisher) - A set of phishing pages of popular services for testing on people
 
 ## Tools

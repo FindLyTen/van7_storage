@@ -33,7 +33,7 @@
 - [mpv-android](https://f-droid.org/packages/is.xyz.mpv/) - Android port of the mpv media player: minimal UI, high-quality playback; GPL-2.0+
 - [Mullvad VPN](https://mullvad.net/) - Privacy VPN accepting anonymous account numbers and cash; WireGuard, no-logs; flat 5 EUR/month; open-source clients.
 - [NewsBlur](https://newsblur.com/) - Open-source RSS reader with intelligence trainers, social sharing; web plus Android/iOS apps; free with premium tiers.
-- [Nova Video Player](https://github.com/nova-video-player/aosp-Videos) - Open-source video player for Android (AOSP Videos fork): hardware acceleration, network streams, PiP; GPL-3.0.
+- [Nova Video Player](https://github.com/nova-video-player/aos-AVP) - Open-source video player for Android (AOSP Videos fork): hardware acceleration, network streams, PiP; GPL-3.0.
 - [Obtanium](https://github.com/ImranR98/Obtainium) - installing and updating apps directly from GitHub and other sources
 - [OpenBoard](https://github.com/openboard-team/openboard) - Privacy keyboard based on AOSP LatinIME, offline, no telemetry; last upstream release 2024, actively developed fork HeliBoard; GPL-3.0.
 - [PakePlus](https://github.com/Sjj1024/PakePlus-Android?tab=readme-ov-file) - Package any website into a native app for Win/Mac/Linux/Android

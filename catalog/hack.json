@@ -26,6 +26,7 @@
 {"id":496,"name":"x64dbg MCP Server","url":"https://github.com/duty1g/x64dbg-mcp-server","desc":"Native MCP plugin for x64dbg: exposes debugger over HTTP; AI sets breakpoints, steps code, reads memory, dumps registers. Reversing/malware analysis with Claude.","cat":"hack_tools"},
 {"id":49,"name":"CamFish","url":"https://github.com/firidon/CamFish","desc":"phishing for camera shots","cat":"hack_phish"},
 {"id":132,"name":"DockDroid","url":"https://github.com/sickcodes/dock-droid","desc":"Android in Docker: an isolated sandbox for testing","cat":"hack_phish"},
+{"id":"it_1793401277210004","name":"GoPhish","url":"https://getgophish.com/","desc":"Open-source phishing simulation framework: campaigns, landing pages, tracking; for authorized security awareness testing only; free, MIT.","cat":"hack_phish"},
 {"id":50,"name":"ZPhisher","url":"https://github.com/htr-tech/zphisher","desc":"A set of phishing pages of popular services for testing on people","cat":"hack_phish"},
 {"id":"it_1791034692215","name":"Amass (OWASP)","url":"https://github.com/owasp-amass/amass","desc":"Powerful reconnaissance of domains and subdomains: passive sources, DNS brute force, scraping, building a map of external infrastructure.","cat":"hack_pentest"},
 {"id":"it_1793399532693013","name":"Bettercap","url":"https://www.bettercap.org/","desc":"Swiss-army network attacks and monitoring framework: MITM, spoofing, WiFi/Bluetooth recon, HTTP proxy; for authorized testing; free, GPL.","cat":"hack_pentest"},
@@ -165,10 +166,9 @@
 {"id":62,"name":"DDOS Ripper","url":"https://github.com/palahsu/DDoS-Ripper","desc":"Server stress-testing tool","cat":"hack_ddos"},
 {"id":237,"name":"Hping","url":"https://github.com/antirez/hping","desc":"Console TCP/UDP packet generator for testing networks","cat":"hack_ddos"},
 {"id":235,"name":"Hashcat","url":"https://hashcat.net/hashcat/","desc":"brute-forcing passwords of zips, folders, etc. via hash files","cat":"hack_brute"},
-{"id":"it_1791034692206","name":"Hydra (THC)","url":"https://hydra.cc/","desc":"Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.","cat":"hack_brute"},
+{"id":"it_1791034692206","name":"Hydra (THC)","url":"https://github.com/vanhauser-thc/thc-hydra","desc":"Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.","cat":"hack_brute"},
 {"id":"it_1791034692205","name":"John the Ripper","url":"https://www.openwall.com/john/","desc":"Classic hash brute-forcer: hundreds of Unix/Windows/DB/archive formats, wordlist/rules/GPU modes. Jumbo build.","cat":"hack_brute"},
 {"id":"it_1793399821391011","name":"Medusa","url":"https://github.com/jmk-foofus/medusa","desc":"Parallel modular login brute-forcer for many protocols; free, GPL-2.0; for authorized testing.","cat":"hack_brute"},
-{"id":"it_1793399821391010","name":"Ophcrack","url":"https://ophcrack.sourceforge.io/","desc":"Windows password cracker using rainbow tables; free, GPL.","cat":"hack_brute"},
-{"id":"it_1793399821391009","name":"THC-Hydra","url":"https://github.com/vanhauser-thc/thc-hydra","desc":"Parallel login cracker supporting many protocols (HTTP, SMB, SSH and more); free, GPL; for authorized testing.","cat":"hack_brute"}
+{"id":"it_1793399821391010","name":"Ophcrack","url":"https://ophcrack.sourceforge.io/","desc":"Windows password cracker using rainbow tables; free, GPL.","cat":"hack_brute"}
 ]
 }

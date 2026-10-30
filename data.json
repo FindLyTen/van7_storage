@@ -5642,7 +5642,7 @@
    "id": "it_1791034692206",
    "name": "Hydra (THC)",
    "desc": "Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.",
-   "url": "https://hydra.cc/",
+   "url": "https://github.com/vanhauser-thc/thc-hydra",
    "cat": "hack_brute"
   },
   {
@@ -9608,13 +9608,6 @@
    "cat": "osint_nick"
   },
   {
-   "id": "it_1793376660851003",
-   "name": "UserSearch",
-   "desc": "Reverse user lookup: profiles by username, email, phone or photo across social and dating sites; limited free search, paid accounts.",
-   "url": "https://usersearch.com/",
-   "cat": "osint_nick"
-  },
-  {
    "id": "it_1793376660851004",
    "name": "ICANN Lookup",
    "desc": "Official ICANN registration data lookup: WHOIS record, registrar and nameserver data for domains; free, no account.",
@@ -10479,7 +10472,7 @@
    "id": "it_1793399286136030",
    "name": "Nova Video Player",
    "desc": "Open-source video player for Android (AOSP Videos fork): hardware acceleration, network streams, PiP; GPL-3.0.",
-   "url": "https://github.com/nova-video-player/aosp-Videos",
+   "url": "https://github.com/nova-video-player/aos-AVP",
    "cat": "devices_android"
   },
   {
@@ -11694,13 +11687,6 @@
    "cat": "hack_pentest"
   },
   {
-   "id": "it_1793399821391009",
-   "name": "THC-Hydra",
-   "desc": "Parallel login cracker supporting many protocols (HTTP, SMB, SSH and more); free, GPL; for authorized testing.",
-   "url": "https://github.com/vanhauser-thc/thc-hydra",
-   "cat": "hack_brute"
-  },
-  {
    "id": "it_1793399821391010",
    "name": "Ophcrack",
    "desc": "Windows password cracker using rainbow tables; free, GPL.",
@@ -11769,6 +11755,41 @@
    "desc": "Rapid7 dynamic application security testing for web apps; paid commercial.",
    "url": "https://www.rapid7.com/products/appspider/",
    "cat": "hack_def"
+  },
+  {
+   "id": "it_1793401277210001",
+   "name": "The OSINT Rack",
+   "desc": "Curated directory of 500+ OSINT tools with categories (breach data, scraping, crypto, dark web) and filters; successor of closed osint.rocks; free.",
+   "url": "https://osintrack.com/",
+   "cat": "osint_lists"
+  },
+  {
+   "id": "it_1793401277210002",
+   "name": "Holehe Online",
+   "desc": "Hosted version of the holehe email checker: verifies on which platforms an address is registered; free, no account.",
+   "url": "https://holehe.org/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793401277210003",
+   "name": "ScamSearch",
+   "desc": "Global scammer database: search by profile picture, email, username, phone or crypto address; report and lookup; free with premium reports.",
+   "url": "https://scamsearch.io/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793401277210004",
+   "name": "GoPhish",
+   "desc": "Open-source phishing simulation framework: campaigns, landing pages, tracking; for authorized security awareness testing only; free, MIT.",
+   "url": "https://getgophish.com/",
+   "cat": "hack_phish"
+  },
+  {
+   "id": "it_1793401277210005",
+   "name": "Devin Desktop (ex Windsurf)",
+   "desc": "AI code editor by Cognition (formerly Windsurf, ex Codeium; renamed June 2026): VS Code base, Devin Local agent, command center for local and cloud agents; free tier plus paid.",
+   "url": "https://devin.ai/desktop",
+   "cat": "dev_edit"
   }
  ]
 }

@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Editors](#editors) (54)
+- [Editors](#editors) (55)
 - [Visualization](#visualization) (7)
 - [Other](#other) (10)
 
@@ -37,6 +37,7 @@
 - [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework running in the browser: time travel, screenshots; free tier plus paid.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains multi-engine database IDE (MySQL, Postgres, SQLite, MongoDB and more); paid with 30-day trial.
 - [DBeaver](https://dbeaver.io/) - Universal GUI for databases: MySQL/Postgres/SQLite/Mongo and 80+ more sources, SQL editor, ER diagrams, export.
+- [Devin Desktop (ex Windsurf)](https://devin.ai/desktop) - AI code editor by Cognition (formerly Windsurf, ex Codeium; renamed June 2026): VS Code base, Devin Local agent, command center for local and cloud agents; free tier plus paid.
 - [Eclipse IDE](https://www.eclipse.org/ide/) - Open-source Java and polyglot IDE platform with plugin ecosystem; free, Eclipse Foundation.
 - [Flutter](https://flutter.dev/) - Google UI framework for cross-platform apps (iOS/Android/web/desktop) with a single codebase in Dart, hot reload and a rich set of widgets.
 - [GDB](https://www.sourceware.org/gdb/) - GNU debugger for C/C++ and other languages: breakpoints, stepping, inspection; free, GPL.

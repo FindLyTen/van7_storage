@@ -3,24 +3,25 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [By Email](#by-email) (9)
+- [By Email](#by-email) (10)
 - [By Phone Number](#by-phone-number) (5)
 - [By Photo](#by-photo) (4)
-- [By Username](#by-username) (8)
+- [By Username](#by-username) (7)
 - [By Video](#by-video) (1)
-- [Collections](#collections) (7)
+- [Collections](#collections) (8)
 - [Frameworks](#frameworks) (20)
 - [GEOINT](#geoint) (7)
 - [Instagram](#instagram) (3)
 - [Leaks](#leaks) (8)
 - [Telegram](#telegram) (2)
-- [Website Analysis](#website-analysis) (19)
+- [Website Analysis](#website-analysis) (20)
 - [Other](#other) (4)
 
 ## By Email
 - [Email Hunter](https://github.com/tifo234123/email-hunter) - OSINT email reconnaissance: finds password leaks, social profiles, domains, GitHub; gives compromise risk assessment.
 - [EmailRep](https://emailrep.io/) - Email reputation scoring API: spam, breach and social/professional presence indicators per address; free queries, paid higher rates.
 - [holehe](https://github.com/megadose/holehe) - where an email is used
+- [Holehe Online](https://holehe.org/) - Hosted version of the holehe email checker: verifies on which platforms an address is registered; free, no account.
 - [Hunter.io](https://hunter.io/) - Finds and verifies professional email addresses for a domain: domain search, patterns, verifier; free tier and API.
 - [Mail Tester](https://www.mail-tester.com/) - Deliverability check: get a test address, send a message, view spam score plus SPF/DKIM/DMARC analysis; free, no account.
 - [Mailcat](https://github.com/sharsil/mailcat) - Python CLI that finds existing email addresses by nickname across mail providers via API and SMTP probes; no notification mails; Apache-2.0.
@@ -48,7 +49,6 @@
 - [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - Profiling a person by usernames across 100+ social networks
 - [Tookie OSINT](https://github.com/Alfredredbird/tookie-osint) - you enter a username (nickname), and the tool checks a bunch of sites and finds all accounts with that name, an analog of the well-known Sherlock.
 - [Userrecon](https://github.com/wishihab/userrecon) - a simple script that checks the same nickname on 75+ sites at once; the repository is now abandoned (archived, no longer updated).
-- [UserSearch](https://usersearch.com/) - Reverse user lookup: profiles by username, email, phone or photo across social and dating sites; limited free search, paid accounts.
 - [WhatsMyName](https://whatsmyname.app/) - Username lookup across 700+ websites powered by the open WhatsMyName dataset, web UI of the community project; free, no account.
 
 ## By Video
@@ -62,6 +62,7 @@
 - [OSINT Catalog](https://osint-catalog.org/) - Large catalog of OSINT tools with filters by category, type and access: search by people, dorks, ports, bots. Has a graph and legal reference.
 - [OSINT Observer](https://osint.juanmathewsrebellosantos.com/) - Interactive map of OSINT services by category
 - [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) - Cipher387's collection of several hundred online OSINT tools with a searchable categorized database (username, email, GEOINT and more); GPL-3.0; active.
+- [The OSINT Rack](https://osintrack.com/) - Curated directory of 500+ OSINT tools with categories (breach data, scraping, crypto, dark web) and filters; successor of closed osint.rocks; free.
 
 ## Frameworks
 - [Ahmia](https://ahmia.fi/) - Search engine for the Tor network, accessible from the regular internet: an index of onion sites without the Tor browser.
@@ -124,6 +125,7 @@
 - [ICANN Lookup](https://lookup.icann.org/) - Official ICANN registration data lookup: WHOIS record, registrar and nameserver data for domains; free, no account.
 - [Metadata2Go](https://www.metadata2go.com/) - Online metadata extractor for photo, video, audio and documents: EXIF, IPTC and embedded fields via browser upload; free, no account.
 - [Save Page WE](https://github.com/lrq3000/save-page-we-browser-extension) - Browser extension saving a full local copy of a web page with resources, scripts and links to one HTML file; Chrome/Firefox; maintained mirror, upstream last updated 2023.
+- [ScamSearch](https://scamsearch.io/) - Global scammer database: search by profile picture, email, username, phone or crypto address; report and lookup; free with premium reports.
 - [SecurityTrails](https://www.securitytrails.com/) - Domain and DNS intelligence: current and historical WHOIS, DNS records, subdomains and host search; free tier and API.
 - [Shodan](https://www.shodan.io/) - Search engine for internet-connected devices: cameras, servers, DBs, IoT — with filters by country/port/banner.
 - [Social Searcher](https://www.social-searcher.com/) - Instant social media search engine: posts, mentions and users by keyword across major networks; free searches, paid dashboard and API.

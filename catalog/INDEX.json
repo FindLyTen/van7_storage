@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1552,
+ "items_total": 1555,
  "categories_total": 113,
  "sections": [
   {
@@ -253,7 +253,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 81,
+   "count": 82,
    "subsections": [
     {
      "id": "dev_api",
@@ -268,7 +268,7 @@
     {
      "id": "dev_edit",
      "name": "Editors",
-     "count": 54
+     "count": 55
     },
     {
      "id": "dev_viz",
@@ -351,7 +351,7 @@
     {
      "id": "hack_brute",
      "name": "Brute Force",
-     "count": 6
+     "count": 5
     },
     {
      "id": "hack_ddos",
@@ -371,7 +371,7 @@
     {
      "id": "hack_phish",
      "name": "Phishing",
-     "count": 3
+     "count": 4
     },
     {
      "id": "hack_tools",
@@ -557,12 +557,12 @@
    "id": "osint",
    "name": "OSINT",
    "emoji": "🕵️",
-   "count": 97,
+   "count": 99,
    "subsections": [
     {
      "id": "osint_mail",
      "name": "By Email",
-     "count": 9
+     "count": 10
     },
     {
      "id": "osint_phone",
@@ -577,7 +577,7 @@
     {
      "id": "osint_nick",
      "name": "By Username",
-     "count": 8
+     "count": 7
     },
     {
      "id": "osint_video",
@@ -587,7 +587,7 @@
     {
      "id": "osint_lists",
      "name": "Collections",
-     "count": 7
+     "count": 8
     },
     {
      "id": "osint_fw",
@@ -617,7 +617,7 @@
     {
      "id": "osint_web",
      "name": "Website Analysis",
-     "count": 19
+     "count": 20
     }
    ],
    "json": "catalog/osint.json",
