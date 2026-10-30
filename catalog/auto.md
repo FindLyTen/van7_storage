@@ -4,7 +4,7 @@
 
 ## Contents
 - [Accounts & Mail](#accounts-mail) (6)
-- [Browser](#browser) (19)
+- [Browser](#browser) (24)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
 - [Self-hosted Tools](#self-hosted-tools) (18)
@@ -22,15 +22,18 @@
 ## Browser
 - [AIPex](https://github.com/AIPexStudio/AIPex) - Open-source AI browser automation agent as an extension: lives in your Chrome without separate browsers and subscriptions, BYOK keys, MCP bridge for Claude Code/Cursor. An alternative to Claude Chrome/Atlas.
 - [Archify](https://github.com/tt-a1i/archify) - An archive of browser history and open tabs into a local database, search through the past.
+- [Brave](https://brave.com/) - Privacy browser with Shields ad/tracker blocking and optional Brave Rewards; free, Chromium-based.
 - [Browser Use](https://github.com/browser-use/browser-use) - This is a tool that gives AI hands to control a browser: it opens sites, clicks, fills in forms and extracts data on its own, just from a text command.
 - [BrowserCode](https://github.com/browser-use/browsercode) - A browser-native agent framework from browser-use: the agent lives right in the browser and writes/runs code in the context of the page.
 - [BrowserWing](https://github.com/browserwing/browserwing) - browser automation platform built for AI agents. You record your actions in the browser (clicks, text input, navigation), and it turns them into ready-made commands that the agent can call directly
 - [CloackBrowser](https://github.com/CloakHQ/CloakBrowser) - Anti-detect browser with isolated profiles for multi-accounting
 - [Clon1X](https://clon1x.com/) - Clone-phishing platform: build and monitor cloned login pages to test protections, real-time credential capture with notifications and tracking; SaaS; proprietary.
 - [EGO Lite](https://github.com/citrolabs/ego-lite) - Desktop browser for AI agents: web automation runs with your logged-in browser state shared with the agent; Mac/Windows app; MIT; 20k+ stars.
+- [Epic Privacy Browser](https://www.epicbrowser.com/) - Privacy-focused Chromium build: always-on private proxy option, no browsing history, tracker fingerprinting protection; free.
 - [Figranium](https://github.com/figranium/figranium) - A visual builder of browser automations: you assemble a workflow from blocks and then trigger it via API. Playwright under the hood, no code.
 - [Lightpanda](https://github.com/lightpanda-io/browser) - headless browser written from scratch in Zig specifically for AI agents and automation, not a fork of Chrome/WebKit
 - [Midscene](https://github.com/web-infra-dev/midscene) - AI-vision E2E testing: natural-language steps and assertions for web, Android and desktop UIs, YAML cases and Agent APIs, Playwright/Puppeteer support; npm @midscene/web; MIT.
+- [Opera](https://www.opera.com/) - Chromium browser with built-in ad blocker, free VPN and messengers; free with paid features.
 - [PinchTab](https://github.com/pinchtab/pinchtab) - orchestrated browser action automation
 - [Polar](https://polarbrowser.com/) - AI browser for macOS and Windows where tasks like research, recruiting, sales, ops and running a business run automatically, including quick and hours-long scheduled workflows; commercial.
 - [Reverse API Engineer](https://github.com/kalil0321/reverse-api-engineer) - Records your browser network traffic while you click a site, then AI writes ready-to-use client code for the hidden API.
@@ -39,6 +42,8 @@
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Headless browser with a built-in API for automation and agents
 - [Swell](https://github.com/ivantacca/swell) - Minimal Gecko browser with fully isolated spaces (own cookies, passwords, extensions per space) in one window; alpha, macOS/Linux; MPL-2.0.
 - [Tandem Browser](https://github.com/hydro13/tandem-browser) - An AI-Human symbiotic browser: the human and the agent (Claude Code/Codex) surf the web as one entity; the agent sees the same page and helps in real time. Electron, local.
+- [Vivaldi](https://vivaldi.com/) - Highly customizable Chromium browser: tabs, notes, built-in ad blocker and mail; free on desktop, Android.
+- [Zen Browser](https://zen-browser.app/) - Firefox-based privacy browser with vertical tabs, workspaces and compact mode; free, MPL-2.0.
 
 ## PC Control
 - [ClickClickClick](https://github.com/instavm/clickclickclick) - Autonomous control of Android and a computer through any LLM (local or cloud): the agent clicks, types and works with the UI by itself.

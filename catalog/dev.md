@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Editors](#editors) (46)
+- [Editors](#editors) (54)
 - [Visualization](#visualization) (7)
 - [Other](#other) (10)
 
@@ -25,6 +25,7 @@
 
 ## Editors
 - [ADCode](https://adcode.bluethenics.com/versions) - Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.
+- [Antigravity](https://antigravity.google/) - Google agentic IDE (VS Code fork) with Gemini 3: agent-first dev across editor and browser, task lists, artifacts; free preview.
 - [Apache Ant](https://ant.apache.org/) - Classic Java build tool driven by XML buildfiles; legacy but still maintained; free, Apache-2.0.
 - [Apache Maven](https://maven.apache.org/) - Java build and dependency management tool: POM model, repositories, plugins; free, Apache-2.0.
 - [Asana](https://asana.com/) - Work management platform: tasks, projects, timelines, goals; free tier plus paid plans.
@@ -32,6 +33,7 @@
 - [Bitbucket](https://bitbucket.org/product/) - Atlassian Git hosting with Pipelines CI/CD and Jira integration; free tier for small teams plus paid plans.
 - [ClickUp](https://clickup.com/) - All-in-one productivity workspace: tasks, docs, goals, chat; free tier plus paid plans.
 - [CMake](https://cmake.org/) - Cross-platform build system generator for C/C++ projects (Makefiles, IDE projects); free, BSD.
+- [Cursor](https://cursor.com/) - AI-first code editor (VS Code fork): tab completions, agent mode, codebase chat; free tier plus paid plans.
 - [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework running in the browser: time travel, screenshots; free tier plus paid.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains multi-engine database IDE (MySQL, Postgres, SQLite, MongoDB and more); paid with 30-day trial.
 - [DBeaver](https://dbeaver.io/) - Universal GUI for databases: MySQL/Postgres/SQLite/Mongo and 80+ more sources, SQL editor, ER diagrams, export.
@@ -39,13 +41,17 @@
 - [Flutter](https://flutter.dev/) - Google UI framework for cross-platform apps (iOS/Android/web/desktop) with a single codebase in Dart, hot reload and a rich set of widgets.
 - [GDB](https://www.sourceware.org/gdb/) - GNU debugger for C/C++ and other languages: breakpoints, stepping, inspection; free, GPL.
 - [Git](https://git-scm.com/) - Distributed version control system: branches, remotes, tagging; CLI plus GUI clients; free, GPL.
+- [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant in VS Code/JetBrains/neovim: completions, chat, agent mode; free tier with limited completions plus paid plans.
 - [GitLab](https://about.gitlab.com/) - DevOps platform: Git hosting, CI/CD pipelines, issues, container registry; free tier plus paid plans and self-hosted CE.
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable real-time editor with Lisp core and thousands of packages; free, GPL.
 - [GNU Make](https://www.gnu.org/software/make/) - Standard build automation tool reading Makefiles; preinstalled almost everywhere; free, GPL.
+- [Google Colab](https://colab.research.google.com/) - Hosted Jupyter notebooks in the browser with free GPUs/TPUs and built-in AI assistance; Google account, free tier plus Pro.
 - [Gradle](https://gradle.org/) - Build automation for JVM, Android and multi-language projects: incremental builds, dependency cache; free, Apache-2.0.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - JetBrains Java/Kotlin IDE with Maven/Gradle support, refactoring and debugger; free Community edition plus paid Ultimate.
 - [Jest](https://jestjs.io/) - JavaScript testing framework by Meta: unit tests, snapshots, mocking, coverage; free, MIT.
 - [Jira](https://www.atlassian.com/software/jira) - Atlassian issue and project tracking: boards, backlogs, workflows; free tier for small teams plus paid.
 - [JUnit](https://junit.org/junit5/) - Standard unit-testing framework for Java: assertions, parameterized tests, extensions; free, EPL.
+- [Jupyter](https://jupyter.org/) - Interactive computing: Jupyter notebooks, JupyterLab, kernels for 40+ languages; free, BSD.
 - [Kiro](https://kiro.dev/) - AI coding IDE/CLI: spec-driven development, parallel agents, property-based tests, headless CI review; macOS/Windows/Linux, web/mobile; proprietary, free tier.
 - [LLDB](https://lldb.llvm.org/) - LLVM project debugger for C/C++, Swift and Rust with REPL and scripting; free, Apache-2.0.
 - [Mocha](https://mochajs.org/) - Flexible JavaScript test framework for Node and browser with reporter ecosystem; free, MIT.
@@ -58,6 +64,7 @@
 - [PostgreSQL](https://www.postgresql.org/) - Advanced open-source relational database with rich types and extensions; free, PostgreSQL license.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains Python IDE: debugger, virtualenv/conda, scientific tools, web frameworks; free Community edition plus paid Professional.
 - [Redis](https://redis.io/) - In-memory data store used as cache, queue and pub/sub; free self-hosted, paid Redis Cloud.
+- [Replit](https://replit.com/) - Browser IDE and cloud dev platform: run any language, AI agent, deployments, databases; free tier plus paid plans.
 - [Repolyze](https://repolyze.app/) - Rust CLI/TUI for analyzing git repositories: contributor statistics, activity heatmap, size metrics, repo comparison, analysis of GitHub repos without cloning.
 - [Selenium](https://www.selenium.dev/) - Browser automation standard: WebDriver API bindings in many languages, grid for parallel runs; free, Apache-2.0.
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Static code analysis for bugs, vulnerabilities and code smells across languages; free community edition plus paid.
@@ -70,6 +77,7 @@
 - [Trello](https://trello.com/) - Visual kanban boards for task management with checklists and automation; free tier plus paid plans.
 - [Vim](https://www.vim.org/) - Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.
 - [Visual Studio Code](https://code.visualstudio.com/) - Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.
+- [Zed](https://zed.dev/) - High-performance collaborative code editor written in Rust: multiplayer editing, AI assistance, fast UI; free, GPL/MIT mix.
 
 ## Visualization
 - [APITable](https://github.com/apitable/apitable) - Open-source Airtable alternative: a visual database table with an API interface, dashboards, automations. Can be self-hosted.

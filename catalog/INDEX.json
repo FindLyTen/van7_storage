@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1454,
+ "items_total": 1495,
  "categories_total": 113,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 471,
+   "count": 473,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,7 +18,7 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 121
+     "count": 123
     },
     {
      "id": "ai_image",
@@ -79,7 +79,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 78,
+   "count": 83,
    "subsections": [
     {
      "id": "auto_acc",
@@ -89,7 +89,7 @@
     {
      "id": "auto_browser",
      "name": "Browser",
-     "count": 19
+     "count": 24
     },
     {
      "id": "auto_pc",
@@ -253,7 +253,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 73,
+   "count": 81,
    "subsections": [
     {
      "id": "dev_api",
@@ -268,7 +268,7 @@
     {
      "id": "dev_edit",
      "name": "Editors",
-     "count": 46
+     "count": 54
     },
     {
      "id": "dev_viz",
@@ -284,12 +284,12 @@
    "id": "devices",
    "name": "Devices",
    "emoji": "📱",
-   "count": 58,
+   "count": 59,
    "subsections": [
     {
      "id": "devices_android",
      "name": "Android",
-     "count": 45
+     "count": 46
     },
     {
      "id": "devices_emu",
@@ -346,7 +346,7 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 138,
+   "count": 143,
    "subsections": [
     {
      "id": "hack_brute",
@@ -361,12 +361,12 @@
     {
      "id": "hack_def",
      "name": "Defense",
-     "count": 78
+     "count": 82
     },
     {
      "id": "hack_pentest",
      "name": "Pentest",
-     "count": 30
+     "count": 31
     },
     {
      "id": "hack_phish",
@@ -526,12 +526,12 @@
    "id": "net",
    "name": "Networks & Hardware",
    "emoji": "📡",
-   "count": 43,
+   "count": 63,
    "subsections": [
     {
      "id": "net_hw",
      "name": "Hardware Monitoring",
-     "count": 9
+     "count": 10
     },
     {
      "id": "net_remote",
@@ -541,12 +541,12 @@
     {
      "id": "net_traffic",
      "name": "Traffic & Firewall",
-     "count": 26
+     "count": 44
     },
     {
      "id": "net_wifi",
      "name": "Wi-Fi",
-     "count": 4
+     "count": 5
     }
    ],
    "json": "catalog/net.json",

@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Android](#android) (45)
+- [Android](#android) (46)
 - [Emulators](#emulators) (9)
 - [Operating Systems](#operating-systems) (2)
 - [Virtual Machines](#virtual-machines) (2)
@@ -37,6 +37,7 @@
 - [Obtanium](https://github.com/ImranR98/Obtainium) - installing and updating apps directly from GitHub and other sources
 - [OpenBoard](https://github.com/openboard-team/openboard) - Privacy keyboard based on AOSP LatinIME, offline, no telemetry; last upstream release 2024, actively developed fork HeliBoard; GPL-3.0.
 - [PakePlus](https://github.com/Sjj1024/PakePlus-Android?tab=readme-ov-file) - Package any website into a native app for Win/Mac/Linux/Android
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Android app capturing device traffic to PCAP without root: per-app filtering, DNS blocking, malware detection; GPL-3.0.
 - [Proton VPN](https://protonvpn.com/) - Swiss VPN by Proton: no-logs audited, secure core servers; open-source apps; free tier plus paid.
 - [Read You](https://f-droid.org/packages/me.ash.reader/) - Material You RSS reader for Android with local and self-hosted accounts (FreshRSS, Google Reader API); GPL-3.0.
 - [Sdmaid Se](https://github.com/d4rken-org/sdmaid-se) - Android device cleaner

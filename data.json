@@ -11083,6 +11083,293 @@
    "desc": "Container image linter: Dockerfile best practices, credentials, CIS benchmarks; free, MIT.",
    "url": "https://github.com/goodwithtech/dockle",
    "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399532693001",
+   "name": "GitHub Copilot",
+   "desc": "AI coding assistant in VS Code/JetBrains/neovim: completions, chat, agent mode; free tier with limited completions plus paid plans.",
+   "url": "https://github.com/features/copilot",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693002",
+   "name": "Replit",
+   "desc": "Browser IDE and cloud dev platform: run any language, AI agent, deployments, databases; free tier plus paid plans.",
+   "url": "https://replit.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693003",
+   "name": "Google Colab",
+   "desc": "Hosted Jupyter notebooks in the browser with free GPUs/TPUs and built-in AI assistance; Google account, free tier plus Pro.",
+   "url": "https://colab.research.google.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693004",
+   "name": "Lovable",
+   "desc": "AI full-stack app builder: prompt to React web apps with GitHub sync and database; free tier plus paid plans.",
+   "url": "https://lovable.dev/",
+   "cat": "ai_agents"
+  },
+  {
+   "id": "it_1793399532693005",
+   "name": "Bolt.new",
+   "desc": "StackBlitz web-based AI agent: prompt full-stack apps in the browser with WebContainers, no local setup; free tier plus paid.",
+   "url": "https://bolt.new/",
+   "cat": "ai_agents"
+  },
+  {
+   "id": "it_1793399532693006",
+   "name": "Cursor",
+   "desc": "AI-first code editor (VS Code fork): tab completions, agent mode, codebase chat; free tier plus paid plans.",
+   "url": "https://cursor.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693007",
+   "name": "Antigravity",
+   "desc": "Google agentic IDE (VS Code fork) with Gemini 3: agent-first dev across editor and browser, task lists, artifacts; free preview.",
+   "url": "https://antigravity.google/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693008",
+   "name": "Zed",
+   "desc": "High-performance collaborative code editor written in Rust: multiplayer editing, AI assistance, fast UI; free, GPL/MIT mix.",
+   "url": "https://zed.dev/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693009",
+   "name": "GNU Emacs",
+   "desc": "Extensible, customizable real-time editor with Lisp core and thousands of packages; free, GPL.",
+   "url": "https://www.gnu.org/software/emacs/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693010",
+   "name": "Jupyter",
+   "desc": "Interactive computing: Jupyter notebooks, JupyterLab, kernels for 40+ languages; free, BSD.",
+   "url": "https://jupyter.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399532693011",
+   "name": "Arkime",
+   "desc": "Full packet capture + indexed search (PCAP store, SPI data) for network forensics at scale; free, Apache-2.0/LGPL.",
+   "url": "https://arkime.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399532693012",
+   "name": "Kismet",
+   "desc": "Wireless detector, sniffer and IDS: Wi-Fi, Bluetooth, rtl_433, capture and channel hopping; free, GPL; for authorized auditing.",
+   "url": "https://www.kismetwireless.net/",
+   "cat": "net_wifi"
+  },
+  {
+   "id": "it_1793399532693013",
+   "name": "Bettercap",
+   "desc": "Swiss-army network attacks and monitoring framework: MITM, spoofing, WiFi/Bluetooth recon, HTTP proxy; for authorized testing; free, GPL.",
+   "url": "https://www.bettercap.org/",
+   "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793399532693014",
+   "name": "netsniff-ng",
+   "desc": "High-speed packet crafting and analyzer toolkit for Linux (zero-copy); free, GPL.",
+   "url": "https://github.com/netsniff-ng/netsniff-ng",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693015",
+   "name": "Brim",
+   "desc": "Desktop network analysis app: query PCAP and Zeek logs with Zed language (ZNG); free, BSD-3.",
+   "url": "https://www.brimdata.io/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693016",
+   "name": "Termshark",
+   "desc": "Terminal UI for tshark: Wireshark-style packet browsing in the console; free, MIT.",
+   "url": "https://termshark.io/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693017",
+   "name": "ngrep",
+   "desc": "grep for network traffic: regex matching against pcap interfaces and files; free, free license.",
+   "url": "https://github.com/jpr5/ngrep",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693018",
+   "name": "PCAPdroid",
+   "desc": "Android app capturing device traffic to PCAP without root: per-app filtering, DNS blocking, malware detection; GPL-3.0.",
+   "url": "https://github.com/emanuele-f/PCAPdroid",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399532693019",
+   "name": "Ubertooth",
+   "desc": "Open-source 2.4 GHz Bluetooth/ISM development platform for experimentation and sniffing; Great Scott Gadgets; hardware purchase.",
+   "url": "https://greatscottgadgets.com/ubertoothone/",
+   "cat": "net_hw"
+  },
+  {
+   "id": "it_1793399532693020",
+   "name": "GRR Rapid Response",
+   "desc": "Google incident response framework: remote live forensics, artifact collection, hunt across fleets; free, Apache-2.0.",
+   "url": "https://github.com/google/grr",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399532693021",
+   "name": "OpenEDR",
+   "desc": "Comodo open-source EDR agent for Windows: process, file and network telemetry to backend; free, Apache-2.0.",
+   "url": "https://github.com/ComodoSecurity/openedr",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399532693022",
+   "name": "Velociraptor",
+   "desc": "Endpoint visibility and DFIR tool: VQL queries, artifact collection, hunt across thousands of hosts; free, AGPL.",
+   "url": "https://docs.velociraptor.app/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399532693023",
+   "name": "Opera",
+   "desc": "Chromium browser with built-in ad blocker, free VPN and messengers; free with paid features.",
+   "url": "https://www.opera.com/",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793399532693024",
+   "name": "Epic Privacy Browser",
+   "desc": "Privacy-focused Chromium build: always-on private proxy option, no browsing history, tracker fingerprinting protection; free.",
+   "url": "https://www.epicbrowser.com/",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793399532693025",
+   "name": "Vivaldi",
+   "desc": "Highly customizable Chromium browser: tabs, notes, built-in ad blocker and mail; free on desktop, Android.",
+   "url": "https://vivaldi.com/",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793399532693026",
+   "name": "Brave",
+   "desc": "Privacy browser with Shields ad/tracker blocking and optional Brave Rewards; free, Chromium-based.",
+   "url": "https://brave.com/",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793399532693027",
+   "name": "Zen Browser",
+   "desc": "Firefox-based privacy browser with vertical tabs, workspaces and compact mode; free, MPL-2.0.",
+   "url": "https://zen-browser.app/",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793399532693028",
+   "name": "Ghostery",
+   "desc": "Privacy extension and browser: blocks trackers and ads, shows tracker profiles per site; free with paid tiers.",
+   "url": "https://www.ghostery.com/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693029",
+   "name": "AdGuard",
+   "desc": "Cross-platform ad blocking: Windows/Mac apps, Android, browser extensions, DNS filtering; free core with paid tiers.",
+   "url": "https://adguard.com/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693030",
+   "name": "AdBlock",
+   "desc": "Popular browser extension blocking ads, pop-ups and YouTube ads; free, accepts donations.",
+   "url": "https://getadblock.com/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693031",
+   "name": "NoScript",
+   "desc": "Firefox/Chromium extension allowing active content only on trusted sites: XSS and clickjacking protection; free, GPL.",
+   "url": "https://noscript.net/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693032",
+   "name": "Privacy Badger",
+   "desc": "EFF extension that learns and blocks invisible trackers, no allowlists; free, GPL.",
+   "url": "https://privacybadger.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693033",
+   "name": "uBlock Origin",
+   "desc": "Efficient wide-spectrum content blocker with low CPU/memory usage, filter lists; free, GPL-3.0.",
+   "url": "https://github.com/gorhill/uBlock",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693034",
+   "name": "AdBlocker Ultimate",
+   "desc": "Browser extension and desktop apps blocking all ads, trackers, malware domains, no acceptable-ads whitelist; free, open-source core.",
+   "url": "https://adblockultimate.net/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693035",
+   "name": "Squid",
+   "desc": "Caching and forwarding HTTP proxy with ACLs, SSL bump, ICAP; free, GPL.",
+   "url": "https://www.squid-cache.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693036",
+   "name": "Privoxy",
+   "desc": "Non-caching privacy-enhancing web proxy: filters ads, headers, cookies; free, GPL.",
+   "url": "https://www.privoxy.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693037",
+   "name": "pfBlockerNG",
+   "desc": "pfSense/OPNsense package: IP and DNS blocking via feeds (GeoIP, aliases, Unbound/python); free.",
+   "url": "https://www.ngworks.net/?p=1344",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693038",
+   "name": "Lockdown Privacy",
+   "desc": "Firewall and VPN app blocking trackers network-wide on iOS/macOS/Android; free with premium tiers.",
+   "url": "https://lockdownprivacy.com/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693039",
+   "name": "StevenBlack Hosts",
+   "desc": "Curated hosts file consolidating several sources to block ads, malware and fake news domains; free, MIT.",
+   "url": "https://github.com/StevenBlack/hosts",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693040",
+   "name": "hBlock",
+   "desc": "Configurable script that builds a hosts file from blocklists for ad/tracking domains; free, MIT.",
+   "url": "https://github.com/hectorm/hblock",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399532693041",
+   "name": "Pi-hole",
+   "desc": "Network-level ad and tracker blocking DNS server for your LAN with web dashboard; free, EUPL.",
+   "url": "https://pi-hole.net/",
+   "cat": "net_traffic"
   }
  ]
 }

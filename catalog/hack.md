@@ -5,8 +5,8 @@
 ## Contents
 - [Brute Force](#brute-force) (3)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (78)
-- [Pentest](#pentest) (30)
+- [Defense](#defense) (82)
+- [Pentest](#pentest) (31)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
@@ -24,6 +24,7 @@
 - [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment: file and directory integrity checker via db of hashes; free, GPL.
 - [Anchore Engine](https://github.com/anchore/anchore-engine) - Service scanning container images against vulnerability and policy checks; free, Apache-2.0; successor Anchore Enterprise.
 - [AppArmor](https://apparmor.net/) - Linux security module confining programs via profile paths and capabilities; free, GPL.
+- [Arkime](https://arkime.com/) - Full packet capture + indexed search (PCAP store, SPI data) for network forensics at scale; free, Apache-2.0/LGPL.
 - [Atomic OSSEC](https://atomicorp.com/) - Atomicorp OSSEC-based host intrusion prevention with expanded rules and management console; free tier plus paid.
 - [Auditbeat](https://www.elastic.co/beats/auditbeat) - Elastic shipper for audit data: file integrity, system calls, live process monitoring into Elastic; free basic tier.
 - [auditd](https://github.com/linux-audit/audit-userspace) - Linux audit system userspace: syscall and file-access auditing to log files; free, GPL/LGPL.
@@ -52,6 +53,7 @@
 - [gocryptfs](https://nuetzlich.net/gocryptfs/) - Encrypted overlay filesystem in Go, built on FUSE: file-based encryption like EncFS but faster; free, MIT.
 - [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern builds and deployments; free, Apache-2.0.
 - [Graylog](https://graylog.org/) - Central log management: ingestion, search, dashboards, alerting; free open edition plus paid.
+- [GRR Rapid Response](https://github.com/google/grr) - Google incident response framework: remote live forensics, artifact collection, hunt across fleets; free, Apache-2.0.
 - [Grsecurity](https://grsecurity.net/) - Hardened Linux kernel patches and RBAC system; commercial subscriptions for stable patches; free test patches historically.
 - [HashiCorp Vault](https://developer.hashicorp.com/vault) - Secrets management: dynamic credentials, encryption as a service, PKI; free self-hosted core, paid cloud.
 - [Katello](https://katello.org/) - Foreman-based content and lifecycle management: RPM repos, errata, provisioning; free, GPL.
@@ -64,6 +66,7 @@
 - [MinerSearch](https://github.com/BlendLog/MinerSearch) - Finding and removing hidden miners on Windows
 - [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Web application firewall engine (v2 Apache, v3 lib) with SecRules; trustwave->OWASP; free, Apache-2.0.
 - [opencode-vibeguard](https://www.npmjs.com/package/opencode-vibeguard) - OpenCode plugin that auto-redacts secrets/PII before they reach the AI; free, no key; community.
+- [OpenEDR](https://github.com/ComodoSecurity/openedr) - Comodo open-source EDR agent for Windows: process, file and network telemetry to backend; free, Apache-2.0.
 - [OpenSCAP](https://www.open-scap.org/) - Open-source SCAP compliance scanner: vulnerabilities and policy checks with SCAP content; free, LGPL.
 - [OpenVAS / GVM](https://www.greenbone.net/) - Open-source vulnerability scanner by Greenbone (GVM framework): authenticated scans, CVE feeds, web UI; free; for authorized testing.
 - [Osquery](https://osquery.io/) - Query OS state as SQL tables: processes, sockets, registry; agents and fleet management; free, Apache-2.0/GPL.
@@ -93,6 +96,7 @@
 - [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Host-based integrity monitoring: baseline database and change reports for files; open-source edition; GPL.
 - [Trivy](https://trivy.dev/) - Aqua open-source scanner for vulnerabilities, misconfigurations, secrets and SBOM in containers and repos; free, Apache-2.0.
 - [Vector](https://vector.dev/) - High-performance observability data pipeline: collect, transform, route logs and metrics; free, MPL-2.0.
+- [Velociraptor](https://docs.velociraptor.app/) - Endpoint visibility and DFIR tool: VQL queries, artifact collection, hunt across thousands of hosts; free, AGPL.
 - [Veracode](https://www.veracode.com/) - Commercial static and dynamic application security testing platform; paid, vendor pricing.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption software, TrueCrypt successor: containers, system encryption, hidden volumes; free, Apache-2.0/TrueCrypt.
 - [Vuurmuur](https://vuurmuur.org/) - Firewall manager for Linux iptables: rule building, traffic logging, SSH traffic shaping; free, GPL.
@@ -102,6 +106,7 @@
 
 ## Pentest
 - [Amass (OWASP)](https://github.com/owasp-amass/amass) - Powerful reconnaissance of domains and subdomains: passive sources, DNS brute force, scraping, building a map of external infrastructure.
+- [Bettercap](https://www.bettercap.org/) - Swiss-army network attacks and monitoring framework: MITM, spoofing, WiFi/Bluetooth recon, HTTP proxy; for authorized testing; free, GPL.
 - [BloodHound](https://github.com/specterops/bloodhound) - Graph analysis of an Active Directory domain: collects relationships between users/groups/hosts and finds hidden escalation paths to domain admin. SpecterOps.
 - [Burp Suite (PortSwigger)](https://portswigger.net/burp) - Official Burp Suite (PortSwigger): standard web app security toolkit. Free Community for manual testing, Pro with Scanner for pentesters, DAST for automated CI scanning.
 - [Burp Suite Professional](https://github.com/xiv3r/Burpsuite-Professional) - The main proxy for web pentesting: intercepting and replaying requests, vulnerability scanner, Intruder fuzzer, extensions via the BApp Store.

@@ -43,6 +43,7 @@
 {"id":165,"name":"Obtanium","url":"https://github.com/ImranR98/Obtainium","desc":"installing and updating apps directly from GitHub and other sources","cat":"devices_android"},
 {"id":"it_1793399286136003","name":"OpenBoard","url":"https://github.com/openboard-team/openboard","desc":"Privacy keyboard based on AOSP LatinIME, offline, no telemetry; last upstream release 2024, actively developed fork HeliBoard; GPL-3.0.","cat":"devices_android"},
 {"id":40,"name":"PakePlus","url":"https://github.com/Sjj1024/PakePlus-Android?tab=readme-ov-file","desc":"Package any website into a native app for Win/Mac/Linux/Android","cat":"devices_android"},
+{"id":"it_1793399532693018","name":"PCAPdroid","url":"https://github.com/emanuele-f/PCAPdroid","desc":"Android app capturing device traffic to PCAP without root: per-app filtering, DNS blocking, malware detection; GPL-3.0.","cat":"devices_android"},
 {"id":"it_1793399286136032","name":"Proton VPN","url":"https://protonvpn.com/","desc":"Swiss VPN by Proton: no-logs audited, secure core servers; open-source apps; free tier plus paid.","cat":"devices_android"},
 {"id":"it_1793399286136016","name":"Read You","url":"https://f-droid.org/packages/me.ash.reader/","desc":"Material You RSS reader for Android with local and self-hosted accounts (FreshRSS, Google Reader API); GPL-3.0.","cat":"devices_android"},
 {"id":164,"name":"Sdmaid Se","url":"https://github.com/d4rken-org/sdmaid-se","desc":"Android device cleaner","cat":"devices_android"},

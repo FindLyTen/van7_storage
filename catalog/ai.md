@@ -4,7 +4,7 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (24)
-- [AI Agents](#ai-agents) (121)
+- [AI Agents](#ai-agents) (123)
 - [AI Images](#ai-images) (24)
 - [AI Video](#ai-video) (34)
 - [API & MCP](#api-mcp) (73)
@@ -61,6 +61,7 @@
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first AI agent: browser control, file edits, approved shell commands, memory, MCP, local/cloud models and Fusion mode; TypeScript/Node, llama.cpp; MIT.
 - [Autoevals](https://github.com/braintrustdata/autoevals) - Library of automatic eval methods: LLM-as-a-judge, heuristic (Levenshtein), statistical (BLEU); fact-check and safety scorers adapted from OpenAI evals, custom model-graded evals; TypeScript/Python; MIT.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft framework for multi-agent systems: LLM assistant agents, autonomous interaction, human-in-the-loop, group chats and code execution.
+- [Bolt.new](https://bolt.new/) - StackBlitz web-based AI agent: prompt full-stack apps in the browser with WebContainers, no local setup; free tier plus paid.
 - [Buzz](https://github.com/block/buzz) - Self-hosted work chat (Slack-like) where AI agents are full employees: code, review, collaborate in channels alongside humans.
 - [Claude Commerce Agents](https://claude.com/blog/claude-for-commerce-agents) - Anthropic blueprint for commerce agents on Claude: reference shopping/merchant agents + Claude Code plugin; buildable with Messages API/Agent SDK, deployable via Claude API/Bedrock/Foundry/Vertex.
 - [Claude Context](https://github.com/zilliztech/claude-context) - tool that gives Claude Code "memory" of your whole project, even if it is huge
@@ -102,6 +103,7 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - LangChain low-level orchestration framework for building resilient stateful AI agents: graphs, checkpoints, human-in-the-loop, durable execution; Python and JavaScript; MIT.
 - [LangWatch](https://github.com/langwatch/langwatch) - AI production platform: trace, test, route and govern company LLM calls and coding agents (npx langwatch claude/codex); self-host on Node.js 24 or cloud; TypeScript; Apache-2.0 core + enterprise.
 - [Local Operator](https://github.com/damianvtran/local-operator) - Open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run around the clock and share existing AI subscriptions; MIT.
+- [Lovable](https://lovable.dev/) - AI full-stack app builder: prompt to React web apps with GitHub sync and database; free tier plus paid plans.
 - [MagesticAI](https://github.com/dataseeek/MagesticAI) - web platform (a fork of the Aperant project) for managing several AI agents through a browser
 - [MateClaw](https://github.com/mateaix/mateclaw) - an AI agent for Clawdh/Cloudflare: automation through natural language
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - This is an AI secretary for meetings, but a private one: it listens to the conversation, recognizes speech and makes notes right on your computer; nothing flies off to the cloud, unlike Zoom-like services.
