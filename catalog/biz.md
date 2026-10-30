@@ -43,7 +43,7 @@
 - [Google Keyword Planner](https://business.google.com/en-all/ad-tools/keyword-planner/) - Free keyword research tool inside Google Ads: related keyword ideas, search volume and its trend, bid estimates and click/impression forecasts. Requires a Google Ads account with at least one campaign, in Expert Mode.
 - [Google Trends](https://trends.google.com/trends/) - Free Google tool for exploring search interest in terms and topics by time, region and popularity, with a Trending Now view of what people searched for in the last 24 hours.
 - [Launch Llama](https://tools.launchllama.co/) - free startup launch platform; submit and promote your startup; for founders; permanent free listing; backlinks
-- [LinkedIn MCP](https://github.com/mcp-layer/linkedin-mcp) - LinkedIn posting via official REST API (no official LinkedIn MCP): free-ish, LinkedIn app/OAuth; official API = safe; avoid cookie wrappers.
+- [LinkedIn MCP](https://github.com/mcp-layer/linkedin-mcp-server) - LinkedIn posting via official REST API (no official LinkedIn MCP): free-ish, LinkedIn app/OAuth; official API = safe; avoid cookie wrappers.
 - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders) - Curated link list for getting the first 10/100/1000 users: launch sites, SEO, AEO/GEO, Reddit, cold outreach, email, pricing, landing pages, validation. CC-BY-SA-4.0.
 - [Matomo](https://matomo.org/) - Open-source web analytics — a private replacement for Google Analytics: visits, goals, funnels, self-host.
 - [Microlaunch](https://microlaunch.net/) - launch platform for makers and startups; launch, get feedback, make first sales; for makers; free and paid
@@ -78,7 +78,7 @@
 - [vidIQ](https://vidiq.com/) - AI service for growing YouTube channels (and Instagram): video ideas, title, tag and thumbnail optimization, analytics and coaching, plus a browser extension. Free plan with paid tiers.
 - [What Launched Today](https://whatlaunched.today/) - product launch directory; daily startup launches from stealth to established; for makers; free submission; Product Hunt alternative
 - [X MCP](https://github.com/xdevplatform/xMCP) - Official X (Twitter) MCP: read/search + posting; free tier ~500 posts/mo write, Basic $200/mo; X developer account; official.
-- [YouTube MCP](https://github.com/pauling-ai/youtube-studio-mcp) - Community YouTube MCP with 40 tools: upload, thumbnails, playlists, comments, Analytics; free, Google OAuth; official Data API underneath.
+- [YouTube MCP](https://github.com/pauling-ai/youtube-mcp-server) - Community YouTube MCP with 40 tools: upload, thumbnails, playlists, comments, Analytics; free, Google OAuth; official Data API underneath.
 
 ## Real Estate
 - [AtHome Japan](https://www.athome.co.jp/) - Japan's largest real estate database
@@ -110,7 +110,7 @@
 - [Aperture (L402)](https://github.com/lightninglabs/aperture) - L402 reverse proxy: sells HTTP API access per request over Lightning, with macaroon tokens and optional MPP payment scheme; Go binary or Docker; MIT.
 - [CCXT MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Community MCP for 100+ crypto exchanges including Bybit via CCXT: market data free, trading needs own keys; MIT; audit before live trading.
 - [Coinbase AgentKit](https://github.com/coinbase/agentkit) - Coinbase toolkit giving AI agents a crypto wallet: onchain actions and stablecoin payments, framework-agnostic Python and Node.js SDKs; Apache-2.0.
-- [CoinGecko MCP](https://github.com/CoinGecko/coingecko-mcp) - Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.
+- [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript/tree/main/packages/mcp-server) - Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.
 - [Crypto Trading Desk](https://github.com/hugoguerrap/crypto-claude-desk) - Claude Code plugin: 7 crypto trading agents, 83 tools, 9 MCP servers, paper portfolio, monitoring and self-learning; markdown + MCP; MIT.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - Database of 300k+ tickers/companies with metadata (sector, country, ETF) — the foundation for financial analysis in Python.
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - financial terminal

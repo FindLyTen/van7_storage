@@ -8911,7 +8911,7 @@
    "id": "it_1793207870015007",
    "name": "DeepWiki MCP",
    "desc": "Hosted MCP server for asking questions about any public GitHub repo: no auth needed, instant repo understanding; free, no key; Devin-hosted.",
-   "url": "https://github.com/Devin-AI/DeepWiki",
+   "url": "https://mcp.deepwiki.com/",
    "cat": "ai_api"
   },
   {
@@ -8967,7 +8967,7 @@
    "id": "it_1793207870015015",
    "name": "CoinGecko MCP",
    "desc": "Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.",
-   "url": "https://github.com/CoinGecko/coingecko-mcp",
+   "url": "https://github.com/coingecko/coingecko-typescript/tree/main/packages/mcp-server",
    "cat": "biz_trade"
   },
   {
@@ -8981,7 +8981,7 @@
    "id": "it_1793207870015018",
    "name": "Cloudflare Radar MCP",
    "desc": "Official Cloudflare MCP for traffic trends, DNS intel, security research: free with Cloudflare OAuth; official, very active.",
-   "url": "https://github.com/pipeworx-io/mcp-cloudflare-radar",
+   "url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/main/apps/radar",
    "cat": "ai_api"
   },
   {
@@ -9128,14 +9128,14 @@
    "id": "it_1793207870015040",
    "name": "YouTube MCP",
    "desc": "Community YouTube MCP with 40 tools: upload, thumbnails, playlists, comments, Analytics; free, Google OAuth; official Data API underneath.",
-   "url": "https://github.com/pauling-ai/youtube-studio-mcp",
+   "url": "https://github.com/pauling-ai/youtube-mcp-server",
    "cat": "biz_mkt"
   },
   {
    "id": "it_1793207870015041",
    "name": "LinkedIn MCP",
    "desc": "LinkedIn posting via official REST API (no official LinkedIn MCP): free-ish, LinkedIn app/OAuth; official API = safe; avoid cookie wrappers.",
-   "url": "https://github.com/mcp-layer/linkedin-mcp",
+   "url": "https://github.com/mcp-layer/linkedin-mcp-server",
    "cat": "biz_mkt"
   },
   {
@@ -9156,7 +9156,7 @@
    "id": "it_1793207870015044",
    "name": "Search Console MCP (Suganthan)",
    "desc": "Search Console MCP with 29 SEO tools: quick wins, content decay, CTR benchmarks, image audit; free, Google OAuth; very active (v2.5, Aug 2026).",
-   "url": "https://github.com/SuganthanMN/GSC-MCP",
+   "url": "https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP",
    "cat": "ai_api"
   },
   {
