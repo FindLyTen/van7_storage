@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1495,
+ "items_total": 1533,
  "categories_total": 113,
  "sections": [
   {
@@ -79,7 +79,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 83,
+   "count": 95,
    "subsections": [
     {
      "id": "auto_acc",
@@ -104,7 +104,7 @@
     {
      "id": "auto_selfhost",
      "name": "Self-hosted Tools",
-     "count": 18
+     "count": 30
     },
     {
      "id": "auto_home",
@@ -346,7 +346,7 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 143,
+   "count": 152,
    "subsections": [
     {
      "id": "hack_brute",
@@ -361,7 +361,7 @@
     {
      "id": "hack_def",
      "name": "Defense",
-     "count": 82
+     "count": 91
     },
     {
      "id": "hack_pentest",
@@ -387,7 +387,7 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 107,
+   "count": 124,
    "subsections": [
     {
      "id": "infra_cloud",
@@ -407,7 +407,7 @@
     {
      "id": "infra_mon",
      "name": "Monitoring",
-     "count": 31
+     "count": 48
     },
     {
      "id": "infra_vps",

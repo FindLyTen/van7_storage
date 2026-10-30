@@ -11370,6 +11370,272 @@
    "desc": "Network-level ad and tracker blocking DNS server for your LAN with web dashboard; free, EUPL.",
    "url": "https://pi-hole.net/",
    "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399693896001",
+   "name": "Postfix",
+   "desc": "Standard open-source SMTP mail transfer agent: routing, aliases, policy filters; free, IBM Public License.",
+   "url": "https://www.postfix.org/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896002",
+   "name": "Dovecot",
+   "desc": "Open-source IMAP/POP3 mail server with high performance, full-text search, Sieve; free, MIT/LGPL mix.",
+   "url": "https://www.dovecot.org/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896003",
+   "name": "Mail-in-a-Box",
+   "desc": "Turn-key mail server on Ubuntu: Postfix, Dovecot, Nextcloud, DNS, TLS automation in one script; free, CC0/code public domain.",
+   "url": "https://mailinabox.email/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896004",
+   "name": "Mailcow",
+   "desc": "Dockerized mail server suite: Postfix, Dovecot, Rspamd, SOGo webmail, admin UI; free, GPL.",
+   "url": "https://mailcow.email/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896005",
+   "name": "Poste.io",
+   "desc": "Complete mail server in a single Docker container: web administration, webmail, antivirus, antispam; free tier plus paid.",
+   "url": "https://poste.io/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896006",
+   "name": "Stalwart",
+   "desc": "All-in-one Rust mail server: SMTP, IMAP, JMAP, built-in spam filters and DKIM; open-source community edition plus paid.",
+   "url": "https://stalw.com/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896007",
+   "name": "Modoboa",
+   "desc": "Modular mail hosting platform: admin, quarantine, DMARC reports on Postfix/Dovecot; free core plus paid.",
+   "url": "https://modoboa.org/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896008",
+   "name": "Simple NixOS Mailserver",
+   "desc": "Declarative full-featured mail server module for NixOS (Rspamd, DKIM, sieve); free, MIT.",
+   "url": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896009",
+   "name": "Exim",
+   "desc": "Flexible message transfer agent with rich routing/rewrite configuration, Debian default MTA; free, GPL.",
+   "url": "https://www.exim.org/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896010",
+   "name": "iRedMail",
+   "desc": "Shell script installing a full mail server (Postfix, Dovecot, SOGo, Rspamd) on major distros; free core plus paid Pro.",
+   "url": "https://iredmail.org/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896011",
+   "name": "Haraka",
+   "desc": "High-performance extensible SMTP server written in Node.js with plugin architecture; free, MIT.",
+   "url": "https://haraka.github.io/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896012",
+   "name": "Mailu",
+   "desc": "Docker-based full-featured mail server: webmail, admin, antispam, web antispam training; free, MIT.",
+   "url": "https://mailu.io/",
+   "cat": "auto_selfhost"
+  },
+  {
+   "id": "it_1793399693896013",
+   "name": "CAINE",
+   "desc": "Italian GNU/Linux live distribution for digital forensics: write-blocking, evidence collection tools; free.",
+   "url": "https://www.caine-live.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896014",
+   "name": "bulk_extractor",
+   "desc": "Forensic extractor scanning disk images/PCAP for emails, URLs, credit cards without filesystem; free, GPL.",
+   "url": "https://github.com/simsong/bulk_extractor",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896015",
+   "name": "Autopsy",
+   "desc": "Digital forensics platform GUI for The Sleuth Kit: timeline, keyword search, file analysis; free, Apache-2.0.",
+   "url": "https://www.autopsy.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896016",
+   "name": "NetworkMiner",
+   "desc": "Network forensic analysis tool parsing PCAP: files, credentials, sessions, OS fingerprint; free community plus paid pro.",
+   "url": "https://www.netresec.com/?page=NetworkMiner",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896017",
+   "name": "Volatility",
+   "desc": "Memory forensics framework: process lists, network artifacts, rootkit detection from RAM dumps; free, GPL.",
+   "url": "https://volatilityfoundation.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896018",
+   "name": "The Sleuth Kit",
+   "desc": "Library and CLI tools to investigate disk images and file systems (NTFS, ext, FAT); free, IBM/IPL.",
+   "url": "https://sleuthkit.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896019",
+   "name": "Sherloq",
+   "desc": "Open-source image forensic toolset: noise analysis, EXIF, shadows, tamper detection research; free, GPL.",
+   "url": "https://github.com/GuidoBartoli/sherloq",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896020",
+   "name": "DFTimewolf",
+   "desc": "Google framework to coordinate multi-host forensic workflows: collect, process and export evidence with Timesketch; free, Apache-2.0.",
+   "url": "https://github.com/log2timeline/dftimewolf",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896021",
+   "name": "SIFT Workstation",
+   "desc": "SANS forensic Ubuntu VM: 70+ free tools (Sleuth Kit, log2timeline) evidence collection; free download.",
+   "url": "https://www.sans.org/tools/sift-workstation/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399693896022",
+   "name": "LibreNMS",
+   "desc": "Auto-discovering network monitoring: SNMP, alerts, billing, API; free, GPL-3.0.",
+   "url": "https://www.librenms.org/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896023",
+   "name": "Domotz",
+   "desc": "Remote network monitoring and management: device discovery, SNMP, remote access; paid with free trial.",
+   "url": "https://www.domotz.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896024",
+   "name": "NetXMS",
+   "desc": "Open-source network monitoring and management: agent-based/agentless, maps, reporting; free, GPL/Commons.",
+   "url": "https://www.netxms.org/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896025",
+   "name": "Monitorix",
+   "desc": "Lightweight system monitoring with per-service graphs, alerts, web UI; free, GPL-2.0.",
+   "url": "https://www.monitorix.org/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896026",
+   "name": "Nagios",
+   "desc": "Industry-standard monitoring of hosts/services with alerts and plugins; Nagios Core free, XI paid.",
+   "url": "https://www.nagios.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896027",
+   "name": "LogicMonitor",
+   "desc": "SaaS observability for infrastructure and apps: dashboards, alerts, AIOps; paid.",
+   "url": "https://www.logicmonitor.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896028",
+   "name": "PRTG Network Monitor",
+   "desc": "Paessler all-in-one monitoring: SNMP, WMI, netflow, maps; free up to 100 sensors, paid above.",
+   "url": "https://www.paessler.com/prtg",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896029",
+   "name": "SolarWinds",
+   "desc": "IT management software: network, server monitoring, observability; paid commercial suite.",
+   "url": "https://www.solarwinds.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896030",
+   "name": "NetCrunch",
+   "desc": "Adrem network monitoring: maps, SNMP, packet analysis, monitoring packs; paid with trial.",
+   "url": "https://www.adremsoft.com/netcrunch/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896031",
+   "name": "Cacti",
+   "desc": "RRDtool-based network graphing and monitoring with templates and polling; free, GPL.",
+   "url": "https://www.cacti.net/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896032",
+   "name": "OpenNMS",
+   "desc": "Enterprise-grade open network management: discovery, polling, flows, Meridian/Horizon streams; free, AGPL.",
+   "url": "https://www.opennms.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896033",
+   "name": "Observium",
+   "desc": "Network monitoring platform with auto-discovery and clean graphs; free Community edition plus paid Professional.",
+   "url": "https://www.observium.org/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896034",
+   "name": "Icinga",
+   "desc": "Open-source monitoring system: checks, notifications, Icinga DB, director config; free, GPL.",
+   "url": "https://icinga.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896035",
+   "name": "Zenoss",
+   "desc": "Enterprise IT monitoring with application-aware analytics; paid SaaS (service moved to Virtana).",
+   "url": "https://www.zenoss.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896036",
+   "name": "AKIPS",
+   "desc": "Network monitoring at scale: 1-second polling, traps, syslog, no-charge for small networks; paid tiers.",
+   "url": "https://www.akips.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896037",
+   "name": "openITCOCKPIT",
+   "desc": "Nagios-based monitoring with web GUI, maps, reporting, Grafana integration; free open edition plus paid.",
+   "url": "https://openitcockpit.io/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399693896038",
+   "name": "Checkmk",
+   "desc": "Comprehensive IT monitoring: agents, auto-discovery, dashboards; free Raw edition plus paid tiers.",
+   "url": "https://checkmk.com/",
+   "cat": "infra_mon"
   }
  ]
 }

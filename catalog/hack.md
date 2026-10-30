@@ -5,7 +5,7 @@
 ## Contents
 - [Brute Force](#brute-force) (3)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (82)
+- [Defense](#defense) (91)
 - [Pentest](#pentest) (31)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
@@ -28,10 +28,13 @@
 - [Atomic OSSEC](https://atomicorp.com/) - Atomicorp OSSEC-based host intrusion prevention with expanded rules and management console; free tier plus paid.
 - [Auditbeat](https://www.elastic.co/beats/auditbeat) - Elastic shipper for audit data: file integrity, system calls, live process monitoring into Elastic; free basic tier.
 - [auditd](https://github.com/linux-audit/audit-userspace) - Linux audit system userspace: syscall and file-access auditing to log files; free, GPL/LGPL.
+- [Autopsy](https://www.autopsy.com/) - Digital forensics platform GUI for The Sleuth Kit: timeline, keyword search, file analysis; free, Apache-2.0.
 - [Bandit](https://bandit.readthedocs.io/) - PyCQA static analyzer finding common security issues in Python code; free, Apache-2.0.
 - [BPF-LSM](https://kernel.org/doc/html/latest/bpf/prog_lsm.html) - Attaching eBPF programs to Linux security module hooks for custom policy; free, GPL.
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Low-overhead sandboxing tool using Linux user namespaces, used by Flatpak; free, LGPL.
+- [bulk_extractor](https://github.com/simsong/bulk_extractor) - Forensic extractor scanning disk images/PCAP for emails, URLs, credit cards without filesystem; free, GPL.
 - [BunkerWeb](https://www.bunkerweb.io/) - Next-gen open-source WAF built on nginx: OWASP rules, bot mitigation, Let's Encrypt; free plus paid.
+- [CAINE](https://www.caine-live.net/) - Italian GNU/Linux live distribution for digital forensics: write-blocking, evidence collection tools; free.
 - [Calico](https://projectcalico.docs.tigera.io/) - Networking and network policy for Kubernetes and containers with eBPF dataplane option; free, Apache-2.0.
 - [chkrootkit](http://www.chkrootkit.org/) - Locally checks system binaries for signs of rootkits; classic UNIX tool; free, BSD-like.
 - [Cilium](https://cilium.io/) - eBPF networking, observability and security for Kubernetes: service mesh, network policy; free, Apache-2.0.
@@ -42,6 +45,7 @@
 - [CryFS](https://www.cryfs.org/) - Encrypted filesystem for cloud folders: chunks, hides file sizes and directory structure; free, BSD.
 - [Curiefense](https://www.curiefense.io/) - Open-source WAF integrated with Envoy: policies, rate limiting, bot defense; free, Apache-2.0.
 - [DenyHosts](https://denyhosts.sourceforge.net/) - Python tool blocking SSH brute-force IPs via /etc/hosts.deny from log parsing; free, GPL.
+- [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Google framework to coordinate multi-host forensic workflows: collect, process and export evidence with Timesketch; free, Apache-2.0.
 - [dm-crypt](https://gitlab.com/cryptsetup/cryptsetup/) - Linux kernel device-mapper crypto target: transparent block or disk encryption via LUKS/cryptsetup; free, GPL.
 - [Dockle](https://github.com/goodwithtech/dockle) - Container image linter: Dockerfile best practices, credentials, CIS benchmarks; free, MIT.
 - [eCryptfs](https://launchpad.net/ecryptfs) - POSIX-compliant stacked cryptographic filesystem for Linux, used for encrypted home dirs; free, GPL.
@@ -65,6 +69,7 @@
 - [Lynis](https://cisofy.com/lynis/) - Security auditing and hardening tool for UNIX-like systems: compliance checks, suggestions; free, GPL-3.0.
 - [MinerSearch](https://github.com/BlendLog/MinerSearch) - Finding and removing hidden miners on Windows
 - [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Web application firewall engine (v2 Apache, v3 lib) with SecRules; trustwave->OWASP; free, Apache-2.0.
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network forensic analysis tool parsing PCAP: files, credentials, sessions, OS fingerprint; free community plus paid pro.
 - [opencode-vibeguard](https://www.npmjs.com/package/opencode-vibeguard) - OpenCode plugin that auto-redacts secrets/PII before they reach the AI; free, no key; community.
 - [OpenEDR](https://github.com/ComodoSecurity/openedr) - Comodo open-source EDR agent for Windows: process, file and network telemetry to backend; free, Apache-2.0.
 - [OpenSCAP](https://www.open-scap.org/) - Open-source SCAP compliance scanner: vulnerabilities and policy checks with SCAP content; free, LGPL.
@@ -85,7 +90,9 @@
 - [Seccomp](https://github.com/seccomp/libseccomp) - High-level library for Linux seccomp syscall filtering; free, LGPL.
 - [Security Onion](https://securityonion.net/) - Linux distro for threat hunting and NSM: Suricata, Zeek, Elastic stack, dashboards; free, GPL/elastic mix.
 - [SELinux](https://github.com/SELinuxProject/selinux) - Mandatory access control in the Linux kernel with type enforcement policies; free, GPL.
+- [Sherloq](https://github.com/GuidoBartoli/sherloq) - Open-source image forensic toolset: noise analysis, EXIF, shadows, tamper detection research; free, GPL.
 - [Shufflecake](https://shufflecake.net/) - Plausible-deniability hidden-volume encryption for Linux: multiple hidden volumes in one free-space pool; free, GPL-3.0.
+- [SIFT Workstation](https://www.sans.org/tools/sift-workstation/) - SANS forensic Ubuntu VM: 70+ free tools (Sleuth Kit, log2timeline) evidence collection; free download.
 - [Smack](https://github.com/smack-team/smack) - Simplified Mandatory Access Control Kernel for Linux (labels on processes/files); free, LGPL.
 - [Snort](https://www.snort.org/) - Open-source intrusion prevention system: signature rules, packet logging; free, GPL; for authorized use.
 - [SOPS](https://github.com/getsops/sops) - Secrets management for encrypted files: encrypt values in YAML/JSON/ENV with KMS or age keys; free, MPL-2.0.
@@ -93,12 +100,14 @@
 - [Suricata](https://suricata.io/) - High-performance IDS/IPS with protocol parsing, file extraction, Lua; OISF; free, GPL.
 - [Teleport](https://goteleport.com/) - Access plane for infrastructure: SSH, Kubernetes, DB, web with SSO and session recording; free core plus paid.
 - [Tetragon](https://tetragon.io/) - eBPF security and observability runtime: real-time policy enforcement and process monitoring; CNCF; free, Apache-2.0.
+- [The Sleuth Kit](https://sleuthkit.org/) - Library and CLI tools to investigate disk images and file systems (NTFS, ext, FAT); free, IBM/IPL.
 - [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Host-based integrity monitoring: baseline database and change reports for files; open-source edition; GPL.
 - [Trivy](https://trivy.dev/) - Aqua open-source scanner for vulnerabilities, misconfigurations, secrets and SBOM in containers and repos; free, Apache-2.0.
 - [Vector](https://vector.dev/) - High-performance observability data pipeline: collect, transform, route logs and metrics; free, MPL-2.0.
 - [Velociraptor](https://docs.velociraptor.app/) - Endpoint visibility and DFIR tool: VQL queries, artifact collection, hunt across thousands of hosts; free, AGPL.
 - [Veracode](https://www.veracode.com/) - Commercial static and dynamic application security testing platform; paid, vendor pricing.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption software, TrueCrypt successor: containers, system encryption, hidden volumes; free, Apache-2.0/TrueCrypt.
+- [Volatility](https://volatilityfoundation.org/) - Memory forensics framework: process lists, network artifacts, rootkit detection from RAM dumps; free, GPL.
 - [Vuurmuur](https://vuurmuur.org/) - Firewall manager for Linux iptables: rule building, traffic logging, SSH traffic shaping; free, GPL.
 - [Wazuh](https://wazuh.com/) - Open-source XDR/SIEM: endpoint agents, log analysis, FIM, vulnerability detection; free self-hosted plus cloud.
 - [Yama](https://kernel.org/doc/html/latest/admin-guide/LSM/Yama.html) - Linux security module restricting ptrace and scoped process relationships; free, GPL.

@@ -6,7 +6,7 @@
 - [Cloud](#cloud) (26)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (13)
-- [Monitoring](#monitoring) (31)
+- [Monitoring](#monitoring) (48)
 - [VPS](#vps) (24)
 
 ## Cloud
@@ -68,10 +68,14 @@
 - [Wispbyte](https://wispbyte.com/client/) - Free game server hosting: Minecraft, Rust, etc.
 
 ## Monitoring
+- [AKIPS](https://www.akips.com/) - Network monitoring at scale: 1-second polling, traps, syslog, no-charge for small networks; paid tiers.
 - [AppDynamics](https://www.appdynamics.com/) - Application performance monitoring, now part of Cisco; paid enterprise with free trial.
 - [Argus](https://github.com/release-argus/Argus) - Software release monitoring: tracks new versions on GitHub/Docker/GitLab and notifies via Apprise/webhooks. Self-hosted.
+- [Cacti](https://www.cacti.net/) - RRDtool-based network graphing and monitoring with templates and polling; free, GPL.
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) - server hardware monitoring
+- [Checkmk](https://checkmk.com/) - Comprehensive IT monitoring: agents, auto-discovery, dashboards; free Raw edition plus paid tiers.
 - [Datadog](https://www.datadoghq.com/) - Cloud monitoring and security platform: APM, logs, infrastructure metrics; paid with free tier.
+- [Domotz](https://www.domotz.com/) - Remote network monitoring and management: device discovery, SNMP, remote access; paid with free trial.
 - [Dynatrace](https://www.dynatrace.com/) - Observability platform with AI-driven root cause analysis, Davis; paid enterprise.
 - [Elasticsearch (ELK)](https://www.elastic.co/elasticsearch) - Distributed search and analytics engine at the core of the ELK stack (Elasticsearch, Logstash, Kibana); free basic tier plus paid.
 - [Gatus](https://github.com/TwiN/gatus) - Developer health dashboard: monitors services via HTTP, ICMP, TCP and DNS with conditions on status code, response time, certificate expiry; alerts to Slack, Teams, PagerDuty; Go, Docker.
@@ -81,24 +85,37 @@
 - [Healthchecks MCP](https://github.com/ni-c/healthchecks-mcp) - Cron/heartbeat liveness monitoring MCP: agent sees when a bot stops reporting; free, self-hostable; community, active.
 - [HomeDashboard](https://github.com/demencia89/HomeDashboard) - Web dashboard for monitoring Linux devices via ssh
 - [Homelable](https://github.com/Pouzor/homelable) - Homelab visualizer: network diagram, live status (ping, HTTP, TCP, SSH, Prometheus), nmap, Zigbee2MQTT, Z-Wave JS UI, Proxmox imports, canvas, Live View + MCP. Docker/LXC. MIT.
+- [Icinga](https://icinga.com/) - Open-source monitoring system: checks, notifications, Icinga DB, director config; free, GPL.
+- [LibreNMS](https://www.librenms.org/) - Auto-discovering network monitoring: SNMP, alerts, billing, API; free, GPL-3.0.
+- [LogicMonitor](https://www.logicmonitor.com/) - SaaS observability for infrastructure and apps: dashboards, alerts, AIOps; paid.
+- [Monitorix](https://www.monitorix.org/) - Lightweight system monitoring with per-service graphs, alerts, web UI; free, GPL-2.0.
+- [Nagios](https://www.nagios.com/) - Industry-standard monitoring of hosts/services with alerts and plugins; Nagios Core free, XI paid.
 - [netcheck](https://github.com/m1/netcheck) - Checks availability of a list of network targets and exports Prometheus metrics for Alertmanager; Docker container and Helm chart for Kubernetes, pingdom alternative; Rust; GPL-3.0.
+- [NetCrunch](https://www.adremsoft.com/netcrunch/) - Adrem network monitoring: maps, SNMP, packet analysis, monitoring packs; paid with trial.
+- [NetXMS](https://www.netxms.org/) - Open-source network monitoring and management: agent-based/agentless, maps, reporting; free, GPL/Commons.
 - [New Relic](https://newrelic.com/) - Observability platform: APM, logs, metrics and dashboards; free tier plus usage-based paid plans.
 - [ntfy MCP](https://github.com/ni-c/ntfy-mcp) - Push notifications to phone via self-hosted ntfy: pairs with Healthchecks; free, self-hostable; community, active.
+- [Observium](https://www.observium.org/) - Network monitoring platform with auto-discovery and clean graphs; free Community edition plus paid Professional.
+- [openITCOCKPIT](https://openitcockpit.io/) - Nagios-based monitoring with web GUI, maps, reporting, Grafana integration; free open edition plus paid.
+- [OpenNMS](https://www.opennms.com/) - Enterprise-grade open network management: discovery, polling, flows, Meridian/Horizon streams; free, AGPL.
 - [OpenPanel](https://github.com/Openpanel-dev/openpanel) - Open-source product/web analytics, an alternative to Mixpanel: funnels, cohorts, user profiles, session replay, A/B tests, real-time dashboards. Cookieless and GDPR-friendly, can be self-hosted (Docker).
 - [Pingdom](https://www.pingdom.com/) - Website uptime and speed monitoring with alerts and root-cause pages; paid with free trial.
 - [Plausible](https://plausible.io/) - website analytics
 - [PostHog](https://posthog.com/) - Product analytics in one project: event analytics, feature flags, A/B tests, session recordings, surveys, warehouse. Open-source, can be self-hosted.
 - [Prometheus](https://prometheus.io/) - Open-source time-series monitoring and alerting with PromQL and exporters ecosystem; free, Apache-2.0.
+- [PRTG Network Monitor](https://www.paessler.com/prtg) - Paessler all-in-one monitoring: SNMP, WMI, netflow, maps; free up to 100 sensors, paid above.
 - [Reserve](https://github.com/Apiruck-Corp/reserve) - macOS menu-bar app showing reported subscription capacity for OpenAI Codex, Claude, Grok, Cursor, Copilot, Gemini, Z.ai GLM coding plan and Kimi; local-only, no accounts or telemetry; Swift, MIT.
 - [Rybbit](https://rybbit.com/) - Open-source cookieless web/product analytics (GA alt): events, session replay, funnels, journeys, Core Web Vitals, error tracking, API/MCP. ~11KB script, AGPL-3.0; self-host Docker or EU cloud.
 - [Sentry](https://sentry.io/) - Error tracking and performance monitoring for apps with stack-trace grouping; free developer tier plus paid.
 - [Sentry MCP](https://mcp.sentry.dev) - Official hosted Sentry MCP for error tracking: agent reads app errors, stack traces; free Developer plan 5k errors/mo; official, very active.
 - [SigNoz](https://github.com/SigNoz/signoz) - Open-source observability: traces, metrics, logs in one — a Datadog replacement, self-host.
 - [socktop](https://github.com/jasonwitty/socktop) - Tool for remote monitoring of Linux systems with a convenient TUI interface in the style of top and btop
+- [SolarWinds](https://www.solarwinds.com/) - IT management software: network, server monitoring, observability; paid commercial suite.
 - [TrailBase](https://github.com/trailbaseio/trailbase) - self-hosted monitoring of databases, authorizations and APIs of my own projects, an alternative to Google Firebase
 - [Umami](https://github.com/umami-software/umami) - Simple private self-hosted web analytics: a Google Analytics alternative without cookies and tracking. Lightweight, open-source, has a cloud plan.
 - [UpTime Kuma](https://github.com/louislam/uptime-kuma) - Website monitoring and alerts
 - [Zabbix](https://www.zabbix.com/) - powerful IT infrastructure monitoring
+- [Zenoss](https://www.zenoss.com/) - Enterprise IT monitoring with application-aware analytics; paid SaaS (service moved to Virtana).
 
 ## VPS
 - [Agent Vault](https://github.com/Infisical/agent-vault) - Credential broker by Infisical: agents route HTTP through it and never hold real secrets; placeholders swapped on outbound requests, egress filtering, request logging, pluggable stores; Go.

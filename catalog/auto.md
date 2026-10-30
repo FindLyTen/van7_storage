@@ -7,7 +7,7 @@
 - [Browser](#browser) (24)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
-- [Self-hosted Tools](#self-hosted-tools) (18)
+- [Self-hosted Tools](#self-hosted-tools) (30)
 - [Smart Home](#smart-home) (2)
 - [Other](#other) (4)
 
@@ -87,15 +87,27 @@
 - [Browsery Tools](https://github.com/aghyad97/browserytools) - Local useful tools for the browser
 - [Cal.com](https://cal.com/) - Open-source meeting scheduler: slot links, calendar integrations, self-host.
 - [Convert X](https://github.com/C4illin/ConvertX) - local cool converter for a thousand formats
+- [Dovecot](https://www.dovecot.org/) - Open-source IMAP/POP3 mail server with high performance, full-text search, Sieve; free, MIT/LGPL mix.
+- [Exim](https://www.exim.org/) - Flexible message transfer agent with rich routing/rewrite configuration, Debian default MTA; free, GPL.
 - [Gitea](https://github.com/go-gitea/gitea) - Painless self-hosted all-in-one software development service: Git hosting, code review, team collaboration, package registry and CI/CD in one lightweight Go binary; MIT.
+- [Haraka](https://haraka.github.io/) - High-performance extensible SMTP server written in Node.js with plugin architecture; free, MIT.
 - [Immich](https://immich.app/) - Self-hosted photo hosting — a Google Photos replacement: auto-upload from the phone, face recognition, search, ML.
+- [iRedMail](https://iredmail.org/) - Shell script installing a full mail server (Postfix, Dovecot, SOGo, Rspamd) on major distros; free core plus paid Pro.
+- [Mail-in-a-Box](https://mailinabox.email/) - Turn-key mail server on Ubuntu: Postfix, Dovecot, Nextcloud, DNS, TLS automation in one script; free, CC0/code public domain.
+- [Mailcow](https://mailcow.email/) - Dockerized mail server suite: Postfix, Dovecot, Rspamd, SOGo webmail, admin UI; free, GPL.
+- [Mailu](https://mailu.io/) - Docker-based full-featured mail server: webmail, admin, antispam, web antispam training; free, MIT.
+- [Modoboa](https://modoboa.org/) - Modular mail hosting platform: admin, quarantine, DMARC reports on Postfix/Dovecot; free core plus paid.
 - [n8n](https://github.com/n8n-io/n8n) - Self-hosted automation platform: 400+ integrations, visual workflow builder, AI agents and code nodes. A Zapier alternative.
 - [Navidrome](https://www.navidrome.org/) - Lightweight streaming server for your own music: web player, Subsonic API, all clients, self-host in Go.
 - [NocoDB](https://nocodb.com/) - Turns any database (MySQL/Postgres) into smart Airtable-style spreadsheets, API, self-host.
 - [OpenSign](https://www.opensignlabs.com/) - Open-source e-signature for PDFs (DocuSign alt): multi-signer, completion cert with access logs, API, OpenSign Drive. Free unlimited e-signatures or self-host from GitHub.
 - [Paperless NGX](https://github.com/paperless-ngx/paperless-ngx) - system for turning paper documents into a smart searchable archive
 - [Pipedream](https://github.com/PipedreamHQ/pipedream) - Event-driven workflow platform: triggers (HTTP, row, GitHub, Slack) + prebuilt/custom Node/Python/Go/Bash steps, 1000+ integrations. Hosted free tier; repo holds components, roadmap, docs.
+- [Poste.io](https://poste.io/) - Complete mail server in a single Docker container: web administration, webmail, antivirus, antispam; free tier plus paid.
+- [Postfix](https://www.postfix.org/) - Standard open-source SMTP mail transfer agent: routing, aliases, policy filters; free, IBM Public License.
 - [SearXNG](https://github.com/searxng/searxng) - Tracking-free metasearch engine: aggregates search engines, self-host, API for automation.
+- [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Declarative full-featured mail server module for NixOS (Rspamd, DKIM, sieve); free, MIT.
+- [Stalwart](https://stalw.com/) - All-in-one Rust mail server: SMTP, IMAP, JMAP, built-in spam filters and DKIM; open-source community edition plus paid.
 - [VFlow](https://vflow.live/) - Visual workflows without code: automations, integrations, dashboards.
 
 ## Smart Home
