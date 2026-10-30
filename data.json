@@ -9410,6 +9410,188 @@
    "desc": "MCP server letting AI agents operate 150+ cybersecurity tools for authorized pentesting (recon, scanning, exploitation tooling); MIT; 13k stars.",
    "url": "https://github.com/0x4m4/hexstrike-ai",
    "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793376156675001",
+   "name": "Leonardo AI",
+   "desc": "AI art platform: generate images (Phoenix model), canvas editor, video and upscaler; free daily token tier; web app.",
+   "url": "https://www.leonardo.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675002",
+   "name": "Bing Image Creator",
+   "desc": "Microsoft's free AI image generator in Bing: DALL-E-based text-to-image, boosts via Microsoft account.",
+   "url": "https://www.bing.com/create",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675003",
+   "name": "Playground AI",
+   "desc": "AI design tool in-browser: logos, t-shirts and social media graphics with AI editing and free tier.",
+   "url": "https://playground.com/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675004",
+   "name": "Ideogram",
+   "desc": "AI image generator specializing in legible text inside images; free tier and paid styles panel.",
+   "url": "https://ideogram.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675005",
+   "name": "Canva AI",
+   "desc": "Design suite with AI features: Magic Design generation, background remover, AI image and text tools; free tier.",
+   "url": "https://www.canva.com/",
+   "cat": "design_tools"
+  },
+  {
+   "id": "it_1793376156675006",
+   "name": "Recraft AI",
+   "desc": "AI design generator for designers: vector and raster images, brand styles, mockups; free plan with daily credits.",
+   "url": "https://www.recraft.ai/",
+   "cat": "design_tools"
+  },
+  {
+   "id": "it_1793376156675007",
+   "name": "Mage.Space",
+   "desc": "AI image and video generator in the browser, free to start, model choice and negative prompts; paid tiers for higher limits.",
+   "url": "https://mage.space/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675008",
+   "name": "Dream by Wombo",
+   "desc": "AI art generator app (Wombo): style-prompted images on web, iOS and Android; free to use with premium options.",
+   "url": "https://dream.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675009",
+   "name": "Pixlr AI",
+   "desc": "Online photo editor (Pixlr, Populate Media) with AI generation, AI background removal, filters; free tier in browser.",
+   "url": "https://pixlr.com/",
+   "cat": "design_tools"
+  },
+  {
+   "id": "it_1793376156675010",
+   "name": "Adobe Firefly",
+   "desc": "Adobe's AI creative studio: images, video, vectors, text effects, trained on licensed content; free generative credits monthly.",
+   "url": "https://firefly.adobe.com/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675011",
+   "name": "Meta AI Image Generator",
+   "desc": "Meta AI assistant with free image generation from text prompts, animations and editing; web and inside Meta apps.",
+   "url": "https://www.meta.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675012",
+   "name": "Google Gemini Image Generation",
+   "desc": "Google Gemini's image generation (Nano Banana family): prompt-based editing and upscaling; free Google account tier.",
+   "url": "https://gemini.google.com/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675013",
+   "name": "Microsoft Designer",
+   "desc": "Microsoft Designer: AI posters, social posts and images with DALL-E output, editing and templates; free web app.",
+   "url": "https://designer.microsoft.com/",
+   "cat": "design_tools"
+  },
+  {
+   "id": "it_1793376156675014",
+   "name": "ChatGPT Images",
+   "desc": "ChatGPT's built-in image generation: create and edit images prompts-side in the chat; free tier with daily limits.",
+   "url": "https://chatgpt.com/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675015",
+   "name": "Microsoft Copilot",
+   "desc": "Microsoft's AI assistant (web + Windows): chat, web search, image generation, file analysis; free with Microsoft account.",
+   "url": "https://copilot.microsoft.com/",
+   "cat": "ai_agents"
+  },
+  {
+   "id": "it_1793376156675016",
+   "name": "Perchance AI Art Generator",
+   "desc": "Free no-signup text-to-image generator (Perchance community page): unlimited generations, many styles.",
+   "url": "https://perchance.org/ai-text-to-image-generator",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675017",
+   "name": "LMArena",
+   "desc": "Public arena where users compare AI models side by side blind test; free; community leaderboard of models and image/video arena.",
+   "url": "https://lmarena.ai/",
+   "cat": "ai_lists"
+  },
+  {
+   "id": "it_1793376156675018",
+   "name": "Stable Diffusion Online",
+   "desc": "Web portal around Stable Diffusion: free text-to-image and image-to-image demos, model gallery and prompt tools.",
+   "url": "https://stablediffusionweb.com/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675019",
+   "name": "Raphael AI",
+   "desc": "Free unlimited AI image generator on FLUX engine, no signup; web app with ads-supported limits.",
+   "url": "https://raphael.app/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675020",
+   "name": "DeepAI",
+   "desc": "DeepAI web tools: AI image generator, editor and APIs; free with account limits, pay-per-use API.",
+   "url": "https://deepai.org/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675021",
+   "name": "OpenArt",
+   "desc": "AI art platform: image and video generation, model marketplace, character training; daily free credits.",
+   "url": "https://openart.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675022",
+   "name": "Freepik AI Art Generator",
+   "desc": "Freepik's AI tools: image and video generation plus stock/design integration; free tier with limits, paid plans.",
+   "url": "https://www.freepik.com/ai",
+   "cat": "design_tools"
+  },
+  {
+   "id": "it_1793376156675023",
+   "name": "CGDream",
+   "desc": "Image generator with 3D-to-image and consistent character workflow; free credits daily, upscaler and editing.",
+   "url": "https://www.cgdream.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675024",
+   "name": "Krea AI",
+   "desc": "AI image and video studio with real-time generation canvas, upscaler and custom models; free daily tier.",
+   "url": "https://www.krea.ai/",
+   "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376156675025",
+   "name": "Hugging Face Spaces",
+   "desc": "Free hosting platform for ML and AI demos (Spaces): run community apps like image generators; CPU free, GPU paid.",
+   "url": "https://huggingface.co/spaces",
+   "cat": "infra_host"
+  },
+  {
+   "id": "it_1793376156675026",
+   "name": "NightCafe Studio",
+   "desc": "AI art generator community app (SD/FLUX/DALL-E models): styles, prints, daily free credits.",
+   "url": "https://creator.nightcafe.studio/",
+   "cat": "ai_image"
   }
  ]
 }

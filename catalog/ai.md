@@ -4,13 +4,13 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (24)
-- [AI Agents](#ai-agents) (120)
-- [AI Images](#ai-images) (6)
+- [AI Agents](#ai-agents) (121)
+- [AI Images](#ai-images) (24)
 - [AI Video](#ai-video) (34)
 - [API & MCP](#api-mcp) (73)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (27)
-- [Collections](#collections) (29)
+- [Collections](#collections) (30)
 - [Local Models](#local-models) (24)
 - [Routers & Gateways](#routers-gateways) (14)
 - [Skills](#skills) (83)
@@ -107,6 +107,7 @@
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - This is an AI secretary for meetings, but a private one: it listens to the conversation, recognizes speech and makes notes right on your computer; nothing flies off to the cloud, unlike Zoom-like services.
 - [Mercury Agent](https://github.com/cosmicstack-labs/mercury-agent) - Self-hosted agent with own personality, local memory, permission rules and daily token budget; reachable from terminal, Telegram, Discord, Slack, Signal; npm @cosmicstack/mercury-agent; MIT.
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft framework for building, orchestrating and deploying AI agents and multi-agent workflows in Python and .NET: graph workflows, checkpoints, A2A and MCP support; MIT.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant (web + Windows): chat, web search, image generation, file analysis; free with Microsoft account.
 - [Minitap mobile-use](https://github.com/minitap-ai/mobile-use) - AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Docker quickstart (Android), Python; Apache-2.0.
 - [Minke](https://github.com/lencx/Minke) - Local-first desktop agent workspace on DeepSeek Harness: shared browser, files, terminal, plugins, remote PWA; Electron/Node; macOS/Windows/Linux; Apache-2.0.
 - [MLflow](https://github.com/mlflow/mlflow) - AI engineering platform: experiment tracking, tracing, LLM evaluation, prompt registry and optimization, AI gateway for model access; Python SDK; Apache-2.0.
@@ -165,12 +166,30 @@
 - [Zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small and fully autonomous AI personal assistant infrastructure in Rust: any OS and platform, deploy anywhere, swap models and channels; Apache-2.0.
 
 ## AI Images
+- [Adobe Firefly](https://firefly.adobe.com/) - Adobe's AI creative studio: images, video, vectors, text effects, trained on licensed content; free generative credits monthly.
+- [Bing Image Creator](https://www.bing.com/create) - Microsoft's free AI image generator in Bing: DALL-E-based text-to-image, boosts via Microsoft account.
+- [CGDream](https://www.cgdream.ai/) - Image generator with 3D-to-image and consistent character workflow; free credits daily, upscaler and editing.
+- [ChatGPT Images](https://chatgpt.com/) - ChatGPT's built-in image generation: create and edit images prompts-side in the chat; free tier with daily limits.
+- [DeepAI](https://deepai.org/) - DeepAI web tools: AI image generator, editor and APIs; free with account limits, pay-per-use API.
 - [Diffusers](https://github.com/huggingface/diffusers) - Hugging Face library for state-of-the-art diffusion models: image, video and audio generation in PyTorch with pipelines, schedulers and training tools for thousands of checkpoints; Apache-2.0.
+- [Dream by Wombo](https://dream.ai/) - AI art generator app (Wombo): style-prompted images on web, iOS and Android; free to use with premium options.
 - [Gods Eye View](https://github.com/bilawalsidhu/gods-eye-view) - Generation of a "top-down view" (satellite-style) of maps/locations from a description; AI art for OSINT and design.
+- [Google Gemini Image Generation](https://gemini.google.com/) - Google Gemini's image generation (Nano Banana family): prompt-based editing and upscaling; free Google account tier.
 - [Google Stitch](https://stitch.withgoogle.com/) - free AI tool from Google Labs that turns a text description ("make a food delivery app screen with a cart and a map") into a ready UI mockup for a website or app
+- [Ideogram](https://ideogram.ai/) - AI image generator specializing in legible text inside images; free tier and paid styles panel.
+- [Krea AI](https://www.krea.ai/) - AI image and video studio with real-time generation canvas, upscaler and custom models; free daily tier.
+- [Leonardo AI](https://www.leonardo.ai/) - AI art platform: generate images (Phoenix model), canvas editor, video and upscaler; free daily token tier; web app.
 - [Logo Creator](https://github.com/Nutlope/logocreator) - This is a logo generator: you describe your company, and AI (the Flux model) draws several logo options in the chosen style within seconds.
+- [Mage.Space](https://mage.space/) - AI image and video generator in the browser, free to start, model choice and negative prompts; paid tiers for higher limits.
+- [Meta AI Image Generator](https://www.meta.ai/) - Meta AI assistant with free image generation from text prompts, animations and editing; web and inside Meta apps.
+- [NightCafe Studio](https://creator.nightcafe.studio/) - AI art generator community app (SD/FLUX/DALL-E models): styles, prints, daily free credits.
 - [OnePromptDesign](https://onepromptdesign.com/) - Library of AI image prompts and visual references for designers and developers (posters, mockups, gradients, backdrops), grouped into collections that share one art direction.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) - free open-source studio for generating AI images, videos, cinematic clips and lipsync
+- [OpenArt](https://openart.ai/) - AI art platform: image and video generation, model marketplace, character training; daily free credits.
+- [Perchance AI Art Generator](https://perchance.org/ai-text-to-image-generator) - Free no-signup text-to-image generator (Perchance community page): unlimited generations, many styles.
+- [Playground AI](https://playground.com/) - AI design tool in-browser: logos, t-shirts and social media graphics with AI editing and free tier.
+- [Raphael AI](https://raphael.app/) - Free unlimited AI image generator on FLUX engine, no signup; web app with ads-supported limits.
+- [Stable Diffusion Online](https://stablediffusionweb.com/) - Web portal around Stable Diffusion: free text-to-image and image-to-image demos, model gallery and prompt tools.
 
 ## AI Video
 - [AI Short Video Factory](https://github.com/YILS-LIN/short-video-factory) - Desktop app that turns a text prompt plus clips into product marketing shorts: AI script, TTS voice, batch auto editing, subtitle effects; Electron and TypeScript, Windows/macOS/Linux; AGPL-3.0.
@@ -338,6 +357,7 @@
 - [Futurepedia](https://futurepedia.io/) - AI tools and software directory; updated daily; for professionals; free; newsletter
 - [HOL Plugin Directory](https://hol.org/plugins) - Public plugin directory for AI coding agents/MCP (Claude Code, Codex, Cursor, OpenCode): trust score, security signals, search/filters, copyable install commands. Scan != safety; free via GitHub.
 - [Leaked System Prompts (jujumilk3)](https://github.com/jujumilk3/leaked-system-prompts) - Collection: leaked system prompts from widely used LLM services, verified sources or reproducible prompts only, cited in papers; no license file.
+- [LMArena](https://lmarena.ai/) - Public arena where users compare AI models side by side blind test; free; community leaderboard of models and image/video arena.
 - [MCP.so](https://mcp.so/) - Community MCP directory: servers, clients, CLI, skills, agents with rankings, categories, tags, search, trending feed. Submit by repo URL; listings live after review. Setup guides included.
 - [Monid Rankings](https://monid.ai/rankings) - Live ranking of AI tools and API endpoints by real agent transaction volume: weekly and monthly most-used and fastest-growing lists; web only.
 - [No Cost AI](https://github.com/zebbern/no-cost-ai) - a selection of free AIs

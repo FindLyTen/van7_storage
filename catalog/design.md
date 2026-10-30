@@ -8,7 +8,7 @@
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
-- [Tools](#tools) (12)
+- [Tools](#tools) (17)
 - [UI Libraries](#ui-libraries) (22)
 - [Other](#other) (4)
 
@@ -52,13 +52,18 @@
 
 ## Tools
 - [ArtCraft](https://getartcraft.com/apps) - Creative studio: 13 free Rust apps (image, vector, video, raw, PDF, motion, layout, UI, word, audio, presentations, CAD, sheets). Local, no Electron; CLI/JSON/MCP; 12 to WASM. Permissive; some alpha.
+- [Canva AI](https://www.canva.com/) - Design suite with AI features: Magic Design generation, background remover, AI image and text tools; free tier.
 - [Designs AI](https://designs.ai/) - A suite of AI tools: logos, banners, video, texts
+- [Freepik AI Art Generator](https://www.freepik.com/ai) - Freepik's AI tools: image and video generation plus stock/design integration; free tier with limits, paid plans.
 - [GIMP](https://www.gimp.org/) - Free raster graphics editor — a Photoshop analog: layers, masks, filters, scripts, plugins.
 - [Landdding](https://landdding.com) - Daily-curated gallery of website designs and landing pages from Webflow, Framer, WordPress, Wix and Squarespace, with upvotes and designer profiles; free.
+- [Microsoft Designer](https://designer.microsoft.com/) - Microsoft Designer: AI posters, social posts and images with DALL-E output, editing and templates; free web app.
 - [MiniMax Design](https://design.minimax.io/) - An AI-native creative platform (desktop): a multi-agent pipeline from brief to finished video: script, storyboard, video, voiceover and editing on one canvas by parallel agents.
 - [Modulify Templates](https://modulify.ai/templates) - Free production-ready website templates built with Modulify: preview any design and clone it into your dashboard to start a project in minutes; saas, travel, portfolio and more.
 - [Open Design](https://github.com/nexu-io/open-design) - An open library of design resources and templates
+- [Pixlr AI](https://pixlr.com/) - Online photo editor (Pixlr, Populate Media) with AI generation, AI background removal, filters; free tier in browser.
 - [Recent.design](https://recent.design) - Design inspiration gallery: websites, app screenshots, OG images, app icons, branding and motion, plus jobs and tools sections; free.
+- [Recraft AI](https://www.recraft.ai/) - AI design generator for designers: vector and raster images, brand styles, mockups; free plan with daily credits.
 - [Refero Design](https://styles.refero.design/) - Millions of UI screenshots of real products for references
 - [ScreenCoder](https://github.com/leigest519/ScreenCoder) - Turns any UI screenshot into clean editable HTML/CSS: fast, accurate, with full control over the result.
 - [The Internet Designs](https://theinternetdesigns.com) - Curated UI design inspiration from X and Pinterest: landing pages, interfaces, motion, branding, typography and product design; free.

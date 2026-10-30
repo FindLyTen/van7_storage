@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1215,
+ "items_total": 1241,
  "categories_total": 113,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 451,
+   "count": 471,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,12 +18,12 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 120
+     "count": 121
     },
     {
      "id": "ai_image",
      "name": "AI Images",
-     "count": 6
+     "count": 24
     },
     {
      "id": "ai_video",
@@ -48,7 +48,7 @@
     {
      "id": "ai_lists",
      "name": "Collections",
-     "count": 29
+     "count": 30
     },
     {
      "id": "ai_local",
@@ -207,7 +207,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 66,
+   "count": 71,
    "subsections": [
     {
      "id": "design_3d",
@@ -237,7 +237,7 @@
     {
      "id": "design_tools",
      "name": "Tools",
-     "count": 12
+     "count": 17
     },
     {
      "id": "design_ui",
@@ -387,7 +387,7 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 88,
+   "count": 89,
    "subsections": [
     {
      "id": "infra_cloud",
@@ -402,7 +402,7 @@
     {
      "id": "infra_host",
      "name": "Hosting",
-     "count": 11
+     "count": 12
     },
     {
      "id": "infra_mon",

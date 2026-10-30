@@ -5,7 +5,7 @@
 ## Contents
 - [Cloud](#cloud) (18)
 - [Domains](#domains) (13)
-- [Hosting](#hosting) (11)
+- [Hosting](#hosting) (12)
 - [Monitoring](#monitoring) (22)
 - [VPS](#vps) (24)
 
@@ -51,6 +51,7 @@
 - [GitHub Actions](https://github.com/features/actions) - CI/CD right in GitHub: build/test/deploy on push and on a schedule, thousands of ready-made actions, 2000 min/month free in private repos.
 - [Github Pages](https://pages.github.com/) - html css lightweight hosting
 - [GitHub Pages (docs)](https://docs.github.com/en/pages) - Official GitHub Pages documentation: setting up Jekyll, custom domains, HTTPS and deploying via Actions.
+- [Hugging Face Spaces](https://huggingface.co/spaces) - Free hosting platform for ML and AI demos (Spaces): run community apps like image generators; CPU free, GPU paid.
 - [Netlify](https://www.netlify.com/) - static html css
 - [NGrok](https://ngrok.com/) - Tunnel a local port to a public URL in a second
 - [Rathole](https://github.com/rathole-org/rathole) - A lightweight and very fast reverse proxy for bypassing NAT, written in Rust; an open alternative to frp and ngrok. Minimal resources, encryption via the Noise protocol.

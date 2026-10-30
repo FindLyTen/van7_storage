@@ -54,6 +54,7 @@
 {"id":"it_1791034692202","name":"GitHub Actions","url":"https://github.com/features/actions","desc":"CI/CD right in GitHub: build/test/deploy on push and on a schedule, thousands of ready-made actions, 2000 min/month free in private repos.","cat":"infra_host"},
 {"id":221,"name":"Github Pages","url":"https://pages.github.com/","desc":"html css lightweight hosting","cat":"infra_host"},
 {"id":"it_1791034692203","name":"GitHub Pages (docs)","url":"https://docs.github.com/en/pages","desc":"Official GitHub Pages documentation: setting up Jekyll, custom domains, HTTPS and deploying via Actions.","cat":"infra_host"},
+{"id":"it_1793376156675025","name":"Hugging Face Spaces","url":"https://huggingface.co/spaces","desc":"Free hosting platform for ML and AI demos (Spaces): run community apps like image generators; CPU free, GPU paid.","cat":"infra_host"},
 {"id":222,"name":"Netlify","url":"https://www.netlify.com/","desc":"static html css","cat":"infra_host"},
 {"id":27,"name":"NGrok","url":"https://ngrok.com/","desc":"Tunnel a local port to a public URL in a second","cat":"infra_host"},
 {"id":479,"name":"Rathole","url":"https://github.com/rathole-org/rathole","desc":"A lightweight and very fast reverse proxy for bypassing NAT, written in Rust; an open alternative to frp and ngrok. Minimal resources, encryption via the Noise protocol.","cat":"infra_host"},
