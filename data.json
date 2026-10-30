@@ -9753,6 +9753,48 @@
    "desc": "Encrypted email service by Proton: end-to-end encryption on web/iOS/Android, paid plans add custom domains and storage.",
    "url": "https://proton.me/mail",
    "cat": "auto_acc"
+  },
+  {
+   "id": "it_1793377009975001",
+   "name": "Save Page WE",
+   "desc": "Browser extension saving a full local copy of a web page with resources, scripts and links to one HTML file; Chrome/Firefox; maintained mirror, upstream last updated 2023.",
+   "url": "https://github.com/lrq3000/save-page-we-browser-extension",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793377009975002",
+   "name": "Web Archives",
+   "desc": "Browser extension (Chrome/Edge/Firefox/Safari) that finds archived and cached versions of the current page across 20+ archive services; free.",
+   "url": "https://github.com/dessant/web-archives",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793377009975003",
+   "name": "Sputnik",
+   "desc": "Open-source OSINT browser extension: searches associated social accounts, domains, emails and on-site data from the browser menu; free.",
+   "url": "https://github.com/mitchmoser/sputnik",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793377009975004",
+   "name": "RevEye",
+   "desc": "Reverse image search extension for Chrome: sends the image or URL to Google, Bing, Yandex and TinEye from the context menu; free.",
+   "url": "https://github.com/steven2358/reveye",
+   "cat": "osint_photo"
+  },
+  {
+   "id": "it_1793377009975005",
+   "name": "Search by Image",
+   "desc": "Reverse image search extension (Chrome/Edge/Firefox/Safari): right-click or capture part of a page to query several engines; free.",
+   "url": "https://github.com/dessant/search-by-image",
+   "cat": "osint_photo"
+  },
+  {
+   "id": "it_1793377009975006",
+   "name": "Breadcrumbs",
+   "desc": "Open blockchain analytics platform: trace crypto address relationships and fund flows across 15+ chains, wallet watchlists, risk and sanctions API; free tier.",
+   "url": "https://www.breadcrumbs.app/",
+   "cat": "biz_trade"
   }
  ]
 }

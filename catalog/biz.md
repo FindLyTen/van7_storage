@@ -9,7 +9,7 @@
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (43)
+- [Trading](#trading) (44)
 - [Other](#other) (4)
 
 ## CRM
@@ -109,6 +109,7 @@
 - [Alpaca MCP Server](https://github.com/alpacahq/alpaca-mcp-server) - MCP server for Alpaca Trading API: natural-language trading operations over stocks, options and crypto, portfolio and market data tools for Claude and Cursor; MIT.
 - [AP2](https://github.com/google-agentic-commerce/AP2) - Agent Payments Protocol: open spec plus Python SDK and samples for secure AI-agent payments with verifiable credentials and mandates; Google ADK demos; Apache-2.0.
 - [Aperture (L402)](https://github.com/lightninglabs/aperture) - L402 reverse proxy: sells HTTP API access per request over Lightning, with macaroon tokens and optional MPP payment scheme; Go binary or Docker; MIT.
+- [Breadcrumbs](https://www.breadcrumbs.app/) - Open blockchain analytics platform: trace crypto address relationships and fund flows across 15+ chains, wallet watchlists, risk and sanctions API; free tier.
 - [CCXT MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Community MCP for 100+ crypto exchanges including Bybit via CCXT: market data free, trading needs own keys; MIT; audit before live trading.
 - [Coinbase AgentKit](https://github.com/coinbase/agentkit) - Coinbase toolkit giving AI agents a crypto wallet: onchain actions and stablecoin payments, framework-agnostic Python and Node.js SDKs; Apache-2.0.
 - [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript/tree/main/packages/mcp-server) - Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.

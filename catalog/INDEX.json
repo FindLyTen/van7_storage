@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1264,
+ "items_total": 1270,
  "categories_total": 113,
  "sections": [
   {
@@ -120,7 +120,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 126,
+   "count": 127,
    "subsections": [
     {
      "id": "biz_crm",
@@ -155,7 +155,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 43
+     "count": 44
     }
    ],
    "json": "catalog/biz.json",
@@ -557,7 +557,7 @@
    "id": "osint",
    "name": "OSINT",
    "emoji": "🕵️",
-   "count": 92,
+   "count": 97,
    "subsections": [
     {
      "id": "osint_mail",
@@ -572,7 +572,7 @@
     {
      "id": "osint_photo",
      "name": "By Photo",
-     "count": 2
+     "count": 4
     },
     {
      "id": "osint_nick",
@@ -617,7 +617,7 @@
     {
      "id": "osint_web",
      "name": "Website Analysis",
-     "count": 16
+     "count": 19
     }
    ],
    "json": "catalog/osint.json",

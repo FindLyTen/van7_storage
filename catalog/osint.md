@@ -5,7 +5,7 @@
 ## Contents
 - [By Email](#by-email) (9)
 - [By Phone Number](#by-phone-number) (5)
-- [By Photo](#by-photo) (2)
+- [By Photo](#by-photo) (4)
 - [By Username](#by-username) (8)
 - [By Video](#by-video) (1)
 - [Collections](#collections) (7)
@@ -14,7 +14,7 @@
 - [Instagram](#instagram) (3)
 - [Leaks](#leaks) (8)
 - [Telegram](#telegram) (2)
-- [Website Analysis](#website-analysis) (16)
+- [Website Analysis](#website-analysis) (19)
 - [Other](#other) (4)
 
 ## By Email
@@ -37,6 +37,8 @@
 
 ## By Photo
 - [PimEyes](https://pimeyes.com/en) - Search for a person by photo across photos from the whole internet
+- [RevEye](https://github.com/steven2358/reveye) - Reverse image search extension for Chrome: sends the image or URL to Google, Bing, Yandex and TinEye from the context menu; free.
+- [Search by Image](https://github.com/dessant/search-by-image) - Reverse image search extension (Chrome/Edge/Firefox/Safari): right-click or capture part of a page to query several engines; free.
 - [TinEye](https://tineye.com/) - Reverse image search: find the source and copies of an image
 
 ## By Username
@@ -121,10 +123,13 @@
 - [FOFA](https://en.fofa.info/) - Cyberspace search engine (the Chinese Shodan): searches for devices, services and DBs across the whole internet by fingerprints.
 - [ICANN Lookup](https://lookup.icann.org/) - Official ICANN registration data lookup: WHOIS record, registrar and nameserver data for domains; free, no account.
 - [Metadata2Go](https://www.metadata2go.com/) - Online metadata extractor for photo, video, audio and documents: EXIF, IPTC and embedded fields via browser upload; free, no account.
+- [Save Page WE](https://github.com/lrq3000/save-page-we-browser-extension) - Browser extension saving a full local copy of a web page with resources, scripts and links to one HTML file; Chrome/Firefox; maintained mirror, upstream last updated 2023.
 - [SecurityTrails](https://www.securitytrails.com/) - Domain and DNS intelligence: current and historical WHOIS, DNS records, subdomains and host search; free tier and API.
 - [Shodan](https://www.shodan.io/) - Search engine for internet-connected devices: cameras, servers, DBs, IoT — with filters by country/port/banner.
 - [Social Searcher](https://www.social-searcher.com/) - Instant social media search engine: posts, mentions and users by keyword across major networks; free searches, paid dashboard and API.
+- [Sputnik](https://github.com/mitchmoser/sputnik) - Open-source OSINT browser extension: searches associated social accounts, domains, emails and on-site data from the browser menu; free.
 - [ViewDNS](https://viewdns.info/) - DNS toolbox: reverse IP and reverse WHOIS, DNS history, record lookups, trace and port tools on one site; free web UI with API.
+- [Web Archives](https://github.com/dessant/web-archives) - Browser extension (Chrome/Edge/Firefox/Safari) that finds archived and cached versions of the current page across 20+ archive services; free.
 - [Web Check](https://github.com/lissy93/web-check) - Full website analysis in one click: technologies, risks, infrastructure
 - [Whoxy](https://www.whoxy.com/) - WHOIS service: domain, historical and reverse WHOIS with cheap API and free web lookups.
 - [ZoomEye](https://www.zoomeye.org/) - Shodan-like search engine for internet-facing hosts, services and devices by IP, port and fingerprint; free with account, paid API.
