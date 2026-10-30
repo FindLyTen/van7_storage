@@ -9,7 +9,7 @@
 {"id":227,"name":"Home assistant","url":"https://github.com/home-assistant","desc":"self-hosted smart home software with a ton of integrations","cat":"auto_home"},
 {"id":143,"name":"Mealie","url":"https://github.com/mealie-recipes/mealie","desc":"a convenient recipe manager","cat":"auto_home"},
 {"id":"it_17927071830882","name":"Activepieces","url":"https://github.com/activepieces/activepieces","desc":"Open source no-code automation, Zapier replacement: flow builder, 280+ integrations, pieces in TypeScript, MCP support, self-host or cloud; MIT core.","cat":"auto_selfhost"},
-{"id":"it_17932123208231","name":"AFFiNE","url":"https://affine.com/","desc":"Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative","cat":"auto_selfhost"},
+{"id":"it_17932123208231","name":"AFFiNE","url":"https://affine.pro/","desc":"Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative","cat":"auto_selfhost"},
 {"id":"it_178982395593125","name":"AppFlowy","url":"https://appflowy.com/","desc":"Open-source Notion alternative: documents, databases, AI, local data.","cat":"auto_selfhost"},
 {"id":527,"name":"Apprise","url":"https://github.com/caronc/apprise","desc":"A Python library for push notifications to ~100 services (Telegram, Discord, Slack, ntfy, email, SMS...) through a single URL syntax. pip install apprise, has a CLI.","cat":"auto_selfhost"},
 {"id":273,"name":"Awesome Selfhosted","url":"https://github.com/awesome-selfhosted/awesome-selfhosted","desc":"huge curated list of self-hosted software","cat":"auto_selfhost"},

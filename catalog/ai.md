@@ -466,8 +466,8 @@
 - [Nopus](https://github.com/Vistyy/nopus) - Deterministic prose checks for coding agents' replies: strips fluff and excess pathos from the answers of Claude Code, Codex and other agents.
 - [NVidia Skills](https://github.com/NVIDIA/skills) - NVIDIA catalog containing verified Skills for AI agents
 - [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first multi-agent orchestration layer for Claude Code: agent teams, hooks, slash commands and workflow automations installed as plugins; MIT.
-- [opencode-dynamic-context-pruning](https://www.npmjs.com/package/opencode-dynamic-context-pruning) - OpenCode plugin that cuts obsolete tool output to save tokens; free, no key; community.
-- [opencode-firecrawl](https://www.npmjs.com/package/opencode-firecrawl) - Official Firecrawl OpenCode plugin: scraping/crawling via Firecrawl CLI inside OpenCode; freemium, needs Firecrawl key; official.
+- [opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - OpenCode plugin that cuts obsolete tool output to save tokens; free, no key; community.
+- [opencode-firecrawl](https://github.com/firecrawl/opencode-firecrawl) - Official Firecrawl OpenCode plugin: scraping/crawling via Firecrawl CLI inside OpenCode; freemium, needs Firecrawl key; official.
 - [opencode-tavily](https://www.npmjs.com/package/opencode-tavily) - Official Tavily OpenCode plugin: web search/extract/crawl via Tavily CLI wired into OpenCode events; freemium, needs Tavily key; official.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - plugin that teaches an AI assistant not to overcomplicate where a little will do
 - [PPT Master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real native PowerPoint decks: shapes, transitions, animations, data-driven charts, voiceover from speaker notes and your own .pptx templates.

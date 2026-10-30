@@ -9051,7 +9051,7 @@
    "id": "it_1793207870015029",
    "name": "opencode-firecrawl",
    "desc": "Official Firecrawl OpenCode plugin: scraping/crawling via Firecrawl CLI inside OpenCode; freemium, needs Firecrawl key; official.",
-   "url": "https://www.npmjs.com/package/opencode-firecrawl",
+   "url": "https://github.com/firecrawl/opencode-firecrawl",
    "cat": "ai_skills"
   },
   {
@@ -9086,7 +9086,7 @@
    "id": "it_1793207870015034",
    "name": "opencode-dynamic-context-pruning",
    "desc": "OpenCode plugin that cuts obsolete tool output to save tokens; free, no key; community.",
-   "url": "https://www.npmjs.com/package/opencode-dynamic-context-pruning",
+   "url": "https://github.com/Tarquinen/opencode-dynamic-context-pruning",
    "cat": "ai_skills"
   },
   {
@@ -9198,7 +9198,7 @@
    "id": "it_17932123208231",
    "name": "AFFiNE",
    "desc": "Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative",
-   "url": "https://affine.com/",
+   "url": "https://affine.pro/",
    "cat": "auto_selfhost"
   },
   {

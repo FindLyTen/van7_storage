@@ -80,7 +80,7 @@
 
 ## Self-hosted Tools
 - [Activepieces](https://github.com/activepieces/activepieces) - Open source no-code automation, Zapier replacement: flow builder, 280+ integrations, pieces in TypeScript, MCP support, self-host or cloud; MIT core.
-- [AFFiNE](https://affine.com/) - Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative
+- [AFFiNE](https://affine.pro/) - Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative
 - [AppFlowy](https://appflowy.com/) - Open-source Notion alternative: documents, databases, AI, local data.
 - [Apprise](https://github.com/caronc/apprise) - A Python library for push notifications to ~100 services (Telegram, Discord, Slack, ntfy, email, SMS...) through a single URL syntax. pip install apprise, has a CLI.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - huge curated list of self-hosted software
