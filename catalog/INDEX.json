@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1533,
+ "items_total": 1552,
  "categories_total": 113,
  "sections": [
   {
@@ -346,12 +346,12 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 152,
+   "count": 168,
    "subsections": [
     {
      "id": "hack_brute",
      "name": "Brute Force",
-     "count": 3
+     "count": 6
     },
     {
      "id": "hack_ddos",
@@ -361,12 +361,12 @@
     {
      "id": "hack_def",
      "name": "Defense",
-     "count": 91
+     "count": 98
     },
     {
      "id": "hack_pentest",
      "name": "Pentest",
-     "count": 31
+     "count": 37
     },
     {
      "id": "hack_phish",
@@ -526,7 +526,7 @@
    "id": "net",
    "name": "Networks & Hardware",
    "emoji": "📡",
-   "count": 63,
+   "count": 66,
    "subsections": [
     {
      "id": "net_hw",
@@ -546,7 +546,7 @@
     {
      "id": "net_wifi",
      "name": "Wi-Fi",
-     "count": 5
+     "count": 8
     }
    ],
    "json": "catalog/net.json",

@@ -6,7 +6,7 @@
 - [Hardware Monitoring](#hardware-monitoring) (10)
 - [Remote Access](#remote-access) (3)
 - [Traffic & Firewall](#traffic-firewall) (44)
-- [Wi-Fi](#wi-fi) (5)
+- [Wi-Fi](#wi-fi) (8)
 - [Other](#other) (1)
 
 ## Hardware Monitoring
@@ -73,11 +73,14 @@
 - [Wireshark](https://github.com/wireshark/wireshark) - Standard network traffic analyzer: deep dissection of hundreds of protocols, live capture, filters, follow stream. Detail view of any packet.
 
 ## Wi-Fi
+- [Aircrack-ng](https://www.aircrack-ng.org/) - Suite to assess Wi-Fi security: capture, inject, crack WEP/WPA keys; free, GPL; for authorized auditing only.
 - [AtEar](https://github.com/NORMA-Inc/AtEar) - A Wi-Fi auditing framework: cracking wireless networks, vulnerability analysis and pentesting. JavaScript, tuned for wireless security.
 - [Kismet](https://www.kismetwireless.net/) - Wireless detector, sniffer and IDS: Wi-Fi, Bluetooth, rtl_433, capture and channel hopping; free, GPL; for authorized auditing.
 - [MyPublicWiFi](https://mypublicwifi.com/publicwifi/en/index.html) - program for Windows that turns an ordinary computer into a Wi-Fi router (access point)
 - [OpenWrt](https://github.com/openwrt/openwrt) - Linux firmware for routers: replaces the stock firmware with a full Linux with packages, VPN, firewall and fine network tuning.
+- [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) - WPS PIN brute-force tool for wireless audits (fork with pixie-dust); free, GPL; for authorized auditing only.
 - [WiFiSpace](https://wifispc.com/) - a map of Wi-Fi points with passwords around the world, added by users
+- [Wifite](https://github.com/derv82/wifite2) - Automates wireless auditing: attacks against WPS, WPA handshakes using aircrack/reaver tools; Python; free, GPL; for authorized auditing.
 
 ## Other
 - [AT Protocol](https://atproto.com/) - Open social network protocol (the basis of Bluesky): federated identity, feeds on the subscriber's algorithms, PDS hosting. SDK, docs.

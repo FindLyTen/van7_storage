@@ -3,10 +3,10 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Brute Force](#brute-force) (3)
+- [Brute Force](#brute-force) (6)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (91)
-- [Pentest](#pentest) (31)
+- [Defense](#defense) (98)
+- [Pentest](#pentest) (37)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
@@ -15,6 +15,9 @@
 - [Hashcat](https://hashcat.net/hashcat/) - brute-forcing passwords of zips, folders, etc. via hash files
 - [Hydra (THC)](https://hydra.cc/) - Network login brute-forcer over protocols: SSH, FTP, HTTP forms, RDP, SMB, MySQL and dozens of others. Parallel, fast, a pentest standard.
 - [John the Ripper](https://www.openwall.com/john/) - Classic hash brute-forcer: hundreds of Unix/Windows/DB/archive formats, wordlist/rules/GPU modes. Jumbo build.
+- [Medusa](https://github.com/jmk-foofus/medusa) - Parallel modular login brute-forcer for many protocols; free, GPL-2.0; for authorized testing.
+- [Ophcrack](https://ophcrack.sourceforge.io/) - Windows password cracker using rainbow tables; free, GPL.
+- [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) - Parallel login cracker supporting many protocols (HTTP, SMB, SSH and more); free, GPL; for authorized testing.
 
 ## DDoS
 - [DDOS Ripper](https://github.com/palahsu/DDoS-Ripper) - Server stress-testing tool
@@ -24,6 +27,7 @@
 - [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment: file and directory integrity checker via db of hashes; free, GPL.
 - [Anchore Engine](https://github.com/anchore/anchore-engine) - Service scanning container images against vulnerability and policy checks; free, Apache-2.0; successor Anchore Enterprise.
 - [AppArmor](https://apparmor.net/) - Linux security module confining programs via profile paths and capabilities; free, GPL.
+- [AppSpider](https://www.rapid7.com/products/appspider/) - Rapid7 dynamic application security testing for web apps; paid commercial.
 - [Arkime](https://arkime.com/) - Full packet capture + indexed search (PCAP store, SPI data) for network forensics at scale; free, Apache-2.0/LGPL.
 - [Atomic OSSEC](https://atomicorp.com/) - Atomicorp OSSEC-based host intrusion prevention with expanded rules and management console; free tier plus paid.
 - [Auditbeat](https://www.elastic.co/beats/auditbeat) - Elastic shipper for audit data: file integrity, system calls, live process monitoring into Elastic; free basic tier.
@@ -52,6 +56,7 @@
 - [EncFS](https://vgough.github.io/encfs/) - Encrypted virtual filesystem in userspace (FUSE) storing files encrypted individually; free, GPL.
 - [Falco](https://falco.org/) - Cloud-native runtime security: eBPF syscall rules and alerts (CNCF); free, Apache-2.0.
 - [Firejail](https://firejail.wordpress.com/) - SUID sandbox for Linux programs using namespaces, seccomp and capabilities; free, GPL.
+- [Foremost](https://sourceforge.net/projects/foremost/) - Carves files (images, docs) from disk images or data streams by headers/footers; free, GPL.
 - [fscrypt](https://github.com/google/fscrypt) - Tool for native Linux filesystem encryption (ext4/f2fs) per-directory with keys; Google; free, Apache-2.0.
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Tool for detecting secrets (passwords, API keys, tokens) in git repos, files and stdin with rules and entropy scanning; git/cron integration; Docker, Homebrew, Go installs; MIT.
 - [gocryptfs](https://nuetzlich.net/gocryptfs/) - Encrypted overlay filesystem in Go, built on FUSE: file-based encryption like EncFS but faster; free, MIT.
@@ -59,7 +64,9 @@
 - [Graylog](https://graylog.org/) - Central log management: ingestion, search, dashboards, alerting; free open edition plus paid.
 - [GRR Rapid Response](https://github.com/google/grr) - Google incident response framework: remote live forensics, artifact collection, hunt across fleets; free, Apache-2.0.
 - [Grsecurity](https://grsecurity.net/) - Hardened Linux kernel patches and RBAC system; commercial subscriptions for stable patches; free test patches historically.
+- [Guymager](https://sourceforge.net/projects/guymager/) - Forensic imager for Linux: fast EWF/dd image acquisition with verification; free, GPL.
 - [HashiCorp Vault](https://developer.hashicorp.com/vault) - Secrets management: dynamic credentials, encryption as a service, PKI; free self-hosted core, paid cloud.
+- [HCL AppScan](https://www.hcl-software.com/appscan) - Application security testing suite: SAST, DAST, IAST for web and mobile; paid commercial.
 - [Katello](https://katello.org/) - Foreman-based content and lifecycle management: RPM repos, errata, provisioning; free, GPL.
 - [KeePass](https://keepass.info/) - Windows password manager with kdbx database, plugins, TOTP; free, GPL.
 - [KeePassXC](https://keepassxc.org/) - Cross-platform KeePass client: encrypted database, browser integration, TOTP; free, GPL-3.0.
@@ -69,7 +76,9 @@
 - [Lynis](https://cisofy.com/lynis/) - Security auditing and hardening tool for UNIX-like systems: compliance checks, suggestions; free, GPL-3.0.
 - [MinerSearch](https://github.com/BlendLog/MinerSearch) - Finding and removing hidden miners on Windows
 - [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Web application firewall engine (v2 Apache, v3 lib) with SecRules; trustwave->OWASP; free, Apache-2.0.
+- [Nessus](https://www.tenable.com/products/nessus) - Tenable vulnerability scanner: 100k+ plugins, config audits; free Essentials for home, paid Pro.
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network forensic analysis tool parsing PCAP: files, credentials, sessions, OS fingerprint; free community plus paid pro.
+- [Nexpose](https://www.rapid7.com/products/nexpose/) - Rapid7 vulnerability management: scan, prioritize with risk scores; paid, free community time-limited.
 - [opencode-vibeguard](https://www.npmjs.com/package/opencode-vibeguard) - OpenCode plugin that auto-redacts secrets/PII before they reach the AI; free, no key; community.
 - [OpenEDR](https://github.com/ComodoSecurity/openedr) - Comodo open-source EDR agent for Windows: process, file and network telemetry to backend; free, Apache-2.0.
 - [OpenSCAP](https://www.open-scap.org/) - Open-source SCAP compliance scanner: vulnerabilities and policy checks with SCAP content; free, LGPL.
@@ -83,6 +92,7 @@
 - [PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) - Android/iPhone spyware check: USB quick scan, androidqf + MVT full scan, iOS backup analysis, optional VirusTotal hashes; Python 3.10+; GPL-3.0.
 - [PrivacyTools.io](https://privacytools.io/apps) - Curated privacy app directory: 350+ reviewed tools and services with filters, ratings and alternatives for encryption, VPN, browsers and self-hosting; web directory.
 - [pwgen](https://pwgen.sourceforge.io/) - CLI password generator with configurable character policies and pronounceable mode; free, GPL.
+- [Retina](https://www.beyondtrust.com/products/retina-network-security-scanner) - Beyondtrust network vulnerability scanner for on-prem Windows environments; paid with free trial.
 - [rkhunter](https://sourceforge.net/projects/rkhunter/) - Rootkit Hunter: scans for rootkits, backdoors and local exploits via signatures; free, GPL.
 - [Rspamd](https://rspamd.com/) - Fast spam filtering system: Bayesian, fuzzy lists, SPF/DKIM/DMARC checks, web UI; free, Apache-2.0.
 - [Samhain](https://www.la-samhna.de/samhain/) - File integrity and host intrusion detection for multi-host setups, signed logs to central server; free, GPL.
@@ -119,10 +129,14 @@
 - [BloodHound](https://github.com/specterops/bloodhound) - Graph analysis of an Active Directory domain: collects relationships between users/groups/hosts and finds hidden escalation paths to domain admin. SpecterOps.
 - [Burp Suite (PortSwigger)](https://portswigger.net/burp) - Official Burp Suite (PortSwigger): standard web app security toolkit. Free Community for manual testing, Pro with Scanner for pentesters, DAST for automated CI scanning.
 - [Burp Suite Professional](https://github.com/xiv3r/Burpsuite-Professional) - The main proxy for web pentesting: intercepting and replaying requests, vulnerability scanner, Intruder fuzzer, extensions via the BApp Store.
+- [Cobalt Strike](https://www.cobaltstrike.com/) - Fortra adversary simulation and red-team platform: beacons, post-exploitation, reporting; paid, licensed to vetted orgs.
+- [Core Impact](https://www.coresecurity.com/products/core-impact) - Commercial penetration testing platform by HelpSystems/Core Security: automated and guided tests; paid, vendor pricing.
 - [Decepticon](https://github.com/BitterSecurity/Decepticon) - autonomous AI agent for professional red team that goes through the full attack chain on its own
 - [Deep Eye](https://github.com/zakirkun/deep-eye) - An AI-based pentest orchestrator: runs 10+ providers (OpenAI, Claude, Grok, Ollama...) to generate payloads, scans 45+ vulnerability types and produces professional reports with compliance mapping.
 - [dnstwist MCP](https://github.com/elceef/dnstwist) - Typosquat detection, domain permutation checking: free, no key; community.
+- [Exploit-DB](https://www.exploit-db.com/) - Offensive Security archive of public exploits and shellcode with search and CVE links; free, for authorized testing reference.
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer in Go: brute-forcing directories/files/parameters, vhost fuzzing, recursion, filters by size/code/time. Based on gobuster, but more powerful.
+- [Gobuster](https://github.com/OJ/gobuster) - Directory/file, DNS and vhost brute-forcer in Go for discovering hidden paths on web servers; free, Apache-2.0; for authorized testing.
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP server letting AI agents operate 150+ cybersecurity tools for authorized pentesting (recon, scanning, exploitation tooling); MIT; 13k stars.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - The fastest port scanner on the planet: the whole internet in 6 minutes, millions of packets/sec. To find open ports — only this. Account for the limitations of SYN scanning.
 - [Metasploit](https://www.metasploit.com/) - The main exploit framework: thousands of exploits and payloads, post-exploitation, meterpreter, automatic exploitation of vulnerabilities.
@@ -135,6 +149,7 @@
 - [Pentest Agent](https://github.com/0xSojalSec/PentestAgent) - AI pentest assistant: plain-language task ("check this server") triggers Nmap, Metasploit, SQLMap etc., outputs report.
 - [PentestCode](https://github.com/s0ld13rr/pentestcode) - Autonomous pentest agent in the terminal: multi-agent attack chain with nmap, SMB/LDAP enumeration, AS-REP roast, spraying, post-exploit, engagement state, 20+ LLM providers; fork of OpenCode; MIT.
 - [pwn.college](https://pwn.college/) - a platform for learning pentesting and binary exploitation from ASU: theory + hands-on labs
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web reconnaissance framework with Metasploit-style modules: hosts, contacts, creds from public sources; Python; free, GPL; for authorized testing.
 - [reKover](https://github.com/BruteLogic/reKover) - Bash URL mapper for recon: robots/sitemap parsing, weighted brute force, JS-aware crawl, Wayback CDX probes; JSON output; needs parallel+curl; MIT.
 - [ScopeWeaver](https://github.com/cskwork/scopeweaver) - LLM multi-agent autonomous pentest (ARTEX): planner/worker agents over shared graphs, traffic proxy, tool-approval gate. Go+Next.js+PostgreSQL, needs LLM key. AGPL-3.0; personal study only.
 - [Shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI pentester for authorized web/API testing: reads your source code, maps attack paths and runs POC exploits to prove findings; CLI agent; AGPL-3.0.
@@ -145,6 +160,7 @@
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - An autonomous red-team platform from plinius: a multi-agent meta-harness for offensive security; agents plan and carry out attacks on their own.
 - [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) - URL/hash/domain maliciousness scans via VirusTotal API: freemium with rate-limited free tier; community.
 - [Vulnerator AI](https://github.com/irraz/vulnerator-ai) - Autonomous agent for authorized penetration testing: OODA-loop reasoning, Kali and Playwright browser tools over MCP, ATT&CK-style orientation; MIT.
+- [WPScan](https://wpscan.com/) - WordPress security scanner: plugins, themes, version and known issues; CLI free, API paid tiers; for authorized testing.
 
 ## Phishing
 - [CamFish](https://github.com/firidon/CamFish) - phishing for camera shots
