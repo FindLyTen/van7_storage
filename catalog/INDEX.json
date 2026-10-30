@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1338,
+ "items_total": 1372,
  "categories_total": 113,
  "sections": [
   {
@@ -284,12 +284,12 @@
    "id": "devices",
    "name": "Devices",
    "emoji": "📱",
-   "count": 24,
+   "count": 58,
    "subsections": [
     {
      "id": "devices_android",
      "name": "Android",
-     "count": 11
+     "count": 45
     },
     {
      "id": "devices_emu",

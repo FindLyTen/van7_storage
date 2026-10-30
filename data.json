@@ -10271,6 +10271,244 @@
    "desc": "Web development tutorials with try-it-yourself editors for HTML, CSS, JS, SQL, Python; free with paid certificates.",
    "url": "https://www.w3schools.com/",
    "cat": "edu_res"
+  },
+  {
+   "id": "it_1793399286136001",
+   "name": "Simple Keyboard (Fossify)",
+   "desc": "Minimal FOSS keyboard without internet permission, F-Droid; continuation of Simple Keyboard after Simple Mobile Tools was sold in 2023; GPL-3.0.",
+   "url": "https://github.com/FossifyOrg/Keyboard",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136002",
+   "name": "AnySoftKeyboard",
+   "desc": "Open-source keyboard with layouts for many languages, themes and extension packs; Android, GPL-3.0; on F-Droid.",
+   "url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136003",
+   "name": "OpenBoard",
+   "desc": "Privacy keyboard based on AOSP LatinIME, offline, no telemetry; last upstream release 2024, actively developed fork HeliBoard; GPL-3.0.",
+   "url": "https://github.com/openboard-team/openboard",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136004",
+   "name": "HeliBoard",
+   "desc": "Fork of OpenBoard with more layouts, gestures and optional autocomplete; privacy-conscious, no network; Android, GPL-3.0; on F-Droid.",
+   "url": "https://github.com/Helium314/HeliBoard",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136005",
+   "name": "Amaze File Manager",
+   "desc": "Open-source material-design file manager for Android with root support, SMB/FTP and compression; GPL-3.0; on F-Droid.",
+   "url": "https://github.com/TeamAmaze/AmazeFileManager",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136006",
+   "name": "Fossify File Manager",
+   "desc": "FOSS file manager, view of internal storage and SD card, no ads or internet permission; continuation of Simple File Manager; GPL-3.0.",
+   "url": "https://github.com/FossifyOrg/File-Manager",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136007",
+   "name": "Little File Explorer",
+   "desc": "Tiny (under 40 KB) open-source file explorer working from Android 1.0; basic operations, MD5 checksum; GPL-3.0; on F-Droid.",
+   "url": "https://github.com/martinmimigames/little-file-explorer",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136008",
+   "name": "Firefox for Android",
+   "desc": "Mobile Firefox: Gecko engine, extensions support, Mozilla sync; open source, free.",
+   "url": "https://www.mozilla.org/firefox/android/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136009",
+   "name": "DuckDuckGo for Android",
+   "desc": "Privacy browser and search app: tracker blocking, app tracking protection; free.",
+   "url": "https://duckduckgo.com/android",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136010",
+   "name": "Cromite",
+   "desc": "Chromium fork with built-in adblock and privacy patches, successor of Bromite (unmaintained since 2024); Android/Windows/Linux; GPL-3.0.",
+   "url": "https://github.com/uazo/cromite",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136011",
+   "name": "Tor Browser for Android",
+   "desc": "Official Tor browser build for Android: onion routing, anti-fingerprinting; free.",
+   "url": "https://www.torproject.org/download/android/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136012",
+   "name": "Warpinator (Android)",
+   "desc": "Unofficial Android port of Linux Mint Warpinator: send files over local network between devices; GPL-3.0; on F-Droid.",
+   "url": "https://github.com/slowscript/warpinator-android",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136013",
+   "name": "Zorin Connect",
+   "desc": "Companion app for Zorin OS based on KDE Connect: notifications sync, file share, remote input; GPL-2.0.",
+   "url": "https://f-droid.org/packages/com.zorinos.zorin_connect/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136014",
+   "name": "AntennaPod",
+   "desc": "Open-source podcast player: subscribe, download, variable speed, sync via gpodder; Android, GPL-3.0.",
+   "url": "https://f-droid.org/packages/de.danoeh.antennapod/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136015",
+   "name": "Voice",
+   "desc": "Open-source audiobook player for Android: chapters, playback speed, sync; GPL-3.0.",
+   "url": "https://f-droid.org/packages/de.ph1b.audiobook/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136016",
+   "name": "Read You",
+   "desc": "Material You RSS reader for Android with local and self-hosted accounts (FreshRSS, Google Reader API); GPL-3.0.",
+   "url": "https://f-droid.org/packages/me.ash.reader/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136017",
+   "name": "NewsBlur",
+   "desc": "Open-source RSS reader with intelligence trainers, social sharing; web plus Android/iOS apps; free with premium tiers.",
+   "url": "https://newsblur.com/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136018",
+   "name": "Mihon",
+   "desc": "FOSS manga reader for Android, successor of Tachiyomi (discontinued Jan 2024): extension sources, trackers, backups; Apache-2.0.",
+   "url": "https://mihon.app/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136019",
+   "name": "Seeneva",
+   "desc": "Smart comic book reader for Android: metadata extraction, ML-powered page analysis; open source; GPL-3.0.",
+   "url": "https://github.com/Seeneva/seeneva-reader-android",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136020",
+   "name": "Fossify Music Player",
+   "desc": "FOSS music player, no ads or internet permission; continuation of Simple Music Player; GPL-3.0.",
+   "url": "https://github.com/FossifyOrg/Music-Player",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136021",
+   "name": "Vanilla Music",
+   "desc": "Minimal FOSS music player for Android playing local files, no ads; GPL-3.0.",
+   "url": "https://f-droid.org/packages/ch.blinkenlights.android.vanilla/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136022",
+   "name": "Joplin",
+   "desc": "Open-source notes and to-do app with Markdown, E2EE sync via Nextcloud/Dropbox/Joplin Cloud; desktop, mobile, CLI; AGPL-3.0.",
+   "url": "https://github.com/laurent22/joplin",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136023",
+   "name": "Standard Notes",
+   "desc": "Encrypted notes app with long-term retention; free tier plus paid plans; open source clients.",
+   "url": "https://standardnotes.com/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136024",
+   "name": "KeePassDX",
+   "desc": "Android password manager for KeePass databases: autofill, one-time passwords; open source; GPL-3.0.",
+   "url": "https://f-droid.org/packages/com.kunzisoft.keepass.libre/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136025",
+   "name": "Aegis",
+   "desc": "FOSS two-factor app for Android: TOTP/HOTP, encrypted vault, backups; GPL-3.0.",
+   "url": "https://f-droid.org/packages/com.beemdevelopment.aegis/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136026",
+   "name": "K-9 Mail",
+   "desc": "Open-source Android email client over IMAP/POP, now the base of Thunderbird for Android; GPL-2.0+.",
+   "url": "https://k9mail.app/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136027",
+   "name": "FairEmail",
+   "desc": "Privacy-friendly open-source Android email client, IMAP only, no ads, optional premium; GPL-3.0.",
+   "url": "https://email.faircode.eu/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136028",
+   "name": "Tuta",
+   "desc": "Encrypted email and calendar service (ex Tutanota): E2EE mail, aliases, anonymous signup; free tier plus paid.",
+   "url": "https://tuta.com/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136029",
+   "name": "VLC for Android",
+   "desc": "Open-source media player: all codecs, streams, subtitles; Android version of VLC; free.",
+   "url": "https://code.videolan.org/videolan/vlc-android",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136030",
+   "name": "Nova Video Player",
+   "desc": "Open-source video player for Android (AOSP Videos fork): hardware acceleration, network streams, PiP; GPL-3.0.",
+   "url": "https://github.com/nova-video-player/aosp-Videos",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136031",
+   "name": "mpv-android",
+   "desc": "Android port of the mpv media player: minimal UI, high-quality playback; GPL-2.0+",
+   "url": "https://f-droid.org/packages/is.xyz.mpv/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136032",
+   "name": "Proton VPN",
+   "desc": "Swiss VPN by Proton: no-logs audited, secure core servers; open-source apps; free tier plus paid.",
+   "url": "https://protonvpn.com/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136033",
+   "name": "Mullvad VPN",
+   "desc": "Privacy VPN accepting anonymous account numbers and cash; WireGuard, no-logs; flat 5 EUR/month; open-source clients.",
+   "url": "https://mullvad.net/",
+   "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399286136034",
+   "name": "IVPN",
+   "desc": "Privacy-focused VPN: WireGuard, multihop, no-logs audited; paid with free trial; open-source apps.",
+   "url": "https://www.ivpn.net/",
+   "cat": "devices_android"
   }
  ]
 }
