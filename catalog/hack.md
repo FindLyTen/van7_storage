@@ -5,8 +5,8 @@
 ## Contents
 - [Brute Force](#brute-force) (3)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (7)
-- [Pentest](#pentest) (28)
+- [Defense](#defense) (11)
+- [Pentest](#pentest) (30)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
@@ -21,6 +21,8 @@
 - [Hping](https://github.com/antirez/hping) - Console TCP/UDP packet generator for testing networks
 
 ## Defense
+- [Bandit](https://bandit.readthedocs.io/) - PyCQA static analyzer finding common security issues in Python code; free, Apache-2.0.
+- [ClamAV](https://www.clamav.net/) - Open-source antivirus engine for mail gateways and file scanning with signature database; free, GPL.
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Tool for detecting secrets (passwords, API keys, tokens) in git repos, files and stdin with rules and entropy scanning; git/cron integration; Docker, Homebrew, Go installs; MIT.
 - [MinerSearch](https://github.com/BlendLog/MinerSearch) - Finding and removing hidden miners on Windows
 - [opencode-vibeguard](https://www.npmjs.com/package/opencode-vibeguard) - OpenCode plugin that auto-redacts secrets/PII before they reach the AI; free, no key; community.
@@ -28,6 +30,8 @@
 - [OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries) - OWASP Cheat Sheet Series — proven application security checklists: authentication, sessions, SQLi, XSS, cryptography and dozens of other topics.
 - [PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) - Android/iPhone spyware check: USB quick scan, androidqf + MVT full scan, iOS backup analysis, optional VirusTotal hashes; Python 3.10+; GPL-3.0.
 - [PrivacyTools.io](https://privacytools.io/apps) - Curated privacy app directory: 350+ reviewed tools and services with filters, ratings and alternatives for encryption, VPN, browsers and self-hosting; web directory.
+- [Trivy](https://trivy.dev/) - Aqua open-source scanner for vulnerabilities, misconfigurations, secrets and SBOM in containers and repos; free, Apache-2.0.
+- [Veracode](https://www.veracode.com/) - Commercial static and dynamic application security testing platform; paid, vendor pricing.
 
 ## Pentest
 - [Amass (OWASP)](https://github.com/owasp-amass/amass) - Powerful reconnaissance of domains and subdomains: passive sources, DNS brute force, scraping, building a map of external infrastructure.
@@ -43,7 +47,9 @@
 - [Metasploit](https://www.metasploit.com/) - The main exploit framework: thousands of exploits and payloads, post-exploitation, meterpreter, automatic exploitation of vulnerabilities.
 - [NetExec](https://github.com/Pennyw0rth/NetExec) - A fork of CrackMapExec — a Swiss army knife for networks: credential checks on SMB/WinRM/LDAP/SSH/MSSQL, login dumping, password spraying. Alive and developing.
 - [Nikto](https://github.com/sullo/nikto) - Classic web server scanner: outdated software, dangerous files, injections, misconfigurations. A quick first pass over a site.
+- [Nmap](https://nmap.org/) - Network discovery and port scanning tool with NSE scripts, for authorized testing and inventory; free, GPL.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Template-based vulnerability scanner from ProjectDiscovery: thousands of ready-made templates (CVE, panels, exposure) + your own in YAML. Fast, accurate, CLI.
+- [OWASP ZAP](https://www.zaproxy.org/) - OWASP open-source web app security scanner and proxy for finding vulnerabilities, for authorized testing; free, Apache-2.0.
 - [Pentagi](https://github.com/vxcontrol/pentagi) - Autonomous AI agent system for complex penetration testing tasks; multi-agent pentest workflows; self-hosted via Docker; Go/React; pentagi.com; MIT.
 - [Pentest Agent](https://github.com/0xSojalSec/PentestAgent) - AI pentest assistant: plain-language task ("check this server") triggers Nmap, Metasploit, SQLMap etc., outputs report.
 - [PentestCode](https://github.com/s0ld13rr/pentestcode) - Autonomous pentest agent in the terminal: multi-agent attack chain with nmap, SMB/LDAP enumeration, AS-REP roast, spraying, post-exploit, engagement state, 20+ LLM providers; fork of OpenCode; MIT.

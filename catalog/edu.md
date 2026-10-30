@@ -8,7 +8,7 @@
 - [Data Archives](#data-archives) (6)
 - [Interviews](#interviews) (15)
 - [Libraries](#libraries) (7)
-- [Research](#research) (13)
+- [Research](#research) (17)
 - [Other](#other) (1)
 
 ## Collections
@@ -82,9 +82,11 @@
 
 ## Research
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Deep AI research: autonomous search and analysis from Alibaba NLP
+- [DevDocs](https://devdocs.io/) - Fast searchable interface combining API documentation for many languages and frameworks in one place; free, MIT.
 - [Elicit](https://elicit.org) - AI assistant for finding and analyzing scientific papers
 - [Horizon](https://github.com/Thysrael/Horizon) - Python news radar: HN, RSS, Reddit, Telegram, X, GitHub, OpenBB to dedupes, LLM scores/filters, daily EN/CN briefings (Pages, email, Slack/Discord/Feishu, MCP). OpenAI/Gemini/DeepSeek/Ollama. uv+Docker. MIT.
 - [Matplotlib](https://matplotlib.org/) - Classic Python library for 2D plots and visualization: full control over rendering, the basis of seaborn and others.
+- [MDN Web Docs](https://developer.mozilla.org/) - Mozilla reference for web standards: HTML, CSS, JavaScript, HTTP with browser compat tables; free.
 - [NumPy](https://numpy.org/) - The core of scientific Python: fast N-dimensional arrays, linear algebra, vectorized computation — the foundation of pandas/sklearn/PyTorch.
 - [Open Knowledge](https://github.com/inkeep/open-knowledge) - An AI-native markdown IDE and LLM wiki from Inkeep: a second memory for the team, documentation and a knowledge base that both people and agents read.
 - [Open News](https://github.com/alphap365/open-news) - An open-source news aggregator: your own sources, filters, self-host digests.
@@ -92,8 +94,10 @@
 - [OpenScholar](https://openscholar.ai/) - AI assistant for scientific literature from AI2: search across 300M+ papers, synthesis, citations with verification. Open models and dataset.
 - [pandas](https://pandas.pydata.org/) - The main Python library for tabular data: DataFrame, reading CSV/Excel, cleaning, grouping, merge — the foundation of data science.
 - [SciPy](https://scipy.org/) - Fundamental Python library for scientific computing: optimization, integration, statistics, signals, sparse matrices.
+- [Stack Overflow](https://stackoverflow.com/) - Largest Q&A site for programmers: searchable answers with voting and tags; free, public archive.
 - [statsmodels](https://www.statsmodels.org/stable/index.html) - Python statistics library: regressions, time series (ARIMA), hypothesis tests, econometrics.
 - [TimesFM](https://github.com/google-research/timesfm) - Google model for time series forecasting (timeseries)
+- [W3Schools](https://www.w3schools.com/) - Web development tutorials with try-it-yourself editors for HTML, CSS, JS, SQL, Python; free with paid certificates.
 
 ## Other
 - [SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - An AI speaking trainer: conversation practice with feedback.

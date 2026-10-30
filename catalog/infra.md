@@ -3,23 +3,30 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Cloud](#cloud) (18)
+- [Cloud](#cloud) (26)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (12)
-- [Monitoring](#monitoring) (22)
+- [Monitoring](#monitoring) (29)
 - [VPS](#vps) (24)
 
 ## Cloud
+- [Ansible](https://www.ansible.com/) - Red Hat agentless automation: playbooks for config management and deployments over SSH; free, GPL.
 - [Appwrite](https://github.com/appwrite/appwrite) - Open-source backend cloud for agents and developers: auth, databases, storage, functions, messaging, hosting, realtime, MCP server; Docker self-host; TypeScript; BSD-3-Clause.
+- [AWS CLI](https://aws.amazon.com/cli/) - Official command-line tool to manage AWS services; free tool, AWS usage costs apply.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon serverless functions: event-driven code without servers, pay per millisecond of execution. Cheap for small tasks, 15 min limits.
+- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) - Official Microsoft command-line tool to manage Azure resources; free tool, Azure usage costs apply.
 - [CloudFlare ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - photo storage on Cloudflare
 - [Cloudflare R2](https://www.cloudflare.com/products/r2/) - S3-compatible object storage with no egress fees (egress = $0). Images, backups, static files — cheap and fast all over the world.
 - [Cloudflare Workers](https://www.cloudflare.com/products/workers/) - Serverless code on Cloudflare edge nodes worldwide: JS/TS/Python/WASM, no cold starts, KV/R2/D1 nearby. 100k requests/day free.
 - [CloudFront](https://aws.amazon.com/cloudfront/) - Amazon CDN: caching static files/video across 600+ points of presence, lambda@edge for logic at the edge. The basis of content delivery in AWS.
+- [Docker](https://www.docker.com/) - Container platform: build, ship and run containers locally and on registries; free Docker Engine, paid plans.
 - [DriveBase](https://github.com/drivebase/drivebase) - all my clouds managed in one place
 - [DynamoDB](https://aws.amazon.com/dynamodb/) - Amazon non-relational DB: key-value and document model, millisecond latency at any scale, serverless with autoscale, has a forever free tier (25GB).
 - [Firestore](https://cloud.google.com/firestore/pricing) - Google non-relational document DB: realtime updates on clients, offline mode, serverless. The Firebase stack for apps. Pricing with a free quota.
+- [Google Cloud SDK](https://cloud.google.com/sdk) - CLI tools and libraries for Google Cloud (gcloud, gsutil, bq); free tool, GCP usage costs apply.
 - [Google Compute Engine](https://cloud.google.com/products/compute) - Google Cloud virtual machines: per-second billing, preemptible instances at up to 90% discount, free egress tier of 200GB. A VPS in the Google cloud.
+- [Jenkins](https://www.jenkins.io/) - Self-hosted automation server: CI/CD pipelines with plugin ecosystem; free, MIT.
+- [Kubernetes](https://kubernetes.io/) - Container orchestration: scheduling, scaling, self-healing, service discovery; free, CNCF project.
 - [MEGA](https://mega.io/ru/) - MEGA drive, free 20GB
 - [Microsoft Azure](https://azure.microsoft.com/en-us) - Microsoft's public cloud platform: compute, storage, databases, AI services, networking; free account with always-free services and 12-month credits.
 - [Neon](https://neon.com/) - Serverless Postgres: git-like database branching (a copy of the database for each branch/preview), autoscale to zero, generous free tier. A foundation for modern SaaS.
@@ -28,6 +35,7 @@
 - [Ray](https://github.com/ray-project/ray) - Distributed AI compute engine: core distributed runtime plus libraries for training, serving, tuning and RL workloads, scales Python from laptop to cluster; Apache-2.0.
 - [Supabase](https://supabase.com/) - Open-source Firebase alternative: Postgres, realtime subscriptions, auth, storage, edge functions, auto-generated API. Has a generous free tier.
 - [TeraBox](https://www.terabox.com/russian) - free terabyte
+- [Terraform](https://developer.hashicorp.com/terraform) - HashiCorp infrastructure-as-code: declarative resources for clouds and services; free core, paid cloud.
 
 ## Domains
 - [Cloudflare Registrar](https://domains.cloudflare.com/) - Domains at cost + free WHOIS privacy
@@ -59,8 +67,11 @@
 - [Wispbyte](https://wispbyte.com/client/) - Free game server hosting: Minecraft, Rust, etc.
 
 ## Monitoring
+- [AppDynamics](https://www.appdynamics.com/) - Application performance monitoring, now part of Cisco; paid enterprise with free trial.
 - [Argus](https://github.com/release-argus/Argus) - Software release monitoring: tracks new versions on GitHub/Docker/GitLab and notifies via Apprise/webhooks. Self-hosted.
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) - server hardware monitoring
+- [Datadog](https://www.datadoghq.com/) - Cloud monitoring and security platform: APM, logs, infrastructure metrics; paid with free tier.
+- [Dynatrace](https://www.dynatrace.com/) - Observability platform with AI-driven root cause analysis, Davis; paid enterprise.
 - [Gatus](https://github.com/TwiN/gatus) - Developer health dashboard: monitors services via HTTP, ICMP, TCP and DNS with conditions on status code, response time, certificate expiry; alerts to Slack, Teams, PagerDuty; Go, Docker.
 - [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server) - Ping/traceroute/DNS from global probes: free, no key; official jsDelivr, active.
 - [Grafana](https://grafana.com/) - monitoring of applications and servers
@@ -68,12 +79,16 @@
 - [HomeDashboard](https://github.com/demencia89/HomeDashboard) - Web dashboard for monitoring Linux devices via ssh
 - [Homelable](https://github.com/Pouzor/homelable) - Homelab visualizer: network diagram, live status (ping, HTTP, TCP, SSH, Prometheus), nmap, Zigbee2MQTT, Z-Wave JS UI, Proxmox imports, canvas, Live View + MCP. Docker/LXC. MIT.
 - [netcheck](https://github.com/m1/netcheck) - Checks availability of a list of network targets and exports Prometheus metrics for Alertmanager; Docker container and Helm chart for Kubernetes, pingdom alternative; Rust; GPL-3.0.
+- [New Relic](https://newrelic.com/) - Observability platform: APM, logs, metrics and dashboards; free tier plus usage-based paid plans.
 - [ntfy MCP](https://github.com/ni-c/ntfy-mcp) - Push notifications to phone via self-hosted ntfy: pairs with Healthchecks; free, self-hostable; community, active.
 - [OpenPanel](https://github.com/Openpanel-dev/openpanel) - Open-source product/web analytics, an alternative to Mixpanel: funnels, cohorts, user profiles, session replay, A/B tests, real-time dashboards. Cookieless and GDPR-friendly, can be self-hosted (Docker).
+- [Pingdom](https://www.pingdom.com/) - Website uptime and speed monitoring with alerts and root-cause pages; paid with free trial.
 - [Plausible](https://plausible.io/) - website analytics
 - [PostHog](https://posthog.com/) - Product analytics in one project: event analytics, feature flags, A/B tests, session recordings, surveys, warehouse. Open-source, can be self-hosted.
+- [Prometheus](https://prometheus.io/) - Open-source time-series monitoring and alerting with PromQL and exporters ecosystem; free, Apache-2.0.
 - [Reserve](https://github.com/Apiruck-Corp/reserve) - macOS menu-bar app showing reported subscription capacity for OpenAI Codex, Claude, Grok, Cursor, Copilot, Gemini, Z.ai GLM coding plan and Kimi; local-only, no accounts or telemetry; Swift, MIT.
 - [Rybbit](https://rybbit.com/) - Open-source cookieless web/product analytics (GA alt): events, session replay, funnels, journeys, Core Web Vitals, error tracking, API/MCP. ~11KB script, AGPL-3.0; self-host Docker or EU cloud.
+- [Sentry](https://sentry.io/) - Error tracking and performance monitoring for apps with stack-trace grouping; free developer tier plus paid.
 - [Sentry MCP](https://mcp.sentry.dev) - Official hosted Sentry MCP for error tracking: agent reads app errors, stack traces; free Developer plan 5k errors/mo; official, very active.
 - [SigNoz](https://github.com/SigNoz/signoz) - Open-source observability: traces, metrics, logs in one — a Datadog replacement, self-host.
 - [socktop](https://github.com/jasonwitty/socktop) - Tool for remote monitoring of Linux systems with a convenient TUI interface in the style of top and btop

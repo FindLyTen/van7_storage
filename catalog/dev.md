@@ -3,16 +3,21 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [API Catalogs](#api-catalogs) (3)
+- [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Editors](#editors) (8)
+- [Editors](#editors) (46)
 - [Visualization](#visualization) (7)
 - [Other](#other) (10)
 
 ## API Catalogs
 - [Api Mega List](https://github.com/cporter202/API-mega-list?tab=readme-ov-file) - A collection of hundreds of public APIs for every occasion
 - [APIVault](https://apivault.dev/) - Catalog of free public APIs by category: search, testing, collections.
+- [Fiddler](https://www.telerik.com/fiddler) - Telerik HTTP debugging proxy: capture, inspect and replay traffic; free classic edition plus paid Pro.
+- [Insomnia](https://insomnia.rest/) - Desktop REST and GraphQL API client by Kong with environments and code generation; free tier plus paid.
+- [Postman](https://www.postman.com/) - API platform: request builder, collections, automated testing, mock servers; free tier plus paid plans.
 - [Public APIS](https://github.com/public-apis/public-apis) - The most complete catalog of public APIs
+- [RapidAPI](https://rapidapi.com/) - API marketplace to discover, test and subscribe to thousands of APIs from one account; freemium.
+- [Swagger](https://swagger.io/) - OpenAPI toolset: spec editor, codegen, UI documentation for REST APIs; free open-source tools plus paid hub.
 
 ## Data Recovery
 - [DataRecover](https://datarecover.ikramov.pro/) - search and recovery of data from flash drives, memory cards, raw volumes and disk images
@@ -20,13 +25,51 @@
 
 ## Editors
 - [ADCode](https://adcode.bluethenics.com/versions) - Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.
+- [Apache Ant](https://ant.apache.org/) - Classic Java build tool driven by XML buildfiles; legacy but still maintained; free, Apache-2.0.
+- [Apache Maven](https://maven.apache.org/) - Java build and dependency management tool: POM model, repositories, plugins; free, Apache-2.0.
+- [Asana](https://asana.com/) - Work management platform: tasks, projects, timelines, goals; free tier plus paid plans.
+- [Atom](https://github.com/atom/atom) - GitHub's hackable text editor; development archived in 2022, repository kept for reference; free, MIT.
+- [Bitbucket](https://bitbucket.org/product/) - Atlassian Git hosting with Pipelines CI/CD and Jira integration; free tier for small teams plus paid plans.
+- [ClickUp](https://clickup.com/) - All-in-one productivity workspace: tasks, docs, goals, chat; free tier plus paid plans.
+- [CMake](https://cmake.org/) - Cross-platform build system generator for C/C++ projects (Makefiles, IDE projects); free, BSD.
+- [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing framework running in the browser: time travel, screenshots; free tier plus paid.
+- [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains multi-engine database IDE (MySQL, Postgres, SQLite, MongoDB and more); paid with 30-day trial.
 - [DBeaver](https://dbeaver.io/) - Universal GUI for databases: MySQL/Postgres/SQLite/Mongo and 80+ more sources, SQL editor, ER diagrams, export.
+- [Eclipse IDE](https://www.eclipse.org/ide/) - Open-source Java and polyglot IDE platform with plugin ecosystem; free, Eclipse Foundation.
 - [Flutter](https://flutter.dev/) - Google UI framework for cross-platform apps (iOS/Android/web/desktop) with a single codebase in Dart, hot reload and a rich set of widgets.
+- [GDB](https://www.sourceware.org/gdb/) - GNU debugger for C/C++ and other languages: breakpoints, stepping, inspection; free, GPL.
+- [Git](https://git-scm.com/) - Distributed version control system: branches, remotes, tagging; CLI plus GUI clients; free, GPL.
+- [GitLab](https://about.gitlab.com/) - DevOps platform: Git hosting, CI/CD pipelines, issues, container registry; free tier plus paid plans and self-hosted CE.
+- [GNU Make](https://www.gnu.org/software/make/) - Standard build automation tool reading Makefiles; preinstalled almost everywhere; free, GPL.
+- [Gradle](https://gradle.org/) - Build automation for JVM, Android and multi-language projects: incremental builds, dependency cache; free, Apache-2.0.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - JetBrains Java/Kotlin IDE with Maven/Gradle support, refactoring and debugger; free Community edition plus paid Ultimate.
+- [Jest](https://jestjs.io/) - JavaScript testing framework by Meta: unit tests, snapshots, mocking, coverage; free, MIT.
+- [Jira](https://www.atlassian.com/software/jira) - Atlassian issue and project tracking: boards, backlogs, workflows; free tier for small teams plus paid.
+- [JUnit](https://junit.org/junit5/) - Standard unit-testing framework for Java: assertions, parameterized tests, extensions; free, EPL.
 - [Kiro](https://kiro.dev/) - AI coding IDE/CLI: spec-driven development, parallel agents, property-based tests, headless CI review; macOS/Windows/Linux, web/mobile; proprietary, free tier.
+- [LLDB](https://lldb.llvm.org/) - LLVM project debugger for C/C++, Swift and Rust with REPL and scripting; free, Apache-2.0.
+- [Mocha](https://mochajs.org/) - Flexible JavaScript test framework for Node and browser with reporter ecosystem; free, MIT.
+- [MongoDB](https://www.mongodb.com/) - Document database with JSON-like storage, aggregation pipeline, Atlas cloud; free self-hosted, paid Atlas.
+- [MySQL](https://www.mysql.com/) - Widely used open-source relational database; Community edition free, paid Enterprise.
+- [Notepad++](https://notepad-plus-plus.org/) - Windows text and source code editor with tabs, macros and plugin library; free, GPL.
 - [Octotree](https://www.octotree.io/) - Browser extension: a file tree of a GitHub repository on the side — navigate someone else's code without cloning.
+- [phpMyAdmin](https://www.phpmyadmin.net/) - Web UI to manage MySQL and MariaDB: tables, SQL, imports, users; free, GPL.
+- [Playwright (testing)](https://playwright.dev/) - Microsoft cross-browser end-to-end testing and automation library: traces, codegen, parallel workers; free, Apache-2.0.
+- [PostgreSQL](https://www.postgresql.org/) - Advanced open-source relational database with rich types and extensions; free, PostgreSQL license.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains Python IDE: debugger, virtualenv/conda, scientific tools, web frameworks; free Community edition plus paid Professional.
+- [Redis](https://redis.io/) - In-memory data store used as cache, queue and pub/sub; free self-hosted, paid Redis Cloud.
 - [Repolyze](https://repolyze.app/) - Rust CLI/TUI for analyzing git repositories: contributor statistics, activity heatmap, size metrics, repo comparison, analysis of GitHub repos without cloning.
+- [Selenium](https://www.selenium.dev/) - Browser automation standard: WebDriver API bindings in many languages, grid for parallel runs; free, Apache-2.0.
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Static code analysis for bugs, vulnerabilities and code smells across languages; free community edition plus paid.
+- [SourceForge](https://sourceforge.net/) - Long-running open-source software hosting directory with downloads, mirrors and project pages; free.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's official toolkit for spec-driven development: managing specifications in the repo.
+- [SQLite](https://www.sqlite.org/) - Serverless embedded SQL database in a single file; public domain; everywhere from phones to browsers.
 - [Sublime Text](https://www.sublimetext.com/) - Instant text editor with plugins and multi-cursors
+- [TablePlus](https://tableplus.com/) - Native desktop database GUI for MySQL, Postgres, SQLite, Redis and more; free tier plus paid license.
+- [TestNG](https://testng.org/) - Java testing framework inspired by JUnit with groups, parallel runs and data providers; free, Apache-2.0.
+- [Trello](https://trello.com/) - Visual kanban boards for task management with checklists and automation; free tier plus paid plans.
+- [Vim](https://www.vim.org/) - Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.
+- [Visual Studio Code](https://code.visualstudio.com/) - Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.
 
 ## Visualization
 - [APITable](https://github.com/apitable/apitable) - Open-source Airtable alternative: a visual database table with an API interface, dashboards, automations. Can be self-hosted.

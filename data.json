@@ -9795,6 +9795,482 @@
    "desc": "Open blockchain analytics platform: trace crypto address relationships and fund flows across 15+ chains, wallet watchlists, risk and sanctions API; free tier.",
    "url": "https://www.breadcrumbs.app/",
    "cat": "biz_trade"
+  },
+  {
+   "id": "it_1793399126323001",
+   "name": "Visual Studio Code",
+   "desc": "Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.",
+   "url": "https://code.visualstudio.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323002",
+   "name": "IntelliJ IDEA",
+   "desc": "JetBrains Java/Kotlin IDE with Maven/Gradle support, refactoring and debugger; free Community edition plus paid Ultimate.",
+   "url": "https://www.jetbrains.com/idea/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323003",
+   "name": "PyCharm",
+   "desc": "JetBrains Python IDE: debugger, virtualenv/conda, scientific tools, web frameworks; free Community edition plus paid Professional.",
+   "url": "https://www.jetbrains.com/pycharm/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323004",
+   "name": "Eclipse IDE",
+   "desc": "Open-source Java and polyglot IDE platform with plugin ecosystem; free, Eclipse Foundation.",
+   "url": "https://www.eclipse.org/ide/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323005",
+   "name": "Atom",
+   "desc": "GitHub's hackable text editor; development archived in 2022, repository kept for reference; free, MIT.",
+   "url": "https://github.com/atom/atom",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323006",
+   "name": "Notepad++",
+   "desc": "Windows text and source code editor with tabs, macros and plugin library; free, GPL.",
+   "url": "https://notepad-plus-plus.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323007",
+   "name": "Vim",
+   "desc": "Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.",
+   "url": "https://www.vim.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323008",
+   "name": "Git",
+   "desc": "Distributed version control system: branches, remotes, tagging; CLI plus GUI clients; free, GPL.",
+   "url": "https://git-scm.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323009",
+   "name": "GitLab",
+   "desc": "DevOps platform: Git hosting, CI/CD pipelines, issues, container registry; free tier plus paid plans and self-hosted CE.",
+   "url": "https://about.gitlab.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323010",
+   "name": "Bitbucket",
+   "desc": "Atlassian Git hosting with Pipelines CI/CD and Jira integration; free tier for small teams plus paid plans.",
+   "url": "https://bitbucket.org/product/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323011",
+   "name": "SourceForge",
+   "desc": "Long-running open-source software hosting directory with downloads, mirrors and project pages; free.",
+   "url": "https://sourceforge.net/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323012",
+   "name": "Apache Maven",
+   "desc": "Java build and dependency management tool: POM model, repositories, plugins; free, Apache-2.0.",
+   "url": "https://maven.apache.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323013",
+   "name": "Gradle",
+   "desc": "Build automation for JVM, Android and multi-language projects: incremental builds, dependency cache; free, Apache-2.0.",
+   "url": "https://gradle.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323014",
+   "name": "Apache Ant",
+   "desc": "Classic Java build tool driven by XML buildfiles; legacy but still maintained; free, Apache-2.0.",
+   "url": "https://ant.apache.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323015",
+   "name": "GNU Make",
+   "desc": "Standard build automation tool reading Makefiles; preinstalled almost everywhere; free, GPL.",
+   "url": "https://www.gnu.org/software/make/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323016",
+   "name": "CMake",
+   "desc": "Cross-platform build system generator for C/C++ projects (Makefiles, IDE projects); free, BSD.",
+   "url": "https://cmake.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323017",
+   "name": "GDB",
+   "desc": "GNU debugger for C/C++ and other languages: breakpoints, stepping, inspection; free, GPL.",
+   "url": "https://www.sourceware.org/gdb/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323018",
+   "name": "LLDB",
+   "desc": "LLVM project debugger for C/C++, Swift and Rust with REPL and scripting; free, Apache-2.0.",
+   "url": "https://lldb.llvm.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323019",
+   "name": "Postman",
+   "desc": "API platform: request builder, collections, automated testing, mock servers; free tier plus paid plans.",
+   "url": "https://www.postman.com/",
+   "cat": "dev_api"
+  },
+  {
+   "id": "it_1793399126323020",
+   "name": "Insomnia",
+   "desc": "Desktop REST and GraphQL API client by Kong with environments and code generation; free tier plus paid.",
+   "url": "https://insomnia.rest/",
+   "cat": "dev_api"
+  },
+  {
+   "id": "it_1793399126323021",
+   "name": "Fiddler",
+   "desc": "Telerik HTTP debugging proxy: capture, inspect and replay traffic; free classic edition plus paid Pro.",
+   "url": "https://www.telerik.com/fiddler",
+   "cat": "dev_api"
+  },
+  {
+   "id": "it_1793399126323022",
+   "name": "Docker",
+   "desc": "Container platform: build, ship and run containers locally and on registries; free Docker Engine, paid plans.",
+   "url": "https://www.docker.com/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323023",
+   "name": "Kubernetes",
+   "desc": "Container orchestration: scheduling, scaling, self-healing, service discovery; free, CNCF project.",
+   "url": "https://kubernetes.io/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323024",
+   "name": "Jenkins",
+   "desc": "Self-hosted automation server: CI/CD pipelines with plugin ecosystem; free, MIT.",
+   "url": "https://www.jenkins.io/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323025",
+   "name": "Terraform",
+   "desc": "HashiCorp infrastructure-as-code: declarative resources for clouds and services; free core, paid cloud.",
+   "url": "https://developer.hashicorp.com/terraform",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323026",
+   "name": "Ansible",
+   "desc": "Red Hat agentless automation: playbooks for config management and deployments over SSH; free, GPL.",
+   "url": "https://www.ansible.com/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323027",
+   "name": "AWS CLI",
+   "desc": "Official command-line tool to manage AWS services; free tool, AWS usage costs apply.",
+   "url": "https://aws.amazon.com/cli/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323028",
+   "name": "Google Cloud SDK",
+   "desc": "CLI tools and libraries for Google Cloud (gcloud, gsutil, bq); free tool, GCP usage costs apply.",
+   "url": "https://cloud.google.com/sdk",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323029",
+   "name": "Azure CLI",
+   "desc": "Official Microsoft command-line tool to manage Azure resources; free tool, Azure usage costs apply.",
+   "url": "https://learn.microsoft.com/en-us/cli/azure/",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793399126323030",
+   "name": "MySQL",
+   "desc": "Widely used open-source relational database; Community edition free, paid Enterprise.",
+   "url": "https://www.mysql.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323031",
+   "name": "PostgreSQL",
+   "desc": "Advanced open-source relational database with rich types and extensions; free, PostgreSQL license.",
+   "url": "https://www.postgresql.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323032",
+   "name": "MongoDB",
+   "desc": "Document database with JSON-like storage, aggregation pipeline, Atlas cloud; free self-hosted, paid Atlas.",
+   "url": "https://www.mongodb.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323033",
+   "name": "SQLite",
+   "desc": "Serverless embedded SQL database in a single file; public domain; everywhere from phones to browsers.",
+   "url": "https://www.sqlite.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323034",
+   "name": "Redis",
+   "desc": "In-memory data store used as cache, queue and pub/sub; free self-hosted, paid Redis Cloud.",
+   "url": "https://redis.io/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323035",
+   "name": "phpMyAdmin",
+   "desc": "Web UI to manage MySQL and MariaDB: tables, SQL, imports, users; free, GPL.",
+   "url": "https://www.phpmyadmin.net/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323036",
+   "name": "DataGrip",
+   "desc": "JetBrains multi-engine database IDE (MySQL, Postgres, SQLite, MongoDB and more); paid with 30-day trial.",
+   "url": "https://www.jetbrains.com/datagrip/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323037",
+   "name": "TablePlus",
+   "desc": "Native desktop database GUI for MySQL, Postgres, SQLite, Redis and more; free tier plus paid license.",
+   "url": "https://tableplus.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323038",
+   "name": "Selenium",
+   "desc": "Browser automation standard: WebDriver API bindings in many languages, grid for parallel runs; free, Apache-2.0.",
+   "url": "https://www.selenium.dev/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323039",
+   "name": "JUnit",
+   "desc": "Standard unit-testing framework for Java: assertions, parameterized tests, extensions; free, EPL.",
+   "url": "https://junit.org/junit5/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323040",
+   "name": "Swagger",
+   "desc": "OpenAPI toolset: spec editor, codegen, UI documentation for REST APIs; free open-source tools plus paid hub.",
+   "url": "https://swagger.io/",
+   "cat": "dev_api"
+  },
+  {
+   "id": "it_1793399126323041",
+   "name": "Cypress",
+   "desc": "JavaScript end-to-end testing framework running in the browser: time travel, screenshots; free tier plus paid.",
+   "url": "https://www.cypress.io/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323042",
+   "name": "Jest",
+   "desc": "JavaScript testing framework by Meta: unit tests, snapshots, mocking, coverage; free, MIT.",
+   "url": "https://jestjs.io/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323043",
+   "name": "TestNG",
+   "desc": "Java testing framework inspired by JUnit with groups, parallel runs and data providers; free, Apache-2.0.",
+   "url": "https://testng.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323044",
+   "name": "Mocha",
+   "desc": "Flexible JavaScript test framework for Node and browser with reporter ecosystem; free, MIT.",
+   "url": "https://mochajs.org/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323045",
+   "name": "Playwright (testing)",
+   "desc": "Microsoft cross-browser end-to-end testing and automation library: traces, codegen, parallel workers; free, Apache-2.0.",
+   "url": "https://playwright.dev/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323046",
+   "name": "New Relic",
+   "desc": "Observability platform: APM, logs, metrics and dashboards; free tier plus usage-based paid plans.",
+   "url": "https://newrelic.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323047",
+   "name": "Datadog",
+   "desc": "Cloud monitoring and security platform: APM, logs, infrastructure metrics; paid with free tier.",
+   "url": "https://www.datadoghq.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323048",
+   "name": "Prometheus",
+   "desc": "Open-source time-series monitoring and alerting with PromQL and exporters ecosystem; free, Apache-2.0.",
+   "url": "https://prometheus.io/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323049",
+   "name": "Pingdom",
+   "desc": "Website uptime and speed monitoring with alerts and root-cause pages; paid with free trial.",
+   "url": "https://www.pingdom.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323050",
+   "name": "AppDynamics",
+   "desc": "Application performance monitoring, now part of Cisco; paid enterprise with free trial.",
+   "url": "https://www.appdynamics.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323051",
+   "name": "Sentry",
+   "desc": "Error tracking and performance monitoring for apps with stack-trace grouping; free developer tier plus paid.",
+   "url": "https://sentry.io/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323052",
+   "name": "Dynatrace",
+   "desc": "Observability platform with AI-driven root cause analysis, Davis; paid enterprise.",
+   "url": "https://www.dynatrace.com/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399126323053",
+   "name": "SonarQube",
+   "desc": "Static code analysis for bugs, vulnerabilities and code smells across languages; free community edition plus paid.",
+   "url": "https://www.sonarsource.com/products/sonarqube/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323054",
+   "name": "OWASP ZAP",
+   "desc": "OWASP open-source web app security scanner and proxy for finding vulnerabilities, for authorized testing; free, Apache-2.0.",
+   "url": "https://www.zaproxy.org/",
+   "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793399126323055",
+   "name": "Nmap",
+   "desc": "Network discovery and port scanning tool with NSE scripts, for authorized testing and inventory; free, GPL.",
+   "url": "https://nmap.org/",
+   "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793399126323056",
+   "name": "ClamAV",
+   "desc": "Open-source antivirus engine for mail gateways and file scanning with signature database; free, GPL.",
+   "url": "https://www.clamav.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399126323057",
+   "name": "Veracode",
+   "desc": "Commercial static and dynamic application security testing platform; paid, vendor pricing.",
+   "url": "https://www.veracode.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399126323058",
+   "name": "Trivy",
+   "desc": "Aqua open-source scanner for vulnerabilities, misconfigurations, secrets and SBOM in containers and repos; free, Apache-2.0.",
+   "url": "https://trivy.dev/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399126323059",
+   "name": "Bandit",
+   "desc": "PyCQA static analyzer finding common security issues in Python code; free, Apache-2.0.",
+   "url": "https://bandit.readthedocs.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399126323060",
+   "name": "Jira",
+   "desc": "Atlassian issue and project tracking: boards, backlogs, workflows; free tier for small teams plus paid.",
+   "url": "https://www.atlassian.com/software/jira",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323061",
+   "name": "Trello",
+   "desc": "Visual kanban boards for task management with checklists and automation; free tier plus paid plans.",
+   "url": "https://trello.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323062",
+   "name": "Asana",
+   "desc": "Work management platform: tasks, projects, timelines, goals; free tier plus paid plans.",
+   "url": "https://asana.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323063",
+   "name": "ClickUp",
+   "desc": "All-in-one productivity workspace: tasks, docs, goals, chat; free tier plus paid plans.",
+   "url": "https://clickup.com/",
+   "cat": "dev_edit"
+  },
+  {
+   "id": "it_1793399126323064",
+   "name": "RapidAPI",
+   "desc": "API marketplace to discover, test and subscribe to thousands of APIs from one account; freemium.",
+   "url": "https://rapidapi.com/",
+   "cat": "dev_api"
+  },
+  {
+   "id": "it_1793399126323065",
+   "name": "MDN Web Docs",
+   "desc": "Mozilla reference for web standards: HTML, CSS, JavaScript, HTTP with browser compat tables; free.",
+   "url": "https://developer.mozilla.org/",
+   "cat": "edu_res"
+  },
+  {
+   "id": "it_1793399126323066",
+   "name": "DevDocs",
+   "desc": "Fast searchable interface combining API documentation for many languages and frameworks in one place; free, MIT.",
+   "url": "https://devdocs.io/",
+   "cat": "edu_res"
+  },
+  {
+   "id": "it_1793399126323067",
+   "name": "Stack Overflow",
+   "desc": "Largest Q&A site for programmers: searchable answers with voting and tags; free, public archive.",
+   "url": "https://stackoverflow.com/",
+   "cat": "edu_res"
+  },
+  {
+   "id": "it_1793399126323068",
+   "name": "W3Schools",
+   "desc": "Web development tutorials with try-it-yourself editors for HTML, CSS, JS, SQL, Python; free with paid certificates.",
+   "url": "https://www.w3schools.com/",
+   "cat": "edu_res"
   }
  ]
 }
