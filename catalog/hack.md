@@ -6,7 +6,7 @@
 - [Brute Force](#brute-force) (3)
 - [DDoS](#ddos) (2)
 - [Defense](#defense) (7)
-- [Pentest](#pentest) (25)
+- [Pentest](#pentest) (28)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
@@ -38,6 +38,7 @@
 - [Deep Eye](https://github.com/zakirkun/deep-eye) - An AI-based pentest orchestrator: runs 10+ providers (OpenAI, Claude, Grok, Ollama...) to generate payloads, scans 45+ vulnerability types and produces professional reports with compliance mapping.
 - [dnstwist MCP](https://github.com/elceef/dnstwist) - Typosquat detection, domain permutation checking: free, no key; community.
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer in Go: brute-forcing directories/files/parameters, vhost fuzzing, recursion, filters by size/code/time. Based on gobuster, but more powerful.
+- [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP server letting AI agents operate 150+ cybersecurity tools for authorized pentesting (recon, scanning, exploitation tooling); MIT; 13k stars.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - The fastest port scanner on the planet: the whole internet in 6 minutes, millions of packets/sec. To find open ports — only this. Account for the limitations of SYN scanning.
 - [Metasploit](https://www.metasploit.com/) - The main exploit framework: thousands of exploits and payloads, post-exploitation, meterpreter, automatic exploitation of vulnerabilities.
 - [NetExec](https://github.com/Pennyw0rth/NetExec) - A fork of CrackMapExec — a Swiss army knife for networks: credential checks on SMB/WinRM/LDAP/SSH/MSSQL, login dumping, password spraying. Alive and developing.
@@ -49,12 +50,14 @@
 - [pwn.college](https://pwn.college/) - a platform for learning pentesting and binary exploitation from ASU: theory + hands-on labs
 - [reKover](https://github.com/BruteLogic/reKover) - Bash URL mapper for recon: robots/sitemap parsing, weighted brute force, JS-aware crawl, Wayback CDX probes; JSON output; needs parallel+curl; MIT.
 - [ScopeWeaver](https://github.com/cskwork/scopeweaver) - LLM multi-agent autonomous pentest (ARTEX): planner/worker agents over shared graphs, traffic proxy, tool-approval gate. Go+Next.js+PostgreSQL, needs LLM key. AGPL-3.0; personal study only.
+- [Shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI pentester for authorized web/API testing: reads your source code, maps attack paths and runs POC exploits to prove findings; CLI agent; AGPL-3.0.
 - [Shodan MCP](https://github.com/w0h1v/mcp-shodan) - Internet device/IP lookup, banners, CVE intel via Shodan API: server free, real use needs $49 membership; community, moderately active.
 - [Skipfish](https://github.com/spinkham/skipfish) - website vulnerability scanner
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection combine: detects the DB type, dumps tables, reads files, gets a shell. The standard in web pentesting.
 - [Strix](https://github.com/usestrix/strix) - autonomous AI agents for pentesting: they run code themselves, look for vulnerabilities (SQLi, XSS, SSRF, IDOR, etc.) and prove them with a real working exploit, not just a warning
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - An autonomous red-team platform from plinius: a multi-agent meta-harness for offensive security; agents plan and carry out attacks on their own.
 - [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) - URL/hash/domain maliciousness scans via VirusTotal API: freemium with rate-limited free tier; community.
+- [Vulnerator AI](https://github.com/irraz/vulnerator-ai) - Autonomous agent for authorized penetration testing: OODA-loop reasoning, Kali and Playwright browser tools over MCP, ATT&CK-style orientation; MIT.
 
 ## Phishing
 - [CamFish](https://github.com/firidon/CamFish) - phishing for camera shots

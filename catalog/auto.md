@@ -4,9 +4,9 @@
 
 ## Contents
 - [Accounts & Mail](#accounts-mail) (4)
-- [Browser](#browser) (17)
+- [Browser](#browser) (19)
 - [PC Control](#pc-control) (6)
-- [Scraping](#scraping) (22)
+- [Scraping](#scraping) (23)
 - [Self-hosted Tools](#self-hosted-tools) (18)
 - [Smart Home](#smart-home) (2)
 - [Other](#other) (4)
@@ -25,6 +25,7 @@
 - [BrowserWing](https://github.com/browserwing/browserwing) - browser automation platform built for AI agents. You record your actions in the browser (clicks, text input, navigation), and it turns them into ready-made commands that the agent can call directly
 - [CloackBrowser](https://github.com/CloakHQ/CloakBrowser) - Anti-detect browser with isolated profiles for multi-accounting
 - [Clon1X](https://clon1x.com/) - Clone-phishing platform: build and monitor cloned login pages to test protections, real-time credential capture with notifications and tracking; SaaS; proprietary.
+- [EGO Lite](https://github.com/citrolabs/ego-lite) - Desktop browser for AI agents: web automation runs with your logged-in browser state shared with the agent; Mac/Windows app; MIT; 20k+ stars.
 - [Figranium](https://github.com/figranium/figranium) - A visual builder of browser automations: you assemble a workflow from blocks and then trigger it via API. Playwright under the hood, no code.
 - [Lightpanda](https://github.com/lightpanda-io/browser) - headless browser written from scratch in Zig specifically for AI agents and automation, not a fork of Chrome/WebKit
 - [Midscene](https://github.com/web-infra-dev/midscene) - AI-vision E2E testing: natural-language steps and assertions for web, Android and desktop UIs, YAML cases and Agent APIs, Playwright/Puppeteer support; npm @midscene/web; MIT.
@@ -34,6 +35,7 @@
 - [Selenium Chrome](https://hub.docker.com/r/selenium/standalone-chrome) - A ready standalone container: Chrome + Selenium Grid + VNC/noVNC. For autotests, scraping and browser automation.
 - [Stealth Browser MCP](https://github.com/vibheksoni/stealth-browser-mcp) - Open-source Python MCP for AI-driven Chrome/Edge (nodriver, CDP, FastMCP): 98 tools + 21-tool minimal. Passes Cloudflare challenges (varies). Python 3.10+. MIT.
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Headless browser with a built-in API for automation and agents
+- [Swell](https://github.com/ivantacca/swell) - Minimal Gecko browser with fully isolated spaces (own cookies, passwords, extensions per space) in one window; alpha, macOS/Linux; MPL-2.0.
 - [Tandem Browser](https://github.com/hydro13/tandem-browser) - An AI-Human symbiotic browser: the human and the agent (Claude Code/Codex) surf the web as one entity; the agent sees the same page and helps in real time. Electron, local.
 
 ## PC Control
@@ -48,6 +50,7 @@
 - [Apify](https://fluyeporlaweb.com/herramientas/apify/) - Web scraping and browser automation platform: Actors store, cloud runs, residential/datacenter proxies, API; free plan with $5 usage, paid from $19/month; hosted.
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - A selection of tools, frameworks and articles about scraping
 - [Botasaurus](https://github.com/omkarcloud/botasaurus) - Python wrapper for Selenium that slips past most bot detection: patches webdriver flag, randomizes fingerprints, stealth navigation and cookies, headless or headed; pip install; MIT.
+- [Context (scraping API)](https://www.context.dev/) - Scraping API for agents: pages to clean markdown plus prebuilt parsers (Google Maps, app stores, Instagram, TikTok, G2, contacts); API key, zero data retention.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - web scraper/parser for AI agents
 - [Design Oracle](https://github.com/jomvick/design-oracle) - Screenshot a site, get design breakdown (colors, fonts, components) as ready-to-paste Tailwind config or React code.
 - [Facebook Scraper](https://github.com/kevinzg/facebook-scraper) - Facebook scraper in Python: pages, posts, groups without the official API.

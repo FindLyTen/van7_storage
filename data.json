@@ -9291,6 +9291,125 @@
    "desc": "One-command config generator pointing Claude Code, Codex, Cursor, OpenCode and other agents at a FreeLLMAPI router instance",
    "url": "https://github.com/tashfeenahmed/freellmapi/blob/main/docs/en/clients/02-supported-agents.md",
    "cat": "ai_api"
+  },
+  {
+   "id": "it_1793375614090001",
+   "name": "Awesome Model Routing",
+   "desc": "Curated CC0 directory of 53+ LLM model routing frameworks, gateways and inference engines with comparison notes; active Oct 2026.",
+   "url": "https://github.com/yenanjing/awesome-model-routing",
+   "cat": "ai_lists"
+  },
+  {
+   "id": "it_1793375614090002",
+   "name": "EGO Lite",
+   "desc": "Desktop browser for AI agents: web automation runs with your logged-in browser state shared with the agent; Mac/Windows app; MIT; 20k+ stars.",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793375614090003",
+   "name": "Claude Obsidian",
+   "desc": "AI second brain for Obsidian as 15 skills + 3 agents for Claude Code, Codex, OpenCode and others: sources become a linked Markdown knowledge graph; MIT.",
+   "url": "https://github.com/AgriciDaniel/claude-obsidian",
+   "cat": "ai_skills"
+  },
+  {
+   "id": "it_1793375614090004",
+   "name": "Swell",
+   "desc": "Minimal Gecko browser with fully isolated spaces (own cookies, passwords, extensions per space) in one window; alpha, macOS/Linux; MPL-2.0.",
+   "url": "https://github.com/ivantacca/swell",
+   "cat": "auto_browser"
+  },
+  {
+   "id": "it_1793375614090005",
+   "name": "Vulnerator AI",
+   "desc": "Autonomous agent for authorized penetration testing: OODA-loop reasoning, Kali and Playwright browser tools over MCP, ATT&CK-style orientation; MIT.",
+   "url": "https://github.com/irraz/vulnerator-ai",
+   "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793375614090006",
+   "name": "XOutlier",
+   "desc": "Chrome extension for X (Twitter) research: ranks top organic outlier posts on a profile over 180/365 days, filters boosted ads, exports to AI/CSV/JSON; local.",
+   "url": "https://xoutlier.com",
+   "cat": "biz_mkt"
+  },
+  {
+   "id": "it_1793375614090007",
+   "name": "OpenMausBot",
+   "desc": "Open-source Grok Bot alternative: chat app where every bot is a local Claude/Codex/Grok agent with its own VM, apps and approval dialogs; Apache-2.0.",
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "cat": "ai_agents"
+  },
+  {
+   "id": "it_1793375614090008",
+   "name": "Open Code Review (Alibaba)",
+   "desc": "Alibaba's code review system blending deterministic pipelines with LLM agents, battle-tested at Alibaba scale; Apache-2.0; 49k stars; active.",
+   "url": "https://github.com/alibaba/open-code-review",
+   "cat": "ai_cli"
+  },
+  {
+   "id": "it_1793375614090009",
+   "name": "Context (scraping API)",
+   "desc": "Scraping API for agents: pages to clean markdown plus prebuilt parsers (Google Maps, app stores, Instagram, TikTok, G2, contacts); API key, zero data retention.",
+   "url": "https://www.context.dev/",
+   "cat": "auto_parse"
+  },
+  {
+   "id": "it_1793375614090010",
+   "name": "hello-agents",
+   "desc": "Free Chinese open course by Datawhale: build AI agents from scratch — planning, memory, tools, multi-agent patterns with runnable code; 85k stars.",
+   "url": "https://github.com/datawhalechina/hello-agents",
+   "cat": "edu_courses"
+  },
+  {
+   "id": "it_1793375614090011",
+   "name": "FAISS",
+   "desc": "Meta's C++/Python library for fast similarity search and clustering of dense vectors (GPU support); classic engine behind RAG and semantic search; MIT.",
+   "url": "https://github.com/facebookresearch/faiss",
+   "cat": "ai_memory"
+  },
+  {
+   "id": "it_1793375614090012",
+   "name": "Chroma",
+   "desc": "Open-source vector database for AI apps: stores embeddings, semantic search, client-server mode, Python/JS clients; Apache-2.0; 29k stars.",
+   "url": "https://github.com/chroma-core/chroma",
+   "cat": "ai_memory"
+  },
+  {
+   "id": "it_1793375614090013",
+   "name": "Microsoft Azure",
+   "desc": "Microsoft's public cloud platform: compute, storage, databases, AI services, networking; free account with always-free services and 12-month credits.",
+   "url": "https://azure.microsoft.com/en-us",
+   "cat": "infra_cloud"
+  },
+  {
+   "id": "it_1793375614090014",
+   "name": "ModSearch",
+   "desc": "Free web search plugin for DeepSeek Harness (dsh): web + X search and page fetch via keyless engines (Firecrawl, You.com) with auto-failover; MIT.",
+   "url": "https://github.com/liustack/modsearch",
+   "cat": "ai_api"
+  },
+  {
+   "id": "it_1793375614090015",
+   "name": "OSINT Stuff Tool Collection",
+   "desc": "Cipher387's collection of several hundred online OSINT tools with a searchable categorized database (username, email, GEOINT and more); GPL-3.0; active.",
+   "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+   "cat": "osint_lists"
+  },
+  {
+   "id": "it_1793375614090016",
+   "name": "Shannon",
+   "desc": "Autonomous AI pentester for authorized web/API testing: reads your source code, maps attack paths and runs POC exploits to prove findings; CLI agent; AGPL-3.0.",
+   "url": "https://github.com/KeygraphHQ/shannon",
+   "cat": "hack_pentest"
+  },
+  {
+   "id": "it_1793375614090017",
+   "name": "HexStrike AI",
+   "desc": "MCP server letting AI agents operate 150+ cybersecurity tools for authorized pentesting (recon, scanning, exploitation tooling); MIT; 13k stars.",
+   "url": "https://github.com/0x4m4/hexstrike-ai",
+   "cat": "hack_pentest"
   }
  ]
 }

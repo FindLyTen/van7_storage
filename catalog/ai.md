@@ -3,23 +3,25 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Agent Memory](#agent-memory) (22)
-- [AI Agents](#ai-agents) (119)
+- [Agent Memory](#agent-memory) (24)
+- [AI Agents](#ai-agents) (120)
 - [AI Images](#ai-images) (6)
 - [AI Video](#ai-video) (34)
-- [API & MCP](#api-mcp) (72)
+- [API & MCP](#api-mcp) (73)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
-- [CLI Tools](#cli-tools) (26)
-- [Collections](#collections) (28)
+- [CLI Tools](#cli-tools) (27)
+- [Collections](#collections) (29)
 - [Local Models](#local-models) (24)
 - [Routers & Gateways](#routers-gateways) (14)
-- [Skills](#skills) (82)
+- [Skills](#skills) (83)
 - [Voice & Transcription](#voice-transcription) (13)
 
 ## Agent Memory
 - [Agent Memory](https://github.com/rohitg00/agentmemory) - Memory for AI agents: saves and recalls context
 - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory) - A collection of projects on AI agent memory: vector DBs, long-term memory, RAG stores and context frameworks, all in one list with links.
+- [Chroma](https://github.com/chroma-core/chroma) - Open-source vector database for AI apps: stores embeddings, semantic search, client-server mode, Python/JS clients; Apache-2.0; 29k stars.
 - [Ctxport](https://github.com/nicepkg/ctxport) - Browser extension: copies conversations from ChatGPT, Claude, Gemini, DeepSeek and Grok as neat Markdown context bundles; one click from the sidebar, all local, no uploads.
+- [FAISS](https://github.com/facebookresearch/faiss) - Meta's C++/Python library for fast similarity search and clustering of dense vectors (GPU support); classic engine behind RAG and semantic search; MIT.
 - [GBrain](https://github.com/garrytan/gbrain) - AI memory
 - [Google Knowledge Catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Tools and examples for Google Cloud Knowledge Catalog (formerly Dataplex): AI data catalog, knowledge graph, metadata and context for AI agents.
 - [GraphRAG](https://github.com/microsoft/graphrag) - Graph-based RAG pipeline: LLM extracts entities and relationships into a knowledge graph for global and local question answering; Python CLI; pip install graphrag; MIT.
@@ -123,6 +125,7 @@
 - [OpenLIT](https://github.com/openlit/openlit) - Agent harness engineering platform: OpenTelemetry tracing, evals, guardrails, prompt and context management, cost and GPU monitoring for agents; 70+ integrations; self-host; Apache-2.0.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry instrumentations for LLM apps: standards for LLM providers, vector DBs, frameworks; Traceloop SDK; outputs OpenTelemetry data to any observability stack; Python/TS; Apache-2.0.
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - Open-source implementation of Manus: autonomous agents that perform tasks on a computer.
+- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative: chat app where every bot is a local Claude/Codex/Grok agent with its own VM, apps and approval dialogs; Apache-2.0.
 - [OpenReview (Vercel)](https://github.com/vercel-labs/openreview) - An open-source self-hosted AI bot for code review from Vercel: automatic reviews on PRs, runs on the AI SDK.
 - [OpenShell](https://github.com/NVIDIA/OpenShell) - Safe private runtime for autonomous AI agent fleets: kernel-enforced sandbox, formally verified policy changes, gateway, secrets only for approved endpoints; Docker; Rust; Apache-2.0.
 - [OpenWork](https://openworklabs.com/) - Open-source desktop replacement for Claude Cowork: chat over files, browser automation, scheduled tasks, skills, 50+ providers + an MCP gateway for the team.
@@ -252,6 +255,7 @@
 - [Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Official reference MCP server for simple knowledge graph memory: alternative to agentmemory; free, no key; maintained by MCP team.
 - [Mistral Console](https://console.mistral.ai/) - Mistral developer console (La Plateforme): create/manage API keys, view usage and docs, playgrounds for chat models; web console for Mistral AI APIs; usage-based billing.
 - [Mobile MCP](https://github.com/mobile-next/mobile-mcp) - An MCP server for mobile automation and scraping: iOS, Android, emulators, simulators and real devices. Let the AI agent poke at your phone itself.
+- [ModSearch](https://github.com/liustack/modsearch) - Free web search plugin for DeepSeek Harness (dsh): web + X search and page fetch via keyless engines (Firecrawl, You.com) with auto-failover; MIT.
 - [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) - Official MCP server for MongoDB and Atlas: CRUD, query analysis, indexes and schemas; hosted Atlas mode over OAuth with read-only default; npx mongodb-mcp-server; TypeScript; Apache-2.0.
 - [Monid](https://monid.ai/) - Agent skill hub: one skill unlocks 1800+ tools and APIs for AI agents; discovery and pay-per-call usage billing instead of per-tool sign-ups or subscriptions; commercial.
 - [MS 365 MCP Server](https://github.com/Softeria/ms-365-mcp-server) - MCP server for Microsoft 365 via Graph API: Excel, calendar, mail, OneDrive, Teams, Outlook personal and business scopes; 100+ tools; Python; MIT.
@@ -308,6 +312,7 @@
 - [ModelMatrix](https://gitlab.com/hack8us/modelmatrix) - Zero-dependency Python TUI dashboard to browse, filter and profile frontier AI models (context windows, pricing, knowledge cutoffs) as an ANSI table; clone and run python3 aio4.py; MIT.
 - [OC (only-cli)](https://github.com/only-cli/oc) - Turns any site into a compact CLI for AI agents: the agent reads the web in hundreds of tokens instead of tens of thousands. Integration with Claude Code.
 - [oly (Open Relay)](https://github.com/slaveOftime/open-relay) - Local-first session supervisor for coding agents and REPLs: daemon owns the PTY, TUI/web dashboard, attach/send input, recordings, remote access; Rust/Node; MIT.
+- [Open Code Review (Alibaba)](https://github.com/alibaba/open-code-review) - Alibaba's code review system blending deterministic pipelines with LLM agents, battle-tested at Alibaba scale; Apache-2.0; 49k stars; active.
 - [OpenCode for Termux](https://github.com/dextune/opencode-termux) - Installer: OpenCode AI coding agent on Android/Termux (aarch64); uses Android/Bionic build with pidfd_open shim, SHA-256-verified download, wrapper script; bash installer; MIT.
 - [Playwright CLI](https://github.com/microsoft/playwright-cli) - CLI tool from Microsoft for controlling a browser (Playwright) from the terminal: open a page, click, fill in a form, take a screenshot, run a test. Built for AI agents
 - [RTK](https://github.com/rtk-ai/rtk) - Agent-agnostic token optimization: Rust binary filters and compresses command output before it reaches LLM context; 100+ supported commands, up to 90% smaller bash output, under 10ms; brew/winget.
@@ -324,6 +329,7 @@
 - [Awesome generative AI](https://github.com/steven2358/awesome-generative-ai) - big curated list (a so-called "awesome list", a common format on GitHub) of links to everything related to generative AI: models, tools, articles, frameworks, startups
 - [Awesome Local LLM](https://github.com/rafska/Awesome-local-LLM) - A selection of everything about local LLMs: models, tools, guides
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Curated list: Model Context Protocol servers (file access, databases, API integrations), MCP clients, tutorials and frameworks; the reference MCP directory; MIT.
+- [Awesome Model Routing](https://github.com/yenanjing/awesome-model-routing) - Curated CC0 directory of 53+ LLM model routing frameworks, gateways and inference engines with comparison notes; active Oct 2026.
 - [Awesome Opus 5.5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - Collection of 418 viral videos made with Claude Opus 5.5 animation-as-code (HTML, Canvas, SVG, Three.js), each with its creator prompt, plus 703 prompts in the repo; MIT.
 - [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) - Collection: Anthropic cookbook of copyable code recipes and guides for building with the Claude API; Python; MIT.
 - [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) - Anthropic's collection of Claude API starter projects: customer support agent, financial data analyst, computer use and browser use demos; official sample agents; MIT.
@@ -406,6 +412,7 @@
 - [Claude Code System Prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - a collection of Claude Code system prompts and their versions for study
 - [Claude Code Video Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - Skills + MCP toolkit for programmatic video in Claude Code: Remotion, Manim, Playwright screen recording, YouTube clipping/subtitles, FFmpeg post-processing; license not stated.
 - [Claude Design Skillstack](https://github.com/freshtechbro/claudedesignskills) - Design agency marketplace for Claude Code: 27 plugins / 22 skills covering Three.js, GSAP, React Three Fiber, Framer Motion, Babylon, A-Frame, Rive and integration patterns; /plugin install; MIT.
+- [Claude Obsidian](https://github.com/AgriciDaniel/claude-obsidian) - AI second brain for Obsidian as 15 skills + 3 agents for Claude Code, Codex, OpenCode and others: sources become a linked Markdown knowledge graph; MIT.
 - [Claude Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) - Claude agent skill for Remotion motion graphics: springs, staggered choreography, color grade, grain, synced captions, sound design; enforced render-inspect-fix loop; MIT.
 - [claude-motion](https://github.com/whaleyxbt/claude-motion) - Motion design toolkit for coding agents: taste rules, mandatory render-and-inspect loop, sound engine, and web-sim-to-60fps-video rendering; Claude Code/Cursor skills with AGENTS.md fallback; MIT.
 - [Clean Code Skills](https://github.com/btseee/clean-code-skills) - Agent skill for clean code and clean architecture: rule packs for 21 languages and 27 frameworks, repo structure map, project context loading; works with Claude Code, Codex, Cursor; MIT.

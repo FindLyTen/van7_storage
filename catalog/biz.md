@@ -4,7 +4,7 @@
 
 ## Contents
 - [CRM](#crm) (7)
-- [Marketing & SEO](#marketing-seo) (57)
+- [Marketing & SEO](#marketing-seo) (58)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
@@ -78,6 +78,7 @@
 - [vidIQ](https://vidiq.com/) - AI service for growing YouTube channels (and Instagram): video ideas, title, tag and thumbnail optimization, analytics and coaching, plus a browser extension. Free plan with paid tiers.
 - [What Launched Today](https://whatlaunched.today/) - product launch directory; daily startup launches from stealth to established; for makers; free submission; Product Hunt alternative
 - [X MCP](https://github.com/xdevplatform/xMCP) - Official X (Twitter) MCP: read/search + posting; free tier ~500 posts/mo write, Basic $200/mo; X developer account; official.
+- [XOutlier](https://xoutlier.com) - Chrome extension for X (Twitter) research: ranks top organic outlier posts on a profile over 180/365 days, filters boosted ads, exports to AI/CSV/JSON; local.
 - [YouTube MCP](https://github.com/pauling-ai/youtube-mcp-server) - Community YouTube MCP with 40 tools: upload, thumbnails, playlists, comments, Analytics; free, Google OAuth; official Data API underneath.
 
 ## Real Estate

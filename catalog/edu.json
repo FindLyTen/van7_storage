@@ -56,6 +56,7 @@
 {"id":414,"name":"Crash Course","url":"https://thecrashcourse.com/","desc":"dynamic video lectures on history, science, economics and philosophy by John and Hank Green","cat":"edu_courses"},
 {"id":426,"name":"Digital Defynd","url":"https://digitaldefynd.com/best-free-certification-course-training-online/","desc":"a catalog of the best free courses with certificates from Google, Harvard and others","cat":"edu_courses"},
 {"id":422,"name":"edX","url":"https://www.edx.org/","desc":"courses from MIT, Harvard and other top universities, free, with certificates for a fee","cat":"edu_courses"},
+{"id":"it_1793375614090010","name":"hello-agents","url":"https://github.com/datawhalechina/hello-agents","desc":"Free Chinese open course by Datawhale: build AI agents from scratch — planning, memory, tools, multi-agent patterns with runnable code; 85k stars.","cat":"edu_courses"},
 {"id":421,"name":"HowStuffWorks","url":"https://www.howstuffworks.com/","desc":"explanations of how everything in the world works: from engines to economics","cat":"edu_courses"},
 {"id":420,"name":"Khan Academy","url":"https://www.khanacademy.org/","desc":"free lessons in math, programming and natural sciences with exercises","cat":"edu_courses"},
 {"id":419,"name":"Kurzgesagt","url":"https://kurzgesagt.org/","desc":"popular science animation: space, biology, existential questions","cat":"edu_courses"},

@@ -4,7 +4,7 @@
 
 ## Contents
 - [Collections](#collections) (7)
-- [Courses](#courses) (23)
+- [Courses](#courses) (24)
 - [Data Archives](#data-archives) (6)
 - [Interviews](#interviews) (15)
 - [Libraries](#libraries) (7)
@@ -33,6 +33,7 @@
 - [Crash Course](https://thecrashcourse.com/) - dynamic video lectures on history, science, economics and philosophy by John and Hank Green
 - [Digital Defynd](https://digitaldefynd.com/best-free-certification-course-training-online/) - a catalog of the best free courses with certificates from Google, Harvard and others
 - [edX](https://www.edx.org/) - courses from MIT, Harvard and other top universities, free, with certificates for a fee
+- [hello-agents](https://github.com/datawhalechina/hello-agents) - Free Chinese open course by Datawhale: build AI agents from scratch — planning, memory, tools, multi-agent patterns with runnable code; 85k stars.
 - [HowStuffWorks](https://www.howstuffworks.com/) - explanations of how everything in the world works: from engines to economics
 - [Khan Academy](https://www.khanacademy.org/) - free lessons in math, programming and natural sciences with exercises
 - [Kurzgesagt](https://kurzgesagt.org/) - popular science animation: space, biology, existential questions

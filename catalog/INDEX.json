@@ -1,24 +1,24 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1198,
+ "items_total": 1215,
  "categories_total": 113,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 444,
+   "count": 451,
    "subsections": [
     {
      "id": "ai_memory",
      "name": "Agent Memory",
-     "count": 22
+     "count": 24
     },
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 119
+     "count": 120
     },
     {
      "id": "ai_image",
@@ -33,7 +33,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 72
+     "count": 73
     },
     {
      "id": "ai_avatar",
@@ -43,12 +43,12 @@
     {
      "id": "ai_cli",
      "name": "CLI Tools",
-     "count": 26
+     "count": 27
     },
     {
      "id": "ai_lists",
      "name": "Collections",
-     "count": 28
+     "count": 29
     },
     {
      "id": "ai_local",
@@ -63,7 +63,7 @@
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 82
+     "count": 83
     },
     {
      "id": "ai_voice",
@@ -79,7 +79,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 73,
+   "count": 76,
    "subsections": [
     {
      "id": "auto_acc",
@@ -89,7 +89,7 @@
     {
      "id": "auto_browser",
      "name": "Browser",
-     "count": 17
+     "count": 19
     },
     {
      "id": "auto_pc",
@@ -99,7 +99,7 @@
     {
      "id": "auto_parse",
      "name": "Scraping",
-     "count": 22
+     "count": 23
     },
     {
      "id": "auto_selfhost",
@@ -120,7 +120,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 125,
+   "count": 126,
    "subsections": [
     {
      "id": "biz_crm",
@@ -130,7 +130,7 @@
     {
      "id": "biz_mkt",
      "name": "Marketing & SEO",
-     "count": 57
+     "count": 58
     },
     {
      "id": "biz_realty",
@@ -346,7 +346,7 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 62,
+   "count": 65,
    "subsections": [
     {
      "id": "hack_brute",
@@ -366,7 +366,7 @@
     {
      "id": "hack_pentest",
      "name": "Pentest",
-     "count": 25
+     "count": 28
     },
     {
      "id": "hack_phish",
@@ -387,12 +387,12 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 87,
+   "count": 88,
    "subsections": [
     {
      "id": "infra_cloud",
      "name": "Cloud",
-     "count": 17
+     "count": 18
     },
     {
      "id": "infra_domain",
@@ -423,7 +423,7 @@
    "id": "edu",
    "name": "Knowledge",
    "emoji": "📚",
-   "count": 72,
+   "count": 73,
    "subsections": [
     {
      "id": "edu_lists",
@@ -433,7 +433,7 @@
     {
      "id": "edu_courses",
      "name": "Courses",
-     "count": 23
+     "count": 24
     },
     {
      "id": "edu_arch",
@@ -557,7 +557,7 @@
    "id": "osint",
    "name": "OSINT",
    "emoji": "🕵️",
-   "count": 70,
+   "count": 71,
    "subsections": [
     {
      "id": "osint_mail",
@@ -587,7 +587,7 @@
     {
      "id": "osint_lists",
      "name": "Collections",
-     "count": 6
+     "count": 7
     },
     {
      "id": "osint_fw",

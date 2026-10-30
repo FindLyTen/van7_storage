@@ -8,7 +8,7 @@
 - [By Photo](#by-photo) (2)
 - [By Username](#by-username) (5)
 - [By Video](#by-video) (1)
-- [Collections](#collections) (6)
+- [Collections](#collections) (7)
 - [Frameworks](#frameworks) (20)
 - [GEOINT](#geoint) (5)
 - [Instagram](#instagram) (3)
@@ -50,6 +50,7 @@
 - [Dorks Collections List](https://github.com/cipher387/Dorks-collections-list) - Curated search dorks by platform/topic (Google, Shodan, Censys, GitHub, admin panels, SQLi, cloud, logs, CMS, bug bounty, LinkedIn X-ray) plus dork files for AWS, Azure, CCTV. No license.
 - [OSINT Catalog](https://osint-catalog.org/) - Large catalog of OSINT tools with filters by category, type and access: search by people, dorks, ports, bots. Has a graph and legal reference.
 - [OSINT Observer](https://osint.juanmathewsrebellosantos.com/) - Interactive map of OSINT services by category
+- [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) - Cipher387's collection of several hundred online OSINT tools with a searchable categorized database (username, email, GEOINT and more); GPL-3.0; active.
 
 ## Frameworks
 - [Ahmia](https://ahmia.fi/) - Search engine for the Tor network, accessible from the regular internet: an index of onion sites without the Tor browser.

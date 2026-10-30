@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Cloud](#cloud) (17)
+- [Cloud](#cloud) (18)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (11)
 - [Monitoring](#monitoring) (22)
@@ -21,6 +21,7 @@
 - [Firestore](https://cloud.google.com/firestore/pricing) - Google non-relational document DB: realtime updates on clients, offline mode, serverless. The Firebase stack for apps. Pricing with a free quota.
 - [Google Compute Engine](https://cloud.google.com/products/compute) - Google Cloud virtual machines: per-second billing, preemptible instances at up to 90% discount, free egress tier of 200GB. A VPS in the Google cloud.
 - [MEGA](https://mega.io/ru/) - MEGA drive, free 20GB
+- [Microsoft Azure](https://azure.microsoft.com/en-us) - Microsoft's public cloud platform: compute, storage, databases, AI services, networking; free account with always-free services and 12-month credits.
 - [Neon](https://neon.com/) - Serverless Postgres: git-like database branching (a copy of the database for each branch/preview), autoscale to zero, generous free tier. A foundation for modern SaaS.
 - [Nextcloud](https://nextcloud.com/) - Open-source personal cloud: files, calendars, contacts, office, sync — self-host.
 - [OnlyDrive](https://github.com/yava-code/OnlyDrive) - Single Go binary (gd) mounts Google Drive as local drive without Cloud project/API keys; pools accounts, exposes S3/WebDAV/MCP. Wraps rclone, local web panel. Not for live DBs. Apache-2.0.
