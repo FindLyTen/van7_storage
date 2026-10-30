@@ -5,7 +5,7 @@
 ## Contents
 - [Brute Force](#brute-force) (3)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (11)
+- [Defense](#defense) (78)
 - [Pentest](#pentest) (30)
 - [Phishing](#phishing) (3)
 - [Tools](#tools) (9)
@@ -21,17 +21,84 @@
 - [Hping](https://github.com/antirez/hping) - Console TCP/UDP packet generator for testing networks
 
 ## Defense
+- [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment: file and directory integrity checker via db of hashes; free, GPL.
+- [Anchore Engine](https://github.com/anchore/anchore-engine) - Service scanning container images against vulnerability and policy checks; free, Apache-2.0; successor Anchore Enterprise.
+- [AppArmor](https://apparmor.net/) - Linux security module confining programs via profile paths and capabilities; free, GPL.
+- [Atomic OSSEC](https://atomicorp.com/) - Atomicorp OSSEC-based host intrusion prevention with expanded rules and management console; free tier plus paid.
+- [Auditbeat](https://www.elastic.co/beats/auditbeat) - Elastic shipper for audit data: file integrity, system calls, live process monitoring into Elastic; free basic tier.
+- [auditd](https://github.com/linux-audit/audit-userspace) - Linux audit system userspace: syscall and file-access auditing to log files; free, GPL/LGPL.
 - [Bandit](https://bandit.readthedocs.io/) - PyCQA static analyzer finding common security issues in Python code; free, Apache-2.0.
+- [BPF-LSM](https://kernel.org/doc/html/latest/bpf/prog_lsm.html) - Attaching eBPF programs to Linux security module hooks for custom policy; free, GPL.
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Low-overhead sandboxing tool using Linux user namespaces, used by Flatpak; free, LGPL.
+- [BunkerWeb](https://www.bunkerweb.io/) - Next-gen open-source WAF built on nginx: OWASP rules, bot mitigation, Let's Encrypt; free plus paid.
+- [Calico](https://projectcalico.docs.tigera.io/) - Networking and network policy for Kubernetes and containers with eBPF dataplane option; free, Apache-2.0.
+- [chkrootkit](http://www.chkrootkit.org/) - Locally checks system binaries for signs of rootkits; classic UNIX tool; free, BSD-like.
+- [Cilium](https://cilium.io/) - eBPF networking, observability and security for Kubernetes: service mesh, network policy; free, Apache-2.0.
+- [Clair](https://github.com/quay/clair) - Static analysis of container vulnerabilities against CVE databases; Quay project; free, Apache-2.0.
 - [ClamAV](https://www.clamav.net/) - Open-source antivirus engine for mail gateways and file scanning with signature database; free, GPL.
+- [Coraza](https://www.coraza.io/) - Web application firewall written in Go, compatible with OWASP Coraza CoreRuleSet and Caddy; free, Apache-2.0.
+- [CrowdSec](https://www.crowdsec.net/) - Collaborative IPS: behavior detection with agent plus community blocklist; free plus paid tiers.
+- [CryFS](https://www.cryfs.org/) - Encrypted filesystem for cloud folders: chunks, hides file sizes and directory structure; free, BSD.
+- [Curiefense](https://www.curiefense.io/) - Open-source WAF integrated with Envoy: policies, rate limiting, bot defense; free, Apache-2.0.
+- [DenyHosts](https://denyhosts.sourceforge.net/) - Python tool blocking SSH brute-force IPs via /etc/hosts.deny from log parsing; free, GPL.
+- [dm-crypt](https://gitlab.com/cryptsetup/cryptsetup/) - Linux kernel device-mapper crypto target: transparent block or disk encryption via LUKS/cryptsetup; free, GPL.
+- [Dockle](https://github.com/goodwithtech/dockle) - Container image linter: Dockerfile best practices, credentials, CIS benchmarks; free, MIT.
+- [eCryptfs](https://launchpad.net/ecryptfs) - POSIX-compliant stacked cryptographic filesystem for Linux, used for encrypted home dirs; free, GPL.
+- [EncFS](https://vgough.github.io/encfs/) - Encrypted virtual filesystem in userspace (FUSE) storing files encrypted individually; free, GPL.
+- [Falco](https://falco.org/) - Cloud-native runtime security: eBPF syscall rules and alerts (CNCF); free, Apache-2.0.
+- [Firejail](https://firejail.wordpress.com/) - SUID sandbox for Linux programs using namespaces, seccomp and capabilities; free, GPL.
+- [fscrypt](https://github.com/google/fscrypt) - Tool for native Linux filesystem encryption (ext4/f2fs) per-directory with keys; Google; free, Apache-2.0.
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Tool for detecting secrets (passwords, API keys, tokens) in git repos, files and stdin with rules and entropy scanning; git/cron integration; Docker, Homebrew, Go installs; MIT.
+- [gocryptfs](https://nuetzlich.net/gocryptfs/) - Encrypted overlay filesystem in Go, built on FUSE: file-based encryption like EncFS but faster; free, MIT.
+- [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern builds and deployments; free, Apache-2.0.
+- [Graylog](https://graylog.org/) - Central log management: ingestion, search, dashboards, alerting; free open edition plus paid.
+- [Grsecurity](https://grsecurity.net/) - Hardened Linux kernel patches and RBAC system; commercial subscriptions for stable patches; free test patches historically.
+- [HashiCorp Vault](https://developer.hashicorp.com/vault) - Secrets management: dynamic credentials, encryption as a service, PKI; free self-hosted core, paid cloud.
+- [Katello](https://katello.org/) - Foreman-based content and lifecycle management: RPM repos, errata, provisioning; free, GPL.
+- [KeePass](https://keepass.info/) - Windows password manager with kdbx database, plugins, TOTP; free, GPL.
+- [KeePassXC](https://keepassxc.org/) - Cross-platform KeePass client: encrypted database, browser integration, TOTP; free, GPL-3.0.
+- [Landlock](https://landlock.io/) - Unprivileged sandboxing LSM: processes self-restrict filesystem and network access; in-kernel; free, GPL.
+- [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - Malware scanner for Linux hosts: signature-based detection from threat data, inotify monitoring; free, GPL-like.
+- [logwatch](https://sourceforge.net/projects/logwatch/) - Perl log analyzer sending daily summaries of system logs by mail; free, GPL-like.
+- [Lynis](https://cisofy.com/lynis/) - Security auditing and hardening tool for UNIX-like systems: compliance checks, suggestions; free, GPL-3.0.
 - [MinerSearch](https://github.com/BlendLog/MinerSearch) - Finding and removing hidden miners on Windows
+- [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - Web application firewall engine (v2 Apache, v3 lib) with SecRules; trustwave->OWASP; free, Apache-2.0.
 - [opencode-vibeguard](https://www.npmjs.com/package/opencode-vibeguard) - OpenCode plugin that auto-redacts secrets/PII before they reach the AI; free, no key; community.
+- [OpenSCAP](https://www.open-scap.org/) - Open-source SCAP compliance scanner: vulnerabilities and policy checks with SCAP content; free, LGPL.
+- [OpenVAS / GVM](https://www.greenbone.net/) - Open-source vulnerability scanner by Greenbone (GVM framework): authenticated scans, CVE feeds, web UI; free; for authorized testing.
+- [Osquery](https://osquery.io/) - Query OS state as SQL tables: processes, sockets, registry; agents and fleet management; free, Apache-2.0/GPL.
 - [OSS Scanner](https://github.com/anthropics/oss-scanner) - Anthropic model-driven vuln scanning for critical OSS: PR adds project.yaml+Dockerfile, built/scanned in VM, findings with reproducers/patches emailed. Not human-reviewed. Apache-2.0.
+- [OSSEC](https://www.ossec.net/) - Open-source host intrusion detection: log analysis, rootkit detection, file integrity, active response; free, GPL.
+- [OSSIM](https://cybersecurity.att.com/products/ossim) - Open Source SIM by AT&T AlienVault: asset discovery, vulnerability and event correlation in one server; free.
 - [OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries) - OWASP Cheat Sheet Series — proven application security checklists: authentication, sessions, SQLi, XSS, cryptography and dozens of other topics.
+- [Passbolt](https://www.passbolt.com/) - Open-source password manager for teams: browser extension, shared folders, self-hosted; free CE plus paid.
 - [PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) - Android/iPhone spyware check: USB quick scan, androidqf + MVT full scan, iOS backup analysis, optional VirusTotal hashes; Python 3.10+; GPL-3.0.
 - [PrivacyTools.io](https://privacytools.io/apps) - Curated privacy app directory: 350+ reviewed tools and services with filters, ratings and alternatives for encryption, VPN, browsers and self-hosting; web directory.
+- [pwgen](https://pwgen.sourceforge.io/) - CLI password generator with configurable character policies and pronounceable mode; free, GPL.
+- [rkhunter](https://sourceforge.net/projects/rkhunter/) - Rootkit Hunter: scans for rootkits, backdoors and local exploits via signatures; free, GPL.
+- [Rspamd](https://rspamd.com/) - Fast spam filtering system: Bayesian, fuzzy lists, SPF/DKIM/DMARC checks, web UI; free, Apache-2.0.
+- [Samhain](https://www.la-samhna.de/samhain/) - File integrity and host intrusion detection for multi-host setups, signed logs to central server; free, GPL.
+- [Scapy](https://scapy.net/) - Python packet crafting and sniffing library: forge, decode, send, capture; for authorized testing; free, GPL.
+- [Seccomp](https://github.com/seccomp/libseccomp) - High-level library for Linux seccomp syscall filtering; free, LGPL.
+- [Security Onion](https://securityonion.net/) - Linux distro for threat hunting and NSM: Suricata, Zeek, Elastic stack, dashboards; free, GPL/elastic mix.
+- [SELinux](https://github.com/SELinuxProject/selinux) - Mandatory access control in the Linux kernel with type enforcement policies; free, GPL.
+- [Shufflecake](https://shufflecake.net/) - Plausible-deniability hidden-volume encryption for Linux: multiple hidden volumes in one free-space pool; free, GPL-3.0.
+- [Smack](https://github.com/smack-team/smack) - Simplified Mandatory Access Control Kernel for Linux (labels on processes/files); free, LGPL.
+- [Snort](https://www.snort.org/) - Open-source intrusion prevention system: signature rules, packet logging; free, GPL; for authorized use.
+- [SOPS](https://github.com/getsops/sops) - Secrets management for encrypted files: encrypt values in YAML/JSON/ENV with KMS or age keys; free, MPL-2.0.
+- [SSHGuard](https://www.sshguard.net/) - Brute-force blocker monitoring logs and firewalling offending addresses; free, BSD.
+- [Suricata](https://suricata.io/) - High-performance IDS/IPS with protocol parsing, file extraction, Lua; OISF; free, GPL.
+- [Teleport](https://goteleport.com/) - Access plane for infrastructure: SSH, Kubernetes, DB, web with SSO and session recording; free core plus paid.
+- [Tetragon](https://tetragon.io/) - eBPF security and observability runtime: real-time policy enforcement and process monitoring; CNCF; free, Apache-2.0.
+- [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Host-based integrity monitoring: baseline database and change reports for files; open-source edition; GPL.
 - [Trivy](https://trivy.dev/) - Aqua open-source scanner for vulnerabilities, misconfigurations, secrets and SBOM in containers and repos; free, Apache-2.0.
+- [Vector](https://vector.dev/) - High-performance observability data pipeline: collect, transform, route logs and metrics; free, MPL-2.0.
 - [Veracode](https://www.veracode.com/) - Commercial static and dynamic application security testing platform; paid, vendor pricing.
+- [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption software, TrueCrypt successor: containers, system encryption, hidden volumes; free, Apache-2.0/TrueCrypt.
+- [Vuurmuur](https://vuurmuur.org/) - Firewall manager for Linux iptables: rule building, traffic logging, SSH traffic shaping; free, GPL.
+- [Wazuh](https://wazuh.com/) - Open-source XDR/SIEM: endpoint agents, log analysis, FIM, vulnerability detection; free self-hosted plus cloud.
+- [Yama](https://kernel.org/doc/html/latest/admin-guide/LSM/Yama.html) - Linux security module restricting ptrace and scoped process relationships; free, GPL.
+- [Zeek](https://zeek.org/) - Network analysis framework: protocol analyzers produce structured connection logs; free, BSD.
 
 ## Pentest
 - [Amass (OWASP)](https://github.com/owasp-amass/amass) - Powerful reconnaissance of domains and subdomains: passive sources, DNS brute force, scraping, building a map of external infrastructure.

@@ -5,8 +5,8 @@
 ## Contents
 - [Cloud](#cloud) (26)
 - [Domains](#domains) (13)
-- [Hosting](#hosting) (12)
-- [Monitoring](#monitoring) (29)
+- [Hosting](#hosting) (13)
+- [Monitoring](#monitoring) (31)
 - [VPS](#vps) (24)
 
 ## Cloud
@@ -54,6 +54,7 @@
 
 ## Hosting
 - [Cloudflare Pages](https://pages.cloudflare.com/) - also static html css
+- [Cockpit](https://cockpit-project.org/) - Web console for Linux servers: services, storage, networking, terminal, monitoring; free, LGPL.
 - [Coolify](https://github.com/coollabsio/coolify) - Self-host PaaS: deploy apps and databases on your own server with one button — an open-source alternative to Vercel/Heroku/Netlify.
 - [DevPush](https://github.com/hunvreus/devpush) - local self-hosted hosting
 - [GitHub Actions](https://github.com/features/actions) - CI/CD right in GitHub: build/test/deploy on push and on a schedule, thousands of ready-made actions, 2000 min/month free in private repos.
@@ -72,9 +73,11 @@
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) - server hardware monitoring
 - [Datadog](https://www.datadoghq.com/) - Cloud monitoring and security platform: APM, logs, infrastructure metrics; paid with free tier.
 - [Dynatrace](https://www.dynatrace.com/) - Observability platform with AI-driven root cause analysis, Davis; paid enterprise.
+- [Elasticsearch (ELK)](https://www.elastic.co/elasticsearch) - Distributed search and analytics engine at the core of the ELK stack (Elasticsearch, Logstash, Kibana); free basic tier plus paid.
 - [Gatus](https://github.com/TwiN/gatus) - Developer health dashboard: monitors services via HTTP, ICMP, TCP and DNS with conditions on status code, response time, certificate expiry; alerts to Slack, Teams, PagerDuty; Go, Docker.
 - [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server) - Ping/traceroute/DNS from global probes: free, no key; official jsDelivr, active.
 - [Grafana](https://grafana.com/) - monitoring of applications and servers
+- [Grafana Loki](https://grafana.com/oss/loki/) - Horizontally scalable log aggregation system designed for Grafana, indexes labels only; free, AGPL.
 - [Healthchecks MCP](https://github.com/ni-c/healthchecks-mcp) - Cron/heartbeat liveness monitoring MCP: agent sees when a bot stops reporting; free, self-hostable; community, active.
 - [HomeDashboard](https://github.com/demencia89/HomeDashboard) - Web dashboard for monitoring Linux devices via ssh
 - [Homelable](https://github.com/Pouzor/homelable) - Homelab visualizer: network diagram, live status (ping, HTTP, TCP, SSH, Prometheus), nmap, Zigbee2MQTT, Z-Wave JS UI, Proxmox imports, canvas, Live View + MCP. Docker/LXC. MIT.

@@ -10509,6 +10509,580 @@
    "desc": "Privacy-focused VPN: WireGuard, multihop, no-logs audited; paid with free trial; open-source apps.",
    "url": "https://www.ivpn.net/",
    "cat": "devices_android"
+  },
+  {
+   "id": "it_1793399413115001",
+   "name": "Vuurmuur",
+   "desc": "Firewall manager for Linux iptables: rule building, traffic logging, SSH traffic shaping; free, GPL.",
+   "url": "https://vuurmuur.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115002",
+   "name": "nftables",
+   "desc": "Linux kernel packet filtering framework replacing iptables: tables, chains, sets; free, GPL.",
+   "url": "https://netfilter.org/projects/nftables/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115003",
+   "name": "firewalld",
+   "desc": "Linux firewall daemon with zones and D-Bus API, frontend for nftables; default in Fedora/RHEL; free, GPL.",
+   "url": "https://firewalld.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115004",
+   "name": "ufw",
+   "desc": "Uncomplicated Firewall: simple CLI front-end for iptables/ufw frontends, default in Ubuntu; free, GPL.",
+   "url": "https://launchpad.net/ufw",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115005",
+   "name": "VyOS",
+   "desc": "Open-source network OS: routing, firewall, VPN on x86 and cloud; free rolling release plus paid LTS; GPL.",
+   "url": "https://vyos.dev/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115006",
+   "name": "OpenSnitch",
+   "desc": "Interactive application firewall for Linux (eBPF): per-connection allow/deny prompts; GPL-3.0.",
+   "url": "https://github.com/evilsocket/opensnitch",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115007",
+   "name": "Gufw",
+   "desc": "Graphical firewall UI for ufw on Ubuntu/desktop Linux; free, GPL.",
+   "url": "https://gufw.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115008",
+   "name": "Cockpit",
+   "desc": "Web console for Linux servers: services, storage, networking, terminal, monitoring; free, LGPL.",
+   "url": "https://cockpit-project.org/",
+   "cat": "infra_host"
+  },
+  {
+   "id": "it_1793399413115009",
+   "name": "Bubblewrap",
+   "desc": "Low-overhead sandboxing tool using Linux user namespaces, used by Flatpak; free, LGPL.",
+   "url": "https://github.com/containers/bubblewrap",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115010",
+   "name": "Seccomp",
+   "desc": "High-level library for Linux seccomp syscall filtering; free, LGPL.",
+   "url": "https://github.com/seccomp/libseccomp",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115011",
+   "name": "Firejail",
+   "desc": "SUID sandbox for Linux programs using namespaces, seccomp and capabilities; free, GPL.",
+   "url": "https://firejail.wordpress.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115012",
+   "name": "Snort",
+   "desc": "Open-source intrusion prevention system: signature rules, packet logging; free, GPL; for authorized use.",
+   "url": "https://www.snort.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115013",
+   "name": "Suricata",
+   "desc": "High-performance IDS/IPS with protocol parsing, file extraction, Lua; OISF; free, GPL.",
+   "url": "https://suricata.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115014",
+   "name": "AIDE",
+   "desc": "Advanced Intrusion Detection Environment: file and directory integrity checker via db of hashes; free, GPL.",
+   "url": "https://aide.github.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115015",
+   "name": "Zeek",
+   "desc": "Network analysis framework: protocol analyzers produce structured connection logs; free, BSD.",
+   "url": "https://zeek.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115016",
+   "name": "OSSEC",
+   "desc": "Open-source host intrusion detection: log analysis, rootkit detection, file integrity, active response; free, GPL.",
+   "url": "https://www.ossec.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115017",
+   "name": "Security Onion",
+   "desc": "Linux distro for threat hunting and NSM: Suricata, Zeek, Elastic stack, dashboards; free, GPL/elastic mix.",
+   "url": "https://securityonion.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115018",
+   "name": "Wazuh",
+   "desc": "Open-source XDR/SIEM: endpoint agents, log analysis, FIM, vulnerability detection; free self-hosted plus cloud.",
+   "url": "https://wazuh.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115019",
+   "name": "OSSIM",
+   "desc": "Open Source SIM by AT&T AlienVault: asset discovery, vulnerability and event correlation in one server; free.",
+   "url": "https://cybersecurity.att.com/products/ossim",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115020",
+   "name": "CrowdSec",
+   "desc": "Collaborative IPS: behavior detection with agent plus community blocklist; free plus paid tiers.",
+   "url": "https://www.crowdsec.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115021",
+   "name": "Tetragon",
+   "desc": "eBPF security and observability runtime: real-time policy enforcement and process monitoring; CNCF; free, Apache-2.0.",
+   "url": "https://tetragon.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115022",
+   "name": "Elasticsearch (ELK)",
+   "desc": "Distributed search and analytics engine at the core of the ELK stack (Elasticsearch, Logstash, Kibana); free basic tier plus paid.",
+   "url": "https://www.elastic.co/elasticsearch",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399413115023",
+   "name": "logwatch",
+   "desc": "Perl log analyzer sending daily summaries of system logs by mail; free, GPL-like.",
+   "url": "https://sourceforge.net/projects/logwatch/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115024",
+   "name": "Graylog",
+   "desc": "Central log management: ingestion, search, dashboards, alerting; free open edition plus paid.",
+   "url": "https://graylog.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115025",
+   "name": "Grafana Loki",
+   "desc": "Horizontally scalable log aggregation system designed for Grafana, indexes labels only; free, AGPL.",
+   "url": "https://grafana.com/oss/loki/",
+   "cat": "infra_mon"
+  },
+  {
+   "id": "it_1793399413115026",
+   "name": "Auditbeat",
+   "desc": "Elastic shipper for audit data: file integrity, system calls, live process monitoring into Elastic; free basic tier.",
+   "url": "https://www.elastic.co/beats/auditbeat",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115027",
+   "name": "Vector",
+   "desc": "High-performance observability data pipeline: collect, transform, route logs and metrics; free, MPL-2.0.",
+   "url": "https://vector.dev/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115028",
+   "name": "auditd",
+   "desc": "Linux audit system userspace: syscall and file-access auditing to log files; free, GPL/LGPL.",
+   "url": "https://github.com/linux-audit/audit-userspace",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115029",
+   "name": "Tripwire",
+   "desc": "Host-based integrity monitoring: baseline database and change reports for files; open-source edition; GPL.",
+   "url": "https://github.com/Tripwire/tripwire-open-source",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115030",
+   "name": "Osquery",
+   "desc": "Query OS state as SQL tables: processes, sockets, registry; agents and fleet management; free, Apache-2.0/GPL.",
+   "url": "https://osquery.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115031",
+   "name": "Atomic OSSEC",
+   "desc": "Atomicorp OSSEC-based host intrusion prevention with expanded rules and management console; free tier plus paid.",
+   "url": "https://atomicorp.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115032",
+   "name": "Rspamd",
+   "desc": "Fast spam filtering system: Bayesian, fuzzy lists, SPF/DKIM/DMARC checks, web UI; free, Apache-2.0.",
+   "url": "https://rspamd.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115033",
+   "name": "Linux Malware Detect",
+   "desc": "Malware scanner for Linux hosts: signature-based detection from threat data, inotify monitoring; free, GPL-like.",
+   "url": "https://www.rfxn.com/projects/linux-malware-detect/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115034",
+   "name": "fscrypt",
+   "desc": "Tool for native Linux filesystem encryption (ext4/f2fs) per-directory with keys; Google; free, Apache-2.0.",
+   "url": "https://github.com/google/fscrypt",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115035",
+   "name": "dm-crypt",
+   "desc": "Linux kernel device-mapper crypto target: transparent block or disk encryption via LUKS/cryptsetup; free, GPL.",
+   "url": "https://gitlab.com/cryptsetup/cryptsetup/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115036",
+   "name": "EncFS",
+   "desc": "Encrypted virtual filesystem in userspace (FUSE) storing files encrypted individually; free, GPL.",
+   "url": "https://vgough.github.io/encfs/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115037",
+   "name": "Shufflecake",
+   "desc": "Plausible-deniability hidden-volume encryption for Linux: multiple hidden volumes in one free-space pool; free, GPL-3.0.",
+   "url": "https://shufflecake.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115038",
+   "name": "VeraCrypt",
+   "desc": "Disk encryption software, TrueCrypt successor: containers, system encryption, hidden volumes; free, Apache-2.0/TrueCrypt.",
+   "url": "https://www.veracrypt.fr/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115039",
+   "name": "gocryptfs",
+   "desc": "Encrypted overlay filesystem in Go, built on FUSE: file-based encryption like EncFS but faster; free, MIT.",
+   "url": "https://nuetzlich.net/gocryptfs/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115040",
+   "name": "CryFS",
+   "desc": "Encrypted filesystem for cloud folders: chunks, hides file sizes and directory structure; free, BSD.",
+   "url": "https://www.cryfs.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115041",
+   "name": "eCryptfs",
+   "desc": "POSIX-compliant stacked cryptographic filesystem for Linux, used for encrypted home dirs; free, GPL.",
+   "url": "https://launchpad.net/ecryptfs",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115042",
+   "name": "SSHGuard",
+   "desc": "Brute-force blocker monitoring logs and firewalling offending addresses; free, BSD.",
+   "url": "https://www.sshguard.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115043",
+   "name": "DenyHosts",
+   "desc": "Python tool blocking SSH brute-force IPs via /etc/hosts.deny from log parsing; free, GPL.",
+   "url": "https://denyhosts.sourceforge.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115044",
+   "name": "Teleport",
+   "desc": "Access plane for infrastructure: SSH, Kubernetes, DB, web with SSO and session recording; free core plus paid.",
+   "url": "https://goteleport.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115045",
+   "name": "OpenVPN",
+   "desc": "Mature TLS VPN client/server; Access Server paid, Community Edition free; core OSS under GPL.",
+   "url": "https://openvpn.net/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115046",
+   "name": "WireGuard",
+   "desc": "Modern fast VPN with small codebase and cryptokey routing; in-kernel since Linux 5.6; free, GPL/MIT mix.",
+   "url": "https://www.wireguard.com/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115047",
+   "name": "strongSwan",
+   "desc": "IPsec-based VPN solution for Linux with IKEv1/v2, EAP, PKI; free, GPL.",
+   "url": "https://www.strongswan.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115048",
+   "name": "Libreswan",
+   "desc": "IPsec implementation for Linux, fork of Openswan/FreeS/WAN, IKEv2; free, GPL.",
+   "url": "https://libreswan.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115049",
+   "name": "SoftEther VPN",
+   "desc": "Multi-protocol VPN server: SSL-VPN, L2TP, OpenVPN clones; university project; free, Apache-2.0.",
+   "url": "https://www.softether.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115050",
+   "name": "pwgen",
+   "desc": "CLI password generator with configurable character policies and pronounceable mode; free, GPL.",
+   "url": "https://pwgen.sourceforge.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115051",
+   "name": "KeePassXC",
+   "desc": "Cross-platform KeePass client: encrypted database, browser integration, TOTP; free, GPL-3.0.",
+   "url": "https://keepassxc.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115052",
+   "name": "KeePass",
+   "desc": "Windows password manager with kdbx database, plugins, TOTP; free, GPL.",
+   "url": "https://keepass.info/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115053",
+   "name": "Passbolt",
+   "desc": "Open-source password manager for teams: browser extension, shared folders, self-hosted; free CE plus paid.",
+   "url": "https://www.passbolt.com/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115054",
+   "name": "HashiCorp Vault",
+   "desc": "Secrets management: dynamic credentials, encryption as a service, PKI; free self-hosted core, paid cloud.",
+   "url": "https://developer.hashicorp.com/vault",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115055",
+   "name": "SOPS",
+   "desc": "Secrets management for encrypted files: encrypt values in YAML/JSON/ENV with KMS or age keys; free, MPL-2.0.",
+   "url": "https://github.com/getsops/sops",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115056",
+   "name": "Scapy",
+   "desc": "Python packet crafting and sniffing library: forge, decode, send, capture; for authorized testing; free, GPL.",
+   "url": "https://scapy.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115057",
+   "name": "tcpdump",
+   "desc": "Classic CLI packet analyzer with libpcap filters; free, BSD.",
+   "url": "https://www.tcpdump.org/",
+   "cat": "net_traffic"
+  },
+  {
+   "id": "it_1793399413115058",
+   "name": "SELinux",
+   "desc": "Mandatory access control in the Linux kernel with type enforcement policies; free, GPL.",
+   "url": "https://github.com/SELinuxProject/selinux",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115059",
+   "name": "Grsecurity",
+   "desc": "Hardened Linux kernel patches and RBAC system; commercial subscriptions for stable patches; free test patches historically.",
+   "url": "https://grsecurity.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115060",
+   "name": "AppArmor",
+   "desc": "Linux security module confining programs via profile paths and capabilities; free, GPL.",
+   "url": "https://apparmor.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115061",
+   "name": "Smack",
+   "desc": "Simplified Mandatory Access Control Kernel for Linux (labels on processes/files); free, LGPL.",
+   "url": "https://github.com/smack-team/smack",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115062",
+   "name": "Yama",
+   "desc": "Linux security module restricting ptrace and scoped process relationships; free, GPL.",
+   "url": "https://kernel.org/doc/html/latest/admin-guide/LSM/Yama.html",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115063",
+   "name": "Landlock",
+   "desc": "Unprivileged sandboxing LSM: processes self-restrict filesystem and network access; in-kernel; free, GPL.",
+   "url": "https://landlock.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115064",
+   "name": "BPF-LSM",
+   "desc": "Attaching eBPF programs to Linux security module hooks for custom policy; free, GPL.",
+   "url": "https://kernel.org/doc/html/latest/bpf/prog_lsm.html",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115065",
+   "name": "chkrootkit",
+   "desc": "Locally checks system binaries for signs of rootkits; classic UNIX tool; free, BSD-like.",
+   "url": "http://www.chkrootkit.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115066",
+   "name": "Lynis",
+   "desc": "Security auditing and hardening tool for UNIX-like systems: compliance checks, suggestions; free, GPL-3.0.",
+   "url": "https://cisofy.com/lynis/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115067",
+   "name": "rkhunter",
+   "desc": "Rootkit Hunter: scans for rootkits, backdoors and local exploits via signatures; free, GPL.",
+   "url": "https://sourceforge.net/projects/rkhunter/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115068",
+   "name": "Samhain",
+   "desc": "File integrity and host intrusion detection for multi-host setups, signed logs to central server; free, GPL.",
+   "url": "https://www.la-samhna.de/samhain/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115069",
+   "name": "OpenSCAP",
+   "desc": "Open-source SCAP compliance scanner: vulnerabilities and policy checks with SCAP content; free, LGPL.",
+   "url": "https://www.open-scap.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115070",
+   "name": "OpenVAS / GVM",
+   "desc": "Open-source vulnerability scanner by Greenbone (GVM framework): authenticated scans, CVE feeds, web UI; free; for authorized testing.",
+   "url": "https://www.greenbone.net/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115071",
+   "name": "Katello",
+   "desc": "Foreman-based content and lifecycle management: RPM repos, errata, provisioning; free, GPL.",
+   "url": "https://katello.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115072",
+   "name": "ModSecurity",
+   "desc": "Web application firewall engine (v2 Apache, v3 lib) with SecRules; trustwave->OWASP; free, Apache-2.0.",
+   "url": "https://github.com/owasp-modsecurity/ModSecurity",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115073",
+   "name": "Curiefense",
+   "desc": "Open-source WAF integrated with Envoy: policies, rate limiting, bot defense; free, Apache-2.0.",
+   "url": "https://www.curiefense.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115074",
+   "name": "BunkerWeb",
+   "desc": "Next-gen open-source WAF built on nginx: OWASP rules, bot mitigation, Let's Encrypt; free plus paid.",
+   "url": "https://www.bunkerweb.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115075",
+   "name": "Coraza",
+   "desc": "Web application firewall written in Go, compatible with OWASP Coraza CoreRuleSet and Caddy; free, Apache-2.0.",
+   "url": "https://www.coraza.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115076",
+   "name": "Calico",
+   "desc": "Networking and network policy for Kubernetes and containers with eBPF dataplane option; free, Apache-2.0.",
+   "url": "https://projectcalico.docs.tigera.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115077",
+   "name": "Clair",
+   "desc": "Static analysis of container vulnerabilities against CVE databases; Quay project; free, Apache-2.0.",
+   "url": "https://github.com/quay/clair",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115078",
+   "name": "Anchore Engine",
+   "desc": "Service scanning container images against vulnerability and policy checks; free, Apache-2.0; successor Anchore Enterprise.",
+   "url": "https://github.com/anchore/anchore-engine",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115079",
+   "name": "Grafeas",
+   "desc": "Open artifact metadata API to audit and govern builds and deployments; free, Apache-2.0.",
+   "url": "https://grafeas.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115080",
+   "name": "Falco",
+   "desc": "Cloud-native runtime security: eBPF syscall rules and alerts (CNCF); free, Apache-2.0.",
+   "url": "https://falco.org/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115081",
+   "name": "Cilium",
+   "desc": "eBPF networking, observability and security for Kubernetes: service mesh, network policy; free, Apache-2.0.",
+   "url": "https://cilium.io/",
+   "cat": "hack_def"
+  },
+  {
+   "id": "it_1793399413115082",
+   "name": "Dockle",
+   "desc": "Container image linter: Dockerfile best practices, credentials, CIS benchmarks; free, MIT.",
+   "url": "https://github.com/goodwithtech/dockle",
+   "cat": "hack_def"
   }
  ]
 }
