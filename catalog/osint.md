@@ -3,23 +3,29 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [By Email](#by-email) (3)
+- [By Email](#by-email) (9)
 - [By Phone Number](#by-phone-number) (5)
 - [By Photo](#by-photo) (2)
-- [By Username](#by-username) (5)
+- [By Username](#by-username) (8)
 - [By Video](#by-video) (1)
 - [Collections](#collections) (7)
 - [Frameworks](#frameworks) (20)
-- [GEOINT](#geoint) (5)
+- [GEOINT](#geoint) (7)
 - [Instagram](#instagram) (3)
 - [Leaks](#leaks) (8)
 - [Telegram](#telegram) (2)
-- [Website Analysis](#website-analysis) (7)
-- [Other](#other) (3)
+- [Website Analysis](#website-analysis) (16)
+- [Other](#other) (4)
 
 ## By Email
 - [Email Hunter](https://github.com/tifo234123/email-hunter) - OSINT email reconnaissance: finds password leaks, social profiles, domains, GitHub; gives compromise risk assessment.
+- [EmailRep](https://emailrep.io/) - Email reputation scoring API: spam, breach and social/professional presence indicators per address; free queries, paid higher rates.
 - [holehe](https://github.com/megadose/holehe) - where an email is used
+- [Hunter.io](https://hunter.io/) - Finds and verifies professional email addresses for a domain: domain search, patterns, verifier; free tier and API.
+- [Mail Tester](https://www.mail-tester.com/) - Deliverability check: get a test address, send a message, view spam score plus SPF/DKIM/DMARC analysis; free, no account.
+- [Mailcat](https://github.com/sharsil/mailcat) - Python CLI that finds existing email addresses by nickname across mail providers via API and SMTP probes; no notification mails; Apache-2.0.
+- [SignalHire](https://www.signalhire.com/) - Contact finder: verified emails and phone numbers for professionals by name, company or LinkedIn URL; small free tier, paid credits.
+- [Skymem](https://www.skymem.info/) - Searches email addresses of companies and people by domain or company name; web UI, limited free results.
 - [user-scanner](https://github.com/kaifcodec/user-scanner) - OSINT tool that checks registration on 285+ sites by email or username
 
 ## By Phone Number
@@ -35,10 +41,13 @@
 
 ## By Username
 - [Maigret](https://github.com/soxoj/maigret) - Powerful OSINT by nickname: checks an account on 3000+ sites and pulls extra info from the profiles found. From the Sherlock maintainer.
+- [Namechk](https://namechk.com/) - Checks a username across hundreds of social networks and domain TLDs for availability and existing profiles; free web tool.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - searches social networks by username
 - [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - Profiling a person by usernames across 100+ social networks
 - [Tookie OSINT](https://github.com/Alfredredbird/tookie-osint) - you enter a username (nickname), and the tool checks a bunch of sites and finds all accounts with that name, an analog of the well-known Sherlock.
 - [Userrecon](https://github.com/wishihab/userrecon) - a simple script that checks the same nickname on 75+ sites at once; the repository is now abandoned (archived, no longer updated).
+- [UserSearch](https://usersearch.com/) - Reverse user lookup: profiles by username, email, phone or photo across social and dating sites; limited free search, paid accounts.
+- [WhatsMyName](https://whatsmyname.app/) - Username lookup across 700+ websites powered by the open WhatsMyName dataset, web UI of the community project; free, no account.
 
 ## By Video
 - [trace My Clip](https://www.tracemyclip.com/#) - Tool for reverse video search
@@ -80,6 +89,8 @@
 - [geowifi](https://github.com/GONZOsint/geowifi) - OSINT tool that finds the physical location of a wifi router by its MAC address (BSSID) or network name (SSID), querying several public geolocation databases at once
 - [Raven (GeoSpy)](https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/) - 404 Media (2026-10-12) on Graylark's Raven: AI identifies home from photo via Zillow/Airbnb data, now interior analysis. LAPD/Miami-Dade Sheriff reportedly bought access. Paywalled.
 - [Sentinel Axonia](https://sentinel.axonia.us/) - a map of events and structures happening in the world
+- [WiGLE](https://wigle.net/) - Global Wi-Fi network database with GPS coordinates, searchable by BSSID/SSID; maps, export and API; free with account.
+- [Yandex Maps](https://yandex.com/maps/) - Yandex web maps: satellite imagery, panoramas, business info and photos; used for location verification in research.
 
 ## Instagram
 - [OsintGram](https://github.com/Datalux/Osintgram) - Dump of data from any Instagram account: followers, stories
@@ -102,14 +113,24 @@
 
 ## Website Analysis
 - [Birdbrain](https://github.com/thebristolsound/birdbrain) - OSINT evidence-capture desktop app and Chromium extension: MHTML, screenshot and text per case, SHA-256 hash chain, RFC 3161 timestamps, export; Windows/Ubuntu; MIT.
+- [BuiltWith](https://builtwith.com/) - Identifies web technologies of a website: CMS, hosting, CDN, analytics, frameworks; free lookups, paid account and API.
 - [Censys](https://search.censys.io/) - Search engine for internet hosts and certificates: deep scanning, API, attack surface analysis.
 - [Company Researcher](https://github.com/exa-labs/company-researcher) - Company research tool: takes a company URL and returns website, LinkedIn, funding, news and competitor data via Exa search API; Next.js/TypeScript; MIT.
 - [DNSDumpster](https://dnsdumpster.com/) - Free passive recon tool from HackerTarget that maps a domain's internet-visible hosts through its DNS records, showing the attack surface for pentesters, bug bounty hunters and defenders. Membership and API available.
+- [FOCA](https://github.com/ElevenPaths/FOCA) - Windows tool to extract metadata and hidden info from public documents (PDF/Office); C#, GitHub; last updated Dec 2022.
 - [FOFA](https://en.fofa.info/) - Cyberspace search engine (the Chinese Shodan): searches for devices, services and DBs across the whole internet by fingerprints.
+- [ICANN Lookup](https://lookup.icann.org/) - Official ICANN registration data lookup: WHOIS record, registrar and nameserver data for domains; free, no account.
+- [Metadata2Go](https://www.metadata2go.com/) - Online metadata extractor for photo, video, audio and documents: EXIF, IPTC and embedded fields via browser upload; free, no account.
+- [SecurityTrails](https://www.securitytrails.com/) - Domain and DNS intelligence: current and historical WHOIS, DNS records, subdomains and host search; free tier and API.
 - [Shodan](https://www.shodan.io/) - Search engine for internet-connected devices: cameras, servers, DBs, IoT — with filters by country/port/banner.
+- [Social Searcher](https://www.social-searcher.com/) - Instant social media search engine: posts, mentions and users by keyword across major networks; free searches, paid dashboard and API.
+- [ViewDNS](https://viewdns.info/) - DNS toolbox: reverse IP and reverse WHOIS, DNS history, record lookups, trace and port tools on one site; free web UI with API.
 - [Web Check](https://github.com/lissy93/web-check) - Full website analysis in one click: technologies, risks, infrastructure
+- [Whoxy](https://www.whoxy.com/) - WHOIS service: domain, historical and reverse WHOIS with cheap API and free web lookups.
+- [ZoomEye](https://www.zoomeye.org/) - Shodan-like search engine for internet-facing hosts, services and devices by IP, port and fingerprint; free with account, paid API.
 
 ## Other
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast multi-purpose HTTP toolkit for probing hosts, URLs and CIDRs: titles, status codes, TLS certificates, HTTP2, virtual hosts, CSP, tech detection; Go; MIT.
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration from curated sources with resolution and wildcard elimination; JSON/file/stdout outputs, stdin pipeline support; Go; MIT.
+- [theHarvester](https://github.com/laramies/theHarvester) - Passive recon from public sources (search engines, cert data, DNS) collecting emails, subdomains and names; Python CLI, for authorized testing.
 - [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetches every URL a domain ever responded to, from the Wayback Machine/CDX index; one domain in, raw URLs out; Go; license not stated.

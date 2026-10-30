@@ -9592,6 +9592,167 @@
    "desc": "AI art generator community app (SD/FLUX/DALL-E models): styles, prints, daily free credits.",
    "url": "https://creator.nightcafe.studio/",
    "cat": "ai_image"
+  },
+  {
+   "id": "it_1793376660851001",
+   "name": "WhatsMyName",
+   "desc": "Username lookup across 700+ websites powered by the open WhatsMyName dataset, web UI of the community project; free, no account.",
+   "url": "https://whatsmyname.app/",
+   "cat": "osint_nick"
+  },
+  {
+   "id": "it_1793376660851002",
+   "name": "Namechk",
+   "desc": "Checks a username across hundreds of social networks and domain TLDs for availability and existing profiles; free web tool.",
+   "url": "https://namechk.com/",
+   "cat": "osint_nick"
+  },
+  {
+   "id": "it_1793376660851003",
+   "name": "UserSearch",
+   "desc": "Reverse user lookup: profiles by username, email, phone or photo across social and dating sites; limited free search, paid accounts.",
+   "url": "https://usersearch.com/",
+   "cat": "osint_nick"
+  },
+  {
+   "id": "it_1793376660851004",
+   "name": "ICANN Lookup",
+   "desc": "Official ICANN registration data lookup: WHOIS record, registrar and nameserver data for domains; free, no account.",
+   "url": "https://lookup.icann.org/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851005",
+   "name": "ViewDNS",
+   "desc": "DNS toolbox: reverse IP and reverse WHOIS, DNS history, record lookups, trace and port tools on one site; free web UI with API.",
+   "url": "https://viewdns.info/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851006",
+   "name": "BuiltWith",
+   "desc": "Identifies web technologies of a website: CMS, hosting, CDN, analytics, frameworks; free lookups, paid account and API.",
+   "url": "https://builtwith.com/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851007",
+   "name": "SecurityTrails",
+   "desc": "Domain and DNS intelligence: current and historical WHOIS, DNS records, subdomains and host search; free tier and API.",
+   "url": "https://www.securitytrails.com/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851008",
+   "name": "Hunter.io",
+   "desc": "Finds and verifies professional email addresses for a domain: domain search, patterns, verifier; free tier and API.",
+   "url": "https://hunter.io/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376660851009",
+   "name": "Mail Tester",
+   "desc": "Deliverability check: get a test address, send a message, view spam score plus SPF/DKIM/DMARC analysis; free, no account.",
+   "url": "https://www.mail-tester.com/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376660851010",
+   "name": "WiGLE",
+   "desc": "Global Wi-Fi network database with GPS coordinates, searchable by BSSID/SSID; maps, export and API; free with account.",
+   "url": "https://wigle.net/",
+   "cat": "osint_geo"
+  },
+  {
+   "id": "it_1793376660851011",
+   "name": "Metadata2Go",
+   "desc": "Online metadata extractor for photo, video, audio and documents: EXIF, IPTC and embedded fields via browser upload; free, no account.",
+   "url": "https://www.metadata2go.com/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851012",
+   "name": "FOCA",
+   "desc": "Windows tool to extract metadata and hidden info from public documents (PDF/Office); C#, GitHub; last updated Dec 2022.",
+   "url": "https://github.com/ElevenPaths/FOCA",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851013",
+   "name": "Social Searcher",
+   "desc": "Instant social media search engine: posts, mentions and users by keyword across major networks; free searches, paid dashboard and API.",
+   "url": "https://www.social-searcher.com/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851014",
+   "name": "theHarvester",
+   "desc": "Passive recon from public sources (search engines, cert data, DNS) collecting emails, subdomains and names; Python CLI, for authorized testing.",
+   "url": "https://github.com/laramies/theHarvester",
+   "cat": "osint"
+  },
+  {
+   "id": "it_1793376660851015",
+   "name": "ZoomEye",
+   "desc": "Shodan-like search engine for internet-facing hosts, services and devices by IP, port and fingerprint; free with account, paid API.",
+   "url": "https://www.zoomeye.org/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376660851016",
+   "name": "Yandex Maps",
+   "desc": "Yandex web maps: satellite imagery, panoramas, business info and photos; used for location verification in research.",
+   "url": "https://yandex.com/maps/",
+   "cat": "osint_geo"
+  },
+  {
+   "id": "it_1793376661162001",
+   "name": "Mailcat",
+   "desc": "Python CLI that finds existing email addresses by nickname across mail providers via API and SMTP probes; no notification mails; Apache-2.0.",
+   "url": "https://github.com/sharsil/mailcat",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376661162002",
+   "name": "EmailRep",
+   "desc": "Email reputation scoring API: spam, breach and social/professional presence indicators per address; free queries, paid higher rates.",
+   "url": "https://emailrep.io/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376661162003",
+   "name": "Whoxy",
+   "desc": "WHOIS service: domain, historical and reverse WHOIS with cheap API and free web lookups.",
+   "url": "https://www.whoxy.com/",
+   "cat": "osint_web"
+  },
+  {
+   "id": "it_1793376661162004",
+   "name": "Skymem",
+   "desc": "Searches email addresses of companies and people by domain or company name; web UI, limited free results.",
+   "url": "https://www.skymem.info/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376661162005",
+   "name": "SignalHire",
+   "desc": "Contact finder: verified emails and phone numbers for professionals by name, company or LinkedIn URL; small free tier, paid credits.",
+   "url": "https://www.signalhire.com/",
+   "cat": "osint_mail"
+  },
+  {
+   "id": "it_1793376661162006",
+   "name": "SimpleLogin",
+   "desc": "Email alias service by Proton: random aliases forwarding to your inbox with blocking rules; open source, free plan, paid unlimited.",
+   "url": "https://simplelogin.io/",
+   "cat": "auto_acc"
+  },
+  {
+   "id": "it_1793376661162007",
+   "name": "Proton Mail",
+   "desc": "Encrypted email service by Proton: end-to-end encryption on web/iOS/Android, paid plans add custom domains and storage.",
+   "url": "https://proton.me/mail",
+   "cat": "auto_acc"
   }
  ]
 }

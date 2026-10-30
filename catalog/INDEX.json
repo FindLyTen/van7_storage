@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1241,
+ "items_total": 1264,
  "categories_total": 113,
  "sections": [
   {
@@ -79,12 +79,12 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 76,
+   "count": 78,
    "subsections": [
     {
      "id": "auto_acc",
      "name": "Accounts & Mail",
-     "count": 4
+     "count": 6
     },
     {
      "id": "auto_browser",
@@ -557,12 +557,12 @@
    "id": "osint",
    "name": "OSINT",
    "emoji": "🕵️",
-   "count": 71,
+   "count": 92,
    "subsections": [
     {
      "id": "osint_mail",
      "name": "By Email",
-     "count": 3
+     "count": 9
     },
     {
      "id": "osint_phone",
@@ -577,7 +577,7 @@
     {
      "id": "osint_nick",
      "name": "By Username",
-     "count": 5
+     "count": 8
     },
     {
      "id": "osint_video",
@@ -597,7 +597,7 @@
     {
      "id": "osint_geo",
      "name": "GEOINT",
-     "count": 5
+     "count": 7
     },
     {
      "id": "osint_ig",
@@ -617,7 +617,7 @@
     {
      "id": "osint_web",
      "name": "Website Analysis",
-     "count": 7
+     "count": 16
     }
    ],
    "json": "catalog/osint.json",

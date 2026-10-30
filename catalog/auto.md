@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Accounts & Mail](#accounts-mail) (4)
+- [Accounts & Mail](#accounts-mail) (6)
 - [Browser](#browser) (19)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
@@ -16,6 +16,8 @@
 - [Gmail Account Creator](https://github.com/ShadowHackrs/gmail-account-creator) - Auto-creation of Google accounts (second option)
 - [Grok Register](https://github.com/xinxinshuhao-create/grok-register) - Automatic registration of x.ai (Grok) accounts: SSO extraction, OAuth Device Flow and an account auto-replenishment daemon.
 - [HStora](https://hstora.com/) - Digital-goods marketplace: social media accounts, software keys, gift cards, subscriptions and AI accounts from verified sellers with secure checkout and buyer protection.
+- [Proton Mail](https://proton.me/mail) - Encrypted email service by Proton: end-to-end encryption on web/iOS/Android, paid plans add custom domains and storage.
+- [SimpleLogin](https://simplelogin.io/) - Email alias service by Proton: random aliases forwarding to your inbox with blocking rules; open source, free plan, paid unlimited.
 
 ## Browser
 - [AIPex](https://github.com/AIPexStudio/AIPex) - Open-source AI browser automation agent as an extension: lives in your Chrome without separate browsers and subscriptions, BYOK keys, MCP bridge for Claude Code/Cursor. An alternative to Claude Chrome/Atlas.
