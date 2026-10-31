@@ -4,10 +4,10 @@
 
 ## Contents
 - [Compression](#compression) (2)
-- [Images](#images) (2)
+- [Images](#images) (3)
 - [OCR](#ocr) (10)
 - [Torrents & Downloads](#torrents-downloads) (8)
-- [Video Editing](#video-editing) (15)
+- [Video Editing](#video-editing) (16)
 
 ## Compression
 - [compressO](https://github.com/codeforreal1/compressO) - free program for compressing videos and images (for Windows/Mac/Linux). You drop in a heavy video file and get the same one back several times smaller, with minimal quality loss
@@ -15,6 +15,7 @@
 
 ## Images
 - [Devault ASCII](https://devault-ascii.pages.dev/ascii-generator/) - Browser ASCII art generator: converts images and videos into ASCII, braille, halftone dots, dither or brick mosaics; runs client-side, free account to export without watermark.
+- [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision and image processing library with C++ core, deep learning modules, and bindings.
 - [SVG](https://github.com/glincker/thesvg) - a huge pack of SVG images
 
 ## OCR
@@ -50,6 +51,7 @@
 - [Openreel](https://github.com/Augani/openreel-video) - free open-source video editor that works right in the browser, with no program installation and without uploading video to the cloud
 - [Palmier Pro](https://github.com/palmier-io/palmier-pro) - free video editor for Mac, but with a twist: you can work together with an AI agent (Claude, Cursor, etc.) right on the timeline.
 - [PreenCut](https://github.com/roothch/PreenCut) - Video cutting
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translates videos between languages by generating subtitles and dubbed audio via speech-to-text and text-to-speech, then re-encodes the video.
 - [Recordly](https://github.com/webadderall/Recordly) - beautiful screen recording with animations, no editing
 - [Reelfolio](https://reelfolio.io) - Turn screenshots and screen recordings into polished portfolio showreels: 245+ motion styles, drag-and-drop editor, cloud render in 16:9, 9:16 and square; freemium.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Free subtitle editor: synchronization, OCR from hardsubs, translation, 300+ formats. Windows.

@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1555,
+ "items_total": 1561,
  "categories_total": 113,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 473,
+   "count": 476,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,12 +18,12 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 123
+     "count": 124
     },
     {
      "id": "ai_image",
      "name": "AI Images",
-     "count": 24
+     "count": 25
     },
     {
      "id": "ai_video",
@@ -53,7 +53,7 @@
     {
      "id": "ai_local",
      "name": "Local Models",
-     "count": 24
+     "count": 25
     },
     {
      "id": "ai_router",
@@ -207,12 +207,12 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 71,
+   "count": 72,
    "subsections": [
     {
      "id": "design_3d",
      "name": "3D",
-     "count": 4
+     "count": 5
     },
     {
      "id": "design_anim",
@@ -490,7 +490,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 37,
+   "count": 39,
    "subsections": [
     {
      "id": "media_comp",
@@ -500,7 +500,7 @@
     {
      "id": "media_img",
      "name": "Images",
-     "count": 2
+     "count": 3
     },
     {
      "id": "media_ocr",
@@ -515,7 +515,7 @@
     {
      "id": "media_video",
      "name": "Video Editing",
-     "count": 15
+     "count": 16
     }
    ],
    "json": "catalog/media.json",

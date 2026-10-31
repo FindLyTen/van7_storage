@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [3D](#3d) (4)
+- [3D](#3d) (5)
 - [Animations](#animations) (9)
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
@@ -17,6 +17,7 @@
 - [Dioramas](https://github.com/blendi-remade/dioramas) - Free open-source framework for cinematic interactive 3D websites: the 3D scene is the page, AI-generated hero assets (image-to-3D), real lighting, choreographed camera; 20 example sites; JavaScript.
 - [Pacdora](https://www.pacdora.com/) - design of covers for packages, bottles, packaging, etc.
 - [Spline Design](https://spline.design/) - A set of 3D designs
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library for WebGL/WebGPU rendering, supporting AR/VR, canvas, SVG, and WebAudio in browsers.
 
 ## Animations
 - [60fps Design](https://60fps.design/) - Collection of sites with smooth 60fps animations: examples of award-winning motion, scroll and hover effect patterns.

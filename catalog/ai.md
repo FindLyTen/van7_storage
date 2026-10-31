@@ -4,14 +4,14 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (24)
-- [AI Agents](#ai-agents) (123)
-- [AI Images](#ai-images) (24)
+- [AI Agents](#ai-agents) (124)
+- [AI Images](#ai-images) (25)
 - [AI Video](#ai-video) (34)
 - [API & MCP](#api-mcp) (73)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (27)
 - [Collections](#collections) (30)
-- [Local Models](#local-models) (24)
+- [Local Models](#local-models) (25)
 - [Routers & Gateways](#routers-gateways) (14)
 - [Skills](#skills) (83)
 - [Voice & Transcription](#voice-transcription) (13)
@@ -82,6 +82,7 @@
 - [Devin 2.0](https://devin.ai/) - Autonomous AI engineer from Cognition: a full agent with its own VM, plans, PRs. Available in CLI/Slack, group parallel work on repositories.
 - [Dify](https://dify.ai/) - Open-source platform for LLM applications: RAG, agents, visual workflow builder, API. Self-host or cloud.
 - [Eigent](https://github.com/eigent-ai/eigent) - Multi-agent platform for business tasks: agent swarm, self-host.
+- [eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system: a framework for building autonomous AI agents with plugins, RAG, and messaging integrations (Discord, Slack, Telegram).
 - [FirstMate](https://github.com/kunchenguid/firstmate) - An AI assistant for code review and onboarding into a repository.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Low-code visual builder for AI agents and chatflows: drag-and-drop LLM chains, tools, RAG and API endpoints; npm or Docker; Apache-2.0; repo archived.
 - [Free DeepSeek API](https://github.com/ForgetMeAI/FreeDeepseekAPI) - Free DeepSeek API workaround: mimics browser login to DeepSeek site, exposes chat as API key for use in tools like Claude Code.
@@ -172,6 +173,7 @@
 - [Bing Image Creator](https://www.bing.com/create) - Microsoft's free AI image generator in Bing: DALL-E-based text-to-image, boosts via Microsoft account.
 - [CGDream](https://www.cgdream.ai/) - Image generator with 3D-to-image and consistent character workflow; free credits daily, upscaler and editing.
 - [ChatGPT Images](https://chatgpt.com/) - ChatGPT's built-in image generation: create and edit images prompts-side in the chat; free tier with daily limits.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-graph GUI and backend for running diffusion models locally to generate images, video, 3D, and audio, with optimized local inference.
 - [DeepAI](https://deepai.org/) - DeepAI web tools: AI image generator, editor and APIs; free with account limits, pay-per-use API.
 - [Diffusers](https://github.com/huggingface/diffusers) - Hugging Face library for state-of-the-art diffusion models: image, video and audio generation in PyTorch with pipelines, schedulers and training tools for thousands of checkpoints; Apache-2.0.
 - [Dream by Wombo](https://dream.ai/) - AI art generator app (Wombo): style-prompted images on web, iOS and Android; free to use with premium options.
@@ -395,6 +397,7 @@
 - [Qwen](https://chat.qwen.ai/) - Chat with top Qwen models from Alibaba
 - [Qwen3.6-27B AEON Ultimate Uncensored](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) - A fully uncensored Qwen3.6-27B (abliteration) with DFlash speculative decoding and NVFP4 quantization: 6 variants for DGX Spark and regular graphics cards, docker-compose out of the box.
 - [Qwen3.8-27B Defiance Uncensored](https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF) - Uncensored Qwen3.8-27B GGUF (IQ4_XS 15.7 GB, Q6_K_P 25.9 GB), 40 selectable modes via chat template, MTP draft file for llama.cpp. 24 GB GPU for IQ4_XS. Apache-2.0.
+- [transformers](https://github.com/huggingface/transformers) - Open-source Python library for defining, training, and running state-of-the-art ML models (text, vision, audio, multimodal) with PyTorch/TensorFlow/JAX.
 - [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) - custom engine in Swift/Metal that lets you run the large Gemma 4 model (26 billion parameters) on an ordinary Mac with just 8 GB of memory, using ~2 GB of RAM
 
 ## Routers & Gateways
