@@ -4,11 +4,11 @@
 
 ## Contents
 - [Collections](#collections) (7)
-- [Courses](#courses) (24)
+- [Courses](#courses) (25)
 - [Data Archives](#data-archives) (6)
 - [Interviews](#interviews) (15)
 - [Libraries](#libraries) (7)
-- [Research](#research) (17)
+- [Research](#research) (18)
 - [Other](#other) (1)
 
 ## Collections
@@ -41,6 +41,7 @@
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML) - Practical course on production ML/MLOps: design, development, deployment and iteration of ML systems in production. Teaches you to write like in a company.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Classic open machine learning course from Open Data Science: articles, assignments, Kaggle inboxes. Russian/English.
 - [Open Culture](https://www.openculture.com/freeonlinecourses) - giant catalog of educational programs from Harvard, MIT, Oxford and other elite universities
+- [OSSU Computer Science](https://github.com/ossu/computer-science) - Free self taught computer science curriculum using online courses from leading universities
 - [PostNauka](https://postnauka.org/) - Russian-language lectures and articles by scientists: science, society, philosophy
 - [roadmap.sh](https://roadmap.sh/) - interactive developer roadmaps: frontend, backend, DevOps, AI and 50+ more paths
 - [The School of Life](https://www.theschooloflife.com/) - emotional literacy: relationships, work, everyday philosophy
@@ -81,6 +82,7 @@
 - [Smithsonian](https://www.si.edu/) - encyclopedias, exhibitions and 5 million educational resources of the Smithsonian Institution
 
 ## Research
+- [Consensus](https://consensus.app/) - AI academic search engine for finding and analyzing peer reviewed scientific papers
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Deep AI research: autonomous search and analysis from Alibaba NLP
 - [DevDocs](https://devdocs.io/) - Fast searchable interface combining API documentation for many languages and frameworks in one place; free, MIT.
 - [Elicit](https://elicit.org) - AI assistant for finding and analyzing scientific papers

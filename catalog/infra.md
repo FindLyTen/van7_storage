@@ -3,11 +3,11 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Cloud](#cloud) (26)
+- [Cloud](#cloud) (27)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (13)
 - [Monitoring](#monitoring) (48)
-- [VPS](#vps) (24)
+- [VPS](#vps) (25)
 
 ## Cloud
 - [Ansible](https://www.ansible.com/) - Red Hat agentless automation: playbooks for config management and deployments over SSH; free, GPL.
@@ -19,6 +19,7 @@
 - [Cloudflare R2](https://www.cloudflare.com/products/r2/) - S3-compatible object storage with no egress fees (egress = $0). Images, backups, static files — cheap and fast all over the world.
 - [Cloudflare Workers](https://www.cloudflare.com/products/workers/) - Serverless code on Cloudflare edge nodes worldwide: JS/TS/Python/WASM, no cold starts, KV/R2/D1 nearby. 100k requests/day free.
 - [CloudFront](https://aws.amazon.com/cloudfront/) - Amazon CDN: caching static files/video across 600+ points of presence, lambda@edge for logic at the edge. The basis of content delivery in AWS.
+- [DCDATA](https://www.dcdata.ai/) - Decentralized decarbonized compute cloud built from solar plus battery compute nodes
 - [Docker](https://www.docker.com/) - Container platform: build, ship and run containers locally and on registries; free Docker Engine, paid plans.
 - [DriveBase](https://github.com/drivebase/drivebase) - all my clouds managed in one place
 - [DynamoDB](https://aws.amazon.com/dynamodb/) - Amazon non-relational DB: key-value and document model, millisecond latency at any scale, serverless with autoscale, has a forever free tier (25GB).
@@ -125,6 +126,7 @@
 - [Cerbos](https://github.com/cerbos/cerbos) - Authorization layer (PDP): context-aware access rules in YAML policies, gitops deployment, RBAC/ABAC, CheckResources and PlanResources APIs, SDKs; Go, self-hosted; Apache-2.0.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - This is a protective program for servers: it watches the logs and, if someone repeatedly fails to log in (for example, guessing an SSH password), it blocks their IP address through the firewall on its own.
 - [gVisor](https://github.com/google/gvisor) - Sandbox container runtime from Google (application kernel in Go): container isolation stronger than regular Docker, for untrusted code.
+- [How to Secure a Linux Server](https://github.com/imthenachoman/how-to-secure-a-linux-server) - Community maintained guide to securing Linux servers including sysctl and nginx hardening
 - [Keycloak](https://github.com/keycloak/keycloak) - Identity and access management server: SSO, user federation (LDAP/AD), strong auth (2FA, passkeys), fine-grained authorization, admin console; Java, self-hosted; Apache-2.0.
 - [OpenFGA](https://github.com/openfga/openfga) - Fine-grained authorization engine based on Google Zanzibar: HTTP/gRPC APIs, PostgreSQL/MySQL/SQLite storage, multi-language SDKs, CLI, playground; CNCF project, Go; Apache-2.0.
 - [SpiceDB](https://github.com/authzed/spicedb) - Authorization database inspired by Google Zanzibar: scalable fine-grained permissions, relationships as data, consistent permission checks; Go; Apache-2.0.

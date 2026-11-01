@@ -9,7 +9,7 @@
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (44)
+- [Trading](#trading) (50)
 - [Other](#other) (4)
 
 ## CRM
@@ -109,11 +109,14 @@
 - [Alpaca MCP Server](https://github.com/alpacahq/alpaca-mcp-server) - MCP server for Alpaca Trading API: natural-language trading operations over stocks, options and crypto, portfolio and market data tools for Claude and Cursor; MIT.
 - [AP2](https://github.com/google-agentic-commerce/AP2) - Agent Payments Protocol: open spec plus Python SDK and samples for secure AI-agent payments with verifiable credentials and mandates; Google ADK demos; Apache-2.0.
 - [Aperture (L402)](https://github.com/lightninglabs/aperture) - L402 reverse proxy: sells HTTP API access per request over Lightning, with macaroon tokens and optional MPP payment scheme; Go binary or Docker; MIT.
+- [ATAS](https://atas.net/) - Volume analysis and order flow trading platform for futures, cryptocurrency and stocks
+- [Bookmap](https://bookmap.com/en) - Trading platform visualizing market liquidity and the order book in real time
 - [Breadcrumbs](https://www.breadcrumbs.app/) - Open blockchain analytics platform: trace crypto address relationships and fund flows across 15+ chains, wallet watchlists, risk and sanctions API; free tier.
 - [CCXT MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Community MCP for 100+ crypto exchanges including Bybit via CCXT: market data free, trading needs own keys; MIT; audit before live trading.
 - [Coinbase AgentKit](https://github.com/coinbase/agentkit) - Coinbase toolkit giving AI agents a crypto wallet: onchain actions and stablecoin payments, framework-agnostic Python and Node.js SDKs; Apache-2.0.
 - [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript/tree/main/packages/mcp-server) - Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.
 - [Crypto Trading Desk](https://github.com/hugoguerrap/crypto-claude-desk) - Claude Code plugin: 7 crypto trading agents, 83 tools, 9 MCP servers, paper portfolio, monitoring and self-learning; markdown + MCP; MIT.
+- [Deepcharts](https://www.deepcharts.com/) - Orderflow trading software with institutional data, footprint charts and DOM trading tools
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - Database of 300k+ tickers/companies with metadata (sector, country, ETF) — the foundation for financial analysis in Python.
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - financial terminal
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Python crypto trading bot: backtesting, dry-run, FreqAI strategy optimization, Telegram/WebUI, major spot/futures exchanges; Python 3.12+; GPL-3.0.
@@ -125,6 +128,7 @@
 - [MaverickMCP](https://github.com/wshobson/maverick-mcp) - Local stock-market MCP server: Yahoo Finance data, technical analysis, screeners, portfolio tracking, watchlists and Python backtesting in a local database; MIT.
 - [Meta Ads MCP](https://mcp.facebook.com/ads) - Official Meta Ads MCP (open beta): Facebook+Instagram campaigns read+write, 29 tools + CLI; free beta, Meta Business OAuth; official Meta.
 - [model-trader](https://github.com/tonbistudio/model-trader) - framework that turns the "thinking" of a real trader (from his videos, articles, tweets) into a trading bot
+- [MotiveWave](https://motivewave.com/) - Cross platform trading platform with order flow, Elliott Wave and DOM analysis tools
 - [mppx](https://github.com/wevm/mppx) - TypeScript SDK for the Machine Payments Protocol: server charges, client auto-pay on HTTP 402, sessions and SSE streaming; Tempo and Stripe SPT; npm; MIT.
 - [OpenBB](https://github.com/openbq-org/OpenBB) - Open financial data platform: integrates proprietary, licensed and public data for quants, analysts and AI agents via Python API, REST, Excel and MCP; pip install openbb; Apache-2.0.
 - [OpenStock](https://github.com/Open-Dev-Society/OpenStock) - free open-source alternative to paid stock market tracking services (like expensive terminals such as Bloomberg, only a simple version)
@@ -135,7 +139,9 @@
 - [Polymarket Insider Tracker](https://github.com/pselamy/polymarket-insider-tracker) - Detects suspicious trading on Polymarket: polls public trades, profiles wallets on Polygon, scores risk with ML plus heuristics, alerts to Discord/Telegram; Python, uv, Docker, Postgres, Redis; MIT.
 - [polyterm](https://github.com/NYTEMODEONLY/polyterm) - terminal (CLI + TUI) analytics tool for Polymarket
 - [Quant Trading](https://github.com/je-suis-tm/quant-trading) - Collection of quant strategies and scripts (je-suis-tm): pairs, statistical arbitrage, backtests in Python.
+- [Quantower](https://www.quantower.com/) - Multi asset trading platform connected to futures, options, stocks and crypto exchanges
 - [QuickBooks Online MCP Server](https://github.com/intuit/quickbooks-online-mcp-server) - MCP server for QuickBooks Online: 145 tools, CRUD for 29 entity types, 11 financial reports, OAuth 2.0; local stdio server for MCP clients; TypeScript; Apache-2.0.
+- [Rithmic](https://www.rithmic.com/) - Trading infrastructure, market data and connectivity for futures and options
 - [SEC EDGAR MCP](https://github.com/stefanoamorelli/sec-edgar-mcp) - MCP server for SEC EDGAR: company filings, financial statements and insider trading data with exact numeric precision; Docker, pip or uv; Python; AGPL-3.0.
 - [StockSharp](https://github.com/StockSharp/StockSharp) - Open algorithmic trading platform in C#: exchange connectors, charts, strategies, robots.
 - [Stripe AI](https://github.com/stripe/ai) - Stripe SDK collection for AI products: ai-sdk and token-meter packages for billing LLM apps, hosted MCP at mcp.stripe.com, agent skills; npm, TypeScript; MIT.

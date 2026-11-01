@@ -3,10 +3,10 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Agent Memory](#agent-memory) (24)
+- [Agent Memory](#agent-memory) (25)
 - [AI Agents](#ai-agents) (124)
 - [AI Images](#ai-images) (25)
-- [AI Video](#ai-video) (34)
+- [AI Video](#ai-video) (37)
 - [API & MCP](#api-mcp) (73)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (27)
@@ -20,6 +20,7 @@
 - [Agent Memory](https://github.com/rohitg00/agentmemory) - Memory for AI agents: saves and recalls context
 - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory) - A collection of projects on AI agent memory: vector DBs, long-term memory, RAG stores and context frameworks, all in one list with links.
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source vector database for AI apps: stores embeddings, semantic search, client-server mode, Python/JS clients; Apache-2.0; 29k stars.
+- [Cognee](https://github.com/topoteretes/cognee) - Open source AI memory platform giving agents persistent long term memory through knowledge graphs
 - [Ctxport](https://github.com/nicepkg/ctxport) - Browser extension: copies conversations from ChatGPT, Claude, Gemini, DeepSeek and Grok as neat Markdown context bundles; one click from the sidebar, all local, no uploads.
 - [FAISS](https://github.com/facebookresearch/faiss) - Meta's C++/Python library for fast similarity search and clustering of dense vectors (GPU support); classic engine behind RAG and semantic search; MIT.
 - [GBrain](https://github.com/garrytan/gbrain) - AI memory
@@ -213,10 +214,13 @@
 - [FireRed OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - An AI video editing agent: you edit video through natural language, the LLM plans the edits and orchestrates tools. Reusable Style Skills for consistent storytelling.
 - [Google AI Videos](https://docs.google.com/videos/) - A catalog of Google AI video services: Veo and others
 - [gtrk CLI](https://github.com/Gitruck/cli) - Agent video-creation CLI: turn raw footage into edit-ready projects from Codex/Claude Code/Cursor - oralcut, transcripts, narration, render/export; npx @gitruck/cli, Node >=20.6, FFmpeg; MIT.
+- [Hailuo AI](https://hailuoai.video/) - AI video generator creating video from text and images
+- [Hedra](https://www.hedra.com/) - AI research lab and platform for video, image and audio generative models with developer API
 - [Hera](https://hera.video/) - This is (not a GitHub repo, but a website) a service for launching a product: you give a link to your site or just a description, and AI makes a nice promo video on its own, which you can then edit further by hand.
 - [Hypit](https://github.com/hypit-ai/hypit) - AI agent skill (Claude Code, Codex): clones viral videos whole (A-roll, subs, B-roll, effects) tied to words; one command to 100 variants. SVG video compiler, headless Chromium rendering.
 - [LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks real-time DiT video generation: text-to-video and image-to-video faster than playback, up to 1080p, Python pipelines and ComfyUI nodes; Apache-2.0.
 - [Melies Cinematic Bible](https://melies.co/cinematic-techniques) - Reference library of 424 cinematography techniques in 13 categories (camera, lighting, lenses, editing); each has definition, film grammar, examples, AI shot prompt for Melies.
+- [MiniMax](https://www.minimax.io/) - AI platform with language, video and speech foundation models including the Hailuo video model
 - [MiniMax H3](https://github.com/MiniMax-AI/MiniMax-H3) - An omni-modal generative system from MiniMax: understands text+images+video+audio, generates video up to 2K/15 sec with native stereo sound. Comes with 9 skills for prompts and styles.
 - [Mochi](https://github.com/genmoai/mochi) - Genmo open-source text-to-video model: 1B-parameter asymmetric diffusion transformer focused on motion quality, runs on consumer GPUs with LoRA fine-tuning; Apache-2.0.
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - Generates HD short videos in one click from a topic or keyword: script, voiceover, subtitles, footage and music; a ready clip for TikTok/Shorts/Reels.

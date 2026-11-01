@@ -4,10 +4,10 @@
 
 ## Contents
 - [Accounts & Mail](#accounts-mail) (6)
-- [Browser](#browser) (24)
+- [Browser](#browser) (25)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
-- [Self-hosted Tools](#self-hosted-tools) (30)
+- [Self-hosted Tools](#self-hosted-tools) (31)
 - [Smart Home](#smart-home) (2)
 - [Other](#other) (4)
 
@@ -31,6 +31,7 @@
 - [EGO Lite](https://github.com/citrolabs/ego-lite) - Desktop browser for AI agents: web automation runs with your logged-in browser state shared with the agent; Mac/Windows app; MIT; 20k+ stars.
 - [Epic Privacy Browser](https://www.epicbrowser.com/) - Privacy-focused Chromium build: always-on private proxy option, no browsing history, tracker fingerprinting protection; free.
 - [Figranium](https://github.com/figranium/figranium) - A visual builder of browser automations: you assemble a workflow from blocks and then trigger it via API. Playwright under the hood, no code.
+- [LibreWolf](https://librewolf.net/) - Firefox fork focused on privacy, security and freedom with telemetry and data collection removed
 - [Lightpanda](https://github.com/lightpanda-io/browser) - headless browser written from scratch in Zig specifically for AI agents and automation, not a fork of Chrome/WebKit
 - [Midscene](https://github.com/web-infra-dev/midscene) - AI-vision E2E testing: natural-language steps and assertions for web, Android and desktop UIs, YAML cases and Agent APIs, Playwright/Puppeteer support; npm @midscene/web; MIT.
 - [Opera](https://www.opera.com/) - Chromium browser with built-in ad blocker, free VPN and messengers; free with paid features.
@@ -89,6 +90,7 @@
 - [Convert X](https://github.com/C4illin/ConvertX) - local cool converter for a thousand formats
 - [Dovecot](https://www.dovecot.org/) - Open-source IMAP/POP3 mail server with high performance, full-text search, Sieve; free, MIT/LGPL mix.
 - [Exim](https://www.exim.org/) - Flexible message transfer agent with rich routing/rewrite configuration, Debian default MTA; free, GPL.
+- [FreshRSS](https://freshrss.org/index.html) - Free self hosted RSS and Atom feed aggregator
 - [Gitea](https://github.com/go-gitea/gitea) - Painless self-hosted all-in-one software development service: Git hosting, code review, team collaboration, package registry and CI/CD in one lightweight Go binary; MIT.
 - [Haraka](https://haraka.github.io/) - High-performance extensible SMTP server written in Node.js with plugin architecture; free, MIT.
 - [Immich](https://immich.app/) - Self-hosted photo hosting — a Google Photos replacement: auto-upload from the phone, face recognition, search, ML.

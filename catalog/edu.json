@@ -3,6 +3,7 @@
 "cats": [{"color":"#fca5a5","emoji":"📚","icon":null,"id":"edu","name":"Knowledge","parentId":null},{"color":"#fca5a5","emoji":"📋","icon":null,"id":"edu_lists","name":"Collections","parentId":"edu"},{"color":"#fca5a5","emoji":"🎓","icon":null,"id":"edu_courses","name":"Courses","parentId":"edu"},{"color":"#fca5a5","emoji":"🗄️","icon":null,"id":"edu_arch","name":"Data Archives","parentId":"edu"},{"color":"#fca5a5","emoji":"🗣️","icon":null,"id":"edu_int","name":"Interviews","parentId":"edu"},{"color":"#fca5a5","emoji":"📖","icon":null,"id":"edu_lib","name":"Libraries","parentId":"edu"},{"color":"#fca5a5","emoji":"🔬","icon":null,"id":"edu_res","name":"Research","parentId":"edu"}],
 "items": [
 {"id":"it_178982395593116","name":"SpeakoFlow","url":"https://github.com/AbhishekBarali/SpeakoFlow","desc":"An AI speaking trainer: conversation practice with feedback.","cat":"edu"},
+{"id":"it_1793401277210028","name":"Consensus","url":"https://consensus.app/","desc":"AI academic search engine for finding and analyzing peer reviewed scientific papers","cat":"edu_res"},
 {"id":92,"name":"DeepResearch","url":"https://github.com/Alibaba-NLP/DeepResearch","desc":"Deep AI research: autonomous search and analysis from Alibaba NLP","cat":"edu_res"},
 {"id":"it_1793399126323066","name":"DevDocs","url":"https://devdocs.io/","desc":"Fast searchable interface combining API documentation for many languages and frameworks in one place; free, MIT.","cat":"edu_res"},
 {"id":131,"name":"Elicit","url":"https://elicit.org","desc":"AI assistant for finding and analyzing scientific papers","cat":"edu_res"},
@@ -68,6 +69,7 @@
 {"id":"it_1791217649082","name":"Made With ML","url":"https://github.com/GokuMohandas/Made-With-ML","desc":"Practical course on production ML/MLOps: design, development, deployment and iteration of ML systems in production. Teaches you to write like in a company.","cat":"edu_courses"},
 {"id":"it_1791217649080","name":"mlcourse.ai","url":"https://github.com/Yorko/mlcourse.ai","desc":"Classic open machine learning course from Open Data Science: articles, assignments, Kaggle inboxes. Russian/English.","cat":"edu_courses"},
 {"id":311,"name":"Open Culture","url":"https://www.openculture.com/freeonlinecourses","desc":"giant catalog of educational programs from Harvard, MIT, Oxford and other elite universities","cat":"edu_courses"},
+{"id":"it_1793401277210020","name":"OSSU Computer Science","url":"https://github.com/ossu/computer-science","desc":"Free self taught computer science curriculum using online courses from leading universities","cat":"edu_courses"},
 {"id":416,"name":"PostNauka","url":"https://postnauka.org/","desc":"Russian-language lectures and articles by scientists: science, society, philosophy","cat":"edu_courses"},
 {"id":428,"name":"roadmap.sh","url":"https://roadmap.sh/","desc":"interactive developer roadmaps: frontend, backend, DevOps, AI and 50+ more paths","cat":"edu_courses"},
 {"id":418,"name":"The School of Life","url":"https://www.theschooloflife.com/","desc":"emotional literacy: relationships, work, everyday philosophy","cat":"edu_courses"},

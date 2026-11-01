@@ -1,19 +1,19 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1561,
+ "items_total": 1591,
  "categories_total": 113,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 476,
+   "count": 480,
    "subsections": [
     {
      "id": "ai_memory",
      "name": "Agent Memory",
-     "count": 24
+     "count": 25
     },
     {
      "id": "ai_agents",
@@ -28,7 +28,7 @@
     {
      "id": "ai_video",
      "name": "AI Video",
-     "count": 34
+     "count": 37
     },
     {
      "id": "ai_api",
@@ -79,7 +79,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 95,
+   "count": 97,
    "subsections": [
     {
      "id": "auto_acc",
@@ -89,7 +89,7 @@
     {
      "id": "auto_browser",
      "name": "Browser",
-     "count": 24
+     "count": 25
     },
     {
      "id": "auto_pc",
@@ -104,7 +104,7 @@
     {
      "id": "auto_selfhost",
      "name": "Self-hosted Tools",
-     "count": 30
+     "count": 31
     },
     {
      "id": "auto_home",
@@ -120,7 +120,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 127,
+   "count": 133,
    "subsections": [
     {
      "id": "biz_crm",
@@ -155,7 +155,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 44
+     "count": 50
     }
    ],
    "json": "catalog/biz.json",
@@ -207,7 +207,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 72,
+   "count": 80,
    "subsections": [
     {
      "id": "design_3d",
@@ -217,7 +217,7 @@
     {
      "id": "design_anim",
      "name": "Animations",
-     "count": 9
+     "count": 15
     },
     {
      "id": "design_fonts",
@@ -237,12 +237,12 @@
     {
      "id": "design_tools",
      "name": "Tools",
-     "count": 17
+     "count": 18
     },
     {
      "id": "design_ui",
      "name": "UI Libraries",
-     "count": 22
+     "count": 23
     }
    ],
    "json": "catalog/design.json",
@@ -284,12 +284,12 @@
    "id": "devices",
    "name": "Devices",
    "emoji": "📱",
-   "count": 59,
+   "count": 60,
    "subsections": [
     {
      "id": "devices_android",
      "name": "Android",
-     "count": 46
+     "count": 47
     },
     {
      "id": "devices_emu",
@@ -346,7 +346,7 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 168,
+   "count": 170,
    "subsections": [
     {
      "id": "hack_brute",
@@ -366,7 +366,7 @@
     {
      "id": "hack_pentest",
      "name": "Pentest",
-     "count": 37
+     "count": 39
     },
     {
      "id": "hack_phish",
@@ -387,12 +387,12 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 124,
+   "count": 126,
    "subsections": [
     {
      "id": "infra_cloud",
      "name": "Cloud",
-     "count": 26
+     "count": 27
     },
     {
      "id": "infra_domain",
@@ -412,7 +412,7 @@
     {
      "id": "infra_vps",
      "name": "VPS",
-     "count": 24
+     "count": 25
     }
    ],
    "json": "catalog/infra.json",
@@ -423,7 +423,7 @@
    "id": "edu",
    "name": "Knowledge",
    "emoji": "📚",
-   "count": 77,
+   "count": 79,
    "subsections": [
     {
      "id": "edu_lists",
@@ -433,7 +433,7 @@
     {
      "id": "edu_courses",
      "name": "Courses",
-     "count": 24
+     "count": 25
     },
     {
      "id": "edu_arch",
@@ -453,7 +453,7 @@
     {
      "id": "edu_res",
      "name": "Research",
-     "count": 17
+     "count": 18
     }
    ],
    "json": "catalog/edu.json",
@@ -490,7 +490,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 39,
+   "count": 40,
    "subsections": [
     {
      "id": "media_comp",
@@ -500,7 +500,7 @@
     {
      "id": "media_img",
      "name": "Images",
-     "count": 3
+     "count": 4
     },
     {
      "id": "media_ocr",
@@ -526,7 +526,7 @@
    "id": "net",
    "name": "Networks & Hardware",
    "emoji": "📡",
-   "count": 66,
+   "count": 68,
    "subsections": [
     {
      "id": "net_hw",
@@ -541,7 +541,7 @@
     {
      "id": "net_traffic",
      "name": "Traffic & Firewall",
-     "count": 44
+     "count": 46
     },
     {
      "id": "net_wifi",

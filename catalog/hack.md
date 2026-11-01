@@ -6,7 +6,7 @@
 - [Brute Force](#brute-force) (5)
 - [DDoS](#ddos) (2)
 - [Defense](#defense) (98)
-- [Pentest](#pentest) (37)
+- [Pentest](#pentest) (39)
 - [Phishing](#phishing) (4)
 - [Tools](#tools) (9)
 - [Other](#other) (13)
@@ -123,6 +123,7 @@
 - [Zeek](https://zeek.org/) - Network analysis framework: protocol analyzers produce structured connection logs; free, BSD.
 
 ## Pentest
+- [AIMap](https://github.com/BishopFox/aimap) - Bishop Fox platform for discovering and security testing exposed AI agent infrastructure such as MCP servers and Ollama instances
 - [Amass (OWASP)](https://github.com/owasp-amass/amass) - Powerful reconnaissance of domains and subdomains: passive sources, DNS brute force, scraping, building a map of external infrastructure.
 - [Bettercap](https://www.bettercap.org/) - Swiss-army network attacks and monitoring framework: MITM, spoofing, WiFi/Bluetooth recon, HTTP proxy; for authorized testing; free, GPL.
 - [BloodHound](https://github.com/specterops/bloodhound) - Graph analysis of an Active Directory domain: collects relationships between users/groups/hosts and finds hidden escalation paths to domain admin. SpecterOps.
@@ -157,6 +158,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection combine: detects the DB type, dumps tables, reads files, gets a shell. The standard in web pentesting.
 - [Strix](https://github.com/usestrix/strix) - autonomous AI agents for pentesting: they run code themselves, look for vulnerabilities (SQLi, XSS, SSRF, IDOR, etc.) and prove them with a real working exploit, not just a warning
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - An autonomous red-team platform from plinius: a multi-agent meta-harness for offensive security; agents plan and carry out attacks on their own.
+- [USBKill](https://usbkill.com/) - USB hardware stress test and kill switch device for penetration testing
 - [VirusTotal MCP](https://github.com/w0h1v/mcp-virustotal) - URL/hash/domain maliciousness scans via VirusTotal API: freemium with rate-limited free tier; community.
 - [Vulnerator AI](https://github.com/irraz/vulnerator-ai) - Autonomous agent for authorized penetration testing: OODA-loop reasoning, Kali and Playwright browser tools over MCP, ATT&CK-style orientation; MIT.
 - [WPScan](https://wpscan.com/) - WordPress security scanner: plugins, themes, version and known issues; CLI free, API paid tiers; for authorized testing.

@@ -4,12 +4,12 @@
 
 ## Contents
 - [3D](#3d) (5)
-- [Animations](#animations) (9)
+- [Animations](#animations) (15)
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
-- [Tools](#tools) (17)
-- [UI Libraries](#ui-libraries) (22)
+- [Tools](#tools) (18)
+- [UI Libraries](#ui-libraries) (23)
 - [Other](#other) (4)
 
 ## 3D
@@ -23,10 +23,16 @@
 - [60fps Design](https://60fps.design/) - Collection of sites with smooth 60fps animations: examples of award-winning motion, scroll and hover effect patterns.
 - [Amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) - A collection of premium React micro-interactions: transitions and card components on Motion. Installed via CLI (npx add) as in shadcn.
 - [Anime.js](https://animejs.com/) - Lightweight JS animation library for the web
+- [GSAP UI](https://gsap.com/ui/) - GSAP UI animation plugins for web interfaces including Flip, Draggable and SplitText
+- [Jitter](https://jitter.video/) - Web based collaborative motion design tool with AI generated animations
 - [Kawai Text Animations](https://kawai-text-animation.pages.dev/) - Browser gallery of 100 text animations: preview them, pick the ones you like and copy the code straight into a site.
+- [LottieFiles](https://lottiefiles.com/) - Platform to create, manage and ship Lottie animations across websites and apps
+- [LottieLab](https://www.lottielab.com/) - Motion design tool for creating and editing Lottie animations for apps and websites
 - [Lucide Animated](https://lucide-animated.com/) - Animated versions of Lucide icons: 150+ ready-made Lottie/CSS animations for UI, free.
+- [Motion](https://motion.dev/) - Animation library for React, Vue and JavaScript, formerly Framer Motion
 - [MotionIn Design](https://motionin.design) - Premium physics-based interactive web sections: cursor-responsive hero, portfolio and product showcase layouts with copy-paste prompts for AI builders; free and paid.
 - [OriginKit](https://www.originkit.dev/) - free library of ready-made animated elements for websites
+- [Rive](https://rive.app/) - Real time 2D and 3D design and animation engine with editor, CLI and open source runtimes
 - [Transition Dev](https://transitions.dev) - beautiful animations and motion for websites
 - [UIBall](https://uiball.com/ldrs/) - loading animations, etc.
 
@@ -58,6 +64,7 @@
 - [Freepik AI Art Generator](https://www.freepik.com/ai) - Freepik's AI tools: image and video generation plus stock/design integration; free tier with limits, paid plans.
 - [GIMP](https://www.gimp.org/) - Free raster graphics editor — a Photoshop analog: layers, masks, filters, scripts, plugins.
 - [Landdding](https://landdding.com) - Daily-curated gallery of website designs and landing pages from Webflow, Framer, WordPress, Wix and Squarespace, with upvotes and designer profiles; free.
+- [Lovart](https://www.lovart.ai/) - AI design tool for creating graphics, posters and other visual content
 - [Microsoft Designer](https://designer.microsoft.com/) - Microsoft Designer: AI posters, social posts and images with DALL-E output, editing and templates; free web app.
 - [MiniMax Design](https://design.minimax.io/) - An AI-native creative platform (desktop): a multi-agent pipeline from brief to finished video: script, storyboard, video, voiceover and editing on one canvas by parallel agents.
 - [Modulify Templates](https://modulify.ai/templates) - Free production-ready website templates built with Modulify: preview any design and clone it into your dashboard to start a project in minutes; saas, travel, portfolio and more.
@@ -79,6 +86,7 @@
 - [Design Spells](https://designspells.com/) - design templates
 - [Design Systems One](https://www.designsystems.one/) - Catalog of company design systems: patterns, tokens, components — references for your own UI.
 - [Ecomm Design](https://ecomm.design/) - Gallery of real e-commerce sites: hundreds of examples of product cards, checkouts, landing pages with category filters. Reference for store design.
+- [Game UI Database](https://www.gameuidatabase.com/index.php) - Reference gallery of 79000+ game UI screenshots and videos for UI and UX designers
 - [Kokonut UI](https://kokonutui.com/) - Copy-paste UI components for React
 - [Lazyweb](https://www.lazyweb.com/) - research of modern designs and copying them
 - [Liquid Glass Design](https://liquidglassdesign.com/) - Resource on “liquid glass” style design (Apple's glassmorphism 2.0): collection of CSS effects, examples, tools for iOS 26 style.

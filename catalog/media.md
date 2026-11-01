@@ -4,7 +4,7 @@
 
 ## Contents
 - [Compression](#compression) (2)
-- [Images](#images) (3)
+- [Images](#images) (4)
 - [OCR](#ocr) (10)
 - [Torrents & Downloads](#torrents-downloads) (8)
 - [Video Editing](#video-editing) (16)
@@ -15,6 +15,7 @@
 
 ## Images
 - [Devault ASCII](https://devault-ascii.pages.dev/ascii-generator/) - Browser ASCII art generator: converts images and videos into ASCII, braille, halftone dots, dither or brick mosaics; runs client-side, free account to export without watermark.
+- [Exif](https://github.com/AryanVBW/Exif) - Metadata extraction, editing and removal tool for images, video, audio and documents
 - [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision and image processing library with C++ core, deep learning modules, and bindings.
 - [SVG](https://github.com/glincker/thesvg) - a huge pack of SVG images
 

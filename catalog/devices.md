@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Android](#android) (46)
+- [Android](#android) (47)
 - [Emulators](#emulators) (9)
 - [Operating Systems](#operating-systems) (2)
 - [Virtual Machines](#virtual-machines) (2)
@@ -11,6 +11,7 @@
 ## Android
 - [Aegis](https://f-droid.org/packages/com.beemdevelopment.aegis/) - FOSS two-factor app for Android: TOTP/HOTP, encrypted vault, backups; GPL-3.0.
 - [agent-device](https://github.com/callstack/agent-device) - Mobile app automation for AI coding agents: inspect, control, debug and verify iOS, Android, HarmonyOS, TV and web apps via CLI, built-in MCP server or Node.js API; npm; MIT.
+- [AirGuard](https://airguard.seemoo.de/en/) - Android and iOS app detecting hidden Bluetooth trackers such as AirTags to protect against stalking
 - [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) - Open-source material-design file manager for Android with root support, SMB/FTP and compression; GPL-3.0; on F-Droid.
 - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Open-source podcast player: subscribe, download, variable speed, sync via gpodder; Android, GPL-3.0.
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Open-source keyboard with layouts for many languages, themes and extension packs; Android, GPL-3.0; on F-Droid.

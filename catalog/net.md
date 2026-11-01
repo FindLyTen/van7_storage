@@ -5,7 +5,7 @@
 ## Contents
 - [Hardware Monitoring](#hardware-monitoring) (10)
 - [Remote Access](#remote-access) (3)
-- [Traffic & Firewall](#traffic-firewall) (44)
+- [Traffic & Firewall](#traffic-firewall) (46)
 - [Wi-Fi](#wi-fi) (8)
 - [Other](#other) (1)
 
@@ -40,6 +40,7 @@
 - [Glasswire](https://www.glasswire.com/) - network monitoring
 - [Gufw](https://gufw.org/) - Graphical firewall UI for ufw on Ubuntu/desktop Linux; free, GPL.
 - [hBlock](https://github.com/hectorm/hblock) - Configurable script that builds a hosts file from blocklists for ad/tracking domains; free, MIT.
+- [I2P](https://i2p.net/en/) - Decentralized anonymous network layer encrypting traffic through volunteer operated nodes
 - [Libreswan](https://libreswan.org/) - IPsec implementation for Linux, fork of Openswan/FreeS/WAN, IKEv2; free, GPL.
 - [Lockdown Privacy](https://lockdownprivacy.com/) - Firewall and VPN app blocking trackers network-wide on iOS/macOS/Android; free with premium tiers.
 - [MyIP](https://github.com/jason5ng32/myip) - everything about your IP in one window: address, geo, DNS, WebRTC leaks, speed and access to services
@@ -68,6 +69,7 @@
 - [Termshark](https://termshark.io/) - Terminal UI for tshark: Wireshark-style packet browsing in the console; free, MIT.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient wide-spectrum content blocker with low CPU/memory usage, filter lists; free, GPL-3.0.
 - [ufw](https://launchpad.net/ufw) - Uncomplicated Firewall: simple CLI front-end for iptables/ufw frontends, default in Ubuntu; free, GPL.
+- [Vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels using temporary Linux network namespaces
 - [VyOS](https://vyos.dev/) - Open-source network OS: routing, firewall, VPN on x86 and cloud; free rolling release plus paid LTS; GPL.
 - [WireGuard](https://www.wireguard.com/) - Modern fast VPN with small codebase and cryptokey routing; in-kernel since Linux 5.6; free, GPL/MIT mix.
 - [Wireshark](https://github.com/wireshark/wireshark) - Standard network traffic analyzer: deep dissection of hundreds of protocols, live capture, filters, follow stream. Detail view of any packet.

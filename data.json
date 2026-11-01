@@ -11832,6 +11832,216 @@
       "desc": "Open-source Python library for defining, training, and running state-of-the-art ML models (text, vision, audio, multimodal) with PyTorch/TensorFlow/JAX.",
       "url": "https://github.com/huggingface/transformers",
       "cat": "ai_local"
+    },
+    {
+      "id": "it_1793401277210006",
+      "name": "Game UI Database",
+      "desc": "Reference gallery of 79000+ game UI screenshots and videos for UI and UX designers",
+      "url": "https://www.gameuidatabase.com/index.php",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793401277210007",
+      "name": "Cognee",
+      "desc": "Open source AI memory platform giving agents persistent long term memory through knowledge graphs",
+      "url": "https://github.com/topoteretes/cognee",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793401277210008",
+      "name": "LibreWolf",
+      "desc": "Firefox fork focused on privacy, security and freedom with telemetry and data collection removed",
+      "url": "https://librewolf.net/",
+      "cat": "auto_browser"
+    },
+    {
+      "id": "it_1793401277210009",
+      "name": "AIMap",
+      "desc": "Bishop Fox platform for discovering and security testing exposed AI agent infrastructure such as MCP servers and Ollama instances",
+      "url": "https://github.com/BishopFox/aimap",
+      "cat": "hack_pentest"
+    },
+    {
+      "id": "it_1793401277210010",
+      "name": "Rithmic",
+      "desc": "Trading infrastructure, market data and connectivity for futures and options",
+      "url": "https://www.rithmic.com/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210011",
+      "name": "MotiveWave",
+      "desc": "Cross platform trading platform with order flow, Elliott Wave and DOM analysis tools",
+      "url": "https://motivewave.com/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210012",
+      "name": "DCDATA",
+      "desc": "Decentralized decarbonized compute cloud built from solar plus battery compute nodes",
+      "url": "https://www.dcdata.ai/",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793401277210013",
+      "name": "Bookmap",
+      "desc": "Trading platform visualizing market liquidity and the order book in real time",
+      "url": "https://bookmap.com/en",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210014",
+      "name": "ATAS",
+      "desc": "Volume analysis and order flow trading platform for futures, cryptocurrency and stocks",
+      "url": "https://atas.net/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210015",
+      "name": "Quantower",
+      "desc": "Multi asset trading platform connected to futures, options, stocks and crypto exchanges",
+      "url": "https://www.quantower.com/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210016",
+      "name": "Deepcharts",
+      "desc": "Orderflow trading software with institutional data, footprint charts and DOM trading tools",
+      "url": "https://www.deepcharts.com/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793401277210017",
+      "name": "USBKill",
+      "desc": "USB hardware stress test and kill switch device for penetration testing",
+      "url": "https://usbkill.com/",
+      "cat": "hack_pentest"
+    },
+    {
+      "id": "it_1793401277210018",
+      "name": "AirGuard",
+      "desc": "Android and iOS app detecting hidden Bluetooth trackers such as AirTags to protect against stalking",
+      "url": "https://airguard.seemoo.de/en/",
+      "cat": "devices_android"
+    },
+    {
+      "id": "it_1793401277210019",
+      "name": "Exif",
+      "desc": "Metadata extraction, editing and removal tool for images, video, audio and documents",
+      "url": "https://github.com/AryanVBW/Exif",
+      "cat": "media_img"
+    },
+    {
+      "id": "it_1793401277210020",
+      "name": "OSSU Computer Science",
+      "desc": "Free self taught computer science curriculum using online courses from leading universities",
+      "url": "https://github.com/ossu/computer-science",
+      "cat": "edu_courses"
+    },
+    {
+      "id": "it_1793401277210021",
+      "name": "FreshRSS",
+      "desc": "Free self hosted RSS and Atom feed aggregator",
+      "url": "https://freshrss.org/index.html",
+      "cat": "auto_selfhost"
+    },
+    {
+      "id": "it_1793401277210022",
+      "name": "Rive",
+      "desc": "Real time 2D and 3D design and animation engine with editor, CLI and open source runtimes",
+      "url": "https://rive.app/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210023",
+      "name": "Motion",
+      "desc": "Animation library for React, Vue and JavaScript, formerly Framer Motion",
+      "url": "https://motion.dev/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210024",
+      "name": "GSAP UI",
+      "desc": "GSAP UI animation plugins for web interfaces including Flip, Draggable and SplitText",
+      "url": "https://gsap.com/ui/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210025",
+      "name": "LottieLab",
+      "desc": "Motion design tool for creating and editing Lottie animations for apps and websites",
+      "url": "https://www.lottielab.com/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210026",
+      "name": "LottieFiles",
+      "desc": "Platform to create, manage and ship Lottie animations across websites and apps",
+      "url": "https://lottiefiles.com/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210027",
+      "name": "Jitter",
+      "desc": "Web based collaborative motion design tool with AI generated animations",
+      "url": "https://jitter.video/",
+      "cat": "design_anim"
+    },
+    {
+      "id": "it_1793401277210028",
+      "name": "Consensus",
+      "desc": "AI academic search engine for finding and analyzing peer reviewed scientific papers",
+      "url": "https://consensus.app/",
+      "cat": "edu_res"
+    },
+    {
+      "id": "it_1793401277210029",
+      "name": "Hedra",
+      "desc": "AI research lab and platform for video, image and audio generative models with developer API",
+      "url": "https://www.hedra.com/",
+      "cat": "ai_video"
+    },
+    {
+      "id": "it_1793401277210030",
+      "name": "MiniMax",
+      "desc": "AI platform with language, video and speech foundation models including the Hailuo video model",
+      "url": "https://www.minimax.io/",
+      "cat": "ai_video"
+    },
+    {
+      "id": "it_1793401277210031",
+      "name": "Hailuo AI",
+      "desc": "AI video generator creating video from text and images",
+      "url": "https://hailuoai.video/",
+      "cat": "ai_video"
+    },
+    {
+      "id": "it_1793401277210032",
+      "name": "Lovart",
+      "desc": "AI design tool for creating graphics, posters and other visual content",
+      "url": "https://www.lovart.ai/",
+      "cat": "design_tools"
+    },
+    {
+      "id": "it_1793401277210033",
+      "name": "How to Secure a Linux Server",
+      "desc": "Community maintained guide to securing Linux servers including sysctl and nginx hardening",
+      "url": "https://github.com/imthenachoman/how-to-secure-a-linux-server",
+      "cat": "infra_vps_sec"
+    },
+    {
+      "id": "it_1793401277210034",
+      "name": "Vopono",
+      "desc": "Run applications through VPN tunnels using temporary Linux network namespaces",
+      "url": "https://github.com/jamesmcm/vopono",
+      "cat": "net_traffic"
+    },
+    {
+      "id": "it_1793401277210035",
+      "name": "I2P",
+      "desc": "Decentralized anonymous network layer encrypting traffic through volunteer operated nodes",
+      "url": "https://i2p.net/en/",
+      "cat": "net_traffic"
     }
   ]
 }
