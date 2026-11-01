@@ -5,8 +5,8 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Developer Tools](#developer-tools) (1)
-- [Editors](#editors) (55)
+- [Developer Tools](#developer-tools) (10)
+- [Editors](#editors) (57)
 - [Terminals](#terminals) (4)
 - [Visualization](#visualization) (7)
 - [Other](#other) (10)
@@ -26,7 +26,16 @@
 - [Duplicacy](https://github.com/gilbertchen/duplicacy) - Cross-platform backup with deduplication: incremental snapshots, encryption, lots of backends (S3, Mega, clouds).
 
 ## Developer Tools
+- [Chapar](https://github.com/chapar-rest/chapar) - Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.
+- [CodeRabbit](https://www.coderabbit.ai/) - Independent AI code review with PR triage, change explanations, and continuous security monitoring.
+- [E2B](https://e2b.dev/) - Isolated cloud machines for AI agents to run code, browse, and use tools.
+- [Google Workspace CLI](https://github.com/googleworkspace/cli) - Command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, and Admin, built from Google Discovery Service.
+- [Humanizer](https://github.com/humanizr/humanizer) - .NET library for manipulating and displaying strings, enums, dates, times, numbers, and quantities.
 - [jq](https://jqlang.org/) - Lightweight command line JSON processor for slicing, filtering and mapping JSON data
+- [OpenWiki](https://github.com/langchain-ai/openwiki) - CLI that writes and maintains agent documentation for your codebase.
+- [ProjectAtlas](https://github.com/styler-ai/ProjectAtlas) - Local repository map CLI and MCP server giving coding agents purposes, sources, symbols, and dependencies.
+- [Publii](https://getpublii.com/) - Free open-source desktop CMS for static websites; write locally, publish to any host.
+- [Repomix](https://github.com/yamadashy/repomix) - Packs an entire repository into a single AI-friendly file for feeding codebases to LLMs and AI tools.
 
 ## Editors
 - [ADCode](https://adcode.bluethenics.com/versions) - Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.
@@ -65,6 +74,7 @@
 - [MySQL](https://www.mysql.com/) - Widely used open-source relational database; Community edition free, paid Enterprise.
 - [Notepad++](https://notepad-plus-plus.org/) - Windows text and source code editor with tabs, macros and plugin library; free, GPL.
 - [Octotree](https://www.octotree.io/) - Browser extension: a file tree of a GitHub repository on the side — navigate someone else's code without cloning.
+- [Onlook](https://www.onlook.com/) - Free local-first editor where designers craft experiences in code.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - Web UI to manage MySQL and MariaDB: tables, SQL, imports, users; free, GPL.
 - [Playwright (testing)](https://playwright.dev/) - Microsoft cross-browser end-to-end testing and automation library: traces, codegen, parallel workers; free, Apache-2.0.
 - [PostgreSQL](https://www.postgresql.org/) - Advanced open-source relational database with rich types and extensions; free, PostgreSQL license.
@@ -80,6 +90,7 @@
 - [Sublime Text](https://www.sublimetext.com/) - Instant text editor with plugins and multi-cursors
 - [TablePlus](https://tableplus.com/) - Native desktop database GUI for MySQL, Postgres, SQLite, Redis and more; free tier plus paid license.
 - [TestNG](https://testng.org/) - Java testing framework inspired by JUnit with groups, parallel runs and data providers; free, Apache-2.0.
+- [Thinkrail](https://github.com/JetBrains/thinkrail) - JetBrains lightweight IDE that customizes itself around how you work for vibe coding.
 - [Trello](https://trello.com/) - Visual kanban boards for task management with checklists and automation; free tier plus paid plans.
 - [Vim](https://www.vim.org/) - Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.
 - [Visual Studio Code](https://code.visualstudio.com/) - Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.

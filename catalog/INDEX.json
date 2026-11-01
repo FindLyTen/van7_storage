@@ -1,24 +1,24 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1600,
+ "items_total": 1636,
  "categories_total": 117,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 481,
+   "count": 494,
    "subsections": [
     {
      "id": "ai_memory",
      "name": "Agent Memory",
-     "count": 25
+     "count": 26
     },
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 124
+     "count": 127
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 73
+     "count": 77
     },
     {
      "id": "ai_avatar",
@@ -53,7 +53,7 @@
     {
      "id": "ai_lists",
      "name": "Collections",
-     "count": 30
+     "count": 31
     },
     {
      "id": "ai_local",
@@ -63,12 +63,12 @@
     {
      "id": "ai_router",
      "name": "Routers & Gateways",
-     "count": 14
+     "count": 15
     },
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 83
+     "count": 86
     },
     {
      "id": "ai_voice",
@@ -84,7 +84,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 97,
+   "count": 100,
    "subsections": [
     {
      "id": "auto_acc",
@@ -109,7 +109,7 @@
     {
      "id": "auto_selfhost",
      "name": "Self-hosted Tools",
-     "count": 31
+     "count": 34
     },
     {
      "id": "auto_home",
@@ -125,12 +125,12 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 134,
+   "count": 139,
    "subsections": [
     {
      "id": "biz_crm",
      "name": "CRM",
-     "count": 7
+     "count": 9
     },
     {
      "id": "biz_crypto",
@@ -140,7 +140,7 @@
     {
      "id": "biz_mkt",
      "name": "Marketing & SEO",
-     "count": 58
+     "count": 59
     },
     {
      "id": "biz_realty",
@@ -217,7 +217,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 80,
+   "count": 81,
    "subsections": [
     {
      "id": "design_3d",
@@ -247,7 +247,7 @@
     {
      "id": "design_tools",
      "name": "Tools",
-     "count": 18
+     "count": 19
     },
     {
      "id": "design_ui",
@@ -263,7 +263,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 87,
+   "count": 98,
    "subsections": [
     {
      "id": "dev_api",
@@ -278,12 +278,12 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 1
+     "count": 10
     },
     {
      "id": "dev_edit",
      "name": "Editors",
-     "count": 55
+     "count": 57
     },
     {
      "id": "dev_term",
@@ -366,7 +366,7 @@
    "id": "hack",
    "name": "Hacking",
    "emoji": "🛡️",
-   "count": 170,
+   "count": 172,
    "subsections": [
     {
      "id": "hack_brute",
@@ -381,7 +381,7 @@
     {
      "id": "hack_def",
      "name": "Defense",
-     "count": 98
+     "count": 100
     },
     {
      "id": "hack_pentest",
@@ -510,7 +510,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 40,
+   "count": 41,
    "subsections": [
     {
      "id": "media_comp",
@@ -535,7 +535,7 @@
     {
      "id": "media_video",
      "name": "Video Editing",
-     "count": 16
+     "count": 17
     }
    ],
    "json": "catalog/media.json",

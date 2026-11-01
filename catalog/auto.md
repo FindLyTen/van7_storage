@@ -7,7 +7,7 @@
 - [Browser](#browser) (25)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
-- [Self-hosted Tools](#self-hosted-tools) (31)
+- [Self-hosted Tools](#self-hosted-tools) (34)
 - [Smart Home](#smart-home) (2)
 - [Other](#other) (4)
 
@@ -85,6 +85,8 @@
 - [AppFlowy](https://appflowy.com/) - Open-source Notion alternative: documents, databases, AI, local data.
 - [Apprise](https://github.com/caronc/apprise) - A Python library for push notifications to ~100 services (Telegram, Discord, Slack, ntfy, email, SMS...) through a single URL syntax. pip install apprise, has a CLI.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - huge curated list of self-hosted software
+- [Bagisto](https://bagisto.com/en/) - Open-source Laravel eCommerce platform for building marketplaces, mobile apps, blockchain, and headless commerce.
+- [Brightbean Studio](https://github.com/brightbeanxyz/brightbean-studio) - Open-source self-hostable social media management platform: schedule, publish, and manage content across platforms from one dashboard.
 - [Browsery Tools](https://github.com/aghyad97/browserytools) - Local useful tools for the browser
 - [Cal.com](https://cal.com/) - Open-source meeting scheduler: slot links, calendar integrations, self-host.
 - [Convert X](https://github.com/C4illin/ConvertX) - local cool converter for a thousand formats
@@ -95,6 +97,7 @@
 - [Haraka](https://haraka.github.io/) - High-performance extensible SMTP server written in Node.js with plugin architecture; free, MIT.
 - [Immich](https://immich.app/) - Self-hosted photo hosting — a Google Photos replacement: auto-upload from the phone, face recognition, search, ML.
 - [iRedMail](https://iredmail.org/) - Shell script installing a full mail server (Postfix, Dovecot, SOGo, Rspamd) on major distros; free core plus paid Pro.
+- [It's a Plan](https://itsaplan.dev/) - Self-hosted open-source issue tracker where people and AI agents share the same board, AGPL-3.0.
 - [Mail-in-a-Box](https://mailinabox.email/) - Turn-key mail server on Ubuntu: Postfix, Dovecot, Nextcloud, DNS, TLS automation in one script; free, CC0/code public domain.
 - [Mailcow](https://mailcow.email/) - Dockerized mail server suite: Postfix, Dovecot, Rspamd, SOGo webmail, admin UI; free, GPL.
 - [Mailu](https://mailu.io/) - Docker-based full-featured mail server: webmail, admin, antispam, web antispam training; free, MIT.

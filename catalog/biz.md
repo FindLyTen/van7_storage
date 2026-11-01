@@ -3,15 +3,15 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [CRM](#crm) (7)
+- [CRM](#crm) (9)
 - [Crypto & Wallets](#crypto-wallets) (1)
-- [Marketing & SEO](#marketing-seo) (58)
+- [Marketing & SEO](#marketing-seo) (59)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
 - [Trading](#trading) (50)
-- [Other](#other) (4)
+- [Other](#other) (6)
 
 ## CRM
 - [Chatwoot](https://www.chatwoot.com/) - Open-source customer support: shared inbox for live chat, email, WhatsApp, social, voice. Captain AI agent answers from help center, macros, automations, chat widget, API. Self-host or cloud.
@@ -19,7 +19,9 @@
 - [crm](https://github.com/trycompai/crm) - open CRM system where the main "engine" is not a database but an AI agent: it searches for information about clients, checks it and writes it to the database on its own, instead of a human entering everything by hand.
 - [Deskcomm CRM](https://github.com/melgarafael/DeskcommCRM) - Lightweight self-hosted CRM: customers, deals, communications — for small businesses.
 - [Ever Gauzy](https://github.com/ever-co/ever-gauzy) - Open-source ERP/CRM: projects, HR, billing, inventory; a single platform for business.
+- [GoHighLevel](https://www.gohighlevel.com/) - All-in-one sales and marketing platform that agencies can white-label and resell to clients.
 - [Gr8r Studio](https://github.com/gr8rstudio/gr8r-studio) - Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.
+- [LobbyStack](https://github.com/lobbystack/lobbystack) - Open-source AI receptionist software for handling phone calls, texts, and appointment booking.
 - [Twenty](https://twenty.com/) - Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.
 
 ## Crypto & Wallets
@@ -69,6 +71,7 @@
 - [SerpBear](https://github.com/towfiqi/serpbear) - Self-hosted SEO rank tracker: unlimited keywords and domains, position tracking via proxies or SERP APIs, email alerts, REST API, Google Search Console/Ads integration; Node.js, Docker; MIT.
 - [Shipybara](https://shipybara.com/) - discover and upvote best tech products; daily launches; for product hunters; free
 - [SideProjectors](https://sideprojectors.com/) - marketplace to buy and sell side projects; for developers; free listing
+- [Skool](https://www.skool.com/) - Community platform to discover or create free and paid communities and courses.
 - [Slashdot](https://slashdot.org/) - tech news and B2B software reviews; news for nerds; for tech professionals; free; user submissions
 - [Social Blade](https://socialblade.com/) - Creator stats for 168M channels on YouTube/TikTok/Twitch/IG/FB: daily growth, rankings, comparison, earnings calculator. Paid adds longer history/report cards; Business API available.
 - [SoPilot](https://sopilot.net/) - Web service: X (Twitter) marketing growth system; tracks rising creators, topics and breakout posts, AI-assisted content creation, engagement and publishing; SaaS, free tier.
@@ -163,4 +166,6 @@
 - [Actual Budget](https://github.com/actualbudget/actual) - a local budget tracker with sync: finance tracking without clouds and subscriptions
 - [Fleetbase](https://github.com/fleetbase/fleetbase) - An open-source logistics OS: orders, dispatching, fleet, live tracking, routing, warehouses (WMS), billing, headless commerce. REST API, webhooks, extensions, driver app. Self-host (Docker) or cloud.
 - [Kill Bill](https://github.com/killbill/killbill) - Open-source billing and subscriptions: multi-tenancy, API-first, plugins, payment integrations (Stripe and others). Java. Self-host.
+- [OpenProfit](https://openprofit.dev/) - Open-source app that puts revenue next to OpenAI, Vercel, and other bills, showing profit per app and tax figures.
+- [OpenProject](https://www.openproject.org/) - Open-source project management with task management, Gantt charts, boards, and team collaboration.
 - [Wallos](https://github.com/ellite/Wallos) - Self-hosted subscription tracker: recurring payments, categories, multi-currency with FX, stats, notifications (Telegram/Discord/email/gotify), OIDC, AI savings recommendations.

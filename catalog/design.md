@@ -8,7 +8,7 @@
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
-- [Tools](#tools) (18)
+- [Tools](#tools) (19)
 - [UI Libraries](#ui-libraries) (23)
 - [Other](#other) (4)
 
@@ -67,6 +67,7 @@
 - [Lovart](https://www.lovart.ai/) - AI design tool for creating graphics, posters and other visual content
 - [Microsoft Designer](https://designer.microsoft.com/) - Microsoft Designer: AI posters, social posts and images with DALL-E output, editing and templates; free web app.
 - [MiniMax Design](https://design.minimax.io/) - An AI-native creative platform (desktop): a multi-agent pipeline from brief to finished video: script, storyboard, video, voiceover and editing on one canvas by parallel agents.
+- [Mobbin](https://mobbin.com/) - Library of mobile and web app screenshots for UI/UX design research and inspiration.
 - [Modulify Templates](https://modulify.ai/templates) - Free production-ready website templates built with Modulify: preview any design and clone it into your dashboard to start a project in minutes; saas, travel, portfolio and more.
 - [Open Design](https://github.com/nexu-io/open-design) - An open library of design resources and templates
 - [Pixlr AI](https://pixlr.com/) - Online photo editor (Pixlr, Populate Media) with AI generation, AI background removal, filters; free tier in browser.

@@ -7,7 +7,7 @@
 - [Images](#images) (4)
 - [OCR](#ocr) (10)
 - [Torrents & Downloads](#torrents-downloads) (8)
-- [Video Editing](#video-editing) (16)
+- [Video Editing](#video-editing) (17)
 
 ## Compression
 - [compressO](https://github.com/codeforreal1/compressO) - free program for compressing videos and images (for Windows/Mac/Linux). You drop in a heavy video file and get the same one back several times smaller, with minimal quality loss
@@ -43,6 +43,7 @@
 
 ## Video Editing
 - [auto-editor](https://github.com/WyattBlue/auto-editor) - CLI that automatically edits video and audio by cutting silence and dead space; loudness-based first pass, pace via margin options; prebuilt binaries; Nim, Unlicense.
+- [BlitzRecorder](https://blitzrecorder.com/) - Open-source Mac app to record screen and face, cut pauses, and export in 4K for YouTube or Shorts.
 - [Clipchamp](https://app.clipchamp.com/) - Free video editor and video maker from Microsoft with a web app: edit video, audio and images from scratch or start from templates.
 - [Donkey](https://github.com/DonkeyCut/Donkey) - An open-source analog of CapCut: a fast video editor for short videos with similar UX; tracks, effects, export without a watermark.
 - [ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A video editor right in the browser on ffmpeg.wasm: trimming, encoding and video processing without uploading to a server; everything is computed locally on WebAssembly.

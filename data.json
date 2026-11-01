@@ -12137,6 +12137,258 @@
       "desc": "AI answer engine that searches the web and replies with cited sources",
       "url": "https://www.perplexity.ai/",
       "cat": "ai_search"
+    },
+    {
+      "id": "it_1793401277210045",
+      "name": "OpenProject",
+      "desc": "Open-source project management with task management, Gantt charts, boards, and team collaboration.",
+      "url": "https://www.openproject.org/",
+      "cat": "biz"
+    },
+    {
+      "id": "it_1793401277210046",
+      "name": "Brightbean Studio",
+      "desc": "Open-source self-hostable social media management platform: schedule, publish, and manage content across platforms from one dashboard.",
+      "url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "cat": "auto_selfhost"
+    },
+    {
+      "id": "it_1793401277210047",
+      "name": "OpenHuman",
+      "desc": "Open-source agent harness to run hundreds of AI agents on a small VPS.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793401277210048",
+      "name": "Bagisto",
+      "desc": "Open-source Laravel eCommerce platform for building marketplaces, mobile apps, blockchain, and headless commerce.",
+      "url": "https://bagisto.com/en/",
+      "cat": "auto_selfhost"
+    },
+    {
+      "id": "it_1793401277210049",
+      "name": "Repomix",
+      "desc": "Packs an entire repository into a single AI-friendly file for feeding codebases to LLMs and AI tools.",
+      "url": "https://github.com/yamadashy/repomix",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210050",
+      "name": "CodeRabbit",
+      "desc": "Independent AI code review with PR triage, change explanations, and continuous security monitoring.",
+      "url": "https://www.coderabbit.ai/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210051",
+      "name": "OpenProfit",
+      "desc": "Open-source app that puts revenue next to OpenAI, Vercel, and other bills, showing profit per app and tax figures.",
+      "url": "https://openprofit.dev/",
+      "cat": "biz"
+    },
+    {
+      "id": "it_1793401277210052",
+      "name": "Mobbin",
+      "desc": "Library of mobile and web app screenshots for UI/UX design research and inspiration.",
+      "url": "https://mobbin.com/",
+      "cat": "design_tools"
+    },
+    {
+      "id": "it_1793401277210053",
+      "name": "OpenMemory",
+      "desc": "Complete local memory infrastructure for AI agents with persistent memory, knowledge graphs, and conversation recording.",
+      "url": "https://github.com/OpenTech-Lab/openmemory",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793401277210054",
+      "name": "Markitdown MCP",
+      "desc": "MCP server that converts 29+ file formats to Markdown for Claude Desktop and AI workflows.",
+      "url": "https://github.com/trsdn/markitdown-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793401277210055",
+      "name": "Snyk Studio MCP",
+      "desc": "Snyk MCP server that adds Snyk security scanning (code, deps, IaC, containers, secrets) to MCP-enabled AI tools.",
+      "url": "https://github.com/snyk/studio-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793401277210056",
+      "name": "Excalidraw+ MCP",
+      "desc": "Access Excalidraw+ whiteboard through the Model Context Protocol.",
+      "url": "https://plus.excalidraw.com/docs/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793401277210057",
+      "name": "Zotero MCP",
+      "desc": "Connects a Zotero research library to Claude and AI assistants via MCP for paper discussion, summaries, and citations.",
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793401277210058",
+      "name": "Hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/nutlope/hallmark",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793401277210059",
+      "name": "Thinkrail",
+      "desc": "JetBrains lightweight IDE that customizes itself around how you work for vibe coding.",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "cat": "dev_edit"
+    },
+    {
+      "id": "it_1793401277210060",
+      "name": "Google Workspace CLI",
+      "desc": "Command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, and Admin, built from Google Discovery Service.",
+      "url": "https://github.com/googleworkspace/cli",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210061",
+      "name": "GoHighLevel",
+      "desc": "All-in-one sales and marketing platform that agencies can white-label and resell to clients.",
+      "url": "https://www.gohighlevel.com/",
+      "cat": "biz_crm"
+    },
+    {
+      "id": "it_1793401277210062",
+      "name": "Skool",
+      "desc": "Community platform to discover or create free and paid communities and courses.",
+      "url": "https://www.skool.com/",
+      "cat": "biz_mkt"
+    },
+    {
+      "id": "it_1793401277210063",
+      "name": "LobbyStack",
+      "desc": "Open-source AI receptionist software for handling phone calls, texts, and appointment booking.",
+      "url": "https://github.com/lobbystack/lobbystack",
+      "cat": "biz_crm"
+    },
+    {
+      "id": "it_1793401277210064",
+      "name": "OpenWiki",
+      "desc": "CLI that writes and maintains agent documentation for your codebase.",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210065",
+      "name": "AI-Infra-Guard",
+      "desc": "Full-stack AI red teaming platform scanning AI ecosystems and evaluating LLM jailbreaks.",
+      "url": "https://github.com/tencent/AI-Infra-Guard",
+      "cat": "hack_def"
+    },
+    {
+      "id": "it_1793401277210066",
+      "name": "ProjectAtlas",
+      "desc": "Local repository map CLI and MCP server giving coding agents purposes, sources, symbols, and dependencies.",
+      "url": "https://github.com/styler-ai/ProjectAtlas",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210067",
+      "name": "Awesome Free LLM APIs",
+      "desc": "List of permanent free LLM APIs with API keys.",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "cat": "ai_lists"
+    },
+    {
+      "id": "it_1793401277210068",
+      "name": "Humanizer",
+      "desc": ".NET library for manipulating and displaying strings, enums, dates, times, numbers, and quantities.",
+      "url": "https://github.com/humanizr/humanizer",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210069",
+      "name": "Scroll World",
+      "desc": "Agent skill that builds scroll-scrubbed fly-through landing pages for any brand or industry.",
+      "url": "https://github.com/oso95/scroll-world",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793401277210070",
+      "name": "Chapar",
+      "desc": "Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.",
+      "url": "https://github.com/chapar-rest/chapar",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210071",
+      "name": "Claude Code Security Review",
+      "desc": "AI-powered GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+      "url": "https://github.com/anthropics/claude-code-security-review",
+      "cat": "hack_def"
+    },
+    {
+      "id": "it_1793401277210072",
+      "name": "Onlook",
+      "desc": "Free local-first editor where designers craft experiences in code.",
+      "url": "https://www.onlook.com/",
+      "cat": "dev_edit"
+    },
+    {
+      "id": "it_1793401277210073",
+      "name": "Mastra",
+      "desc": "TypeScript AI framework for agents with memory, tools, MCP, and observability.",
+      "url": "https://mastra.ai/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793401277210074",
+      "name": "E2B",
+      "desc": "Isolated cloud machines for AI agents to run code, browse, and use tools.",
+      "url": "https://e2b.dev/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210075",
+      "name": "BlitzRecorder",
+      "desc": "Open-source Mac app to record screen and face, cut pauses, and export in 4K for YouTube or Shorts.",
+      "url": "https://blitzrecorder.com/",
+      "cat": "media_video"
+    },
+    {
+      "id": "it_1793401277210076",
+      "name": "Publii",
+      "desc": "Free open-source desktop CMS for static websites; write locally, publish to any host.",
+      "url": "https://getpublii.com/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210077",
+      "name": "It's a Plan",
+      "desc": "Self-hosted open-source issue tracker where people and AI agents share the same board, AGPL-3.0.",
+      "url": "https://itsaplan.dev/",
+      "cat": "auto_selfhost"
+    },
+    {
+      "id": "it_1793401277210078",
+      "name": "UI UX Pro Max",
+      "desc": "AI skill providing design intelligence for building professional UI/UX across multiple platforms and frameworks.",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793401277210079",
+      "name": "OmniRoute (ChrisCompton)",
+      "desc": "Fork of cheaper-inference/OmniRoute: AI gateway for multi-provider LLMs with OpenAI-compatible endpoint, routing, load balancing, retries, caching and observability.",
+      "url": "https://github.com/ChrisCompton/omniroute",
+      "cat": "ai_router"
+    },
+    {
+      "id": "it_1793401277210080",
+      "name": "MiroMindAI",
+      "desc": "AI research org: reasoning language models and deep-research agents (MiroMind-M1, MiroThinker, MiroFlow).",
+      "url": "https://github.com/MiroMindAI",
+      "cat": "ai_agents"
     }
   ]
 }

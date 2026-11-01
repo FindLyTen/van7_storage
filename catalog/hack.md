@@ -5,7 +5,7 @@
 ## Contents
 - [Brute Force](#brute-force) (5)
 - [DDoS](#ddos) (2)
-- [Defense](#defense) (98)
+- [Defense](#defense) (100)
 - [Pentest](#pentest) (39)
 - [Phishing](#phishing) (4)
 - [Tools](#tools) (9)
@@ -23,6 +23,7 @@
 - [Hping](https://github.com/antirez/hping) - Console TCP/UDP packet generator for testing networks
 
 ## Defense
+- [AI-Infra-Guard](https://github.com/tencent/AI-Infra-Guard) - Full-stack AI red teaming platform scanning AI ecosystems and evaluating LLM jailbreaks.
 - [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment: file and directory integrity checker via db of hashes; free, GPL.
 - [Anchore Engine](https://github.com/anchore/anchore-engine) - Service scanning container images against vulnerability and policy checks; free, Apache-2.0; successor Anchore Enterprise.
 - [AppArmor](https://apparmor.net/) - Linux security module confining programs via profile paths and capabilities; free, GPL.
@@ -43,6 +44,7 @@
 - [Cilium](https://cilium.io/) - eBPF networking, observability and security for Kubernetes: service mesh, network policy; free, Apache-2.0.
 - [Clair](https://github.com/quay/clair) - Static analysis of container vulnerabilities against CVE databases; Quay project; free, Apache-2.0.
 - [ClamAV](https://www.clamav.net/) - Open-source antivirus engine for mail gateways and file scanning with signature database; free, GPL.
+- [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - AI-powered GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [Coraza](https://www.coraza.io/) - Web application firewall written in Go, compatible with OWASP Coraza CoreRuleSet and Caddy; free, Apache-2.0.
 - [CrowdSec](https://www.crowdsec.net/) - Collaborative IPS: behavior detection with agent plus community blocklist; free plus paid tiers.
 - [CryFS](https://www.cryfs.org/) - Encrypted filesystem for cloud folders: chunks, hides file sizes and directory structure; free, BSD.

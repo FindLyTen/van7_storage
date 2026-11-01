@@ -5,6 +5,8 @@
 {"id":440,"name":"Actual Budget","url":"https://github.com/actualbudget/actual","desc":"a local budget tracker with sync: finance tracking without clouds and subscriptions","cat":"biz"},
 {"id":536,"name":"Fleetbase","url":"https://github.com/fleetbase/fleetbase","desc":"An open-source logistics OS: orders, dispatching, fleet, live tracking, routing, warehouses (WMS), billing, headless commerce. REST API, webhooks, extensions, driver app. Self-host (Docker) or cloud.","cat":"biz"},
 {"id":"it_17897407730300","name":"Kill Bill","url":"https://github.com/killbill/killbill","desc":"Open-source billing and subscriptions: multi-tenancy, API-first, plugins, payment integrations (Stripe and others). Java. Self-host.","cat":"biz"},
+{"id":"it_1793401277210051","name":"OpenProfit","url":"https://openprofit.dev/","desc":"Open-source app that puts revenue next to OpenAI, Vercel, and other bills, showing profit per app and tax figures.","cat":"biz"},
+{"id":"it_1793401277210045","name":"OpenProject","url":"https://www.openproject.org/","desc":"Open-source project management with task management, Gantt charts, boards, and team collaboration.","cat":"biz"},
 {"id":529,"name":"Wallos","url":"https://github.com/ellite/Wallos","desc":"Self-hosted subscription tracker: recurring payments, categories, multi-currency with FX, stats, notifications (Telegram/Discord/email/gotify), OIDC, AI savings recommendations.","cat":"biz"},
 {"id":"it_179274388094514","name":"ACP","url":"https://github.com/agentic-commerce-protocol/agentic-commerce-protocol","desc":"Agentic Commerce Protocol: OpenAI and Stripe open standard connecting buyers, AI agents and merchants for checkout, payment handlers and orders; spec, RFCs; Apache-2.0.","cat":"biz_trade"},
 {"id":80,"name":"AI Trader","url":"https://github.com/HKUDS/AI-Trader","desc":"Multi-agent platform for financial market analysis from HKU","cat":"biz_trade"},
@@ -113,6 +115,7 @@
 {"id":"it_17927058164042","name":"SerpBear","url":"https://github.com/towfiqi/serpbear","desc":"Self-hosted SEO rank tracker: unlimited keywords and domains, position tracking via proxies or SERP APIs, email alerts, REST API, Google Search Console/Ads integration; Node.js, Docker; MIT.","cat":"biz_mkt"},
 {"id":"it_179270318010121","name":"Shipybara","url":"https://shipybara.com/","desc":"discover and upvote best tech products; daily launches; for product hunters; free","cat":"biz_mkt"},
 {"id":"it_179270318010115","name":"SideProjectors","url":"https://sideprojectors.com/","desc":"marketplace to buy and sell side projects; for developers; free listing","cat":"biz_mkt"},
+{"id":"it_1793401277210062","name":"Skool","url":"https://www.skool.com/","desc":"Community platform to discover or create free and paid communities and courses.","cat":"biz_mkt"},
 {"id":"it_179270318010107","name":"Slashdot","url":"https://slashdot.org/","desc":"tech news and B2B software reviews; news for nerds; for tech professionals; free; user submissions","cat":"biz_mkt"},
 {"id":"it_1791895568044","name":"Social Blade","url":"https://socialblade.com/","desc":"Creator stats for 168M channels on YouTube/TikTok/Twitch/IG/FB: daily growth, rankings, comparison, earnings calculator. Paid adds longer history/report cards; Business API available.","cat":"biz_mkt"},
 {"id":"it_17927058164041","name":"SoPilot","url":"https://sopilot.net/","desc":"Web service: X (Twitter) marketing growth system; tracks rising creators, topics and breakout posts, AI-assisted content creation, engagement and publishing; SaaS, free tier.","cat":"biz_mkt"},
@@ -134,7 +137,9 @@
 {"id":366,"name":"crm","url":"https://github.com/trycompai/crm","desc":"open CRM system where the main \"engine\" is not a database but an AI agent: it searches for information about clients, checks it and writes it to the database on its own, instead of a human entering everything by hand.","cat":"biz_crm"},
 {"id":"it_17902579808788","name":"Deskcomm CRM","url":"https://github.com/melgarafael/DeskcommCRM","desc":"Lightweight self-hosted CRM: customers, deals, communications — for small businesses.","cat":"biz_crm"},
 {"id":"it_178982395593111","name":"Ever Gauzy","url":"https://github.com/ever-co/ever-gauzy","desc":"Open-source ERP/CRM: projects, HR, billing, inventory; a single platform for business.","cat":"biz_crm"},
+{"id":"it_1793401277210061","name":"GoHighLevel","url":"https://www.gohighlevel.com/","desc":"All-in-one sales and marketing platform that agencies can white-label and resell to clients.","cat":"biz_crm"},
 {"id":"it_179268501308535","name":"Gr8r Studio","url":"https://github.com/gr8rstudio/gr8r-studio","desc":"Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.","cat":"biz_crm"},
+{"id":"it_1793401277210063","name":"LobbyStack","url":"https://github.com/lobbystack/lobbystack","desc":"Open-source AI receptionist software for handling phone calls, texts, and appointment booking.","cat":"biz_crm"},
 {"id":"it_1791895568050","name":"Twenty","url":"https://twenty.com/","desc":"Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.","cat":"biz_crm"}
 ]
 }

@@ -3,18 +3,18 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Agent Memory](#agent-memory) (25)
-- [AI Agents](#ai-agents) (124)
+- [Agent Memory](#agent-memory) (26)
+- [AI Agents](#ai-agents) (127)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (73)
+- [API & MCP](#api-mcp) (77)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (27)
-- [Collections](#collections) (30)
+- [Collections](#collections) (31)
 - [Local Models](#local-models) (25)
-- [Routers & Gateways](#routers-gateways) (14)
-- [Skills](#skills) (83)
+- [Routers & Gateways](#routers-gateways) (15)
+- [Skills](#skills) (86)
 - [Voice & Transcription](#voice-transcription) (13)
 
 ## Agent Memory
@@ -37,6 +37,7 @@
 - [Open Glean](https://github.com/hydra-db/open-glean) - Open-source AI workspace (“second brain”) on top of HydraDB: a question about your files/notes/connectors → an answer with citations, Deep Research with DAG planning, Mindmap of the knowledge graph. BYOM.
 - [opencode-supermemory](https://www.npmjs.com/package/opencode-supermemory) - OpenCode plugin for persistent memory across sessions via Supermemory; freemium, needs key; vendor.
 - [OpenLore](https://github.com/clay-good/OpenLore) - Deterministic code memory and guardrails for AI coding agents: static-analysis call graph in SQLite, task context lookup, unsafe-change gate; no API key; npm install openlore; MIT.
+- [OpenMemory](https://github.com/OpenTech-Lab/openmemory) - Complete local memory infrastructure for AI agents with persistent memory, knowledge graphs, and conversation recording.
 - [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native RAG search: indexes web pages as screenshots and retrieves by pixels instead of parsing, scalable visual search for agents; research paper at pixelrag.ai; Apache-2.0.
 - [Qdrant](https://qdrant.tech/) - Vector database and semantic search engine in Rust: payload filters, hybrid/sparse search, collections and quantization.
 - [R2R](https://github.com/SciPhi-AI/R2R) - Agentic RAG retrieval system with REST API: multimodal ingestion, hybrid search, knowledge graphs, document management, Deep Research agent; pip or Docker; MIT.
@@ -108,6 +109,7 @@
 - [Local Operator](https://github.com/damianvtran/local-operator) - Open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run around the clock and share existing AI subscriptions; MIT.
 - [Lovable](https://lovable.dev/) - AI full-stack app builder: prompt to React web apps with GitHub sync and database; free tier plus paid plans.
 - [MagesticAI](https://github.com/dataseeek/MagesticAI) - web platform (a fork of the Aperant project) for managing several AI agents through a browser
+- [Mastra](https://mastra.ai/) - TypeScript AI framework for agents with memory, tools, MCP, and observability.
 - [MateClaw](https://github.com/mateaix/mateclaw) - an AI agent for Clawdh/Cloudflare: automation through natural language
 - [Meetily](https://github.com/Zackriya-Solutions/meetily) - This is an AI secretary for meetings, but a private one: it listens to the conversation, recognizes speech and makes notes right on your computer; nothing flies off to the cloud, unlike Zoom-like services.
 - [Mercury Agent](https://github.com/cosmicstack-labs/mercury-agent) - Self-hosted agent with own personality, local memory, permission rules and daily token budget; reachable from terminal, Telegram, Discord, Slack, Signal; npm @cosmicstack/mercury-agent; MIT.
@@ -115,6 +117,7 @@
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant (web + Windows): chat, web search, image generation, file analysis; free with Microsoft account.
 - [Minitap mobile-use](https://github.com/minitap-ai/mobile-use) - AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Docker quickstart (Android), Python; Apache-2.0.
 - [Minke](https://github.com/lencx/Minke) - Local-first desktop agent workspace on DeepSeek Harness: shared browser, files, terminal, plugins, remote PWA; Electron/Node; macOS/Windows/Linux; Apache-2.0.
+- [MiroMindAI](https://github.com/MiroMindAI) - AI research org: reasoning language models and deep-research agents (MiroMind-M1, MiroThinker, MiroFlow).
 - [MLflow](https://github.com/mlflow/mlflow) - AI engineering platform: experiment tracking, tracing, LLM evaluation, prompt registry and optimization, AI gateway for model access; Python SDK; Apache-2.0.
 - [Mobile-Agent (Tongyi Lab)](https://github.com/X-PLUG/MobileAgent) - GUI agent family by Alibaba Tongyi Lab: phone and computer use with GUI-Owl models, multimodal screen understanding, planning and reflection loops; Python; MIT.
 - [MobileUse](https://github.com/MadeAgents/mobile-use) - Android GUI agent: controls real devices via ADB with multimodal LLMs, hierarchical reflection and multi-agent tasks; WebUI/Python API; MIT.
@@ -127,6 +130,7 @@
 - [Openbot](https://github.com/CopilotKit/openbot) - Open-source AI coworkers from CopilotKit: each has its own computer with a browser, files and tools, every action is approved before and logged after. Works with any AG-UI agent.
 - [OpenCompute](https://factory.com/news/opencompute) - Factory self-hosted orchestrator for agent sandboxes: on-demand provisioning and lifecycle of agent computers on your infrastructure, with Environments, Automations, Remote Control; private preview.
 - [OpenHands](https://github.com/OpenHands/openhands) - This is an AI agent that writes and edits code for you on its own, like a personal programmer you give a task to, and it opens files, edits and runs commands itself, like Claude Code or Devin.
+- [OpenHuman](https://github.com/tinyhumansai/openhuman) - Open-source agent harness to run hundreds of AI agents on a small VPS.
 - [openInvest](https://github.com/longsizhuo/openInvest) - Self-hosted investment decision engine for AI agents: verifiable multi-agent committee, evidence-based reasoning, long-horizon backtesting, auditable decision trail; Python 3.13, MCP server; MIT.
 - [OpenLIT](https://github.com/openlit/openlit) - Agent harness engineering platform: OpenTelemetry tracing, evals, guardrails, prompt and context management, cost and GPU monitoring for agents; 70+ integrations; self-host; Apache-2.0.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry instrumentations for LLM apps: standards for LLM providers, vector DBs, frameworks; Traceloop SDK; outputs OpenTelemetry data to any observability stack; Python/TS; Apache-2.0.
@@ -256,6 +260,7 @@
 - [dsh Our Free Model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - Plugin for the dsh CLI that exposes third-party public free gateways (OpenCode Zen, Kilo) as OpenAI-compatible local endpoints; no own account needed; MIT.
 - [DuckDB MCP Server](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck: read/write analytics SQL, catalog browsing and on-the-fly connection switching, local files and S3; uvx mcp-server-motherduck; MIT.
 - [DuckDuckGo MCP](https://github.com/nickclyde/duckduckgo-mcp-server) - Zero-API-key web search MCP using DuckDuckGo: no signup alternative to Tavily/Brave; free, no key; popular community server.
+- [Excalidraw+ MCP](https://plus.excalidraw.com/docs/mcp) - Access Excalidraw+ whiteboard through the Model Context Protocol.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - MCP application framework: servers, clients and interactive apps defined in plain Python with decorators, auth, proxying and composition; pip install fastmcp; Apache-2.0.
 - [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Official reference MCP server for web page to clean text conversion: more configurable than built-in webfetch; free, no key; maintained by MCP team.
 - [Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Official reference MCP server for secure file operations outside project folders: read/write/list with configurable root; free, no key; maintained by MCP team.
@@ -277,6 +282,7 @@
 - [Inception Labs](https://docs.inceptionlabs.ai/get-started) - Streaming diffusion API for real-time AI video/image generation: output streams progressively instead of full-sequence render; hosted API with key, Python/JS SDKs, docs and cookbook.
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platform: Strata connectors optimize agent context window across thousands of tools, plus MCP servers for Slack/GitHub/Docs and custom tools; Python, SaaS + open source; Apache-2.0.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Open-source AI gateway calling 100+ LLM APIs in OpenAI format with cost control, routing, budgets and fallbacks; self-host proxy or SDK
+- [Markitdown MCP](https://github.com/trsdn/markitdown-mcp) - MCP server that converts 29+ file formats to Markdown for Claude Desktop and AI workflows.
 - [MCP Email Server](https://github.com/Wh1isper/mcp-email-server) - Full-featured multi-account MCP email server: read, search, organize and send via IMAP and SMTP on Windows, macOS and Linux; scheduled actions; Python; BSD-3-Clause.
 - [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) - Reference MCP server implementations by the MCP steering group: filesystem, fetch, memory, git and time servers as educational examples, plus community links; Python/Node; Apache-2.0/MIT.
 - [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - open MCP server that connects AI agents directly to databases
@@ -305,6 +311,7 @@
 - [Search Console MCP (Suganthan)](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) - Search Console MCP with 29 SEO tools: quick wins, content decay, CTR benchmarks, image audit; free, Google OAuth; very active (v2.5, Aug 2026).
 - [Semgrep MCP](https://github.com/semgrep/mcp) - Security scanning MCP for code diffs: finds vulnerabilities in PRs and local changes; freemium with free tier; official Semgrep, active.
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Official reference MCP server for step-by-step reasoning scaffold: structured thinking tool for agents; free, no key; maintained by MCP team.
+- [Snyk Studio MCP](https://github.com/snyk/studio-mcp) - Snyk MCP server that adds Snyk security scanning (code, deps, IaC, containers, secrets) to MCP-enabled AI tools.
 - [Sub2Api](https://github.com/Wei-Shaw/sub2api) - platform for reselling and "splitting" subscriptions to AI services (Claude, OpenAI, Gemini) among several people through a single API
 - [Supabase MCP](https://github.com/supabase/mcp) - Official MCP server for Supabase projects: manage tables, fetch logs and configs, run queries and generate TypeScript types for AI assistants; npx @supabase/mcp-server-supabase; Apache-2.0.
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Tavily MCP server: web search, extract, map and crawl tools for AI agents; local npm or remote HTTP with API key; Node/TypeScript; MIT.
@@ -313,6 +320,7 @@
 - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - MCP server ecosystem for AI scientists: 1000+ ML models, datasets, APIs and scientific packages via AI-Tool Interaction Protocol; tool composition, async ops; Harvard MIMS; Python; Apache-2.0.
 - [unbrowse](https://github.com/unbrowse-ai/unbrowse) - tool that lets AI agents access websites directly through hidden APIs
 - [web-retrieval-mcp](https://github.com/VelvetSP/web-retrieval-mcp) - MCP server for source-grounded web research: Exa/Tavily search, multi-tier page fetch with Camoufox and Firecrawl, paper and developer search; Python, stdio/HTTP; MIT.
+- [Zotero MCP](https://github.com/54yyyu/zotero-mcp) - Connects a Zotero research library to Claude and AI assistants via MCP for paper discussion, summaries, and citations.
 
 ## Avatars & Deepfakes
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) - real-time face swap
@@ -357,6 +365,7 @@
 - [Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups) - Curated directory of 2,000+ independent AI startups in 18 categories: agents, coding, video, design, infra, finance; Markdown list with PR submissions; CC0-1.0.
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - the most complete catalog of everything for Claude Code: commands, hooks, MCP, skills, guides
 - [Awesome Claude Connectors](https://github.com/rdmgator12/awesome-claude-connectors) - Community directory of 841 MCP integrations from Anthropic's Claude Connectors catalog, in 30 categories with a description and use case for each. Refreshed weekly, CC0-1.0, not affiliated with Anthropic.
+- [Awesome Free LLM APIs](https://github.com/mnfst/awesome-free-llm-apis) - List of permanent free LLM APIs with API keys.
 - [Awesome generative AI](https://github.com/steven2358/awesome-generative-ai) - big curated list (a so-called "awesome list", a common format on GitHub) of links to everything related to generative AI: models, tools, articles, frameworks, startups
 - [Awesome Local LLM](https://github.com/rafska/Awesome-local-LLM) - A selection of everything about local LLMs: models, tools, guides
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Curated list: Model Context Protocol servers (file access, databases, API integrations), MCP clients, tutorials and frameworks; the reference MCP directory; MIT.
@@ -420,6 +429,7 @@
 - [OminiBridge](https://github.com/AsymAlwali/OminiBridge) - Ultra-lightweight open-source proxy abstraction layer unifying AI models and live search behind one API/SDK for humans and autonomous agents; SSRF-safe; TypeScript and Python; MIT.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - free AI gateway with a single connection point that unifies 160+ AI model providers and can automatically switch between them when limits run out
 - [OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Self-hosted MIT AI gateway: one endpoint, 375 providers (150+ free), 1400+ models; FREE_TIERS.md documents free tiers and dead ones
+- [OmniRoute (ChrisCompton)](https://github.com/ChrisCompton/omniroute) - Fork of cheaper-inference/OmniRoute: AI gateway for multi-provider LLMs with OpenAI-compatible endpoint, routing, load balancing, retries, caching and observability.
 - [Open Higgsfield AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open platform for video and image generation (a Higgsfield clone)
 - [OpenCodex](https://github.com/lidge-jun/opencodex) - A universal proxy provider for OpenAI Codex and Claude Code: connect any LLM (Claude, Gemini, Grok, DeepSeek, Ollama) to Codex CLI/App/SDK and Claude Code.
 - [OpenRouter](https://openrouter.ai/) - Unified API and web chat for 500+ models from 80+ providers: automatic routing and fallbacks, per-model pricing, data policies, ranked models; REST API with own key, paid per token.
@@ -459,6 +469,7 @@
 - [gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) - A skill for generating B-roll in the style of halftone collages: three-stage approval, animation assembled from the first/last frame via Gemini Omni Flash.
 - [GEO SEO Claude](https://github.com/zubair-trabzada/geo-seo-claude) - Claude Code skill for GEO/SEO auditing of a site for AI search: citability, AI crawlers, llms.txt, brand mentions, schema, PDF reports for clients.
 - [GSAP Skills](https://github.com/greensock/gsap-skills) - skills for AI agents on GSAP: professional web animations from a text description
+- [Hallmark](https://github.com/nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) - 15 agent skills for Codex and Claude Code to edit videos and Shorts on HyperFrames and GSAP: cut dead air, captions, B-roll, motion graphics, 406 template cards; markdown; MIT.
 - [Hermes DaVinci Resolve Plugin](https://github.com/wassermanproductions/hermes-davinci-resolve-plugin) - Hermes Agent plugin for DaVinci Resolve on macOS: Studio live control of media, timelines, markers and renders, or FCPXML/CSV interchange for free Resolve; Python; MIT.
 - [HTML Anything](https://github.com/nexu-io/html-anything) - Agentic HTML editor: 75 skills x 9 formats (magazine, deck, poster, tweet, prototype, report). Sandbox preview, one-click PNG/HTML/social export, no API key.
@@ -488,6 +499,7 @@
 - [Remotion Motion Graphics Skills](https://github.com/Liamrjohnston/remotion-motion-graphics-skill) - Four skills producing broadcast-quality Remotion motion graphics: kinetic text, workflow diagrams, cinematic camera moves, terminal demos; guided intake, QA, render; MIT.
 - [ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - 20 Claude Code skills for careers: ATS optimization of resumes, cover letters, interview preparation, salary negotiation.
 - [Reverse Skill](https://github.com/zhaoxuya520/reverse-skill) - A skill-router pack for reversing/pentesting/security: AI task routing + a self-loading toolchain + a self-evolving knowledge base. For Claude Code, Kiro, Cursor, Cline.
+- [Scroll World](https://github.com/oso95/scroll-world) - Agent skill that builds scroll-scrubbed fly-through landing pages for any brand or industry.
 - [Security Guidance](https://code.claude.com/docs/en/security-guidance) - makes Claude check its own code for vulnerabilities while writing it and fix the problems in the same session
 - [Skill Issue](https://skill-issue.in/) - Ranked library of agent skills (SKILL.md files) curated by actual usage with per-domain stats; filter by design, frontend, backend, motion graphics and more; account only for favorites.
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) - security scanner specifically for such skills
@@ -501,6 +513,7 @@
 - [TinyFish Hermes Plugin](https://hermes-agent.nousresearch.com/docs/plugins/tinyfish) - First-party Hermes Agent plugin: free TinyFish search/fetch for web_search and web_extract, plus cloud browser and goal-based tinyfish_agent; Python; API key; MIT.
 - [ub-mode](https://github.com/unclebob/ub-mode) - Uncle Bob agent skill enforcing disciplined software engineering: make it work then make it right rules, CRAP, duplication and coverage quality gates with crapper, dryer, mutator tools.
 - [UI Skills](https://www.ui-skills.com/) - catalog of ready-made "instructions" for AI agents and developers that help build a better interface
+- [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - AI skill providing design intelligence for building professional UI/UX across multiple platforms and frameworks.
 - [UX/UI Agent Skills](https://github.com/plugin87/ux-ui-agent-skills) - Senior design architect skill kit: DTCG tokens, 50 components, WCAG 2.2 AA/AAA, 138 design systems, 19 skills, 40 quality gates that fail build on false success.
 - [Vibe Coding Toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - Toolkit of documentation, prompts and templates: prepare your machine and scaffold or upgrade AI-built projects with agent-driven setup and verification; code stays in your project; MIT.
 - [Vibe Prompts](https://vibeprompts.dev/) - UI prompt library for vibe coders: 286 ready-to-paste Tailwind CSS layout prompts in 15 categories (auth, pricing, bento, nav, CTA, hero, stats); copy, paste into any agent; free web library.
