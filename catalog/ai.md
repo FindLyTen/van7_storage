@@ -6,6 +6,7 @@
 - [Agent Memory](#agent-memory) (25)
 - [AI Agents](#ai-agents) (124)
 - [AI Images](#ai-images) (25)
+- [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
 - [API & MCP](#api-mcp) (73)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
@@ -195,6 +196,9 @@
 - [Playground AI](https://playground.com/) - AI design tool in-browser: logos, t-shirts and social media graphics with AI editing and free tier.
 - [Raphael AI](https://raphael.app/) - Free unlimited AI image generator on FLUX engine, no signup; web app with ads-supported limits.
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - Web portal around Stable Diffusion: free text-to-image and image-to-image demos, model gallery and prompt tools.
+
+## AI Search
+- [Perplexity](https://www.perplexity.ai/) - AI answer engine that searches the web and replies with cited sources
 
 ## AI Video
 - [AI Short Video Factory](https://github.com/YILS-LIN/short-video-factory) - Desktop app that turns a text prompt plus clips into product marketing shorts: AI script, TTS voice, batch auto editing, subtitle effects; Electron and TypeScript, Windows/macOS/Linux; AGPL-3.0.

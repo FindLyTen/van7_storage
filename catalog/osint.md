@@ -5,11 +5,11 @@
 ## Contents
 - [By Email](#by-email) (10)
 - [By Phone Number](#by-phone-number) (5)
-- [By Photo](#by-photo) (4)
+- [By Photo](#by-photo) (5)
 - [By Username](#by-username) (7)
 - [By Video](#by-video) (1)
 - [Collections](#collections) (8)
-- [Frameworks](#frameworks) (20)
+- [Frameworks](#frameworks) (21)
 - [GEOINT](#geoint) (7)
 - [Instagram](#instagram) (3)
 - [Leaks](#leaks) (8)
@@ -37,6 +37,7 @@
 - [Search Phone](https://github.com/HackUnderway/SearchPhone) - A simple terminal script: you enter a phone number, and through a third-party service (RapidAPI) it returns all the available information about it (carrier, region, etc.).
 
 ## By Photo
+- [Netryx Astra V2](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool) - AI image geolocation tool matching photos against street-view panorama indexes to find GPS coordinates
 - [PimEyes](https://pimeyes.com/en) - Search for a person by photo across photos from the whole internet
 - [RevEye](https://github.com/steven2358/reveye) - Reverse image search extension for Chrome: sends the image or URL to Google, Bing, Yandex and TinEye from the context menu; free.
 - [Search by Image](https://github.com/dessant/search-by-image) - Reverse image search extension (Chrome/Edge/Firefox/Safari): right-click or capture part of a page to query several engines; free.
@@ -85,6 +86,7 @@
 - [TorBot](https://github.com/DedSecInside/TorBot) - This is a crawler (link collector) for sites on the dark web (the Tor network, .onion addresses): you give it a link, and it "crawls" the site, collects linked URLs and builds a clear tree of connections from them.
 - [Torch](https://torchsearchengine.com/) - Classic darknet search engine: an index of Tor onion sites, the simplest interface with nothing extra.
 - [Uncover](https://github.com/projectdiscovery/uncover) - Search for exposed devices and services via Shodan, Censys, Fofa
+- [VoidAccess](https://github.com/KatrielMoses/voidaccess) - Self-hosted dark web OSINT platform for threat intelligence and attack surface discovery
 
 ## GEOINT
 - [Creepy](https://github.com/ilektrojohn/creepy) - Geolocating a person from social network and photo metadata

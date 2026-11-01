@@ -1,6 +1,6 @@
 {
 "section": {"id": "dev", "name": "Development", "emoji": "💻"},
-"cats": [{"color":"#94a3b8","emoji":"💻","icon":null,"id":"dev","name":"Development","parentId":null},{"color":"#94a3b8","emoji":"🔌","icon":null,"id":"dev_api","name":"API Catalogs","parentId":"dev"},{"color":"#94a3b8","emoji":"🗃️","icon":null,"id":"dev_backup","name":"Data Recovery","parentId":"dev"},{"color":"#94a3b8","emoji":"📝","icon":null,"id":"dev_edit","name":"Editors","parentId":"dev"},{"color":"#94a3b8","emoji":"🕸️","icon":null,"id":"dev_viz","name":"Visualization","parentId":"dev"}],
+"cats": [{"color":"#94a3b8","emoji":"💻","icon":null,"id":"dev","name":"Development","parentId":null},{"color":"#94a3b8","emoji":"🔌","icon":null,"id":"dev_api","name":"API Catalogs","parentId":"dev"},{"color":"#94a3b8","emoji":"🗃️","icon":null,"id":"dev_backup","name":"Data Recovery","parentId":"dev"},{"color":"#64748b","emoji":"🛠️","icon":null,"id":"dev_tools","name":"Developer Tools","parentId":"dev"},{"color":"#94a3b8","emoji":"📝","icon":null,"id":"dev_edit","name":"Editors","parentId":"dev"},{"color":"#6366f1","emoji":"⚡","icon":null,"id":"dev_term","name":"Terminals","parentId":"dev"},{"color":"#94a3b8","emoji":"🕸️","icon":null,"id":"dev_viz","name":"Visualization","parentId":"dev"}],
 "items": [
 {"id":"it_179270318010124","name":"500.tools","url":"https://500.tools/","desc":"curated list of 500 best tools; for everyone; free","cat":"dev"},
 {"id":"it_179270318010105","name":"Dev Hunt","url":"https://devhunt.org/","desc":"developer tools launchpad; new dev tools weekly; for developers; open source; fair voting","cat":"dev"},
@@ -19,6 +19,10 @@
 {"id":189,"name":"NetViz (ShadowArcanist)","url":"https://github.com/ShadowArcanist/netviz","desc":"Visual structuring of network architectures as graphs.","cat":"dev_viz"},
 {"id":"it_1790941178333","name":"sanity","url":"https://github.com/milanofthe/sanity","desc":"Visual repo monitor: files as zoomable canvas panels, live green/red change highlights. Replays git history commit-by-commit, exports MP4. Shows what coding agent is touching.","cat":"dev_viz"},
 {"id":"it_1790793363855","name":"ToolJet","url":"https://github.com/tooljet/tooljet","desc":"Open-source low-code for internal tools: drag-and-drop UI on top of DBs/APIs, 50+ integrations, JS extensions. Can be self-hosted.","cat":"dev_viz"},
+{"id":"it_1793401277210042","name":"Calyx","url":"https://github.com/yuuichieguchi/Calyx","desc":"Native macOS terminal built on Ghostty for running and supervising coding agents in parallel","cat":"dev_term"},
+{"id":"it_1793401277210039","name":"MXterm Pro","url":"https://mxterm.net/","desc":"Terminal workspace combining AI agent CLIs, SSH and SFTP in one desktop app","cat":"dev_term"},
+{"id":"it_1793401277210041","name":"Tabby","url":"https://tabby.sh/","desc":"Free open source SSH, local and Telnet terminal emulator","cat":"dev_term"},
+{"id":"it_1793401277210040","name":"Wave Terminal","url":"https://www.waveterm.dev/","desc":"Open source AI-native terminal with file previews, remote file editing and built-in browser","cat":"dev_term"},
 {"id":"it_17926863966995","name":"ADCode","url":"https://adcode.bluethenics.com/versions","desc":"Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.","cat":"dev_edit"},
 {"id":"it_1793399532693007","name":"Antigravity","url":"https://antigravity.google/","desc":"Google agentic IDE (VS Code fork) with Gemini 3: agent-first dev across editor and browser, task lists, artifacts; free preview.","cat":"dev_edit"},
 {"id":"it_1793399126323014","name":"Apache Ant","url":"https://ant.apache.org/","desc":"Classic Java build tool driven by XML buildfiles; legacy but still maintained; free, Apache-2.0.","cat":"dev_edit"},
@@ -74,6 +78,7 @@
 {"id":"it_1793399126323007","name":"Vim","url":"https://www.vim.org/","desc":"Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.","cat":"dev_edit"},
 {"id":"it_1793399126323001","name":"Visual Studio Code","url":"https://code.visualstudio.com/","desc":"Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.","cat":"dev_edit"},
 {"id":"it_1793399532693008","name":"Zed","url":"https://zed.dev/","desc":"High-performance collaborative code editor written in Rust: multiplayer editing, AI assistance, fast UI; free, GPL/MIT mix.","cat":"dev_edit"},
+{"id":"it_1793401277210043","name":"jq","url":"https://jqlang.org/","desc":"Lightweight command line JSON processor for slicing, filtering and mapping JSON data","cat":"dev_tools"},
 {"id":234,"name":"DataRecover","url":"https://datarecover.ikramov.pro/","desc":"search and recovery of data from flash drives, memory cards, raw volumes and disk images","cat":"dev_backup"},
 {"id":"it_17905369983525","name":"Duplicacy","url":"https://github.com/gilbertchen/duplicacy","desc":"Cross-platform backup with deduplication: incremental snapshots, encryption, lots of backends (S3, Mega, clouds).","cat":"dev_backup"},
 {"id":45,"name":"Api Mega List","url":"https://github.com/cporter202/API-mega-list?tab=readme-ov-file","desc":"A collection of hundreds of public APIs for every occasion","cat":"dev_api"},

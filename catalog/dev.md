@@ -5,7 +5,9 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
+- [Developer Tools](#developer-tools) (1)
 - [Editors](#editors) (55)
+- [Terminals](#terminals) (4)
 - [Visualization](#visualization) (7)
 - [Other](#other) (10)
 
@@ -22,6 +24,9 @@
 ## Data Recovery
 - [DataRecover](https://datarecover.ikramov.pro/) - search and recovery of data from flash drives, memory cards, raw volumes and disk images
 - [Duplicacy](https://github.com/gilbertchen/duplicacy) - Cross-platform backup with deduplication: incremental snapshots, encryption, lots of backends (S3, Mega, clouds).
+
+## Developer Tools
+- [jq](https://jqlang.org/) - Lightweight command line JSON processor for slicing, filtering and mapping JSON data
 
 ## Editors
 - [ADCode](https://adcode.bluethenics.com/versions) - Free AI code editor: chat, helper agents, tools, preview, automations, AGENTS.md support; Windows/Linux deb/AppImage/Store; Apache-2.0.
@@ -79,6 +84,12 @@
 - [Vim](https://www.vim.org/) - Modal terminal text editor, ubiquitous on servers; huge plugin ecosystem; free, charityware license.
 - [Visual Studio Code](https://code.visualstudio.com/) - Microsoft free source-code editor: IntelliSense, debugging, Git integration, extensions marketplace; Windows/macOS/Linux.
 - [Zed](https://zed.dev/) - High-performance collaborative code editor written in Rust: multiplayer editing, AI assistance, fast UI; free, GPL/MIT mix.
+
+## Terminals
+- [Calyx](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal built on Ghostty for running and supervising coding agents in parallel
+- [MXterm Pro](https://mxterm.net/) - Terminal workspace combining AI agent CLIs, SSH and SFTP in one desktop app
+- [Tabby](https://tabby.sh/) - Free open source SSH, local and Telnet terminal emulator
+- [Wave Terminal](https://www.waveterm.dev/) - Open source AI-native terminal with file previews, remote file editing and built-in browser
 
 ## Visualization
 - [APITable](https://github.com/apitable/apitable) - Open-source Airtable alternative: a visual database table with an API interface, dashboards, automations. Can be self-hosted.

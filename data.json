@@ -903,6 +903,38 @@
       "id": "biz_tender",
       "name": "Tenders & Procurement",
       "parentId": "biz"
+    },
+    {
+      "color": "#f59e0b",
+      "emoji": "💰",
+      "icon": null,
+      "id": "biz_crypto",
+      "name": "Crypto & Wallets",
+      "parentId": "biz"
+    },
+    {
+      "color": "#6366f1",
+      "emoji": "⚡",
+      "icon": null,
+      "id": "dev_term",
+      "name": "Terminals",
+      "parentId": "dev"
+    },
+    {
+      "color": "#64748b",
+      "emoji": "🛠️",
+      "icon": null,
+      "id": "dev_tools",
+      "name": "Developer Tools",
+      "parentId": "dev"
+    },
+    {
+      "color": "#8b5cf6",
+      "emoji": "🔍",
+      "icon": null,
+      "id": "ai_search",
+      "name": "AI Search",
+      "parentId": "ai"
     }
   ],
   "items": [
@@ -12042,6 +12074,69 @@
       "desc": "Decentralized anonymous network layer encrypting traffic through volunteer operated nodes",
       "url": "https://i2p.net/en/",
       "cat": "net_traffic"
+    },
+    {
+      "id": "it_1793401277210036",
+      "name": "VoidAccess",
+      "desc": "Self-hosted dark web OSINT platform for threat intelligence and attack surface discovery",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "cat": "osint_fw"
+    },
+    {
+      "id": "it_1793401277210037",
+      "name": "Netryx Astra V2",
+      "desc": "AI image geolocation tool matching photos against street-view panorama indexes to find GPS coordinates",
+      "url": "https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool",
+      "cat": "osint_photo"
+    },
+    {
+      "id": "it_1793401277210038",
+      "name": "Exodus",
+      "desc": "Self-custodial cryptocurrency wallet for sending, swapping and managing crypto assets",
+      "url": "https://www.exodus.com/",
+      "cat": "biz_crypto"
+    },
+    {
+      "id": "it_1793401277210039",
+      "name": "MXterm Pro",
+      "desc": "Terminal workspace combining AI agent CLIs, SSH and SFTP in one desktop app",
+      "url": "https://mxterm.net/",
+      "cat": "dev_term"
+    },
+    {
+      "id": "it_1793401277210040",
+      "name": "Wave Terminal",
+      "desc": "Open source AI-native terminal with file previews, remote file editing and built-in browser",
+      "url": "https://www.waveterm.dev/",
+      "cat": "dev_term"
+    },
+    {
+      "id": "it_1793401277210041",
+      "name": "Tabby",
+      "desc": "Free open source SSH, local and Telnet terminal emulator",
+      "url": "https://tabby.sh/",
+      "cat": "dev_term"
+    },
+    {
+      "id": "it_1793401277210042",
+      "name": "Calyx",
+      "desc": "Native macOS terminal built on Ghostty for running and supervising coding agents in parallel",
+      "url": "https://github.com/yuuichieguchi/Calyx",
+      "cat": "dev_term"
+    },
+    {
+      "id": "it_1793401277210043",
+      "name": "jq",
+      "desc": "Lightweight command line JSON processor for slicing, filtering and mapping JSON data",
+      "url": "https://jqlang.org/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793401277210044",
+      "name": "Perplexity",
+      "desc": "AI answer engine that searches the web and replies with cited sources",
+      "url": "https://www.perplexity.ai/",
+      "cat": "ai_search"
     }
   ]
 }

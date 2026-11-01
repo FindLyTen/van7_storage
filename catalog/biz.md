@@ -4,6 +4,7 @@
 
 ## Contents
 - [CRM](#crm) (7)
+- [Crypto & Wallets](#crypto-wallets) (1)
 - [Marketing & SEO](#marketing-seo) (58)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
@@ -20,6 +21,9 @@
 - [Ever Gauzy](https://github.com/ever-co/ever-gauzy) - Open-source ERP/CRM: projects, HR, billing, inventory; a single platform for business.
 - [Gr8r Studio](https://github.com/gr8rstudio/gr8r-studio) - Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.
 - [Twenty](https://twenty.com/) - Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.
+
+## Crypto & Wallets
+- [Exodus](https://www.exodus.com/) - Self-custodial cryptocurrency wallet for sending, swapping and managing crypto assets
 
 ## Marketing & SEO
 - [Ahrefs](https://ahrefs.com/) - SEO platform on own web index: Site/Keywords Explorer, Rank Tracker, Site Audit, Content Explorer, Brand Radar for AI-chatbot visibility. Free tools + AI Visibility Checker; core paid.

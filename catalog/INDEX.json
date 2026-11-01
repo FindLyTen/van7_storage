@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1591,
- "categories_total": 113,
+ "items_total": 1600,
+ "categories_total": 117,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 480,
+   "count": 481,
    "subsections": [
     {
      "id": "ai_memory",
@@ -24,6 +24,11 @@
      "id": "ai_image",
      "name": "AI Images",
      "count": 25
+    },
+    {
+     "id": "ai_search",
+     "name": "AI Search",
+     "count": 1
     },
     {
      "id": "ai_video",
@@ -120,12 +125,17 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 133,
+   "count": 134,
    "subsections": [
     {
      "id": "biz_crm",
      "name": "CRM",
      "count": 7
+    },
+    {
+     "id": "biz_crypto",
+     "name": "Crypto & Wallets",
+     "count": 1
     },
     {
      "id": "biz_mkt",
@@ -253,7 +263,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 82,
+   "count": 87,
    "subsections": [
     {
      "id": "dev_api",
@@ -266,9 +276,19 @@
      "count": 2
     },
     {
+     "id": "dev_tools",
+     "name": "Developer Tools",
+     "count": 1
+    },
+    {
      "id": "dev_edit",
      "name": "Editors",
      "count": 55
+    },
+    {
+     "id": "dev_term",
+     "name": "Terminals",
+     "count": 4
     },
     {
      "id": "dev_viz",
@@ -557,7 +577,7 @@
    "id": "osint",
    "name": "OSINT",
    "emoji": "🕵️",
-   "count": 99,
+   "count": 101,
    "subsections": [
     {
      "id": "osint_mail",
@@ -572,7 +592,7 @@
     {
      "id": "osint_photo",
      "name": "By Photo",
-     "count": 4
+     "count": 5
     },
     {
      "id": "osint_nick",
@@ -592,7 +612,7 @@
     {
      "id": "osint_fw",
      "name": "Frameworks",
-     "count": 20
+     "count": 21
     },
     {
      "id": "osint_geo",
