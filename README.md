@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1636 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1689 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.
@@ -18,16 +18,16 @@ Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without conne
 ## Catalog
 | Section | Tools | Subsections | Human page | Machine file |
 | --- | ---: | ---: | --- | --- |
-| 🤖 AI & Agents | 494 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
+| 🤖 AI & Agents | 522 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
 | ⚙️ Automation | 100 | 6 | [catalog/auto.md](catalog/auto.md) | [catalog/auto.json](catalog/auto.json) |
-| 💼 Business | 139 | 8 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
-| 💬 Communications | 30 | 6 | [catalog/chat.md](catalog/chat.md) | [catalog/chat.json](catalog/chat.json) |
-| 🎨 Design | 81 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
-| 💻 Development | 98 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
+| 💼 Business | 140 | 8 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
+| 💬 Communications | 31 | 6 | [catalog/chat.md](catalog/chat.md) | [catalog/chat.json](catalog/chat.json) |
+| 🎨 Design | 88 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
+| 💻 Development | 110 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
 | 📱 Devices | 60 | 4 | [catalog/devices.md](catalog/devices.md) | [catalog/devices.json](catalog/devices.json) |
 | 🎮 Games | 14 | 4 | [catalog/games.md](catalog/games.md) | [catalog/games.json](catalog/games.json) |
 | 🛡️ Hacking | 172 | 6 | [catalog/hack.md](catalog/hack.md) | [catalog/hack.json](catalog/hack.json) |
-| 🖥️ Infrastructure | 126 | 5 | [catalog/infra.md](catalog/infra.md) | [catalog/infra.json](catalog/infra.json) |
+| 🖥️ Infrastructure | 130 | 5 | [catalog/infra.md](catalog/infra.md) | [catalog/infra.json](catalog/infra.json) |
 | 📚 Knowledge | 79 | 6 | [catalog/edu.md](catalog/edu.md) | [catalog/edu.json](catalog/edu.json) |
 | 🌍 Life | 15 | 3 | [catalog/life.md](catalog/life.md) | [catalog/life.json](catalog/life.json) |
 | 🎬 Media | 41 | 5 | [catalog/media.md](catalog/media.md) | [catalog/media.json](catalog/media.json) |

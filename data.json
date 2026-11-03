@@ -12389,6 +12389,377 @@
       "desc": "AI research org: reasoning language models and deep-research agents (MiroMind-M1, MiroThinker, MiroFlow).",
       "url": "https://github.com/MiroMindAI",
       "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750640102148",
+      "name": "AI Engineering Hub",
+      "desc": "Curated collection of AI engineering tutorials and resources.",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "cat": "ai_lists"
+    },
+    {
+      "id": "it_1793732750640309126",
+      "name": "DSH SuperAgent Prototype",
+      "desc": "DeepSeek coding agent prototype for autonomous software development.",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750640465638",
+      "name": "Helicone",
+      "desc": "LLM observability platform for tracing, evaluating, and monitoring AI applications.",
+      "url": "https://github.com/Helicone/helicone",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750640605841",
+      "name": "free-for-dev",
+      "desc": "List of free software development services and cloud tiers.",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750640981865",
+      "name": "Adelie",
+      "desc": "Local-first multi-agent app development platform for building agent applications.",
+      "url": "https://github.com/lmliheng/Adelie",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750641125444",
+      "name": "call-me",
+      "desc": "Claude Code plugin that calls your phone when an agent needs a decision.",
+      "url": "https://github.com/ZeframLou/call-me",
+      "cat": "ai_cli"
+    },
+    {
+      "id": "it_1793732750641265186",
+      "name": "iPhone MCP",
+      "desc": "MCP server that lets AI agents control real iPhones and simulators on macOS.",
+      "url": "https://github.com/blitzdotdev/iphone-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750641418653",
+      "name": "X MCP Servers",
+      "desc": "Official X API MCP servers for AI tools to access X data with your own account.",
+      "url": "https://docs.x.com/tools/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750641555349",
+      "name": "memos",
+      "desc": "Self-hosted notes and knowledge base for individuals and teams.",
+      "url": "https://github.com/usememos/memos",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793732750641692647",
+      "name": "engram",
+      "desc": "Persistent memory layer for AI agents built by Gentleman-Programming.",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793732750641889505",
+      "name": "Superhuman",
+      "desc": "Fast email client with AI features for inbox and calendar management.",
+      "url": "https://superhuman.com/",
+      "cat": "chat_clients"
+    },
+    {
+      "id": "it_1793732750642027243",
+      "name": "HookScreener",
+      "desc": "Crypto order-book terminal streaming trades from 10 exchanges in real time.",
+      "url": "https://hookscreener.com/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793732750642165913",
+      "name": "Reddit MCP Server",
+      "desc": "MCP server for fetching and creating Reddit content via official API with your own account.",
+      "url": "https://github.com/jordanburke/reddit-mcp-server",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750642303651",
+      "name": "Pinterest MCP Server",
+      "desc": "MCP server for integrating Pinterest API with AI agents via your own developer account.",
+      "url": "https://github.com/collactivelabs/pinterest-mcp-server",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750642455706",
+      "name": "Meta MCP",
+      "desc": "Meta official MCP servers for Facebook, Instagram, WhatsApp, and Meta Ads.",
+      "url": "https://developers.facebook.com/documentation/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750642591701",
+      "name": "Instagram MCP",
+      "desc": "MCP server for Instagram using official Graph API on your own business account.",
+      "url": "https://github.com/mcpware/instagram-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750642729068",
+      "name": "Facebook MCP Server",
+      "desc": "MCP server for Facebook using official Graph API on your own Page.",
+      "url": "https://github.com/hagaihen/facebook-mcp-server",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793732750642954941",
+      "name": "Oh My Pi",
+      "desc": "Coding agent with IDE integration built on the Pi agent toolkit.",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750643097869",
+      "name": "Factory Droid",
+      "desc": "AI software engineering agents that automate coding, testing, and deployment.",
+      "url": "https://factory.com/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750643236368",
+      "name": "Grok Build",
+      "desc": "xAI terminal-based AI coding agent powered by Grok models.",
+      "url": "https://x.ai/build",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750643501124",
+      "name": "Figma Make",
+      "desc": "AI-powered website and app builder that turns Figma designs into code.",
+      "url": "https://www.figma.com/make/",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750643644282",
+      "name": "Claude Code",
+      "desc": "Anthropic agentic coding tool for terminal-based AI software development.",
+      "url": "https://claude.com/product/claude-code",
+      "cat": "ai_cli"
+    },
+    {
+      "id": "it_1793732750643781119",
+      "name": "OpenAI Codex",
+      "desc": "OpenAI coding agent for software engineering tasks via CLI and cloud.",
+      "url": "https://platform.openai.com/codex",
+      "cat": "ai_cli"
+    },
+    {
+      "id": "it_1793732750644090127",
+      "name": "OpenCode",
+      "desc": "Open source terminal AI coding agent supporting 75+ LLM providers.",
+      "url": "https://opencode.ai",
+      "cat": "ai_cli"
+    },
+    {
+      "id": "it_1793732750644234067",
+      "name": "Warp",
+      "desc": "AI-powered terminal and agentic development environment for software teams.",
+      "url": "https://warp.dev",
+      "cat": "dev_term"
+    },
+    {
+      "id": "it_1793732750644373097",
+      "name": "Roo Code",
+      "desc": "Open-source AI coding agent for VS Code, fork of Cline.",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750644527236",
+      "name": "JetBrains Junie",
+      "desc": "JetBrains AI coding agent integrated into IDEs, terminal, and CI/CD pipelines.",
+      "url": "https://junie.jetbrains.com/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750644664072",
+      "name": "Augment Code",
+      "desc": "Enterprise AI coding assistant with context engine for large codebases.",
+      "url": "https://www.augmentcode.com/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750644800508",
+      "name": "Kilo Code",
+      "desc": "Open source AI coding agent for VS Code, JetBrains, CLI, and cloud.",
+      "url": "https://kilo.ai/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750645005411",
+      "name": "Goose",
+      "desc": "Open-source extensible AI agent by Block for code, research, and automation.",
+      "url": "https://goose-docs.ai/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750645145023",
+      "name": "v0",
+      "desc": "AI web app builder by Vercel that generates React code from prompts.",
+      "url": "https://v0.dev",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750645301396",
+      "name": "Firebase Studio",
+      "desc": "Google AI-powered cloud development environment for full-stack applications.",
+      "url": "https://firebase.google.com/docs/studio",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793732750645458640",
+      "name": "Base44",
+      "desc": "No-code AI platform that turns prompts into working web apps and websites.",
+      "url": "https://base44.com/",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750645596038",
+      "name": "Bubble",
+      "desc": "No-code AI app builder for creating web applications without writing code.",
+      "url": "https://bubble.io",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750645740118",
+      "name": "Framer",
+      "desc": "AI website builder for designing and publishing sites visually.",
+      "url": "https://www.framer.com",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750645894286",
+      "name": "Webflow",
+      "desc": "Visual website builder with AI features for professional sites.",
+      "url": "https://webflow.com",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750646034349",
+      "name": "Builder.io",
+      "desc": "Visual Copilot AI tool for converting designs to production code.",
+      "url": "https://www.builder.io",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793732750646173580",
+      "name": "TypeScript",
+      "desc": "Typed superset of JavaScript that compiles to plain JavaScript.",
+      "url": "https://www.typescriptlang.org",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750646313611",
+      "name": "React",
+      "desc": "JavaScript library for building user interfaces.",
+      "url": "https://react.dev",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750646462731",
+      "name": "Next.js",
+      "desc": "React framework for building production web applications.",
+      "url": "https://nextjs.org",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750646601581",
+      "name": "Vite",
+      "desc": "Fast frontend build tool and development server.",
+      "url": "https://vite.dev",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750646740672",
+      "name": "Tailwind CSS",
+      "desc": "Utility-first CSS framework for rapid UI development.",
+      "url": "https://tailwindcss.com",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750646892506",
+      "name": "shadcn/ui",
+      "desc": "Reusable React components built with Tailwind CSS.",
+      "url": "https://ui.shadcn.com",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750647031536",
+      "name": "Node.js",
+      "desc": "JavaScript runtime built on Chrome's V8 engine.",
+      "url": "https://nodejs.org",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750647169936",
+      "name": "Firebase",
+      "desc": "Google platform for building and running mobile and web applications.",
+      "url": "https://firebase.google.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793732750647309466",
+      "name": "Convex",
+      "desc": "Backend platform with database, functions, and authentication.",
+      "url": "https://www.convex.dev",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793732750647460790",
+      "name": "Prisma",
+      "desc": "TypeScript and Node.js ORM for databases.",
+      "url": "https://www.prisma.io",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750647599480",
+      "name": "Drizzle ORM",
+      "desc": "TypeScript ORM for SQL databases.",
+      "url": "https://drizzle.team",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750647736937",
+      "name": "Clerk",
+      "desc": "User authentication and user management platform.",
+      "url": "https://clerk.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793732750647995762",
+      "name": "Auth.js",
+      "desc": "Authentication library for web frameworks.",
+      "url": "https://authjs.dev",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793732750648138971",
+      "name": "Stripe",
+      "desc": "Online payment processing platform for internet businesses.",
+      "url": "https://stripe.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793732750648384179",
+      "name": "Model Context Protocol",
+      "desc": "Official Model Context Protocol specification and documentation.",
+      "url": "https://modelcontextprotocol.io",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079762",
+      "name": "TikTok MCP",
+      "desc": "MCP server for TikTok video analysis via TikNeuron API: subtitles, post details, search.",
+      "url": "https://github.com/seym0n/tiktok-mcp",
+      "cat": "ai_api"
     }
   ]
 }

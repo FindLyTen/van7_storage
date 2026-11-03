@@ -9,7 +9,7 @@
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
 - [Tools](#tools) (19)
-- [UI Libraries](#ui-libraries) (23)
+- [UI Libraries](#ui-libraries) (30)
 - [Other](#other) (4)
 
 ## 3D
@@ -81,12 +81,17 @@
 ## UI Libraries
 - [A2UI](https://github.com/a2ui-project/a2ui) - Open standard letting agents generate rich user interfaces: agent sends declarative JSON describing UI intent, client renders with native Flutter, Angular or Lit components; Apache-2.0.
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) - 400+ of the best design tools in one list
+- [Base44](https://base44.com/) - No-code AI platform that turns prompts into working web apps and websites.
+- [Bubble](https://bubble.io) - No-code AI app builder for creating web applications without writing code.
+- [Builder.io](https://www.builder.io) - Visual Copilot AI tool for converting designs to production code.
 - [CTA Gallery](https://www.cta.gallery/) - A gallery of working CTA elements and sections for website conversion
 - [Daisy UI](https://daisyui.com/?lang=en) - Popular components on top of Tailwind CSS
 - [dembrandt](https://github.com/dembrandt/dembrandt) - You give it a link to any site, and within seconds the program "takes apart" its design into components (colors, fonts, spacing, logo) and outputs it all as ready-made values you can use in your own project.
 - [Design Spells](https://designspells.com/) - design templates
 - [Design Systems One](https://www.designsystems.one/) - Catalog of company design systems: patterns, tokens, components — references for your own UI.
 - [Ecomm Design](https://ecomm.design/) - Gallery of real e-commerce sites: hundreds of examples of product cards, checkouts, landing pages with category filters. Reference for store design.
+- [Figma Make](https://www.figma.com/make/) - AI-powered website and app builder that turns Figma designs into code.
+- [Framer](https://www.framer.com) - AI website builder for designing and publishing sites visually.
 - [Game UI Database](https://www.gameuidatabase.com/index.php) - Reference gallery of 79000+ game UI screenshots and videos for UI and UX designers
 - [Kokonut UI](https://kokonutui.com/) - Copy-paste UI components for React
 - [Lazyweb](https://www.lazyweb.com/) - research of modern designs and copying them
@@ -102,6 +107,8 @@
 - [TweakCN](https://tweakcn.com/) - Theme and CSS customization for Claude Code
 - [UI Unlumen](https://ui.unlumen.com/) - Minimalist UI components
 - [Universe IO](https://uiverse.io/) - A library of open-source UI components: buttons, cards, toggles
+- [v0](https://v0.dev) - AI web app builder by Vercel that generates React code from prompts.
+- [Webflow](https://webflow.com) - Visual website builder with AI features for professional sites.
 
 ## Other
 - [draw.io (diagrams.net)](https://www.drawio.com/) - Free online and desktop diagramming tool: flowcharts, network and architecture diagrams; XML/drawio format, many integrations

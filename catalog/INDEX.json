@@ -1,24 +1,24 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1636,
+ "items_total": 1689,
  "categories_total": 117,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 494,
+   "count": 522,
    "subsections": [
     {
      "id": "ai_memory",
      "name": "Agent Memory",
-     "count": 26
+     "count": 28
     },
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 127
+     "count": 139
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 77
+     "count": 86
     },
     {
      "id": "ai_avatar",
@@ -48,12 +48,12 @@
     {
      "id": "ai_cli",
      "name": "CLI Tools",
-     "count": 27
+     "count": 31
     },
     {
      "id": "ai_lists",
      "name": "Collections",
-     "count": 31
+     "count": 32
     },
     {
      "id": "ai_local",
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 139,
+   "count": 140,
    "subsections": [
     {
      "id": "biz_crm",
@@ -165,7 +165,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 50
+     "count": 51
     }
    ],
    "json": "catalog/biz.json",
@@ -176,7 +176,7 @@
    "id": "chat",
    "name": "Communications",
    "emoji": "💬",
-   "count": 30,
+   "count": 31,
    "subsections": [
     {
      "id": "chat_bots",
@@ -186,7 +186,7 @@
     {
      "id": "chat_clients",
      "name": "Clients",
-     "count": 7
+     "count": 8
     },
     {
      "id": "chat_send",
@@ -217,7 +217,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 81,
+   "count": 88,
    "subsections": [
     {
      "id": "design_3d",
@@ -252,7 +252,7 @@
     {
      "id": "design_ui",
      "name": "UI Libraries",
-     "count": 23
+     "count": 30
     }
    ],
    "json": "catalog/design.json",
@@ -263,7 +263,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 98,
+   "count": 110,
    "subsections": [
     {
      "id": "dev_api",
@@ -278,7 +278,7 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 10
+     "count": 21
     },
     {
      "id": "dev_edit",
@@ -288,7 +288,7 @@
     {
      "id": "dev_term",
      "name": "Terminals",
-     "count": 4
+     "count": 5
     },
     {
      "id": "dev_viz",
@@ -407,12 +407,12 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 126,
+   "count": 130,
    "subsections": [
     {
      "id": "infra_cloud",
      "name": "Cloud",
-     "count": 27
+     "count": 31
     },
     {
      "id": "infra_domain",

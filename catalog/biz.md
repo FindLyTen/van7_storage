@@ -10,7 +10,7 @@
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (50)
+- [Trading](#trading) (51)
 - [Other](#other) (6)
 
 ## CRM
@@ -128,6 +128,7 @@
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - financial terminal
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Python crypto trading bot: backtesting, dry-run, FreqAI strategy optimization, Telegram/WebUI, major spot/futures exchanges; Python 3.12+; GPL-3.0.
 - [Google Ads MCP](https://github.com/googleads/google-ads-mcp) - Official Google Ads MCP: READ-ONLY campaign data (metrics, budgets, statuses); cannot change anything by design; Google Cloud OAuth + Ads account; official.
+- [HookScreener](https://hookscreener.com/) - Crypto order-book terminal streaming trades from 10 exchanges in real time.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source framework to build and deploy high-frequency crypto trading bots on 130+ exchanges: market making, arbitrage, backtesting and dashboard; Python; Apache-2.0.
 - [Kronos](https://github.com/shiyu-coder/Kronos) - an AI for financial market analysis
 - [Link CLI](https://github.com/stripe/link-cli) - Link CLI: lets agents request one-time or recurring payment credentials from a Link wallet without exposing card details; virtual cards, Stripe SPT; npm; MIT.

@@ -4,7 +4,7 @@
 
 ## Contents
 - [Bots & API](#bots-api) (4)
-- [Clients](#clients) (7)
+- [Clients](#clients) (8)
 - [Mailing](#mailing) (7)
 - [Messengers](#messengers) (4)
 - [Temporary Email](#temporary-email) (6)
@@ -23,6 +23,7 @@
 - [Inbox Zero](https://github.com/elie222/inbox-zero) - Open-source AI email assistant: auto-drafts replies in your style, bulk archive and unsubscribe, cold-email blocker, analytics and hourly digest; self-host with Docker.
 - [Legcord](https://github.com/legcord/legcord) - Modder's Discord client: plugins, themes, privacy
 - [Mailflare for macOS](https://github.com/hieunc229/mailflare-macos) - Fast native macOS mail app for self-hosted Mailflare servers plus Gmail, Outlook, iCloud, Yahoo and more: offline, rich text, AI writer, templates, unsubscribe; Swift; AGPL-3.0.
+- [Superhuman](https://superhuman.com/) - Fast email client with AI features for inbox and calendar management.
 - [Vencord](https://vencord.dev/) - a Discord client with cool design and features
 - [xMatrix](https://github.com/LambdaLabsHQ/xmatrix) - Group chat for humans and coding agents: mention @claude/@codex etc and the agent starts on your machine in your repo; web, desktop, mobile apps + Rust CLI; FSL-1.1-ALv2.
 
