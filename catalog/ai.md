@@ -8,7 +8,7 @@
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (86)
+- [API & MCP](#api-mcp) (90)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (32)
@@ -259,6 +259,7 @@
 
 ## API & MCP
 - [AgentGateway](https://github.com/agentgateway/agentgateway) - Open source proxy for agent traffic on MCP and A2A protocols: security, observability and governance for agent-to-LLM, agent-to-tool and agent-to-agent communication; Rust; Apache-2.0.
+- [Baseten](https://baseten.co) - AI inference platform for deploying open-source models in production
 - [BrainAPI2](https://github.com/Lumen-Labs/brainapi2) - API gateway to brain interfaces/neural data from Lumen Labs.
 - [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) - Official Brave Search MCP with free tier (~1k-2k queries/mo): web search API for agents; freemium, free key; official Brave, active.
 - [Cerebras Inference](https://www.cerebras.ai/) - Cerebras cloud inference on WSE hardware: very fast time-to-first-token for open LLMs at low per-token latency; REST API with key or hosted chat, docs, usage-based pricing.
@@ -269,6 +270,7 @@
 - [Composio](https://composio.dev/) - Integration for 1500+ apps (Gmail, Slack, GitHub, Notion, HubSpot): works with Claude, ChatGPT, Codex, Cursor, any MCP. SDKs handle auth, triggers, sandboxed exec. Free: 100k calls/mo. Open-source unclear.
 - [Context7](https://github.com/upstash/context7) - Up-to-date library documentation and code examples for AI agents: resolves library IDs, fetches version-specific docs via MCP or CLI; free tier with optional API key; MIT.
 - [DBHub](https://github.com/bytebase/dbhub) - Database MCP gateway for MCP clients: schema exploration, SQL execution and markdown results on PostgreSQL, MySQL, MariaDB, SQLite and others; npx @bytebase/dbhub; MIT.
+- [DeepInfra](https://deepinfra.com) - AI inference cloud with APIs for open-source models
 - [DeepWiki MCP](https://mcp.deepwiki.com/) - Hosted MCP server for asking questions about any public GitHub repo: no auth needed, instant repo understanding; free, no key; Devin-hosted.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker CLI plugin (docker-mcp) running MCP servers in isolated containers: unified gateway, secrets management, OAuth flows, dynamic tool discovery, catalog; works with Docker Desktop or standalone; Go; MIT.
 - [dsh Our Free Model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - Plugin for the dsh CLI that exposes third-party public free gateways (OpenCode Zen, Kilo) as OpenAI-compatible local endpoints; no own account needed; MIT.
@@ -280,6 +282,7 @@
 - [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Official reference MCP server for web page to clean text conversion: more configurable than built-in webfetch; free, no key; maintained by MCP team.
 - [Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Official reference MCP server for secure file operations outside project folders: read/write/list with configurable root; free, no key; maintained by MCP team.
 - [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) - Deep site crawling to clean markdown for AI agents: 1k free pages/mo cloud or self-host free; free tier with optional key; very active.
+- [Fireworks AI](https://fireworks.ai) - Inference platform for running and fine-tuning open AI models
 - [Free Claude Code](https://github.com/Alishahryar1/free-claude-code) - proxy server that intercepts Claude Code requests and redirects them to any other provider: Gemini, DeepSeek, Mistral, Groq, Ollama, OpenRouter and others (17 providers in total)
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - Self-hosted router aggregating 34 free LLM providers and 635 free model endpoints behind one OpenAI-compatible API; encrypted keys, failover, per-key quota tracking
 - [freellmapi setup](https://github.com/tashfeenahmed/freellmapi/blob/main/docs/en/clients/02-supported-agents.md) - One-command config generator pointing Claude Code, Codex, Cursor, OpenCode and other agents at a FreeLLMAPI router instance
@@ -338,6 +341,7 @@
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) - Tavily MCP server: web search, extract, map and crawl tools for AI agents; local npm or remote HTTP with API key; Node/TypeScript; MIT.
 - [Telegram MCP](https://github.com/chigwell/telegram-mcp) - MCP server for Telegram: reading/sending messages, account management right from Claude/other MCP clients.
 - [TikTok MCP](https://github.com/seym0n/tiktok-mcp) - MCP server for TikTok video analysis via TikNeuron API: subtitles, post details, search.
+- [Together AI](https://together.ai) - AI platform for inference, fine-tuning and GPU clusters with open models
 - [ToolHive](https://github.com/stacklok/toolhive) - MCP platform: runs every MCP server in an isolated container, identity and access policy per request, semantic tool search (up to 85% token savings), Kubernetes operator, OTel traces; Go; Apache-2.0.
 - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - MCP server ecosystem for AI scientists: 1000+ ML models, datasets, APIs and scientific packages via AI-Tool Interaction Protocol; tool composition, async ops; Harvard MIMS; Python; Apache-2.0.
 - [unbrowse](https://github.com/unbrowse-ai/unbrowse) - tool that lets AI agents access websites directly through hidden APIs

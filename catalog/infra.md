@@ -3,7 +3,7 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Cloud](#cloud) (31)
+- [Cloud](#cloud) (37)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (13)
 - [Monitoring](#monitoring) (48)
@@ -15,22 +15,27 @@
 - [AWS CLI](https://aws.amazon.com/cli/) - Official command-line tool to manage AWS services; free tool, AWS usage costs apply.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon serverless functions: event-driven code without servers, pay per millisecond of execution. Cheap for small tasks, 15 min limits.
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) - Official Microsoft command-line tool to manage Azure resources; free tool, Azure usage costs apply.
+- [Bitdeer AI](https://bitdeer.ai) - NVIDIA GPU cloud and AI infrastructure platform
 - [Clerk](https://clerk.com) - User authentication and user management platform.
 - [CloudFlare ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - photo storage on Cloudflare
 - [Cloudflare R2](https://www.cloudflare.com/products/r2/) - S3-compatible object storage with no egress fees (egress = $0). Images, backups, static files — cheap and fast all over the world.
 - [Cloudflare Workers](https://www.cloudflare.com/products/workers/) - Serverless code on Cloudflare edge nodes worldwide: JS/TS/Python/WASM, no cold starts, KV/R2/D1 nearby. 100k requests/day free.
 - [CloudFront](https://aws.amazon.com/cloudfront/) - Amazon CDN: caching static files/video across 600+ points of presence, lambda@edge for logic at the edge. The basis of content delivery in AWS.
 - [Convex](https://www.convex.dev) - Backend platform with database, functions, and authentication.
+- [CoreWeave](https://coreweave.com) - AI cloud platform with NVIDIA GPU infrastructure for training and inference
 - [DCDATA](https://www.dcdata.ai/) - Decentralized decarbonized compute cloud built from solar plus battery compute nodes
+- [DigitalOcean](https://digitalocean.com) - Cloud platform with compute, GPU instances and managed services
 - [Docker](https://www.docker.com/) - Container platform: build, ship and run containers locally and on registries; free Docker Engine, paid plans.
 - [DriveBase](https://github.com/drivebase/drivebase) - all my clouds managed in one place
 - [DynamoDB](https://aws.amazon.com/dynamodb/) - Amazon non-relational DB: key-value and document model, millisecond latency at any scale, serverless with autoscale, has a forever free tier (25GB).
 - [Firebase](https://firebase.google.com) - Google platform for building and running mobile and web applications.
 - [Firestore](https://cloud.google.com/firestore/pricing) - Google non-relational document DB: realtime updates on clients, offline mode, serverless. The Firebase stack for apps. Pricing with a free quota.
+- [GMI Cloud](https://gmicloud.ai) - AI cloud for GPU compute, inference and agents on NVIDIA infrastructure
 - [Google Cloud SDK](https://cloud.google.com/sdk) - CLI tools and libraries for Google Cloud (gcloud, gsutil, bq); free tool, GCP usage costs apply.
 - [Google Compute Engine](https://cloud.google.com/products/compute) - Google Cloud virtual machines: per-second billing, preemptible instances at up to 90% discount, free egress tier of 200GB. A VPS in the Google cloud.
 - [Jenkins](https://www.jenkins.io/) - Self-hosted automation server: CI/CD pipelines with plugin ecosystem; free, MIT.
 - [Kubernetes](https://kubernetes.io/) - Container orchestration: scheduling, scaling, self-healing, service discovery; free, CNCF project.
+- [Lightning AI](https://lightning.ai) - AI cloud for building, training and deploying models with on-demand GPUs
 - [MEGA](https://mega.io/ru/) - MEGA drive, free 20GB
 - [Microsoft Azure](https://azure.microsoft.com/en-us) - Microsoft's public cloud platform: compute, storage, databases, AI services, networking; free account with always-free services and 12-month credits.
 - [Neon](https://neon.com/) - Serverless Postgres: git-like database branching (a copy of the database for each branch/preview), autoscale to zero, generous free tier. A foundation for modern SaaS.
@@ -41,6 +46,7 @@
 - [Supabase](https://supabase.com/) - Open-source Firebase alternative: Postgres, realtime subscriptions, auth, storage, edge functions, auto-generated API. Has a generous free tier.
 - [TeraBox](https://www.terabox.com/russian) - free terabyte
 - [Terraform](https://developer.hashicorp.com/terraform) - HashiCorp infrastructure-as-code: declarative resources for clouds and services; free core, paid cloud.
+- [Vultr](https://vultr.com) - Cloud platform with compute, GPU instances and managed services
 
 ## Domains
 - [Cloudflare Registrar](https://domains.cloudflare.com/) - Domains at cost + free WHOIS privacy

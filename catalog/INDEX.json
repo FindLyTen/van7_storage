@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1689,
+ "items_total": 1700,
  "categories_total": 117,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 522,
+   "count": 526,
    "subsections": [
     {
      "id": "ai_memory",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 86
+     "count": 90
     },
     {
      "id": "ai_avatar",
@@ -407,12 +407,12 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 130,
+   "count": 136,
    "subsections": [
     {
      "id": "infra_cloud",
      "name": "Cloud",
-     "count": 31
+     "count": 37
     },
     {
      "id": "infra_domain",
@@ -510,7 +510,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 41,
+   "count": 42,
    "subsections": [
     {
      "id": "media_comp",
@@ -535,7 +535,7 @@
     {
      "id": "media_video",
      "name": "Video Editing",
-     "count": 17
+     "count": 18
     }
    ],
    "json": "catalog/media.json",

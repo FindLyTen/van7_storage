@@ -12760,6 +12760,83 @@
       "desc": "MCP server for TikTok video analysis via TikNeuron API: subtitles, post details, search.",
       "url": "https://github.com/seym0n/tiktok-mcp",
       "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733721337",
+      "name": "Baseten",
+      "desc": "AI inference platform for deploying open-source models in production",
+      "url": "https://baseten.co",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733721338",
+      "name": "Bitdeer AI",
+      "desc": "NVIDIA GPU cloud and AI infrastructure platform",
+      "url": "https://bitdeer.ai",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721339",
+      "name": "CoreWeave",
+      "desc": "AI cloud platform with NVIDIA GPU infrastructure for training and inference",
+      "url": "https://coreweave.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721340",
+      "name": "DeepInfra",
+      "desc": "AI inference cloud with APIs for open-source models",
+      "url": "https://deepinfra.com",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733721341",
+      "name": "DigitalOcean",
+      "desc": "Cloud platform with compute, GPU instances and managed services",
+      "url": "https://digitalocean.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721342",
+      "name": "Fireworks AI",
+      "desc": "Inference platform for running and fine-tuning open AI models",
+      "url": "https://fireworks.ai",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733721343",
+      "name": "GMI Cloud",
+      "desc": "AI cloud for GPU compute, inference and agents on NVIDIA infrastructure",
+      "url": "https://gmicloud.ai",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721344",
+      "name": "Lightning AI",
+      "desc": "AI cloud for building, training and deploying models with on-demand GPUs",
+      "url": "https://lightning.ai",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721345",
+      "name": "Together AI",
+      "desc": "AI platform for inference, fine-tuning and GPU clusters with open models",
+      "url": "https://together.ai",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733721346",
+      "name": "Vultr",
+      "desc": "Cloud platform with compute, GPU instances and managed services",
+      "url": "https://vultr.com",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733721347",
+      "name": "BridgeClip",
+      "desc": "Open-source desktop app that turns long videos into captioned short clips using your own AI key",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "cat": "media_video"
     }
   ]
 }
