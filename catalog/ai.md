@@ -8,7 +8,7 @@
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (92)
+- [API & MCP](#api-mcp) (94)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (32)
@@ -303,6 +303,7 @@
 - [Instagram MCP](https://github.com/mcpware/instagram-mcp) - MCP server for Instagram using official Graph API on your own business account.
 - [iPhone MCP](https://github.com/blitzdotdev/iphone-mcp) - MCP server that lets AI agents control real iPhones and simulators on macOS.
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platform: Strata connectors optimize agent context window across thousands of tools, plus MCP servers for Slack/GitHub/Docs and custom tools; Python, SaaS + open source; Apache-2.0.
+- [LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn: read profiles, companies, jobs and messages through your own browser session.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Open-source AI gateway calling 100+ LLM APIs in OpenAI format with cost control, routing, budgets and fallbacks; self-host proxy or SDK
 - [Markitdown MCP](https://github.com/trsdn/markitdown-mcp) - MCP server that converts 29+ file formats to Markdown for Claude Desktop and AI workflows.
 - [MCP Email Server](https://github.com/Wh1isper/mcp-email-server) - Full-featured multi-account MCP email server: read, search, organize and send via IMAP and SMTP on Windows, macOS and Linux; scheduled actions; Python; BSD-3-Clause.
@@ -323,6 +324,7 @@
 - [MySQL MCP Server (benborla)](https://github.com/benborla/mcp-server-mysql) - MCP server for MySQL: schema inspection, read-only SQL queries by default with opt-in writes, SSH tunnels, multi-database mode, PII redaction; npx; TypeScript; MIT.
 - [new-api](https://github.com/QuantumNous/new-api) - Open-source self-hosted LLM gateway with OpenAI/Claude/Gemini-compatible APIs, model routing, accounts and billing; one panel for many providers
 - [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) - Self-hosted MCP server for the Notion API: read and edit pages, query databases, keyword search. No longer actively maintained; Notion recommends hosted Remote Notion MCP.
+- [NVIDIA Build (NIM)](https://build.nvidia.com/) - NVIDIA API catalog (NIM): free inference endpoints and agentic skills for building AI applications.
 - [OpenCode Zen](https://opencode.ai/zen) - Curated model set for coding agents from the OpenCode team: models tested and benchmarked for agent use, transparent per-request pricing with zero markup, monthly spend limits; proprietary SaaS.
 - [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) - Oxylabs Web API MCP server: search, scrape to Markdown/JSON/screenshot, async polling, target scrapers, token-aware output; Python 3.10+, self-host; MIT.
 - [pi-anyrouter](https://github.com/xifan2333/pi-anyrouter) - Pi provider extension adapting requests to client-specific shapes accepted by Any_router Claude Code and Codex Responses Lite routes

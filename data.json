@@ -913,6 +913,14 @@
       "parentId": "biz"
     },
     {
+      "color": "#eab308",
+      "emoji": "💼",
+      "icon": null,
+      "id": "biz_jobs",
+      "name": "Jobs",
+      "parentId": "biz"
+    },
+    {
       "color": "#6366f1",
       "emoji": "⚡",
       "icon": null,
@@ -12900,6 +12908,34 @@
       "desc": "Desktop app for running AI coding agents: workspaces with tabs and panes, agent state detection, helper agents, SSH machines, layouts and mods. Open source.",
       "url": "https://herdr.dev/",
       "cat": "ai_agents"
+    },
+    {
+      "id": "it_17939144453269",
+      "name": "LinkedIn MCP Server",
+      "desc": "Open-source MCP server for LinkedIn: read profiles, companies, jobs and messages through your own browser session.",
+      "url": "https://github.com/stickerdaniel/linkedin-mcp-server",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_17939144453270",
+      "name": "LeadHunt",
+      "desc": "Business lead generation platform with verified contact data, CRM, pipelines and voice agents; connect your own API keys.",
+      "url": "https://leadhunt.info/",
+      "cat": "biz_mkt"
+    },
+    {
+      "id": "it_17939144453271",
+      "name": "OpenOutreach",
+      "desc": "Self-hosted open-source AI agent for B2B lead generation: describe your product, it finds matching people and writes emails from your mailbox.",
+      "url": "https://github.com/eracle/OpenOutreach",
+      "cat": "biz_mkt"
+    },
+    {
+      "id": "it_17939144453272",
+      "name": "NVIDIA Build (NIM)",
+      "desc": "NVIDIA API catalog (NIM): free inference endpoints and agentic skills for building AI applications.",
+      "url": "https://build.nvidia.com/",
+      "cat": "ai_api"
     }
   ]
 }

@@ -5,7 +5,8 @@
 ## Contents
 - [CRM](#crm) (9)
 - [Crypto & Wallets](#crypto-wallets) (1)
-- [Marketing & SEO](#marketing-seo) (59)
+- [Jobs](#jobs) (0)
+- [Marketing & SEO](#marketing-seo) (61)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
@@ -26,6 +27,9 @@
 
 ## Crypto & Wallets
 - [Exodus](https://www.exodus.com/) - Self-custodial cryptocurrency wallet for sending, swapping and managing crypto assets
+
+## Jobs
+_(empty)_
 
 ## Marketing & SEO
 - [Ahrefs](https://ahrefs.com/) - SEO platform on own web index: Site/Keywords Explorer, Rank Tracker, Site Audit, Content Explorer, Brand Radar for AI-chatbot visibility. Free tools + AI Visibility Checker; core paid.
@@ -49,12 +53,14 @@
 - [Google Keyword Planner](https://business.google.com/en-all/ad-tools/keyword-planner/) - Free keyword research tool inside Google Ads: related keyword ideas, search volume and its trend, bid estimates and click/impression forecasts. Requires a Google Ads account with at least one campaign, in Expert Mode.
 - [Google Trends](https://trends.google.com/trends/) - Free Google tool for exploring search interest in terms and topics by time, region and popularity, with a Trending Now view of what people searched for in the last 24 hours.
 - [Launch Llama](https://tools.launchllama.co/) - free startup launch platform; submit and promote your startup; for founders; permanent free listing; backlinks
+- [LeadHunt](https://leadhunt.info/) - Business lead generation platform with verified contact data, CRM, pipelines and voice agents; connect your own API keys.
 - [LinkedIn MCP](https://github.com/mcp-layer/linkedin-mcp-server) - LinkedIn posting via official REST API (no official LinkedIn MCP): free-ish, LinkedIn app/OAuth; official API = safe; avoid cookie wrappers.
 - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders) - Curated link list for getting the first 10/100/1000 users: launch sites, SEO, AEO/GEO, Reddit, cold outreach, email, pricing, landing pages, validation. CC-BY-SA-4.0.
 - [Matomo](https://matomo.org/) - Open-source web analytics — a private replacement for Google Analytics: visits, goals, funnels, self-host.
 - [Microlaunch](https://microlaunch.net/) - launch platform for makers and startups; launch, get feedback, make first sales; for makers; free and paid
 - [Nick Launches](https://nicklaunches.com/) - build and launch AI products faster; tutorials, AI tool reviews, launch strategies; for developers; free
 - [Okara](https://okara.ai/) - AI chief marketing officer service: SEO, Reddit engagement and content writing agents producing actionable marketing insights and opportunities around the clock; commercial SaaS.
+- [OpenOutreach](https://github.com/eracle/OpenOutreach) - Self-hosted open-source AI agent for B2B lead generation: describe your product, it finds matching people and writes emails from your mailbox.
 - [OpenReply](https://github.com/diwenne/openreply) - AI reply assistant: generates replies to reviews/comments/emails.
 - [OpenSEO](https://openseo.so/) - An open-source SEO platform: site audit and analytics, self-host.
 - [PeerPush](https://peerpush.net/) - product discovery platform for people and AI; structured product data; for builders; free; AI discoverability

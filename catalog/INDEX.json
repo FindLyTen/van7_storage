@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1709,
- "categories_total": 117,
+ "items_total": 1713,
+ "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 531,
+   "count": 533,
    "subsections": [
     {
      "id": "ai_memory",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 92
+     "count": 94
     },
     {
      "id": "ai_avatar",
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 140,
+   "count": 142,
    "subsections": [
     {
      "id": "biz_crm",
@@ -138,9 +138,14 @@
      "count": 1
     },
     {
+     "id": "biz_jobs",
+     "name": "Jobs",
+     "count": 0
+    },
+    {
      "id": "biz_mkt",
      "name": "Marketing & SEO",
-     "count": 59
+     "count": 61
     },
     {
      "id": "biz_realty",
