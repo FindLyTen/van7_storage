@@ -12837,6 +12837,69 @@
       "desc": "Open-source desktop app that turns long videos into captioned short clips using your own AI key",
       "url": "https://github.com/bridge-mind/bridgeclip",
       "cat": "media_video"
+    },
+    {
+      "id": "it_17939144453260",
+      "name": "Notion MCP Server",
+      "desc": "Self-hosted MCP server for the Notion API: read and edit pages, query databases, keyword search. No longer actively maintained; Notion recommends hosted Remote Notion MCP.",
+      "url": "https://github.com/makenotion/notion-mcp-server",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_17939144453261",
+      "name": "Roblox Studio MCP",
+      "desc": "MCP server for Roblox Studio: debug live games, run Luau, control playtests, capture screenshots, logs, memory and profiler data from AI agents.",
+      "url": "https://github.com/chrrxs/robloxstudio-mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_17939144453262",
+      "name": "Sand3D",
+      "desc": "3D library of 100K open-source objects written as code (Sand3D); dataset on Hugging Face, GitHub library, meshes for Blender, three.js and glTF.",
+      "url": "https://sandflow.ai/sand3d/",
+      "cat": "design_3d"
+    },
+    {
+      "id": "it_17939144453263",
+      "name": "Looper",
+      "desc": "Autonomous AI dev team for GitHub and Forgejo repos: planner, reviewer, fixer and worker loops that plan, review, fix and ship pull requests.",
+      "url": "https://github.com/nexu-io/looper",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_17939144453264",
+      "name": "Firecracker",
+      "desc": "Open-source microVM virtualization (KVM) for secure, fast serverless workloads; underlies AWS Lambda microVMs. Apache 2.0.",
+      "url": "https://firecracker-microvm.github.io/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_17939144453265",
+      "name": "MCP for Blender",
+      "desc": "Community MCP plugin to control Blender 3D with any LLM: modeling, materials, assets, AI model generation. Not affiliated with Blender Foundation.",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "cat": "design_3d"
+    },
+    {
+      "id": "it_17939144453266",
+      "name": "NVM",
+      "desc": "Node Version Manager: POSIX bash script to install and switch between multiple active Node.js versions per user and shell.",
+      "url": "https://github.com/nvm-sh/nvm",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_17939144453267",
+      "name": "Claudex Loop",
+      "desc": "Claude Code and Codex skills for plan hardening: reconnaissance, adversarial review, build and independent inspection before code is written.",
+      "url": "https://github.com/chaseai-yt/claudex-loop",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_17939144453268",
+      "name": "Herdr (herdrdev)",
+      "desc": "Desktop app for running AI coding agents: workspaces with tabs and panes, agent state detection, helper agents, SSH machines, layouts and mods. Open source.",
+      "url": "https://herdr.dev/",
+      "cat": "ai_agents"
     }
   ]
 }

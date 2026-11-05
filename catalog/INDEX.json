@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1700,
+ "items_total": 1709,
  "categories_total": 117,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 526,
+   "count": 531,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,7 +18,7 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 139
+     "count": 141
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 90
+     "count": 92
     },
     {
      "id": "ai_avatar",
@@ -68,7 +68,7 @@
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 86
+     "count": 87
     },
     {
      "id": "ai_voice",
@@ -217,12 +217,12 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 88,
+   "count": 90,
    "subsections": [
     {
      "id": "design_3d",
      "name": "3D",
-     "count": 5
+     "count": 7
     },
     {
      "id": "design_anim",
@@ -263,7 +263,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 110,
+   "count": 112,
    "subsections": [
     {
      "id": "dev_api",
@@ -278,7 +278,7 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 21
+     "count": 23
     },
     {
      "id": "dev_edit",

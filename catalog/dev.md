@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Developer Tools](#developer-tools) (21)
+- [Developer Tools](#developer-tools) (23)
 - [Editors](#editors) (57)
 - [Terminals](#terminals) (5)
 - [Visualization](#visualization) (7)
@@ -31,12 +31,14 @@
 - [CodeRabbit](https://www.coderabbit.ai/) - Independent AI code review with PR triage, change explanations, and continuous security monitoring.
 - [Drizzle ORM](https://drizzle.team) - TypeScript ORM for SQL databases.
 - [E2B](https://e2b.dev/) - Isolated cloud machines for AI agents to run code, browse, and use tools.
+- [Firecracker](https://firecracker-microvm.github.io/) - Open-source microVM virtualization (KVM) for secure, fast serverless workloads; underlies AWS Lambda microVMs. Apache 2.0.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - List of free software development services and cloud tiers.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) - Command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, and Admin, built from Google Discovery Service.
 - [Humanizer](https://github.com/humanizr/humanizer) - .NET library for manipulating and displaying strings, enums, dates, times, numbers, and quantities.
 - [jq](https://jqlang.org/) - Lightweight command line JSON processor for slicing, filtering and mapping JSON data
 - [Next.js](https://nextjs.org) - React framework for building production web applications.
 - [Node.js](https://nodejs.org) - JavaScript runtime built on Chrome's V8 engine.
+- [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager: POSIX bash script to install and switch between multiple active Node.js versions per user and shell.
 - [OpenWiki](https://github.com/langchain-ai/openwiki) - CLI that writes and maintains agent documentation for your codebase.
 - [Prisma](https://www.prisma.io) - TypeScript and Node.js ORM for databases.
 - [ProjectAtlas](https://github.com/styler-ai/ProjectAtlas) - Local repository map CLI and MCP server giving coding agents purposes, sources, symbols, and dependencies.

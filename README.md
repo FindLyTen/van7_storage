@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1700 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1709 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.
@@ -18,12 +18,12 @@ Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without conne
 ## Catalog
 | Section | Tools | Subsections | Human page | Machine file |
 | --- | ---: | ---: | --- | --- |
-| 🤖 AI & Agents | 526 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
+| 🤖 AI & Agents | 531 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
 | ⚙️ Automation | 100 | 6 | [catalog/auto.md](catalog/auto.md) | [catalog/auto.json](catalog/auto.json) |
 | 💼 Business | 140 | 8 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
 | 💬 Communications | 31 | 6 | [catalog/chat.md](catalog/chat.md) | [catalog/chat.json](catalog/chat.json) |
-| 🎨 Design | 88 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
-| 💻 Development | 110 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
+| 🎨 Design | 90 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
+| 💻 Development | 112 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
 | 📱 Devices | 60 | 4 | [catalog/devices.md](catalog/devices.md) | [catalog/devices.json](catalog/devices.json) |
 | 🎮 Games | 14 | 4 | [catalog/games.md](catalog/games.md) | [catalog/games.json](catalog/games.json) |
 | 🛡️ Hacking | 172 | 6 | [catalog/hack.md](catalog/hack.md) | [catalog/hack.json](catalog/hack.json) |

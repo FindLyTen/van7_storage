@@ -4,17 +4,17 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (28)
-- [AI Agents](#ai-agents) (139)
+- [AI Agents](#ai-agents) (141)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (90)
+- [API & MCP](#api-mcp) (92)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (32)
 - [Local Models](#local-models) (25)
 - [Routers & Gateways](#routers-gateways) (15)
-- [Skills](#skills) (86)
+- [Skills](#skills) (87)
 - [Voice & Transcription](#voice-transcription) (13)
 
 ## Agent Memory
@@ -107,6 +107,7 @@
 - [Helicone](https://github.com/Helicone/helicone) - LLM observability platform for tracing, evaluating, and monitoring AI applications.
 - [helmor](https://github.com/dohooo/helmor) - desktop app (IDE) for macOS for orchestrating several AI coding agents at once
 - [herdr](https://github.com/ogulcancelik/herdr) - terminal multiplexer for AI coding agents. Lives in a regular terminal, provides workspaces with tabs and panes, automatically detects the state of agents
+- [Herdr (herdrdev)](https://herdr.dev/) - Desktop app for running AI coding agents: workspaces with tabs and panes, agent state detection, helper agents, SSH machines, layouts and mods. Open source.
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent) - This is a personal AI agent that teaches itself and remembers: it lives even on a cheap server, is available via Telegram or another messenger, and over time creates new skills for itself and gets to know you better.
 - [HeyAgent](https://github.com/SAFIYEV/HeyAgent) - AI agent that controls your computer on its own: presses buttons, opens the browser, writes in Google Docs, and via Telegram you can give it tasks right from your phone.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - LLM evaluation framework by UK AI Security Institute: prompt engineering, tools, multi-turn dialog, model-graded evals, 200+ prebuilt evals, extensible via Python packages; MIT.
@@ -119,6 +120,7 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - LangChain low-level orchestration framework for building resilient stateful AI agents: graphs, checkpoints, human-in-the-loop, durable execution; Python and JavaScript; MIT.
 - [LangWatch](https://github.com/langwatch/langwatch) - AI production platform: trace, test, route and govern company LLM calls and coding agents (npx langwatch claude/codex); self-host on Node.js 24 or cloud; TypeScript; Apache-2.0 core + enterprise.
 - [Local Operator](https://github.com/damianvtran/local-operator) - Open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run around the clock and share existing AI subscriptions; MIT.
+- [Looper](https://github.com/nexu-io/looper) - Autonomous AI dev team for GitHub and Forgejo repos: planner, reviewer, fixer and worker loops that plan, review, fix and ship pull requests.
 - [Lovable](https://lovable.dev/) - AI full-stack app builder: prompt to React web apps with GitHub sync and database; free tier plus paid plans.
 - [MagesticAI](https://github.com/dataseeek/MagesticAI) - web platform (a fork of the Aperant project) for managing several AI agents through a browser
 - [Mastra](https://mastra.ai/) - TypeScript AI framework for agents with memory, tools, MCP, and observability.
@@ -320,6 +322,7 @@
 - [MS 365 MCP Server](https://github.com/Softeria/ms-365-mcp-server) - MCP server for Microsoft 365 via Graph API: Excel, calendar, mail, OneDrive, Teams, Outlook personal and business scopes; 100+ tools; Python; MIT.
 - [MySQL MCP Server (benborla)](https://github.com/benborla/mcp-server-mysql) - MCP server for MySQL: schema inspection, read-only SQL queries by default with opt-in writes, SSH tunnels, multi-database mode, PII redaction; npx; TypeScript; MIT.
 - [new-api](https://github.com/QuantumNous/new-api) - Open-source self-hosted LLM gateway with OpenAI/Claude/Gemini-compatible APIs, model routing, accounts and billing; one panel for many providers
+- [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) - Self-hosted MCP server for the Notion API: read and edit pages, query databases, keyword search. No longer actively maintained; Notion recommends hosted Remote Notion MCP.
 - [OpenCode Zen](https://opencode.ai/zen) - Curated model set for coding agents from the OpenCode team: models tested and benchmarked for agent use, transparent per-request pricing with zero markup, monthly spend limits; proprietary SaaS.
 - [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) - Oxylabs Web API MCP server: search, scrape to Markdown/JSON/screenshot, async polling, target scrapers, token-aware output; Python 3.10+, self-host; MIT.
 - [pi-anyrouter](https://github.com/xifan2333/pi-anyrouter) - Pi provider extension adapting requests to client-specific shapes accepted by Any_router Claude Code and Codex Responses Lite routes
@@ -331,6 +334,7 @@
 - [Reddit MCP Server](https://github.com/jordanburke/reddit-mcp-server) - MCP server for fetching and creating Reddit content via official API with your own account.
 - [Redis MCP Server](https://github.com/redis/mcp-redis) - Official Redis MCP server: natural-language interface for agentic storage, vector search, caching and streams over ACL-restricted tools; pip install mcp-redis; Python; MIT.
 - [Resend MCP](https://github.com/resend/resend-mcp) - Official Resend MCP server: send emails and manage domains and audiences from AI agents; Resend API key required; TypeScript; MIT.
+- [Roblox Studio MCP](https://github.com/chrrxs/robloxstudio-mcp) - MCP server for Roblox Studio: debug live games, run Luau, control playtests, capture screenshots, logs, memory and profiler data from AI agents.
 - [Search Console MCP (AminForou)](https://github.com/AminForou/mcp-gsc) - Search Console MCP: queries, countries, devices, sitemap, indexing status; free, Google OAuth; active (updated Sep 2026), Python/uvx.
 - [Search Console MCP (Suganthan)](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) - Search Console MCP with 29 SEO tools: quick wins, content decay, CTR benchmarks, image audit; free, Google OAuth; very active (v2.5, Aug 2026).
 - [Semgrep MCP](https://github.com/semgrep/mcp) - Security scanning MCP for code diffs: finds vulnerabilities in PRs and local changes; freemium with free tier; official Semgrep, active.
@@ -490,6 +494,7 @@
 - [Claude Obsidian](https://github.com/AgriciDaniel/claude-obsidian) - AI second brain for Obsidian as 15 skills + 3 agents for Claude Code, Codex, OpenCode and others: sources become a linked Markdown knowledge graph; MIT.
 - [Claude Remotion Skill](https://github.com/haidrrrry/claude-remotion-skill) - Claude agent skill for Remotion motion graphics: springs, staggered choreography, color grade, grain, synced captions, sound design; enforced render-inspect-fix loop; MIT.
 - [claude-motion](https://github.com/whaleyxbt/claude-motion) - Motion design toolkit for coding agents: taste rules, mandatory render-and-inspect loop, sound engine, and web-sim-to-60fps-video rendering; Claude Code/Cursor skills with AGENTS.md fallback; MIT.
+- [Claudex Loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code and Codex skills for plan hardening: reconnaissance, adversarial review, build and independent inspection before code is written.
 - [Clean Code Skills](https://github.com/btseee/clean-code-skills) - Agent skill for clean code and clean architecture: rule packs for 21 languages and 27 frameworks, repo structure map, project context loading; works with Claude Code, Codex, Cursor; MIT.
 - [Cloudflare Security Audit Skill](https://github.com/cloudflare/security-audit-skill) - Claude Code skill from Cloudflare: security audit of web projects via GraphQL/Security Graph.
 - [Cronanalytics](https://github.com/8bit64k/cronalytics) - plugin for Hermes Agent (a framework for autonomous agents) that calculates how much your cron jobs cost: tokens, money, success/failure of runs, for each job
