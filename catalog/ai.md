@@ -4,7 +4,7 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (28)
-- [AI Agents](#ai-agents) (141)
+- [AI Agents](#ai-agents) (140)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
@@ -106,7 +106,6 @@
 - [Harness²](https://github.com/google-research/harness2) - AI agent framework: recursive agent harnessing for open-world tasks; Propose-Probe-Compose recursion; OpenCode and Codex executors; JobBench/LAB/WorkBuddy-Bench; Python 3.12, uv; Apache-2.0.
 - [Helicone](https://github.com/Helicone/helicone) - LLM observability platform for tracing, evaluating, and monitoring AI applications.
 - [helmor](https://github.com/dohooo/helmor) - desktop app (IDE) for macOS for orchestrating several AI coding agents at once
-- [herdr](https://github.com/ogulcancelik/herdr) - terminal multiplexer for AI coding agents. Lives in a regular terminal, provides workspaces with tabs and panes, automatically detects the state of agents
 - [Herdr (herdrdev)](https://herdr.dev/) - Desktop app for running AI coding agents: workspaces with tabs and panes, agent state detection, helper agents, SSH machines, layouts and mods. Open source.
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent) - This is a personal AI agent that teaches itself and remembers: it lives even on a cheap server, is available via Telegram or another messenger, and over time creates new skills for itself and gets to know you better.
 - [HeyAgent](https://github.com/SAFIYEV/HeyAgent) - AI agent that controls your computer on its own: presses buttons, opens the browser, writes in Google Docs, and via Telegram you can give it tasks right from your phone.

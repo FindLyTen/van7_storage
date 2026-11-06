@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1714,
+ "items_total": 1713,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 533,
+   "count": 532,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,7 +18,7 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 141
+     "count": 140
     },
     {
      "id": "ai_image",

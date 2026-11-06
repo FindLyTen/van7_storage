@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1714 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1713 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.
@@ -18,7 +18,7 @@ Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without conne
 ## Catalog
 | Section | Tools | Subsections | Human page | Machine file |
 | --- | ---: | ---: | --- | --- |
-| 🤖 AI & Agents | 533 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
+| 🤖 AI & Agents | 532 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
 | ⚙️ Automation | 100 | 6 | [catalog/auto.md](catalog/auto.md) | [catalog/auto.json](catalog/auto.json) |
 | 💼 Business | 143 | 9 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
 | 💬 Communications | 31 | 6 | [catalog/chat.md](catalog/chat.md) | [catalog/chat.json](catalog/chat.json) |
