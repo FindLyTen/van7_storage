@@ -9,7 +9,7 @@
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
 - [Tools](#tools) (19)
-- [UI Libraries](#ui-libraries) (30)
+- [UI Libraries](#ui-libraries) (32)
 - [Other](#other) (4)
 
 ## 3D
@@ -95,6 +95,7 @@
 - [Figma Make](https://www.figma.com/make/) - AI-powered website and app builder that turns Figma designs into code.
 - [Framer](https://www.framer.com) - AI website builder for designing and publishing sites visually.
 - [Game UI Database](https://www.gameuidatabase.com/index.php) - Reference gallery of 79000+ game UI screenshots and videos for UI and UX designers
+- [GradientDeck UI](https://ui.gradientdeck.com/) - Design references from real websites: colors, typography, spacing, components and rules your AI agent can follow. Built for Claude Code, Codex and Cursor.
 - [Kokonut UI](https://kokonutui.com/) - Copy-paste UI components for React
 - [Lazyweb](https://www.lazyweb.com/) - research of modern designs and copying them
 - [Liquid Glass Design](https://liquidglassdesign.com/) - Resource on “liquid glass” style design (Apple's glassmorphism 2.0): collection of CSS effects, examples, tools for iOS 26 style.
@@ -110,6 +111,7 @@
 - [UI Unlumen](https://ui.unlumen.com/) - Minimalist UI components
 - [Universe IO](https://uiverse.io/) - A library of open-source UI components: buttons, cards, toggles
 - [v0](https://v0.dev) - AI web app builder by Vercel that generates React code from prompts.
+- [Waspes](https://waspes.com/) - AI website builder and 3D studio: describe your business in plain English and get a responsive website with live preview, contact form, custom domain and HTML export in about 60 seconds.
 - [Webflow](https://webflow.com) - Visual website builder with AI features for professional sites.
 
 ## Other

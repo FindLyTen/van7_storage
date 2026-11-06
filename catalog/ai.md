@@ -3,15 +3,15 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Agent Memory](#agent-memory) (28)
-- [AI Agents](#ai-agents) (140)
+- [Agent Memory](#agent-memory) (29)
+- [AI Agents](#ai-agents) (141)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (1)
 - [AI Video](#ai-video) (37)
 - [API & MCP](#api-mcp) (94)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
-- [Collections](#collections) (32)
+- [Collections](#collections) (33)
 - [Local Models](#local-models) (25)
 - [Routers & Gateways](#routers-gateways) (15)
 - [Skills](#skills) (87)
@@ -19,6 +19,7 @@
 
 ## Agent Memory
 - [Agent Memory](https://github.com/rohitg00/agentmemory) - Memory for AI agents: saves and recalls context
+- [Auto Ontology](https://github.com/NVIDIA/auto-ontology) - Open library that builds an enterprise ontology and knowledge-graph context layer from metadata, reconciles definitions across systems, exposes it to agents via MCP, CLI and API.
 - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory) - A collection of projects on AI agent memory: vector DBs, long-term memory, RAG stores and context frameworks, all in one list with links.
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source vector database for AI apps: stores embeddings, semantic search, client-server mode, Python/JS clients; Apache-2.0; 29k stars.
 - [Cognee](https://github.com/topoteretes/cognee) - Open source AI memory platform giving agents persistent long term memory through knowledge graphs
@@ -70,6 +71,7 @@
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft framework for multi-agent systems: LLM assistant agents, autonomous interaction, human-in-the-loop, group chats and code execution.
 - [Bolt.new](https://bolt.new/) - StackBlitz web-based AI agent: prompt full-stack apps in the browser with WebContainers, no local setup; free tier plus paid.
 - [Buzz](https://github.com/block/buzz) - Self-hosted work chat (Slack-like) where AI agents are full employees: code, review, collaborate in channels alongside humans.
+- [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turns a Claude Code session into a coordinated game development studio with 49 specialized agents, 74 skills, hooks and rules across design, programming, art, audio, narrative and QA.
 - [Claude Commerce Agents](https://claude.com/blog/claude-for-commerce-agents) - Anthropic blueprint for commerce agents on Claude: reference shopping/merchant agents + Claude Code plugin; buildable with Messages API/Agent SDK, deployable via Claude API/Bedrock/Foundry/Vertex.
 - [Claude Context](https://github.com/zilliztech/claude-context) - tool that gives Claude Code "memory" of your whole project, even if it is huge
 - [Cline](https://github.com/cline/cline) - AI coding agent in VS Code: writes, edits and runs code itself, with access to the terminal and browser
@@ -410,6 +412,7 @@
 - [Awesome Opus 5.5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - Collection of 418 viral videos made with Claude Opus 5.5 animation-as-code (HTML, Canvas, SVG, Three.js), each with its creator prompt, plus 703 prompts in the repo; MIT.
 - [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) - Collection: Anthropic cookbook of copyable code recipes and guides for building with the Claude API; Python; MIT.
 - [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) - Anthropic's collection of Claude API starter projects: customer support agent, financial data analyst, computer use and browser use demos; official sample agents; MIT.
+- [Figma MCP Catalog](https://www.figma.com/mcp-catalog/) - Figma MCP catalog: MCP server that adds Figma context (design files, components, variables) to agentic coding tools.
 - [FindOpenSource.dev](https://findopensource.dev/) - Web directory: curated open-source projects ranked by real signals, not only stars; categories, trending, alternatives, updated daily from GitHub; 500+ projects tracked; free site.
 - [Future Tools](https://futuretools.io/) - AI news and tools directory; curated AI picks; for AI users; free; newsletter
 - [Futurepedia](https://futurepedia.io/) - AI tools and software directory; updated daily; for professionals; free; newsletter

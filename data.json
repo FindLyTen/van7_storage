@@ -2801,7 +2801,6 @@
       "name": "CyberStrikeAI",
       "url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
     },
-
     {
       "cat": "auto_selfhost",
       "desc": "huge curated list of self-hosted software",
@@ -12937,6 +12936,41 @@
       "desc": "Open base of job vacancies and freelance orders from boards, RSS and Telegram; self-hosted shared hub with browser extension, MCP server and Python SDK.",
       "url": "https://github.com/MikhailSagalaev/openradar",
       "cat": "biz_jobs"
+    },
+    {
+      "id": "it_1793971941869",
+      "name": "GradientDeck UI",
+      "desc": "Design references from real websites: colors, typography, spacing, components and rules your AI agent can follow. Built for Claude Code, Codex and Cursor.",
+      "url": "https://ui.gradientdeck.com/",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793971941870",
+      "name": "Auto Ontology",
+      "desc": "Open library that builds an enterprise ontology and knowledge-graph context layer from metadata, reconciles definitions across systems, exposes it to agents via MCP, CLI and API.",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793971941871",
+      "name": "Claude Code Game Studios",
+      "desc": "Turns a Claude Code session into a coordinated game development studio with 49 specialized agents, 74 skills, hooks and rules across design, programming, art, audio, narrative and QA.",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793971941872",
+      "name": "Waspes",
+      "desc": "AI website builder and 3D studio: describe your business in plain English and get a responsive website with live preview, contact form, custom domain and HTML export in about 60 seconds.",
+      "url": "https://waspes.com/",
+      "cat": "design_ui"
+    },
+    {
+      "id": "it_1793971941873",
+      "name": "Figma MCP Catalog",
+      "desc": "Figma MCP catalog: MCP server that adds Figma context (design files, components, variables) to agentic coding tools.",
+      "url": "https://www.figma.com/mcp-catalog/",
+      "cat": "ai_lists"
     }
   ]
 }
