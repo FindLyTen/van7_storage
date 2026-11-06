@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1713,
+ "items_total": 1714,
  "categories_total": 118,
  "sections": [
   {
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 142,
+   "count": 143,
    "subsections": [
     {
      "id": "biz_crm",
@@ -140,7 +140,7 @@
     {
      "id": "biz_jobs",
      "name": "Jobs",
-     "count": 0
+     "count": 1
     },
     {
      "id": "biz_mkt",

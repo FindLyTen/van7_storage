@@ -5,7 +5,7 @@
 ## Contents
 - [CRM](#crm) (9)
 - [Crypto & Wallets](#crypto-wallets) (1)
-- [Jobs](#jobs) (0)
+- [Jobs](#jobs) (1)
 - [Marketing & SEO](#marketing-seo) (61)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
@@ -29,7 +29,7 @@
 - [Exodus](https://www.exodus.com/) - Self-custodial cryptocurrency wallet for sending, swapping and managing crypto assets
 
 ## Jobs
-_(empty)_
+- [openradar](https://github.com/MikhailSagalaev/openradar) - Open base of job vacancies and freelance orders from boards, RSS and Telegram; self-hosted shared hub with browser extension, MCP server and Python SDK.
 
 ## Marketing & SEO
 - [Ahrefs](https://ahrefs.com/) - SEO platform on own web index: Site/Keywords Explorer, Rank Tracker, Site Audit, Content Explorer, Brand Radar for AI-chatbot visibility. Free tools + AI Visibility Checker; core paid.

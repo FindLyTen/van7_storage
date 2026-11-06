@@ -12936,6 +12936,13 @@
       "desc": "NVIDIA API catalog (NIM): free inference endpoints and agentic skills for building AI applications.",
       "url": "https://build.nvidia.com/",
       "cat": "ai_api"
+    },
+    {
+      "id": "it_17939144453273",
+      "name": "openradar",
+      "desc": "Open base of job vacancies and freelance orders from boards, RSS and Telegram; self-hosted shared hub with browser extension, MCP server and Python SDK.",
+      "url": "https://github.com/MikhailSagalaev/openradar",
+      "cat": "biz_jobs"
     }
   ]
 }
