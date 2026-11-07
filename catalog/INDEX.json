@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1718,
+ "items_total": 1723,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 535,
+   "count": 540,
    "subsections": [
     {
      "id": "ai_memory",
@@ -28,7 +28,7 @@
     {
      "id": "ai_search",
      "name": "AI Search",
-     "count": 1
+     "count": 2
     },
     {
      "id": "ai_video",
@@ -68,7 +68,7 @@
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 87
+     "count": 91
     },
     {
      "id": "ai_voice",

@@ -12971,6 +12971,41 @@
       "desc": "Figma MCP catalog: MCP server that adds Figma context (design files, components, variables) to agentic coding tools.",
       "url": "https://www.figma.com/mcp-catalog/",
       "cat": "ai_lists"
+    },
+    {
+      "id": "it_1793733331825079763",
+      "name": "HOLA",
+      "desc": "Black-box hyperparameter optimization library (Python/Rust): define a parameter space and objective, get trial suggestions; local or distributed ask/tell server.",
+      "url": "https://github.com/blackrock/HOLA",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079764",
+      "name": "Drex Agent Skills",
+      "desc": "Claude Code/OpenCode skills that teach agents to make yes/no, choice and score decisions with calibrated probabilities via Drex; local scan or hosted API.",
+      "url": "https://github.com/nace-ai/drex-agent-skills",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079765",
+      "name": "LinkedIn Skills",
+      "desc": "Claude Code and Codex skills for LinkedIn: write posts, comments and replies, audit drafts and plan content; every draft awaits approval before publishing.",
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079766",
+      "name": "Facebook Skills",
+      "desc": "Claude Code and Codex skills for Facebook Pages: write short and story posts, extract hooks, draft replies and plan a week of content; approve before publishing.",
+      "url": "https://github.com/sergebulaev/facebook-skills",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079767",
+      "name": "Firecrawl Alexandria People",
+      "desc": "Firecrawl Alexandria: indexed directory of people-data providers for AI agents; person/company enrichment and work-email lookup.",
+      "url": "https://alexandria.firecrawl.dev/categories/people",
+      "cat": "ai_search"
     }
   ]
 }

@@ -6,7 +6,7 @@
 - [Agent Memory](#agent-memory) (29)
 - [AI Agents](#ai-agents) (141)
 - [AI Images](#ai-images) (25)
-- [AI Search](#ai-search) (1)
+- [AI Search](#ai-search) (2)
 - [AI Video](#ai-video) (37)
 - [API & MCP](#api-mcp) (94)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
@@ -14,7 +14,7 @@
 - [Collections](#collections) (33)
 - [Local Models](#local-models) (25)
 - [Routers & Gateways](#routers-gateways) (15)
-- [Skills](#skills) (87)
+- [Skills](#skills) (91)
 - [Voice & Transcription](#voice-transcription) (13)
 
 ## Agent Memory
@@ -219,6 +219,7 @@
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - Web portal around Stable Diffusion: free text-to-image and image-to-image demos, model gallery and prompt tools.
 
 ## AI Search
+- [Firecrawl Alexandria People](https://alexandria.firecrawl.dev/categories/people) - Firecrawl Alexandria: indexed directory of people-data providers for AI agents; person/company enrichment and work-email lookup.
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine that searches the web and replies with cited sources
 
 ## AI Video
@@ -503,22 +504,26 @@
 - [Cloudflare Security Audit Skill](https://github.com/cloudflare/security-audit-skill) - Claude Code skill from Cloudflare: security audit of web projects via GraphQL/Security Graph.
 - [Cronanalytics](https://github.com/8bit64k/cronalytics) - plugin for Hermes Agent (a framework for autonomous agents) that calculates how much your cron jobs cost: tokens, money, success/failure of runs, for each job
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex and Pi: self-contained HTML+SVG, no shadows and no "Mermaid junk heap". Beautiful diagrams from code.
+- [Drex Agent Skills](https://github.com/nace-ai/drex-agent-skills) - Claude Code/OpenCode skills that teach agents to make yes/no, choice and score decisions with calibrated probabilities via Drex; local scan or hosted API.
 - [dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) - DeepSeek Harness plugin for deterministic data profiling, cleaning and verification of datasets used by dsh agents; npm dsh-data-quality; TypeScript; Apache-2.0.
 - [dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) - DeepSeek Harness plugin producing deterministic Chinese mutual-fund research reports: every key number traces to a hashed source snapshot; Node 22; Apache-2.0.
 - [ECC](https://github.com/affaan-m/ECC) - ECC is a huge "improvement pack" for AI coding assistants (Claude Code, Cursor, Codex and others) that turns an ordinary AI coder into a more experienced, organized and effective developer
 - [editonny](https://github.com/soumatheusgomes/editonny) - Video editing skill for Claude Code and Codex: cut pauses and mistakes, add captions, fix audio, reframe, turn speech into motion scenes - all local transcription and rendering; MIT.
+- [Facebook Skills](https://github.com/sergebulaev/facebook-skills) - Claude Code and Codex skills for Facebook Pages: write short and story posts, extract hooks, draft replies and plan a week of content; approve before publishing.
 - [gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) - A skill for generating B-roll in the style of halftone collages: three-stage approval, animation assembled from the first/last frame via Gemini Omni Flash.
 - [GEO SEO Claude](https://github.com/zubair-trabzada/geo-seo-claude) - Claude Code skill for GEO/SEO auditing of a site for AI search: citability, AI crawlers, llms.txt, brand mentions, schema, PDF reports for clients.
 - [GSAP Skills](https://github.com/greensock/gsap-skills) - skills for AI agents on GSAP: professional web animations from a text description
 - [Hallmark](https://github.com/nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) - 15 agent skills for Codex and Claude Code to edit videos and Shorts on HyperFrames and GSAP: cut dead air, captions, B-roll, motion graphics, 406 template cards; markdown; MIT.
 - [Hermes DaVinci Resolve Plugin](https://github.com/wassermanproductions/hermes-davinci-resolve-plugin) - Hermes Agent plugin for DaVinci Resolve on macOS: Studio live control of media, timelines, markers and renders, or FCPXML/CSV interchange for free Resolve; Python; MIT.
+- [HOLA](https://github.com/blackrock/HOLA) - Black-box hyperparameter optimization library (Python/Rust): define a parameter space and objective, get trial suggestions; local or distributed ask/tell server.
 - [HTML Anything](https://github.com/nexu-io/html-anything) - Agentic HTML editor: 75 skills x 9 formats (magazine, deck, poster, tweet, prototype, report). Sandbox preview, one-click PNG/HTML/social export, no API key.
 - [HyperFrames Motion Reel Skill](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) - Claude Code skill that turns a one-line theme into a beat-synced, render-ready HyperFrames+GSAP video (120 BPM / 60 FPS presets); English and Japanese docs; MIT.
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) - a skill for coding agents: action first, numbered steps, no fluff or preamble
 - [Impeccable](https://github.com/pbakaus/impeccable) - skill for beautiful frontend
 - [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) - set of ready-made "professional profiles" for Claude
 - [Last 30 Days Skill](https://github.com/mvanhorn/last30days-skill) - AI agent that researches any topic on Reddit, X, YouTube, HN, Polymarket and the web, and synthesizes a weighted summary
+- [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) - Claude Code and Codex skills for LinkedIn: write posts, comments and replies, audit drafts and plan content; every draft awaits approval before publishing.
 - [Mantis](https://github.com/google/mantis) - Google ADK toolkit for AI agents to find, reproduce and patch vulnerabilities: threat modelling, review, patching, reporting, GitHub Action, knowledge base; Python skills; Apache-2.0.
 - [Membrane Dev](https://github.com/membranedev/application-skills) - Application skills for coding agents from Membrane
 - [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) - Principles-first motion design skill for agents: timing, easing, choreography, emotion mapped to code across CSS, Framer Motion, GSAP, Lottie, Spring; install with npx skills add; MIT.
