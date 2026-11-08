@@ -13006,6 +13006,69 @@
       "desc": "Firecrawl Alexandria: indexed directory of people-data providers for AI agents; person/company enrichment and work-email lookup.",
       "url": "https://alexandria.firecrawl.dev/categories/people",
       "cat": "ai_search"
+    },
+    {
+      "id": "it_1793733331825079768",
+      "name": "Bybit MCP Server",
+      "desc": "Official Bybit V5 API MCP server for market data, trading, positions and assets; uses your own API keys from env and can place real orders on your account.",
+      "url": "https://github.com/bybit-exchange/trading-mcp",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793733331825079769",
+      "name": "Orkas",
+      "desc": "Orkas: local-first multi-agent AI desktop app for macOS and Windows with model choice and MCP tool connections; open source.",
+      "url": "https://orkas.ai/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079770",
+      "name": "Open Computer Use",
+      "desc": "Open Computer Use: open-source computer-use agent over MCP; controls desktop apps on macOS, Linux and Windows via accessibility APIs.",
+      "url": "https://github.com/ifuryst/open-computer-use",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079771",
+      "name": "pixelfx",
+      "desc": "pixelfx: 244 pixel art effects and animations as code, with sprite-sheet export and a Claude Code skill to create new effects. MIT.",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "cat": "design_tools"
+    },
+    {
+      "id": "it_1793733331825079772",
+      "name": "agent-desktop",
+      "desc": "agent-desktop: computer-use CLI for AI agents; operates desktop apps on macOS, Windows and Linux via the OS accessibility tree. No model inside.",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079773",
+      "name": "Authelia",
+      "desc": "Authelia: self-hosted SSO and multi-factor authentication portal for web apps via reverse proxy; OpenID Connect, WebAuthn passkeys, TOTP. Apache-2.0.",
+      "url": "https://github.com/authelia/authelia",
+      "cat": "auto_selfhost"
+    },
+    {
+      "id": "it_1793733331825079774",
+      "name": "Phone Harness MCP",
+      "desc": "Phone Harness MCP: MCP server to control cloud iPhones and Android emulators: screen, tap, type, swipe, launch apps; OAuth sign-in, paid devices.",
+      "url": "https://github.com/phone-harness/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079775",
+      "name": "Distribb",
+      "desc": "Distribb: AI SEO platform that writes and publishes articles and builds contextual backlinks via a business network; paid SaaS with free trial.",
+      "url": "https://distribb.io/",
+      "cat": "biz_mkt"
+    },
+    {
+      "id": "it_1793733331825079776",
+      "name": "dsh-go-usage",
+      "desc": "dsh-go-usage: DeepSeek Harness web plugin showing OpenCode GO subscription usage (rolling, weekly, monthly) as a corner widget. MIT.",
+      "url": "https://github.com/shsr07/dsh-go-usage",
+      "cat": "dev_tools"
     }
   ]
 }

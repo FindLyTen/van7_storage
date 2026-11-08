@@ -4,11 +4,11 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (29)
-- [AI Agents](#ai-agents) (141)
+- [AI Agents](#ai-agents) (144)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (2)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (94)
+- [API & MCP](#api-mcp) (95)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (33)
@@ -56,6 +56,7 @@
 - [Agent Passport System](https://github.com/agent-passport-system/agent-passport-system) - Open protocol and TypeScript SDK for AI agent authority: verifiable identity, scoped delegation, enforcement before actions and signed audit receipts; Apache-2.0.
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - carry out tasks on their own, message each other and check each other's work
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - General-purpose autonomous AI agent: uses a computer like a human, self-host.
+- [agent-desktop](https://github.com/vercel-labs/agent-desktop) - agent-desktop: computer-use CLI for AI agents; operates desktop apps on macOS, Windows and Linux via the OS accessibility tree. No model inside.
 - [Agentbox](https://github.com/savannahfeder/agentbox) - Desktop GUI to run many Claude Code and Codex agents in parallel, each in its own git worktree, with an inbox of results; npx agentbox-app, Node 22, Electron; GPL-3.0.
 - [AgentCrew](https://github.com/saigontechnology/AgentCrew) - Multi-agent crew framework with role agents (architect, coder, reviewer, researcher, browser) and handoffs; runs from desktop, terminal, HTTP API or CI; pip install agentcrew, Python; Apache-2.0.
 - [agentsview](https://github.com/kenn-io/agentsview) - program that collects in one place the work history of all your AI coding assistants (Claude Code, Cursor, Codex and 20+ more similar tools)
@@ -142,6 +143,7 @@
 - [Oh My Pi](https://github.com/can1357/oh-my-pi) - Coding agent with IDE integration built on the Pi agent toolkit.
 - [OMG-Agent](https://github.com/Safphere/OMG-Agent) - open tool that lets AI control an Android phone by voice/text ("open WeChat and write to John")
 - [Omnigent](https://github.com/omnigent-ai/omnigent) - tool that lets you run AI agents (like Claude Code, Codex, etc.) and manage them from any device
+- [Open Computer Use](https://github.com/ifuryst/open-computer-use) - Open Computer Use: open-source computer-use agent over MCP; controls desktop apps on macOS, Linux and Windows via accessibility APIs.
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Phone agent framework by Zhipu AI: AutoGLM-powered Android control over ADB, VLM screen perception, plan and execute flows, CLI chat with GLM models; Python; Apache-2.0.
 - [Openbot](https://github.com/CopilotKit/openbot) - Open-source AI coworkers from CopilotKit: each has its own computer with a browser, files and tools, every action is approved before and logged after. Works with any AG-UI agent.
 - [OpenCompute](https://factory.com/news/opencompute) - Factory self-hosted orchestrator for agent sandboxes: on-demand provisioning and lifecycle of agent computers on your infrastructure, with Environments, Automations, Remote Control; private preview.
@@ -158,6 +160,7 @@
 - [Opik](https://github.com/comet-ml/opik) - LLM observability and evaluation platform: agent tracing, datasets, LLM-as-judge metrics, prompt playground, production dashboards; Python SDK; Docker self-host; Apache-2.0.
 - [Orca (Stably AI)](https://github.com/stablyai/orca) - Desktop AI orchestrator: runs Codex, Claude Code, OpenCode, Pi in parallel git worktrees, terminal splits, embedded browser/design mode, SSH worktrees, mobile companion; macOS/Windows/Linux; MIT.
 - [Orca AI](https://www.orca-ai.io/) - Commercial maritime AI: CV lookout (SeaPod) detects targets, FleetView gives shore nav-risk insights, autonomous vessel products. 1,600+ vessels; demo on request, no public pricing.
+- [Orkas](https://orkas.ai/) - Orkas: local-first multi-agent AI desktop app for macOS and Windows with model choice and MCP tool connections; open source.
 - [Oumi](https://github.com/oumi-ai/oumi) - End-to-end platform to build foundation models: SFT/DPO/GRPO with tool use, synthetic data, inference and oumi-mcp server; pip install oumi; Python, PyTorch, vLLM; Apache-2.0.
 - [Paperclip](https://github.com/paperclipai/paperclip) - Open-source app for managing AI agents at work: create, supervise and coordinate agent teams from one place; self-hosted; MIT.
 - [Paseo](https://paseo.sh/) - Open-source control plane for coding agents: launch Claude Code/Codex/Copilot/OpenCode from your phone, desktop, web. Self-host, E2E relay, plugins, MCP.
@@ -329,6 +332,7 @@
 - [NVIDIA Build (NIM)](https://build.nvidia.com/) - NVIDIA API catalog (NIM): free inference endpoints and agentic skills for building AI applications.
 - [OpenCode Zen](https://opencode.ai/zen) - Curated model set for coding agents from the OpenCode team: models tested and benchmarked for agent use, transparent per-request pricing with zero markup, monthly spend limits; proprietary SaaS.
 - [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) - Oxylabs Web API MCP server: search, scrape to Markdown/JSON/screenshot, async polling, target scrapers, token-aware output; Python 3.10+, self-host; MIT.
+- [Phone Harness MCP](https://github.com/phone-harness/mcp) - Phone Harness MCP: MCP server to control cloud iPhones and Android emulators: screen, tap, type, swipe, launch apps; OAuth sign-in, paid devices.
 - [pi-anyrouter](https://github.com/xifan2333/pi-anyrouter) - Pi provider extension adapting requests to client-specific shapes accepted by Any_router Claude Code and Codex Responses Lite routes
 - [pi-free](https://github.com/apmantza/pi-free) - Pi extension registering 20+ free/freemium model providers (Kilo, Cline, LLM7, AnyAPI, Qoder...) with free-only filter and auto-fallback between free models
 - [Pinterest MCP Server](https://github.com/collactivelabs/pinterest-mcp-server) - MCP server for integrating Pinterest API with AI agents via your own developer account.

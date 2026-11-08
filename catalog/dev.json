@@ -85,6 +85,7 @@
 {"id":"it_1793401277210070","name":"Chapar","url":"https://github.com/chapar-rest/chapar","desc":"Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.","cat":"dev_tools"},
 {"id":"it_1793401277210050","name":"CodeRabbit","url":"https://www.coderabbit.ai/","desc":"Independent AI code review with PR triage, change explanations, and continuous security monitoring.","cat":"dev_tools"},
 {"id":"it_1793732750647599480","name":"Drizzle ORM","url":"https://drizzle.team","desc":"TypeScript ORM for SQL databases.","cat":"dev_tools"},
+{"id":"it_1793733331825079776","name":"dsh-go-usage","url":"https://github.com/shsr07/dsh-go-usage","desc":"dsh-go-usage: DeepSeek Harness web plugin showing OpenCode GO subscription usage (rolling, weekly, monthly) as a corner widget. MIT.","cat":"dev_tools"},
 {"id":"it_1793401277210074","name":"E2B","url":"https://e2b.dev/","desc":"Isolated cloud machines for AI agents to run code, browse, and use tools.","cat":"dev_tools"},
 {"id":"it_17939144453264","name":"Firecracker","url":"https://firecracker-microvm.github.io/","desc":"Open-source microVM virtualization (KVM) for secure, fast serverless workloads; underlies AWS Lambda microVMs. Apache 2.0.","cat":"dev_tools"},
 {"id":"it_1793732750640605841","name":"free-for-dev","url":"https://github.com/ripienaar/free-for-dev","desc":"List of free software development services and cloud tiers.","cat":"dev_tools"},

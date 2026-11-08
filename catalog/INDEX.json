@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1723,
+ "items_total": 1732,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 540,
+   "count": 544,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,7 +18,7 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 141
+     "count": 144
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 94
+     "count": 95
     },
     {
      "id": "ai_avatar",
@@ -84,7 +84,7 @@
    "id": "auto",
    "name": "Automation",
    "emoji": "⚙️",
-   "count": 100,
+   "count": 101,
    "subsections": [
     {
      "id": "auto_acc",
@@ -109,7 +109,7 @@
     {
      "id": "auto_selfhost",
      "name": "Self-hosted Tools",
-     "count": 34
+     "count": 35
     },
     {
      "id": "auto_home",
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 143,
+   "count": 145,
    "subsections": [
     {
      "id": "biz_crm",
@@ -145,7 +145,7 @@
     {
      "id": "biz_mkt",
      "name": "Marketing & SEO",
-     "count": 61
+     "count": 62
     },
     {
      "id": "biz_realty",
@@ -170,7 +170,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 51
+     "count": 52
     }
    ],
    "json": "catalog/biz.json",
@@ -222,7 +222,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 92,
+   "count": 93,
    "subsections": [
     {
      "id": "design_3d",
@@ -252,7 +252,7 @@
     {
      "id": "design_tools",
      "name": "Tools",
-     "count": 19
+     "count": 20
     },
     {
      "id": "design_ui",
@@ -268,7 +268,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 112,
+   "count": 113,
    "subsections": [
     {
      "id": "dev_api",
@@ -283,7 +283,7 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 23
+     "count": 24
     },
     {
      "id": "dev_edit",

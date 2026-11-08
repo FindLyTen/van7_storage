@@ -6,12 +6,12 @@
 - [CRM](#crm) (9)
 - [Crypto & Wallets](#crypto-wallets) (1)
 - [Jobs](#jobs) (1)
-- [Marketing & SEO](#marketing-seo) (61)
+- [Marketing & SEO](#marketing-seo) (62)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (51)
+- [Trading](#trading) (52)
 - [Other](#other) (6)
 
 ## CRM
@@ -45,6 +45,7 @@
 - [Clarity](https://clarity.microsoft.com/) - Microsoft Clarity free web analytics: session recordings, heatmaps, AI summaries and chat, AI visibility tracking, brand agents; MCP server and browser extension; GDPR/CCPA ready, free forever.
 - [ConfettiSaaS](https://confettisaas.com/) - SaaS directory for founders; submit product for visibility and backlinks; for founders; free listing; backlinks
 - [DarkUGC](https://darkugc.com) - Free research library of viral short-form UGC videos for app marketing: 15000+ videos from 400+ brands with creator, views, format and engagement data, benchmarks and creator brief builder.
+- [Distribb](https://distribb.io/) - Distribb: AI SEO platform that writes and publishes articles and builds contextual backlinks via a business network; paid SaaS with free trial.
 - [DittoFeed](https://github.com/dittofeed/dittofeed) - An open-source alternative to Braze: customer engagement, push, email, funnel automation.
 - [Explee](https://explee.com) - AI outbound agent that finds clients around the clock: researches your market, finds high-intent leads, writes personalized emails, handles follow-ups and books demos; paid with free credits.
 - [Exploding Topics](https://explodingtopics.com/) - Trend discovery (Semrush): spots topics/products pre-mainstream via search/social/forum/e-com + human curators. Free SEO/keyword tools; trend DBs/products on paid plans with 7-day trial.
@@ -125,6 +126,7 @@
 - [ATAS](https://atas.net/) - Volume analysis and order flow trading platform for futures, cryptocurrency and stocks
 - [Bookmap](https://bookmap.com/en) - Trading platform visualizing market liquidity and the order book in real time
 - [Breadcrumbs](https://www.breadcrumbs.app/) - Open blockchain analytics platform: trace crypto address relationships and fund flows across 15+ chains, wallet watchlists, risk and sanctions API; free tier.
+- [Bybit MCP Server](https://github.com/bybit-exchange/trading-mcp) - Official Bybit V5 API MCP server for market data, trading, positions and assets; uses your own API keys from env and can place real orders on your account.
 - [CCXT MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Community MCP for 100+ crypto exchanges including Bybit via CCXT: market data free, trading needs own keys; MIT; audit before live trading.
 - [Coinbase AgentKit](https://github.com/coinbase/agentkit) - Coinbase toolkit giving AI agents a crypto wallet: onchain actions and stablecoin payments, framework-agnostic Python and Node.js SDKs; Apache-2.0.
 - [CoinGecko MCP](https://github.com/coingecko/coingecko-typescript/tree/main/packages/mcp-server) - Official CoinGecko MCP: crypto prices, markets, history, NFT, DEX data (76+ tools); free keyless endpoint + free Demo key 10k calls/mo; very active.

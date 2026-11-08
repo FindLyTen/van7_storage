@@ -7,7 +7,7 @@
 - [Browser](#browser) (25)
 - [PC Control](#pc-control) (6)
 - [Scraping](#scraping) (23)
-- [Self-hosted Tools](#self-hosted-tools) (34)
+- [Self-hosted Tools](#self-hosted-tools) (35)
 - [Smart Home](#smart-home) (2)
 - [Other](#other) (4)
 
@@ -84,6 +84,7 @@
 - [AFFiNE](https://affine.pro/) - Open-source workspace with docs, whiteboard canvas and databases; self-host or cloud; the closest open Miro alternative
 - [AppFlowy](https://appflowy.com/) - Open-source Notion alternative: documents, databases, AI, local data.
 - [Apprise](https://github.com/caronc/apprise) - A Python library for push notifications to ~100 services (Telegram, Discord, Slack, ntfy, email, SMS...) through a single URL syntax. pip install apprise, has a CLI.
+- [Authelia](https://github.com/authelia/authelia) - Authelia: self-hosted SSO and multi-factor authentication portal for web apps via reverse proxy; OpenID Connect, WebAuthn passkeys, TOTP. Apache-2.0.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - huge curated list of self-hosted software
 - [Bagisto](https://bagisto.com/en/) - Open-source Laravel eCommerce platform for building marketplaces, mobile apps, blockchain, and headless commerce.
 - [Brightbean Studio](https://github.com/brightbeanxyz/brightbean-studio) - Open-source self-hostable social media management platform: schedule, publish, and manage content across platforms from one dashboard.

@@ -8,7 +8,7 @@
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
 - [Maps](#maps) (3)
-- [Tools](#tools) (19)
+- [Tools](#tools) (20)
 - [UI Libraries](#ui-libraries) (32)
 - [Other](#other) (4)
 
@@ -72,6 +72,7 @@
 - [Mobbin](https://mobbin.com/) - Library of mobile and web app screenshots for UI/UX design research and inspiration.
 - [Modulify Templates](https://modulify.ai/templates) - Free production-ready website templates built with Modulify: preview any design and clone it into your dashboard to start a project in minutes; saas, travel, portfolio and more.
 - [Open Design](https://github.com/nexu-io/open-design) - An open library of design resources and templates
+- [pixelfx](https://github.com/patch-gg/pixelfx) - pixelfx: 244 pixel art effects and animations as code, with sprite-sheet export and a Claude Code skill to create new effects. MIT.
 - [Pixlr AI](https://pixlr.com/) - Online photo editor (Pixlr, Populate Media) with AI generation, AI background removal, filters; free tier in browser.
 - [Recent.design](https://recent.design) - Design inspiration gallery: websites, app screenshots, OG images, app icons, branding and motion, plus jobs and tools sections; free.
 - [Recraft AI](https://www.recraft.ai/) - AI design generator for designers: vector and raster images, brand styles, mockups; free plan with daily credits.

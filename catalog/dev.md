@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Developer Tools](#developer-tools) (23)
+- [Developer Tools](#developer-tools) (24)
 - [Editors](#editors) (57)
 - [Terminals](#terminals) (5)
 - [Visualization](#visualization) (7)
@@ -30,6 +30,7 @@
 - [Chapar](https://github.com/chapar-rest/chapar) - Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.
 - [CodeRabbit](https://www.coderabbit.ai/) - Independent AI code review with PR triage, change explanations, and continuous security monitoring.
 - [Drizzle ORM](https://drizzle.team) - TypeScript ORM for SQL databases.
+- [dsh-go-usage](https://github.com/shsr07/dsh-go-usage) - dsh-go-usage: DeepSeek Harness web plugin showing OpenCode GO subscription usage (rolling, weekly, monthly) as a corner widget. MIT.
 - [E2B](https://e2b.dev/) - Isolated cloud machines for AI agents to run code, browse, and use tools.
 - [Firecracker](https://firecracker-microvm.github.io/) - Open-source microVM virtualization (KVM) for secure, fast serverless workloads; underlies AWS Lambda microVMs. Apache 2.0.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - List of free software development services and cloud tiers.
