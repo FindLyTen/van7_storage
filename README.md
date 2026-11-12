@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1793 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1794 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.
@@ -25,7 +25,7 @@ Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without conne
 | 🎨 Design | 95 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
 | 💻 Development | 120 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
 | 📱 Devices | 60 | 4 | [catalog/devices.md](catalog/devices.md) | [catalog/devices.json](catalog/devices.json) |
-| 🎮 Games | 15 | 4 | [catalog/games.md](catalog/games.md) | [catalog/games.json](catalog/games.json) |
+| 🎮 Games | 16 | 4 | [catalog/games.md](catalog/games.md) | [catalog/games.json](catalog/games.json) |
 | 🛡️ Hacking | 172 | 6 | [catalog/hack.md](catalog/hack.md) | [catalog/hack.json](catalog/hack.json) |
 | 🖥️ Infrastructure | 143 | 5 | [catalog/infra.md](catalog/infra.md) | [catalog/infra.json](catalog/infra.json) |
 | 📚 Knowledge | 81 | 6 | [catalog/edu.md](catalog/edu.md) | [catalog/edu.json](catalog/edu.json) |

@@ -2,6 +2,7 @@
 "section": {"id": "games", "name": "Games", "emoji": "🎮"},
 "cats": [{"color":"#c084fc","emoji":"🎮","icon":null,"id":"games","name":"Games","parentId":null},{"color":"#c084fc","emoji":"🚀","icon":null,"id":"games_claim","name":"Claimers","parentId":"games"},{"color":"#c084fc","emoji":"🕹️","icon":null,"id":"games_lib","name":"Libraries","parentId":"games"},{"color":"#c084fc","emoji":"🧩","icon":null,"id":"games_mods","name":"Mods","parentId":"games"},{"color":"#c084fc","emoji":"🔌","icon":null,"id":"games_srv","name":"Servers","parentId":"games"}],
 "items": [
+{"id":"it_1793733331825079838","name":"NVIDIA GeForce NOW","url":"https://www.nvidia.com/en-us/geforce-now/","desc":"NVIDIA cloud gaming service for streaming PC games to supported devices; free tier.","cat":"games"},
 {"id":307,"name":"Mineplex","url":"https://mineplex.com/","desc":"Legendary network of Minecraft servers","cat":"games_srv"},
 {"id":"it_1791217649105","name":"Steam Headless","url":"https://github.com/Steam-Headless/docker-steam-headless","desc":"Docker container with Steam on a server without a monitor: games + Sunshine/Moonlight streaming to any devices.","cat":"games_srv"},
 {"id":320,"name":"Cisco's Fantasy Medieval RPG","url":"https://www.curseforge.com/minecraft/modpacks/ciscos-adventure-rpg-ultimate","desc":"RPG Minecraft modpack in a medieval fantasy setting","cat":"games_mods"},

@@ -7,6 +7,7 @@
 - [Libraries](#libraries) (4)
 - [Mods](#mods) (8)
 - [Servers](#servers) (2)
+- [Other](#other) (1)
 
 ## Claimers
 - [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-claims free games/DLC from Epic, Prime Gaming, GOG, Unreal Engine assets; experimental Xbox support. Launches Firefox, logs in, claims without user input.
@@ -30,3 +31,6 @@
 ## Servers
 - [Mineplex](https://mineplex.com/) - Legendary network of Minecraft servers
 - [Steam Headless](https://github.com/Steam-Headless/docker-steam-headless) - Docker container with Steam on a server without a monitor: games + Sunshine/Moonlight streaming to any devices.
+
+## Other
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) - NVIDIA cloud gaming service for streaming PC games to supported devices; free tier.

@@ -13496,6 +13496,13 @@
       "desc": "Grok assistant for chat, image generation, coding, and real-time answers from the web and X; free tier.",
       "url": "https://grok.com/",
       "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079838",
+      "name": "NVIDIA GeForce NOW",
+      "desc": "NVIDIA cloud gaming service for streaming PC games to supported devices; free tier.",
+      "url": "https://www.nvidia.com/en-us/geforce-now/",
+      "cat": "games"
     }
   ]
 }

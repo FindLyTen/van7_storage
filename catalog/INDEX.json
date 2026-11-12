@@ -1,7 +1,7 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1793,
+ "items_total": 1794,
  "categories_total": 118,
  "sections": [
   {
@@ -340,7 +340,7 @@
    "id": "games",
    "name": "Games",
    "emoji": "🎮",
-   "count": 15,
+   "count": 16,
    "subsections": [
     {
      "id": "games_claim",
