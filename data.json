@@ -13160,6 +13160,237 @@
       "desc": "Python toolkit for quantitative finance, derivative pricing, trading strategies, and risk management.",
       "url": "https://github.com/goldmansachs/gs-quant",
       "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793733331825079790",
+      "name": "Higgsfield MCP",
+      "desc": "Official Higgsfield MCP server for image and video generation from Claude, OpenClaw, and other MCP clients; no API key required.",
+      "url": "https://higgsfield.ai/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079791",
+      "name": "Higgsfield API Platform",
+      "desc": "Official Higgsfield developer platform: browse image and video models, view pricing, and create API keys for generation.",
+      "url": "https://open.higgsfield.ai/explore",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079792",
+      "name": "billion-context",
+      "desc": "Context-compression plugin for coding agents that keeps long sessions within small context windows; supports Claude Code, Codex, OpenCode, and more.",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079793",
+      "name": "Claude Code Templates",
+      "desc": "Open-source catalog and CLI of ready-made Claude Code agents, slash commands, skills, hooks, settings, and MCP integrations.",
+      "url": "https://www.aitmpl.com/",
+      "cat": "ai_lists"
+    },
+    {
+      "id": "it_1793733331825079794",
+      "name": "MikroMCP",
+      "desc": "MCP server for MikroTik RouterOS routers and SwOS switches, giving AI agents validated, auditable tools for network automation.",
+      "url": "https://github.com/AliKarami/MikroMCP",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079795",
+      "name": "MemoSync",
+      "desc": "Local workbench for co-managing agent memory across sessions with Claude Code, Codex, Pi, and OpenCode.",
+      "url": "https://github.com/SLEEPYBQ/MemoSync",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079796",
+      "name": "Google MCP Servers",
+      "desc": "Google's official list of managed and open-source Model Context Protocol servers, with deployment guidance and examples.",
+      "url": "https://github.com/google/mcp",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079797",
+      "name": "txtai",
+      "desc": "All-in-one AI framework for semantic search, embeddings databases, LLM orchestration, and language model workflows.",
+      "url": "https://github.com/neuml/txtai",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079798",
+      "name": "Pinecone",
+      "desc": "Managed vector database for AI applications: semantic search, retrieval, and a knowledge platform for RAG.",
+      "url": "https://www.pinecone.io/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079799",
+      "name": "Weaviate",
+      "desc": "Open-source AI-native vector database with hybrid search, built-in modules, and a GraphQL API.",
+      "url": "https://weaviate.io/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079800",
+      "name": "pgvector",
+      "desc": "Open-source vector similarity search extension for PostgreSQL, adding vector types and index support.",
+      "url": "https://github.com/pgvector/pgvector",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079801",
+      "name": "Apache Cassandra",
+      "desc": "Open-source distributed NoSQL database for large-scale data, with vector search support in recent releases.",
+      "url": "https://cassandra.apache.org/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079802",
+      "name": "OpenSearch",
+      "desc": "Open-source search and analytics suite with vector search, dashboards, and log observability.",
+      "url": "https://opensearch.org/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079803",
+      "name": "MegaParse",
+      "desc": "File parser for LLM ingestion that converts PDFs, DOCX, and PPTX into structured text without losing content.",
+      "url": "https://github.com/The-Vibe-Company/megaparse",
+      "cat": "media_ocr"
+    },
+    {
+      "id": "it_1793733331825079804",
+      "name": "LlamaParse",
+      "desc": "LlamaIndex's AI document parser for complex PDFs, tables, charts, and handwriting into structured data.",
+      "url": "https://www.llamaindex.ai/llamaparse",
+      "cat": "media_ocr"
+    },
+    {
+      "id": "it_1793733331825079805",
+      "name": "ExtractThinker",
+      "desc": "Document intelligence library for LLMs: structured extraction from PDFs and scans using Pydantic models and multiple LLM backends.",
+      "url": "https://github.com/enoch3712/ExtractThinker",
+      "cat": "media_ocr"
+    },
+    {
+      "id": "it_1793733331825079806",
+      "name": "Hugging Face",
+      "desc": "Hub for open models, datasets, and demos, with hosting, inference endpoints, and community tooling.",
+      "url": "https://huggingface.co/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079807",
+      "name": "Nomic Atlas",
+      "desc": "Platform for exploring and operationalizing large text, PDF, image, and embedding datasets for AI workflows.",
+      "url": "https://atlas.nomic.ai/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079808",
+      "name": "Sentence Transformers",
+      "desc": "Python library for state-of-the-art text and image embeddings, similarity search, and reranking, with documentation.",
+      "url": "https://sbert.net/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079809",
+      "name": "Voyage AI",
+      "desc": "Embedding and reranking models API for search, retrieval, and RAG applications.",
+      "url": "https://www.voyageai.com/",
+      "cat": "ai_memory"
+    },
+    {
+      "id": "it_1793733331825079810",
+      "name": "Cohere",
+      "desc": "Enterprise AI platform with language models, embeddings, reranking, and private deployment options.",
+      "url": "https://cohere.com/",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079811",
+      "name": "Ragas",
+      "desc": "Open-source evaluation framework for LLM and RAG pipelines with reference-free and reference-based metrics.",
+      "url": "https://github.com/vibrantlabsai/ragas",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079812",
+      "name": "LangSmith",
+      "desc": "LangChain's platform for tracing, evaluating, and monitoring LLM and agent applications.",
+      "url": "https://www.langchain.com/langsmith/observability",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079813",
+      "name": "OpenAI Agents SDK",
+      "desc": "Lightweight open-source framework for building multi-agent workflows with tools, handoffs, and tracing.",
+      "url": "https://github.com/openai/openai-agents-python",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079814",
+      "name": "LangChain",
+      "desc": "Open-source framework for building LLM applications and agents with model, tool, and retrieval integrations.",
+      "url": "https://www.langchain.com/",
+      "cat": "ai_agents"
+    },
+    {
+      "id": "it_1793733331825079815",
+      "name": "OpenAI Models",
+      "desc": "Official catalog of OpenAI models with capabilities, context limits, pricing, and API usage guidance.",
+      "url": "https://developers.openai.com/api/docs/models",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079816",
+      "name": "Gemma",
+      "desc": "Google DeepMind's Gemma family of open lightweight models for text and multimodal tasks, with developer resources.",
+      "url": "https://deepmind.google/models/gemma/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079817",
+      "name": "Llama 4",
+      "desc": "Meta's official Llama 4 page: natively multimodal models for text and image understanding, with download and deployment links.",
+      "url": "https://dev.meta.ai/llama/models/llama-4",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079818",
+      "name": "Phi",
+      "desc": "Microsoft's Phi family of small language models for efficient generative AI, available in Azure AI Foundry.",
+      "url": "https://azure.microsoft.com/en-us/products/phi/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079819",
+      "name": "Claude",
+      "desc": "Anthropic's Claude assistant for chat, writing, coding, analysis, and agentic tasks, with free tier.",
+      "url": "https://claude.ai/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079820",
+      "name": "DeepSeek",
+      "desc": "DeepSeek's official site for its models and AI assistant, with chat and developer resources.",
+      "url": "https://www.deepseek.com/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079821",
+      "name": "Mistral AI",
+      "desc": "Mistral AI official site: open-weight and commercial models, Forge customization, Studio deployment, and cloud options.",
+      "url": "https://mistral.ai/",
+      "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079822",
+      "name": "Amazon Nova",
+      "desc": "AWS family of foundation models and services for generative AI across text, image, and video.",
+      "url": "https://aws.amazon.com/nova/",
+      "cat": "ai_local"
     }
   ]
 }

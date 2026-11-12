@@ -5,7 +5,7 @@
 ## Contents
 - [Compression](#compression) (2)
 - [Images](#images) (4)
-- [OCR](#ocr) (10)
+- [OCR](#ocr) (13)
 - [Torrents & Downloads](#torrents-downloads) (8)
 - [Video Editing](#video-editing) (18)
 
@@ -23,10 +23,13 @@
 - [AnyDoc](https://github.com/firecrawl/anydoc) - Open-source document parser from Firecrawl: PDF, DOCX, PPTX, images → markdown/structure via LLM. A replacement for proprietary parsers.
 - [Docling](https://github.com/docling-project/docling) - Document parsing library: PDF, DOCX, PPTX, XLSX, HTML, EPUB and images to Markdown/JSON with layout, tables and formulas; Python, pip; MIT.
 - [ExifTool](https://exiftool.org/) - A legendary command-line utility for reading/writing/editing metadata (EXIF, IPTC, XMP) in photo, video and document files. A MUST-HAVE for photo OSINT.
+- [ExtractThinker](https://github.com/enoch3712/ExtractThinker) - Document intelligence library for LLMs: structured extraction from PDFs and scans using Pydantic models and multiple LLM backends.
 - [Google LENS](https://lens.google/) - visual search tool: point your phone camera (or upload a photo) at anything
 - [LiteParse](https://github.com/run-llama/liteparse) - Fast lightweight PDF parser: spatial text with bounding boxes via PDFium, pluggable OCR (bundled Tesseract or HTTP OCR servers), local run; pip install liteparse; Rust core; Apache-2.0.
+- [LlamaParse](https://www.llamaindex.ai/llamaparse) - LlamaIndex's AI document parser for complex PDFs, tables, charts, and handwriting into structured data.
 - [Make Look Scanned](https://makelookscanned.com/) - Browser tool to make PDFs "look scanned": rotation, paper tone, grain, scanner blur, edge shadow, grayscale. All local, no upload. Multi-page, outputs flattened image-based PDF.
 - [Marker](https://github.com/datalab-to/marker) - Convert PDF to markdown and JSON quickly with high accuracy: layout-aware parsing of text, tables, equations and images, OCR support; Python; Apache-2.0.
+- [MegaParse](https://github.com/The-Vibe-Company/megaparse) - File parser for LLM ingestion that converts PDFs, DOCX, and PPTX into structured text without losing content.
 - [olmOCR](https://github.com/allenai/olmocr) - PDF and image documents converted to clean Markdown with a 7B vision-language model: equations, tables, handwriting, reading order, header/footer cleanup; GPU needed; Python; Apache-2.0.
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - OCR toolkit and document AI engine: PDF and image pages to LLM-ready JSON/Markdown, PaddleOCR-VL 0.9B model, tables, formulas, layout models; pip install paddleocr; Python; Apache-2.0.
 - [Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) - Baidu open vision-language OCR model for one-shot long-horizon parsing of long documents, images and PDFs, multilingual; weights on Hugging Face and GitHub; MIT.

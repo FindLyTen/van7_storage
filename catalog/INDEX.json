@@ -1,24 +1,24 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1745,
+ "items_total": 1778,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 545,
+   "count": 575,
    "subsections": [
     {
      "id": "ai_memory",
      "name": "Agent Memory",
-     "count": 29
+     "count": 39
     },
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 144
+     "count": 148
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 95
+     "count": 100
     },
     {
      "id": "ai_avatar",
@@ -53,12 +53,12 @@
     {
      "id": "ai_lists",
      "name": "Collections",
-     "count": 33
+     "count": 34
     },
     {
      "id": "ai_local",
      "name": "Local Models",
-     "count": 25
+     "count": 34
     },
     {
      "id": "ai_router",
@@ -68,7 +68,7 @@
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 92
+     "count": 93
     },
     {
      "id": "ai_voice",
@@ -515,7 +515,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 42,
+   "count": 45,
    "subsections": [
     {
      "id": "media_comp",
@@ -530,7 +530,7 @@
     {
      "id": "media_ocr",
      "name": "OCR",
-     "count": 10
+     "count": 13
     },
     {
      "id": "media_down",
