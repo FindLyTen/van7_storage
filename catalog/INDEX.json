@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1732,
+ "items_total": 1745,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 544,
+   "count": 545,
    "subsections": [
     {
      "id": "ai_memory",
@@ -68,7 +68,7 @@
     {
      "id": "ai_skills",
      "name": "Skills",
-     "count": 91
+     "count": 92
     },
     {
      "id": "ai_voice",
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 145,
+   "count": 148,
    "subsections": [
     {
      "id": "biz_crm",
@@ -170,7 +170,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 52
+     "count": 55
     }
    ],
    "json": "catalog/biz.json",
@@ -268,7 +268,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 113,
+   "count": 120,
    "subsections": [
     {
      "id": "dev_api",
@@ -283,7 +283,7 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 24
+     "count": 31
     },
     {
      "id": "dev_edit",
@@ -340,7 +340,7 @@
    "id": "games",
    "name": "Games",
    "emoji": "🎮",
-   "count": 14,
+   "count": 15,
    "subsections": [
     {
      "id": "games_claim",
@@ -350,7 +350,7 @@
     {
      "id": "games_lib",
      "name": "Libraries",
-     "count": 3
+     "count": 4
     },
     {
      "id": "games_mods",
@@ -412,7 +412,7 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 136,
+   "count": 137,
    "subsections": [
     {
      "id": "infra_cloud",
@@ -427,7 +427,7 @@
     {
      "id": "infra_host",
      "name": "Hosting",
-     "count": 13
+     "count": 14
     },
     {
      "id": "infra_mon",

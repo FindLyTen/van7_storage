@@ -4,7 +4,7 @@
 
 ## Contents
 - [Claimers](#claimers) (1)
-- [Libraries](#libraries) (3)
+- [Libraries](#libraries) (4)
 - [Mods](#mods) (8)
 - [Servers](#servers) (2)
 
@@ -13,6 +13,7 @@
 
 ## Libraries
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Game save backup: finds saves of thousands of games (Steam/GOG/emulators) and syncs them to the cloud.
+- [Odyc.js](https://odyc.dev/) - Small JavaScript library for creating video games without programming experience.
 - [PlayNite](https://playnite.link/) - program that collects all your games from different platforms in one library
 - [ScummVM](https://www.scummvm.org/) - Engine for classic LucasArts/Sierra quests: running old adventures on modern systems.
 

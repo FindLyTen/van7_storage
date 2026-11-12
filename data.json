@@ -13069,6 +13069,97 @@
       "desc": "dsh-go-usage: DeepSeek Harness web plugin showing OpenCode GO subscription usage (rolling, weekly, monthly) as a corner widget. MIT.",
       "url": "https://github.com/shsr07/dsh-go-usage",
       "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079777",
+      "name": "skfolio",
+      "desc": "Python library for portfolio optimization, factor models, and risk management built on scikit-learn.",
+      "url": "https://skfolio.org/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793733331825079778",
+      "name": "NautilusTrader",
+      "desc": "Open-source multi-asset trading engine with a Rust core and Python API for backtesting and live trading.",
+      "url": "https://nautilustrader.io/",
+      "cat": "biz_trade"
+    },
+    {
+      "id": "it_1793733331825079779",
+      "name": "il.ly Tools",
+      "desc": "Curated collection of free developer, SEO, and AI tools including generators, trackers, and calculators.",
+      "url": "https://il.ly/tools",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079780",
+      "name": "optimize-skill",
+      "desc": "Claude Code/Cursor skill that audits web app performance, applies safe fixes, and verifies before-and-after results.",
+      "url": "https://github.com/sebbsssss/optimize-skill",
+      "cat": "ai_skills"
+    },
+    {
+      "id": "it_1793733331825079781",
+      "name": "itty.dev",
+      "desc": "Ultra-small JavaScript libraries for web development including a router, fetcher, and packaging CLI.",
+      "url": "https://itty.dev/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079782",
+      "name": "Odyc.js",
+      "desc": "Small JavaScript library for creating video games without programming experience.",
+      "url": "https://odyc.dev/",
+      "cat": "games_lib"
+    },
+    {
+      "id": "it_1793733331825079783",
+      "name": "tunnl.gg",
+      "desc": "Free localhost tunnel exposing a local port over HTTPS via SSH, with stable URLs tied to an SSH key.",
+      "url": "https://tunnl.gg/",
+      "cat": "infra_host"
+    },
+    {
+      "id": "it_1793733331825079784",
+      "name": "Quarkdown",
+      "desc": "Markdown superset with LaTeX power for authoring documents, reports, wikis, and slides.",
+      "url": "https://quarkdown.com/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079785",
+      "name": "Better-T-Stack",
+      "desc": "CLI for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable stacks.",
+      "url": "https://www.better-t-stack.dev/",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079786",
+      "name": "Jam Dev Utilities",
+      "desc": "Free ad-free developer utilities for format and conversion tasks such as JSON, JWT, Base64, and CSS.",
+      "url": "https://jam.dev/utilities",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079787",
+      "name": "csp",
+      "desc": "High-performance reactive stream processing library in C++ and Python for event-driven realtime and simulation workloads.",
+      "url": "https://github.com/Point72/csp",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079788",
+      "name": "ArcticDB",
+      "desc": "High-performance serverless DataFrame database for the Python data science ecosystem.",
+      "url": "https://github.com/man-group/ArcticDB",
+      "cat": "dev_tools"
+    },
+    {
+      "id": "it_1793733331825079789",
+      "name": "gs-quant",
+      "desc": "Python toolkit for quantitative finance, derivative pricing, trading strategies, and risk management.",
+      "url": "https://github.com/goldmansachs/gs-quant",
+      "cat": "biz_trade"
     }
   ]
 }

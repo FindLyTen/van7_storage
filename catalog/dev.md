@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Developer Tools](#developer-tools) (24)
+- [Developer Tools](#developer-tools) (31)
 - [Editors](#editors) (57)
 - [Terminals](#terminals) (5)
 - [Visualization](#visualization) (7)
@@ -26,9 +26,12 @@
 - [Duplicacy](https://github.com/gilbertchen/duplicacy) - Cross-platform backup with deduplication: incremental snapshots, encryption, lots of backends (S3, Mega, clouds).
 
 ## Developer Tools
+- [ArcticDB](https://github.com/man-group/ArcticDB) - High-performance serverless DataFrame database for the Python data science ecosystem.
 - [Auth.js](https://authjs.dev) - Authentication library for web frameworks.
+- [Better-T-Stack](https://www.better-t-stack.dev/) - CLI for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable stacks.
 - [Chapar](https://github.com/chapar-rest/chapar) - Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.
 - [CodeRabbit](https://www.coderabbit.ai/) - Independent AI code review with PR triage, change explanations, and continuous security monitoring.
+- [csp](https://github.com/Point72/csp) - High-performance reactive stream processing library in C++ and Python for event-driven realtime and simulation workloads.
 - [Drizzle ORM](https://drizzle.team) - TypeScript ORM for SQL databases.
 - [dsh-go-usage](https://github.com/shsr07/dsh-go-usage) - dsh-go-usage: DeepSeek Harness web plugin showing OpenCode GO subscription usage (rolling, weekly, monthly) as a corner widget. MIT.
 - [E2B](https://e2b.dev/) - Isolated cloud machines for AI agents to run code, browse, and use tools.
@@ -36,6 +39,9 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - List of free software development services and cloud tiers.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) - Command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, and Admin, built from Google Discovery Service.
 - [Humanizer](https://github.com/humanizr/humanizer) - .NET library for manipulating and displaying strings, enums, dates, times, numbers, and quantities.
+- [il.ly Tools](https://il.ly/tools) - Curated collection of free developer, SEO, and AI tools including generators, trackers, and calculators.
+- [itty.dev](https://itty.dev/) - Ultra-small JavaScript libraries for web development including a router, fetcher, and packaging CLI.
+- [Jam Dev Utilities](https://jam.dev/utilities) - Free ad-free developer utilities for format and conversion tasks such as JSON, JWT, Base64, and CSS.
 - [jq](https://jqlang.org/) - Lightweight command line JSON processor for slicing, filtering and mapping JSON data
 - [Next.js](https://nextjs.org) - React framework for building production web applications.
 - [Node.js](https://nodejs.org) - JavaScript runtime built on Chrome's V8 engine.
@@ -44,6 +50,7 @@
 - [Prisma](https://www.prisma.io) - TypeScript and Node.js ORM for databases.
 - [ProjectAtlas](https://github.com/styler-ai/ProjectAtlas) - Local repository map CLI and MCP server giving coding agents purposes, sources, symbols, and dependencies.
 - [Publii](https://getpublii.com/) - Free open-source desktop CMS for static websites; write locally, publish to any host.
+- [Quarkdown](https://quarkdown.com/) - Markdown superset with LaTeX power for authoring documents, reports, wikis, and slides.
 - [React](https://react.dev) - JavaScript library for building user interfaces.
 - [Repomix](https://github.com/yamadashy/repomix) - Packs an entire repository into a single AI-friendly file for feeding codebases to LLMs and AI tools.
 - [shadcn/ui](https://ui.shadcn.com) - Reusable React components built with Tailwind CSS.

@@ -11,7 +11,7 @@
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (8)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (52)
+- [Trading](#trading) (55)
 - [Other](#other) (6)
 
 ## CRM
@@ -136,6 +136,7 @@
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - financial terminal
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Python crypto trading bot: backtesting, dry-run, FreqAI strategy optimization, Telegram/WebUI, major spot/futures exchanges; Python 3.12+; GPL-3.0.
 - [Google Ads MCP](https://github.com/googleads/google-ads-mcp) - Official Google Ads MCP: READ-ONLY campaign data (metrics, budgets, statuses); cannot change anything by design; Google Cloud OAuth + Ads account; official.
+- [gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance, derivative pricing, trading strategies, and risk management.
 - [HookScreener](https://hookscreener.com/) - Crypto order-book terminal streaming trades from 10 exchanges in real time.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source framework to build and deploy high-frequency crypto trading bots on 130+ exchanges: market making, arbitrage, backtesting and dashboard; Python; Apache-2.0.
 - [Kronos](https://github.com/shiyu-coder/Kronos) - an AI for financial market analysis
@@ -146,6 +147,7 @@
 - [model-trader](https://github.com/tonbistudio/model-trader) - framework that turns the "thinking" of a real trader (from his videos, articles, tweets) into a trading bot
 - [MotiveWave](https://motivewave.com/) - Cross platform trading platform with order flow, Elliott Wave and DOM analysis tools
 - [mppx](https://github.com/wevm/mppx) - TypeScript SDK for the Machine Payments Protocol: server charges, client auto-pay on HTTP 402, sessions and SSE streaming; Tempo and Stripe SPT; npm; MIT.
+- [NautilusTrader](https://nautilustrader.io/) - Open-source multi-asset trading engine with a Rust core and Python API for backtesting and live trading.
 - [OpenBB](https://github.com/openbq-org/OpenBB) - Open financial data platform: integrates proprietary, licensed and public data for quants, analysts and AI agents via Python API, REST, Excel and MCP; pip install openbb; Apache-2.0.
 - [OpenStock](https://github.com/Open-Dev-Society/OpenStock) - free open-source alternative to paid stock market tracking services (like expensive terminals such as Bloomberg, only a simple version)
 - [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit) - SDK for agent frameworks (OpenAI Agents SDK, LangChain, Vercel AI SDK, MCP) to call PayPal APIs: invoice, dispute, shipment and balance tools; npm, TypeScript; Apache-2.0.
@@ -159,6 +161,7 @@
 - [QuickBooks Online MCP Server](https://github.com/intuit/quickbooks-online-mcp-server) - MCP server for QuickBooks Online: 145 tools, CRUD for 29 entity types, 11 financial reports, OAuth 2.0; local stdio server for MCP clients; TypeScript; Apache-2.0.
 - [Rithmic](https://www.rithmic.com/) - Trading infrastructure, market data and connectivity for futures and options
 - [SEC EDGAR MCP](https://github.com/stefanoamorelli/sec-edgar-mcp) - MCP server for SEC EDGAR: company filings, financial statements and insider trading data with exact numeric precision; Docker, pip or uv; Python; AGPL-3.0.
+- [skfolio](https://skfolio.org/) - Python library for portfolio optimization, factor models, and risk management built on scikit-learn.
 - [StockSharp](https://github.com/StockSharp/StockSharp) - Open algorithmic trading platform in C#: exchange connectors, charts, strategies, robots.
 - [Stripe AI](https://github.com/stripe/ai) - Stripe SDK collection for AI products: ai-sdk and token-meter packages for billing LLM apps, hosted MCP at mcp.stripe.com, agent skills; npm, TypeScript; MIT.
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent trading framework (Tauric Research): analyst/bull/bear/trader agents debate and make trade decisions.

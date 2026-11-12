@@ -86,6 +86,7 @@
 {"id":222,"name":"Netlify","url":"https://www.netlify.com/","desc":"static html css","cat":"infra_host"},
 {"id":27,"name":"NGrok","url":"https://ngrok.com/","desc":"Tunnel a local port to a public URL in a second","cat":"infra_host"},
 {"id":479,"name":"Rathole","url":"https://github.com/rathole-org/rathole","desc":"A lightweight and very fast reverse proxy for bypassing NAT, written in Rust; an open alternative to frp and ngrok. Minimal resources, encryption via the Noise protocol.","cat":"infra_host"},
+{"id":"it_1793733331825079783","name":"tunnl.gg","url":"https://tunnl.gg/","desc":"Free localhost tunnel exposing a local port over HTTPS via SSH, with stable URLs tied to an SSH key.","cat":"infra_host"},
 {"id":28,"name":"Vercel","url":"https://vercel.com/","desc":"Hosting for frontend and serverless functions with auto-deploy from Git","cat":"infra_host"},
 {"id":29,"name":"Wispbyte","url":"https://wispbyte.com/client/","desc":"Free game server hosting: Minecraft, Rust, etc.","cat":"infra_host"},
 {"id":185,"name":"Cloudflare Registrar","url":"https://domains.cloudflare.com/","desc":"Domains at cost + free WHOIS privacy","cat":"infra_domain"},

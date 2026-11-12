@@ -14,7 +14,7 @@
 - [Collections](#collections) (33)
 - [Local Models](#local-models) (25)
 - [Routers & Gateways](#routers-gateways) (15)
-- [Skills](#skills) (91)
+- [Skills](#skills) (92)
 - [Voice & Transcription](#voice-transcription) (13)
 
 ## Agent Memory
@@ -541,6 +541,7 @@
 - [opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - OpenCode plugin that cuts obsolete tool output to save tokens; free, no key; community.
 - [opencode-firecrawl](https://github.com/firecrawl/opencode-firecrawl) - Official Firecrawl OpenCode plugin: scraping/crawling via Firecrawl CLI inside OpenCode; freemium, needs Firecrawl key; official.
 - [opencode-tavily](https://www.npmjs.com/package/opencode-tavily) - Official Tavily OpenCode plugin: web search/extract/crawl via Tavily CLI wired into OpenCode events; freemium, needs Tavily key; official.
+- [optimize-skill](https://github.com/sebbsssss/optimize-skill) - Claude Code/Cursor skill that audits web app performance, applies safe fixes, and verifies before-and-after results.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - plugin that teaches an AI assistant not to overcomplicate where a little will do
 - [PPT Master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real native PowerPoint decks: shapes, transitions, animations, data-driven charts, voiceover from speaker notes and your own .pptx templates.
 - [Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts) - prompts and presentation design rules for AI agents
