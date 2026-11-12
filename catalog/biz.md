@@ -3,13 +3,13 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [CRM](#crm) (9)
+- [CRM](#crm) (10)
 - [Crypto & Wallets](#crypto-wallets) (1)
 - [Jobs](#jobs) (1)
 - [Marketing & SEO](#marketing-seo) (62)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
-- [Startup Funds](#startup-funds) (8)
+- [Startup Funds](#startup-funds) (10)
 - [Tenders & Procurement](#tenders-procurement) (1)
 - [Trading](#trading) (55)
 - [Other](#other) (6)
@@ -23,6 +23,7 @@
 - [GoHighLevel](https://www.gohighlevel.com/) - All-in-one sales and marketing platform that agencies can white-label and resell to clients.
 - [Gr8r Studio](https://github.com/gr8rstudio/gr8r-studio) - Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.
 - [LobbyStack](https://github.com/lobbystack/lobbystack) - Open-source AI receptionist software for handling phone calls, texts, and appointment booking.
+- [Salesforce Developer Edition](https://developer.salesforce.com/signup) - Free Salesforce developer environment for building and testing CRM apps with sample data and APIs.
 - [Twenty](https://twenty.com/) - Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.
 
 ## Crypto & Wallets
@@ -107,8 +108,10 @@
 ## Startup Funds
 - [500.co](https://500.co/) - A global VC fund with offices around the world
 - [Antler](https://www.antler.co/) - A global venture studio: assembles teams and builds startups from scratch
+- [AWS Activate](https://aws.amazon.com/startups/credits/) - AWS startup program offering credits, technical support, and partner resources for eligible startups.
 - [Crunchbase](https://crunchbase.com/) - private company data and funding insights; for investors and founders; free and paid; AI-powered predictions
 - [Joinef](https://www.joinef.com/) - European fund for early-stage founders
+- [Microsoft for Startups](https://www.microsoft.com/en-us/startups) - Microsoft program for startups with Azure credits, AI tools, and go-to-market support.
 - [Seed Camp](https://seedcamp.com/) - London early-stage investment fund for European startups
 - [SMERGERS](https://www.smergers.com/) - online platform that connects owners of small and medium-sized businesses with investors, buyers and M&A advisors around the world
 - [Wellfound](https://wellfound.com/) - startup jobs and AI recruiting platform; post jobs and hire talent; for startups and job seekers; free and paid

@@ -3,16 +3,18 @@
 > GENERATED from data.json by scripts/build_views.py — do not edit by hand.
 
 ## Contents
-- [Cloud](#cloud) (37)
+- [Cloud](#cloud) (43)
 - [Domains](#domains) (13)
 - [Hosting](#hosting) (14)
 - [Monitoring](#monitoring) (48)
 - [VPS](#vps) (25)
 
 ## Cloud
+- [Alibaba Cloud Free](https://www.alibabacloud.com/en/free) - Alibaba Cloud free trial program with trial credits and free usage of selected cloud products.
 - [Ansible](https://www.ansible.com/) - Red Hat agentless automation: playbooks for config management and deployments over SSH; free, GPL.
 - [Appwrite](https://github.com/appwrite/appwrite) - Open-source backend cloud for agents and developers: auth, databases, storage, functions, messaging, hosting, realtime, MCP server; Docker self-host; TypeScript; BSD-3-Clause.
 - [AWS CLI](https://aws.amazon.com/cli/) - Official command-line tool to manage AWS services; free tool, AWS usage costs apply.
+- [AWS Free Tier](https://aws.amazon.com/free/) - AWS free tier program with free usage of core cloud services and trial offers for new accounts.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon serverless functions: event-driven code without servers, pay per millisecond of execution. Cheap for small tasks, 15 min limits.
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) - Official Microsoft command-line tool to manage Azure resources; free tool, Azure usage costs apply.
 - [Bitdeer AI](https://bitdeer.ai) - NVIDIA GPU cloud and AI infrastructure platform
@@ -31,8 +33,10 @@
 - [Firebase](https://firebase.google.com) - Google platform for building and running mobile and web applications.
 - [Firestore](https://cloud.google.com/firestore/pricing) - Google non-relational document DB: realtime updates on clients, offline mode, serverless. The Firebase stack for apps. Pricing with a free quota.
 - [GMI Cloud](https://gmicloud.ai) - AI cloud for GPU compute, inference and agents on NVIDIA infrastructure
+- [Google Cloud Free](https://cloud.google.com/free) - Google Cloud free trial and always-free tier with credits and limited usage of core products.
 - [Google Cloud SDK](https://cloud.google.com/sdk) - CLI tools and libraries for Google Cloud (gcloud, gsutil, bq); free tool, GCP usage costs apply.
 - [Google Compute Engine](https://cloud.google.com/products/compute) - Google Cloud virtual machines: per-second billing, preemptible instances at up to 90% discount, free egress tier of 200GB. A VPS in the Google cloud.
+- [IBM Cloud Free Tier](https://www.ibm.com/products/cloud/free) - IBM Cloud account tier with always-free products and a starting credit for paid services.
 - [Jenkins](https://www.jenkins.io/) - Self-hosted automation server: CI/CD pipelines with plugin ecosystem; free, MIT.
 - [Kubernetes](https://kubernetes.io/) - Container orchestration: scheduling, scaling, self-healing, service discovery; free, CNCF project.
 - [Lightning AI](https://lightning.ai) - AI cloud for building, training and deploying models with on-demand GPUs
@@ -41,7 +45,9 @@
 - [Neon](https://neon.com/) - Serverless Postgres: git-like database branching (a copy of the database for each branch/preview), autoscale to zero, generous free tier. A foundation for modern SaaS.
 - [Nextcloud](https://nextcloud.com/) - Open-source personal cloud: files, calendars, contacts, office, sync — self-host.
 - [OnlyDrive](https://github.com/yava-code/OnlyDrive) - Single Go binary (gd) mounts Google Drive as local drive without Cloud project/API keys; pools accounts, exposes S3/WebDAV/MCP. Wraps rclone, local web panel. Not for live DBs. Apache-2.0.
+- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Oracle program with always-free cloud services and starting credits for compute, storage, and databases.
 - [Ray](https://github.com/ray-project/ray) - Distributed AI compute engine: core distributed runtime plus libraries for training, serving, tuning and RL workloads, scales Python from laptop to cluster; Apache-2.0.
+- [SAP BTP Trial](https://www.sap.com/products/technology-platform/trial.html) - Free trial of SAP Business Technology Platform for building and testing enterprise applications and integrations.
 - [Stripe](https://stripe.com) - Online payment processing platform for internet businesses.
 - [Supabase](https://supabase.com/) - Open-source Firebase alternative: Postgres, realtime subscriptions, auth, storage, edge functions, auto-generated API. Has a generous free tier.
 - [TeraBox](https://www.terabox.com/russian) - free terabyte

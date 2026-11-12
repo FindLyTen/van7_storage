@@ -7,8 +7,8 @@
 - [Animations](#animations) (15)
 - [Fonts](#fonts) (2)
 - [Icons](#icons) (10)
-- [Maps](#maps) (3)
-- [Tools](#tools) (20)
+- [Maps](#maps) (4)
+- [Tools](#tools) (21)
 - [UI Libraries](#ui-libraries) (32)
 - [Other](#other) (4)
 
@@ -55,11 +55,13 @@
 - [Tabler Icons](https://tabler.io/icons) - 5000+ SVG icons in a consistent style, free
 
 ## Maps
+- [Google Maps Platform](https://mapsplatform.google.com/) - Google APIs and SDKs for maps, routing, places, geocoding, and geospatial analytics.
 - [Mapcn](https://www.mapcn.dev/) - Beautiful stylish maps
 - [OpenFreeMap](https://openfreemap.org/) - Free maps for the web with no limits or API keys: open-source stack, your own hosting or their CDN, MapLibre styles. A Mapbox alternative.
 - [Terrascope](https://github.com/a-shygun/Terrascope) - Interactive world map for the terminal: countries, place names, live aircraft, city weather, radar overlay, earthquakes and day/night bands; Python curses with Unicode Braille; pip or brew.
 
 ## Tools
+- [Adobe Express](https://www.adobe.com/express/) - Adobe Express design tool with templates for graphics, social posts, photos, and short videos; free tier.
 - [ArtCraft](https://getartcraft.com/apps) - Creative studio: 13 free Rust apps (image, vector, video, raw, PDF, motion, layout, UI, word, audio, presentations, CAD, sheets). Local, no Electron; CLI/JSON/MCP; 12 to WASM. Permissive; some alpha.
 - [Canva AI](https://www.canva.com/) - Design suite with AI features: Magic Design generation, background remover, AI image and text tools; free tier.
 - [Designs AI](https://designs.ai/) - A suite of AI tools: logos, banners, video, texts

@@ -66,8 +66,10 @@
 {"id":434,"name":"MTender","url":"https://mtender.gov.md/ru/tenders","desc":"Moldova's public procurement: tenders, auctions and contracts in open access","cat":"biz_tender"},
 {"id":99,"name":"500.co","url":"https://500.co/","desc":"A global VC fund with offices around the world","cat":"biz_fund"},
 {"id":98,"name":"Antler","url":"https://www.antler.co/","desc":"A global venture studio: assembles teams and builds startups from scratch","cat":"biz_fund"},
+{"id":"it_1793733331825079824","name":"AWS Activate","url":"https://aws.amazon.com/startups/credits/","desc":"AWS startup program offering credits, technical support, and partner resources for eligible startups.","cat":"biz_fund"},
 {"id":"it_179270318010112","name":"Crunchbase","url":"https://crunchbase.com/","desc":"private company data and funding insights; for investors and founders; free and paid; AI-powered predictions","cat":"biz_fund"},
 {"id":97,"name":"Joinef","url":"https://www.joinef.com/","desc":"European fund for early-stage founders","cat":"biz_fund"},
+{"id":"it_1793733331825079827","name":"Microsoft for Startups","url":"https://www.microsoft.com/en-us/startups","desc":"Microsoft program for startups with Azure credits, AI tools, and go-to-market support.","cat":"biz_fund"},
 {"id":96,"name":"Seed Camp","url":"https://seedcamp.com/","desc":"London early-stage investment fund for European startups","cat":"biz_fund"},
 {"id":302,"name":"SMERGERS","url":"https://www.smergers.com/","desc":"online platform that connects owners of small and medium-sized businesses with investors, buyers and M&A advisors around the world","cat":"biz_fund"},
 {"id":"it_179270318010134","name":"Wellfound","url":"https://wellfound.com/","desc":"startup jobs and AI recruiting platform; post jobs and hire talent; for startups and job seekers; free and paid","cat":"biz_fund"},
@@ -149,6 +151,7 @@
 {"id":"it_1793401277210061","name":"GoHighLevel","url":"https://www.gohighlevel.com/","desc":"All-in-one sales and marketing platform that agencies can white-label and resell to clients.","cat":"biz_crm"},
 {"id":"it_179268501308535","name":"Gr8r Studio","url":"https://github.com/gr8rstudio/gr8r-studio","desc":"Self-hosted project management workspace: dashboard, inbox, tasks, projects with board/list/table/calendar/timeline, members, teams; plain JS + Vite; license not stated.","cat":"biz_crm"},
 {"id":"it_1793401277210063","name":"LobbyStack","url":"https://github.com/lobbystack/lobbystack","desc":"Open-source AI receptionist software for handling phone calls, texts, and appointment booking.","cat":"biz_crm"},
+{"id":"it_1793733331825079834","name":"Salesforce Developer Edition","url":"https://developer.salesforce.com/signup","desc":"Free Salesforce developer environment for building and testing CRM apps with sample data and APIs.","cat":"biz_crm"},
 {"id":"it_1791895568050","name":"Twenty","url":"https://twenty.com/","desc":"Open-source CRM for modern teams with a customizable data model, layouts, automations, permissions, workflow engine and AI chat assistant, extendable with code. Self-hostable or hosted.","cat":"biz_crm"}
 ]
 }

@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1778,
+ "items_total": 1793,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 575,
+   "count": 577,
    "subsections": [
     {
      "id": "ai_memory",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 100
+     "count": 101
     },
     {
      "id": "ai_avatar",
@@ -58,7 +58,7 @@
     {
      "id": "ai_local",
      "name": "Local Models",
-     "count": 34
+     "count": 35
     },
     {
      "id": "ai_router",
@@ -125,12 +125,12 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 148,
+   "count": 151,
    "subsections": [
     {
      "id": "biz_crm",
      "name": "CRM",
-     "count": 9
+     "count": 10
     },
     {
      "id": "biz_crypto",
@@ -160,7 +160,7 @@
     {
      "id": "biz_fund",
      "name": "Startup Funds",
-     "count": 8
+     "count": 10
     },
     {
      "id": "biz_tender",
@@ -222,7 +222,7 @@
    "id": "design",
    "name": "Design",
    "emoji": "🎨",
-   "count": 93,
+   "count": 95,
    "subsections": [
     {
      "id": "design_3d",
@@ -247,12 +247,12 @@
     {
      "id": "design_maps",
      "name": "Maps",
-     "count": 3
+     "count": 4
     },
     {
      "id": "design_tools",
      "name": "Tools",
-     "count": 20
+     "count": 21
     },
     {
      "id": "design_ui",
@@ -412,12 +412,12 @@
    "id": "infra",
    "name": "Infrastructure",
    "emoji": "🖥️",
-   "count": 137,
+   "count": 143,
    "subsections": [
     {
      "id": "infra_cloud",
      "name": "Cloud",
-     "count": 37
+     "count": 43
     },
     {
      "id": "infra_domain",
@@ -448,7 +448,7 @@
    "id": "edu",
    "name": "Knowledge",
    "emoji": "📚",
-   "count": 79,
+   "count": 81,
    "subsections": [
     {
      "id": "edu_lists",
@@ -458,7 +458,7 @@
     {
      "id": "edu_courses",
      "name": "Courses",
-     "count": 25
+     "count": 27
     },
     {
      "id": "edu_arch",

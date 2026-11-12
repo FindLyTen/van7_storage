@@ -4,7 +4,7 @@
 
 ## Contents
 - [Collections](#collections) (7)
-- [Courses](#courses) (25)
+- [Courses](#courses) (27)
 - [Data Archives](#data-archives) (6)
 - [Interviews](#interviews) (15)
 - [Libraries](#libraries) (7)
@@ -25,6 +25,7 @@
 - [Agents From Scratch](https://github.com/langchain-ai/agents-from-scratch) - LangChain course that builds an email assistant agent from scratch: tool calling, human-in-the-loop interrupts, memory and LangGraph deployment; free materials; MIT.
 - [Art for Introverts](https://new.artforintrovert.ru/) - lectures on art, history and philosophy in a cozy format
 - [Arzamas](https://arzamas.academy/) - humanities courses and podcasts: literature, history, art
+- [Azure for Students](https://azure.microsoft.com/en-us/free/students) - Microsoft program giving students Azure credits and access to cloud and developer tools.
 - [Big Think](https://bigthink.com/) - short interviews and essays by leading scientists and thinkers about the future and ideas
 - [Build AI Agent Harness (Vercel Academy)](https://vercel.com/academy/build-ai-agent-harness) - A 38-lesson course from Vercel: build your own AI coding agent harness from scratch: tool loop, sandboxes, security gates, context trimming, subagents, skills. All on the AI SDK.
 - [Class Central](https://classcentral.com/collection/top-free-online-courses) - an aggregator of free online courses from all platforms, ratings and reviews
@@ -33,6 +34,7 @@
 - [Crash Course](https://thecrashcourse.com/) - dynamic video lectures on history, science, economics and philosophy by John and Hank Green
 - [Digital Defynd](https://digitaldefynd.com/best-free-certification-course-training-online/) - a catalog of the best free courses with certificates from Google, Harvard and others
 - [edX](https://www.edx.org/) - courses from MIT, Harvard and other top universities, free, with certificates for a fee
+- [GitHub Student Developer Pack](https://education.github.com/pack) - GitHub Education program giving students free developer tools, services, and credits from partner companies.
 - [hello-agents](https://github.com/datawhalechina/hello-agents) - Free Chinese open course by Datawhale: build AI agents from scratch — planning, memory, tools, multi-agent patterns with runnable code; 85k stars.
 - [HowStuffWorks](https://www.howstuffworks.com/) - explanations of how everything in the world works: from engines to economics
 - [Khan Academy](https://www.khanacademy.org/) - free lessons in math, programming and natural sciences with exercises

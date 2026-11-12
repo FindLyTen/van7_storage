@@ -8,11 +8,11 @@
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (2)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (100)
+- [API & MCP](#api-mcp) (101)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (34)
-- [Local Models](#local-models) (34)
+- [Local Models](#local-models) (35)
 - [Routers & Gateways](#routers-gateways) (15)
 - [Skills](#skills) (93)
 - [Voice & Transcription](#voice-transcription) (13)
@@ -280,6 +280,7 @@
 
 ## API & MCP
 - [AgentGateway](https://github.com/agentgateway/agentgateway) - Open source proxy for agent traffic on MCP and A2A protocols: security, observability and governance for agent-to-LLM, agent-to-tool and agent-to-agent communication; Rust; Apache-2.0.
+- [Alibaba Model Studio](https://www.alibabacloud.com/en/product/modelstudio) - Alibaba Cloud platform for Qwen models with API access, fine-tuning, and dedicated deployment.
 - [Baseten](https://baseten.co) - AI inference platform for deploying open-source models in production
 - [BrainAPI2](https://github.com/Lumen-Labs/brainapi2) - API gateway to brain interfaces/neural data from Lumen Labs.
 - [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) - Official Brave Search MCP with free tier (~1k-2k queries/mo): web search API for agents; freemium, free key; official Brave, active.
@@ -471,6 +472,7 @@
 - [Gemma](https://deepmind.google/models/gemma/) - Google DeepMind's Gemma family of open lightweight models for text and multimodal tasks, with developer resources.
 - [Gemma-4-12B OBLITERATED](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED) - An uncensored Gemma 4 12B (abliteration): multimodal (text+images), GGUF quantizations for local running. 28k+ downloads on HF.
 - [GLM-5.3 CYBERSECURITY FP8](https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8) - A specialized GLM-5.3 for cybersecurity: refusal-removed, offensive security, red-team and pentest. FP8 quant for local running.
+- [Grok](https://grok.com/) - Grok assistant for chat, image generation, coding, and real-time answers from the web and X; free tier.
 - [Hugging Face](https://huggingface.co/) - Hub for open models, datasets, and demos, with hosting, inference endpoints, and community tooling.
 - [Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - Multilingual translation model family: 1.8B, 7B and 30B-A3B MoE, 33 languages, instruction following, GGUF/FP8, on-device quantization; HuggingFace/ModelScope; Apache-2.0.
 - [imajev-4b](https://huggingface.co/mohit67890/imajev-4b) - Small open model (4B, Apache-2.0) for business decisions from photos: checks photos against records, compares two photos, gives probabilities and an honest “don't know”. Local, MLX/PyTorch.

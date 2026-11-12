@@ -13391,6 +13391,111 @@
       "desc": "AWS family of foundation models and services for generative AI across text, image, and video.",
       "url": "https://aws.amazon.com/nova/",
       "cat": "ai_local"
+    },
+    {
+      "id": "it_1793733331825079823",
+      "name": "AWS Free Tier",
+      "desc": "AWS free tier program with free usage of core cloud services and trial offers for new accounts.",
+      "url": "https://aws.amazon.com/free/",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079824",
+      "name": "AWS Activate",
+      "desc": "AWS startup program offering credits, technical support, and partner resources for eligible startups.",
+      "url": "https://aws.amazon.com/startups/credits/",
+      "cat": "biz_fund"
+    },
+    {
+      "id": "it_1793733331825079825",
+      "name": "Google Cloud Free",
+      "desc": "Google Cloud free trial and always-free tier with credits and limited usage of core products.",
+      "url": "https://cloud.google.com/free",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079826",
+      "name": "Azure for Students",
+      "desc": "Microsoft program giving students Azure credits and access to cloud and developer tools.",
+      "url": "https://azure.microsoft.com/en-us/free/students",
+      "cat": "edu_courses"
+    },
+    {
+      "id": "it_1793733331825079827",
+      "name": "Microsoft for Startups",
+      "desc": "Microsoft program for startups with Azure credits, AI tools, and go-to-market support.",
+      "url": "https://www.microsoft.com/en-us/startups",
+      "cat": "biz_fund"
+    },
+    {
+      "id": "it_1793733331825079828",
+      "name": "Oracle Cloud Free Tier",
+      "desc": "Oracle program with always-free cloud services and starting credits for compute, storage, and databases.",
+      "url": "https://www.oracle.com/cloud/free/",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079829",
+      "name": "IBM Cloud Free Tier",
+      "desc": "IBM Cloud account tier with always-free products and a starting credit for paid services.",
+      "url": "https://www.ibm.com/products/cloud/free",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079830",
+      "name": "Alibaba Cloud Free",
+      "desc": "Alibaba Cloud free trial program with trial credits and free usage of selected cloud products.",
+      "url": "https://www.alibabacloud.com/en/free",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079831",
+      "name": "Alibaba Model Studio",
+      "desc": "Alibaba Cloud platform for Qwen models with API access, fine-tuning, and dedicated deployment.",
+      "url": "https://www.alibabacloud.com/en/product/modelstudio",
+      "cat": "ai_api"
+    },
+    {
+      "id": "it_1793733331825079832",
+      "name": "Google Maps Platform",
+      "desc": "Google APIs and SDKs for maps, routing, places, geocoding, and geospatial analytics.",
+      "url": "https://mapsplatform.google.com/",
+      "cat": "design_maps"
+    },
+    {
+      "id": "it_1793733331825079833",
+      "name": "GitHub Student Developer Pack",
+      "desc": "GitHub Education program giving students free developer tools, services, and credits from partner companies.",
+      "url": "https://education.github.com/pack",
+      "cat": "edu_courses"
+    },
+    {
+      "id": "it_1793733331825079834",
+      "name": "Salesforce Developer Edition",
+      "desc": "Free Salesforce developer environment for building and testing CRM apps with sample data and APIs.",
+      "url": "https://developer.salesforce.com/signup",
+      "cat": "biz_crm"
+    },
+    {
+      "id": "it_1793733331825079835",
+      "name": "SAP BTP Trial",
+      "desc": "Free trial of SAP Business Technology Platform for building and testing enterprise applications and integrations.",
+      "url": "https://www.sap.com/products/technology-platform/trial.html",
+      "cat": "infra_cloud"
+    },
+    {
+      "id": "it_1793733331825079836",
+      "name": "Adobe Express",
+      "desc": "Adobe Express design tool with templates for graphics, social posts, photos, and short videos; free tier.",
+      "url": "https://www.adobe.com/express/",
+      "cat": "design_tools"
+    },
+    {
+      "id": "it_1793733331825079837",
+      "name": "Grok",
+      "desc": "Grok assistant for chat, image generation, coding, and real-time answers from the web and X; free tier.",
+      "url": "https://grok.com/",
+      "cat": "ai_local"
     }
   ]
 }
