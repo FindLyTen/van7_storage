@@ -5,7 +5,7 @@
 ## Contents
 - [API Catalogs](#api-catalogs) (8)
 - [Data Recovery](#data-recovery) (2)
-- [Developer Tools](#developer-tools) (31)
+- [Developer Tools](#developer-tools) (32)
 - [Editors](#editors) (57)
 - [Terminals](#terminals) (5)
 - [Visualization](#visualization) (7)
@@ -28,6 +28,7 @@
 ## Developer Tools
 - [ArcticDB](https://github.com/man-group/ArcticDB) - High-performance serverless DataFrame database for the Python data science ecosystem.
 - [Auth.js](https://authjs.dev) - Authentication library for web frameworks.
+- [AWS Emulator](https://github.com/aws/aws-emulator) - Local emulator of AWS APIs for offline development and testing without calling AWS.
 - [Better-T-Stack](https://www.better-t-stack.dev/) - CLI for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable stacks.
 - [Chapar](https://github.com/chapar-rest/chapar) - Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.
 - [CodeRabbit](https://www.coderabbit.ai/) - Independent AI code review with PR triage, change explanations, and continuous security monitoring.

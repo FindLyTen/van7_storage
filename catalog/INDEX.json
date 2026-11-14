@@ -1,14 +1,14 @@
 {
  "generated_by": "scripts/build_views.py",
  "source": "data.json",
- "items_total": 1794,
+ "items_total": 1810,
  "categories_total": 118,
  "sections": [
   {
    "id": "ai",
    "name": "AI & Agents",
    "emoji": "🤖",
-   "count": 577,
+   "count": 581,
    "subsections": [
     {
      "id": "ai_memory",
@@ -18,7 +18,7 @@
     {
      "id": "ai_agents",
      "name": "AI Agents",
-     "count": 148
+     "count": 150
     },
     {
      "id": "ai_image",
@@ -38,7 +38,7 @@
     {
      "id": "ai_api",
      "name": "API & MCP",
-     "count": 101
+     "count": 102
     },
     {
      "id": "ai_avatar",
@@ -58,7 +58,7 @@
     {
      "id": "ai_local",
      "name": "Local Models",
-     "count": 35
+     "count": 36
     },
     {
      "id": "ai_router",
@@ -125,7 +125,7 @@
    "id": "biz",
    "name": "Business",
    "emoji": "💼",
-   "count": 151,
+   "count": 161,
    "subsections": [
     {
      "id": "biz_crm",
@@ -135,7 +135,7 @@
     {
      "id": "biz_crypto",
      "name": "Crypto & Wallets",
-     "count": 1
+     "count": 2
     },
     {
      "id": "biz_jobs",
@@ -170,7 +170,7 @@
     {
      "id": "biz_trade",
      "name": "Trading",
-     "count": 55
+     "count": 64
     }
    ],
    "json": "catalog/biz.json",
@@ -268,7 +268,7 @@
    "id": "dev",
    "name": "Development",
    "emoji": "💻",
-   "count": 120,
+   "count": 121,
    "subsections": [
     {
      "id": "dev_api",
@@ -283,7 +283,7 @@
     {
      "id": "dev_tools",
      "name": "Developer Tools",
-     "count": 31
+     "count": 32
     },
     {
      "id": "dev_edit",
@@ -515,7 +515,7 @@
    "id": "media",
    "name": "Media",
    "emoji": "🎬",
-   "count": 45,
+   "count": 46,
    "subsections": [
     {
      "id": "media_comp",
@@ -540,7 +540,7 @@
     {
      "id": "media_video",
      "name": "Video Editing",
-     "count": 18
+     "count": 19
     }
    ],
    "json": "catalog/media.json",

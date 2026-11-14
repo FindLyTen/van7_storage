@@ -1,6 +1,6 @@
 # VAN7 Storage
 
-Public catalog of **1794 tools, scripts, skills and templates** for AI agents and automation.
+Public catalog of **1810 tools, scripts, skills and templates** for AI agents and automation.
 
 ## Why
 Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without connectors, tokens or logins** — just fetch the raw file. Built to be the "first rule" lookup before writing anything from scratch.
@@ -18,19 +18,19 @@ Any AI (Claude, GPT, Gemini, local agents) can read this catalog **without conne
 ## Catalog
 | Section | Tools | Subsections | Human page | Machine file |
 | --- | ---: | ---: | --- | --- |
-| 🤖 AI & Agents | 577 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
+| 🤖 AI & Agents | 581 | 13 | [catalog/ai.md](catalog/ai.md) | [catalog/ai.json](catalog/ai.json) |
 | ⚙️ Automation | 101 | 6 | [catalog/auto.md](catalog/auto.md) | [catalog/auto.json](catalog/auto.json) |
-| 💼 Business | 151 | 9 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
+| 💼 Business | 161 | 9 | [catalog/biz.md](catalog/biz.md) | [catalog/biz.json](catalog/biz.json) |
 | 💬 Communications | 31 | 6 | [catalog/chat.md](catalog/chat.md) | [catalog/chat.json](catalog/chat.json) |
 | 🎨 Design | 95 | 7 | [catalog/design.md](catalog/design.md) | [catalog/design.json](catalog/design.json) |
-| 💻 Development | 120 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
+| 💻 Development | 121 | 6 | [catalog/dev.md](catalog/dev.md) | [catalog/dev.json](catalog/dev.json) |
 | 📱 Devices | 60 | 4 | [catalog/devices.md](catalog/devices.md) | [catalog/devices.json](catalog/devices.json) |
 | 🎮 Games | 16 | 4 | [catalog/games.md](catalog/games.md) | [catalog/games.json](catalog/games.json) |
 | 🛡️ Hacking | 172 | 6 | [catalog/hack.md](catalog/hack.md) | [catalog/hack.json](catalog/hack.json) |
 | 🖥️ Infrastructure | 143 | 5 | [catalog/infra.md](catalog/infra.md) | [catalog/infra.json](catalog/infra.json) |
 | 📚 Knowledge | 81 | 6 | [catalog/edu.md](catalog/edu.md) | [catalog/edu.json](catalog/edu.json) |
 | 🌍 Life | 15 | 3 | [catalog/life.md](catalog/life.md) | [catalog/life.json](catalog/life.json) |
-| 🎬 Media | 45 | 5 | [catalog/media.md](catalog/media.md) | [catalog/media.json](catalog/media.json) |
+| 🎬 Media | 46 | 5 | [catalog/media.md](catalog/media.md) | [catalog/media.json](catalog/media.json) |
 | 📡 Networks & Hardware | 68 | 4 | [catalog/net.md](catalog/net.md) | [catalog/net.json](catalog/net.json) |
 | 🕵️ OSINT | 101 | 12 | [catalog/osint.md](catalog/osint.md) | [catalog/osint.json](catalog/osint.json) |
 | 🪟 Windows | 18 | 3 | [catalog/win.md](catalog/win.md) | [catalog/win.json](catalog/win.json) |

@@ -4,14 +4,14 @@
 
 ## Contents
 - [CRM](#crm) (10)
-- [Crypto & Wallets](#crypto-wallets) (1)
+- [Crypto & Wallets](#crypto-wallets) (2)
 - [Jobs](#jobs) (1)
 - [Marketing & SEO](#marketing-seo) (62)
 - [Real Estate](#real-estate) (2)
 - [Shops](#shops) (3)
 - [Startup Funds](#startup-funds) (10)
 - [Tenders & Procurement](#tenders-procurement) (1)
-- [Trading](#trading) (55)
+- [Trading](#trading) (64)
 - [Other](#other) (6)
 
 ## CRM
@@ -28,6 +28,7 @@
 
 ## Crypto & Wallets
 - [Exodus](https://www.exodus.com/) - Self-custodial cryptocurrency wallet for sending, swapping and managing crypto assets
+- [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Connect AI agents to Solana protocols, runs locally.
 
 ## Jobs
 - [openradar](https://github.com/MikhailSagalaev/openradar) - Open base of job vacancies and freelance orders from boards, RSS and Telegram; self-hosted shared hub with browser extension, MCP server and Python SDK.
@@ -122,8 +123,10 @@
 
 ## Trading
 - [ACP](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - Agentic Commerce Protocol: OpenAI and Stripe open standard connecting buyers, AI agents and merchants for checkout, payment handlers and orders; spec, RFCs; Apache-2.0.
+- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - AI-powered hedge fund framework for trading decisions, educational purposes.
 - [AI Trader](https://github.com/HKUDS/AI-Trader) - Multi-agent platform for financial market analysis from HKU
 - [Alpaca MCP Server](https://github.com/alpacahq/alpaca-mcp-server) - MCP server for Alpaca Trading API: natural-language trading operations over stocks, options and crypto, portfolio and market data tools for Claude and Cursor; MIT.
+- [Alpha Vantage MCP](https://github.com/alphavantage/alpha_vantage_mcp) - MCP server for Alpha Vantage financial market data.
 - [AP2](https://github.com/google-agentic-commerce/AP2) - Agent Payments Protocol: open spec plus Python SDK and samples for secure AI-agent payments with verifiable credentials and mandates; Google ADK demos; Apache-2.0.
 - [Aperture (L402)](https://github.com/lightninglabs/aperture) - L402 reverse proxy: sells HTTP API access per request over Lightning, with macaroon tokens and optional MPP payment scheme; Go binary or Docker; MIT.
 - [ATAS](https://atas.net/) - Volume analysis and order flow trading platform for futures, cryptocurrency and stocks
@@ -137,11 +140,15 @@
 - [Deepcharts](https://www.deepcharts.com/) - Orderflow trading software with institutional data, footprint charts and DOM trading tools
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - Database of 300k+ tickers/companies with metadata (sector, country, ETF) — the foundation for financial analysis in Python.
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) - financial terminal
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-source financial large language models.
+- [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial reinforcement learning library for trading decision-making.
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Python crypto trading bot: backtesting, dry-run, FreqAI strategy optimization, Telegram/WebUI, major spot/futures exchanges; Python 3.12+; GPL-3.0.
 - [Google Ads MCP](https://github.com/googleads/google-ads-mcp) - Official Google Ads MCP: READ-ONLY campaign data (metrics, budgets, statuses); cannot change anything by design; Google Cloud OAuth + Ads account; official.
 - [gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance, derivative pricing, trading strategies, and risk management.
 - [HookScreener](https://hookscreener.com/) - Crypto order-book terminal streaming trades from 10 exchanges in real time.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source framework to build and deploy high-frequency crypto trading bots on 130+ exchanges: market making, arbitrage, backtesting and dashboard; Python; Apache-2.0.
+- [Hyperliquid Python SDK](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - Python SDK for trading with the Hyperliquid API.
+- [Jesse](https://github.com/jesse-ai/jesse) - Advanced crypto trading bot written in Python.
 - [Kronos](https://github.com/shiyu-coder/Kronos) - an AI for financial market analysis
 - [Link CLI](https://github.com/stripe/link-cli) - Link CLI: lets agents request one-time or recurring payment credentials from a Link wallet without exposing card details; virtual cards, Stripe SPT; npm; MIT.
 - [Machine Learning for Trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Book code, 3rd edition: build, backtest and deploy ML trading strategies from data sourcing to live execution; 27 chapters, 9 case studies; Python, pandas, scikit-learn, PyTorch; MIT.
@@ -151,10 +158,12 @@
 - [MotiveWave](https://motivewave.com/) - Cross platform trading platform with order flow, Elliott Wave and DOM analysis tools
 - [mppx](https://github.com/wevm/mppx) - TypeScript SDK for the Machine Payments Protocol: server charges, client auto-pay on HTTP 402, sessions and SSE streaming; Tempo and Stripe SPT; npm; MIT.
 - [NautilusTrader](https://nautilustrader.io/) - Open-source multi-asset trading engine with a Rust core and Python API for backtesting and live trading.
+- [NoFx](https://github.com/NoFxAiOS/nofx) - AI trading terminal assistant for US stocks, commodities, forex and crypto; runs locally.
 - [OpenBB](https://github.com/openbq-org/OpenBB) - Open financial data platform: integrates proprietary, licensed and public data for quants, analysts and AI agents via Python API, REST, Excel and MCP; pip install openbb; Apache-2.0.
 - [OpenStock](https://github.com/Open-Dev-Society/OpenStock) - free open-source alternative to paid stock market tracking services (like expensive terminals such as Bloomberg, only a simple version)
 - [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit) - SDK for agent frameworks (OpenAI Agents SDK, LangChain, Vercel AI SDK, MCP) to call PayPal APIs: invoice, dispute, shipment and balance tools; npm, TypeScript; Apache-2.0.
 - [PokieTicker](https://github.com/owengetinfo-design/PokieTicker) - service that shows a stock chart (candles) and next to it the news, to understand "why the price moved that way"
+- [Polygon MCP](https://github.com/polygon-io/mcp_polygon) - MCP server for Polygon financial market data.
 - [PolyHistorical](https://polyhistorical.com/) - Historical order-book data API for Polymarket backtesting: BTC/ETH/SOL UP/DOWN depth snapshots, Binance BTC spot/futures depth (Pro), strategy replay on resolved markets; REST API with tiered pricing.
 - [Polymarket Agents](https://github.com/Polymarket/agents) - Official Polymarket AI agents for autonomous trading
 - [Polymarket Insider Tracker](https://github.com/pselamy/polymarket-insider-tracker) - Detects suspicious trading on Polymarket: polls public trades, profiles wallets on Polygon, scores risk with ML plus heuristics, alerts to Discord/Telegram; Python, uv, Docker, Postgres, Redis; MIT.
@@ -174,6 +183,7 @@
 - [VeighNa (vnpy)](https://github.com/vnpy/vnpy) - Open trading platform in Python: broker/exchange connectors, backtesting, live trading, CTA strategies — the de facto standard for quant trading in China and beyond.
 - [x402](https://github.com/x402-foundation/x402) - Open payment protocol built on HTTP 402: charge APIs and AI agents in stablecoins or fiat across many chains; TypeScript, Python and Go SDKs; npm/pip; Apache-2.0.
 - [Xero MCP Server](https://github.com/XeroAPI/xero-mcp-server) - MCP server for the Xero accounting API: OAuth2 custom connections, contacts, chart of accounts and invoice management; Node.js 18+, npm; MIT.
+- [Yahoo Finance MCP](https://github.com/Alex2Yang97/yahoo-finance-mcp) - MCP server for Yahoo Finance stock market data.
 - [yfinance](https://github.com/ranaroussi/yfinance) - Python library for downloading Yahoo Finance market data: quotes, options, fundamentals — the standard for trading scripts and backtests.
 - [ZeroSum](https://zerosum.so/) - crypto and prediction markets: analytics, copy trading, portfolios
 

@@ -83,6 +83,7 @@
 {"id":"it_1793399532693008","name":"Zed","url":"https://zed.dev/","desc":"High-performance collaborative code editor written in Rust: multiplayer editing, AI assistance, fast UI; free, GPL/MIT mix.","cat":"dev_edit"},
 {"id":"it_1793733331825079788","name":"ArcticDB","url":"https://github.com/man-group/ArcticDB","desc":"High-performance serverless DataFrame database for the Python data science ecosystem.","cat":"dev_tools"},
 {"id":"it_1793732750647995762","name":"Auth.js","url":"https://authjs.dev","desc":"Authentication library for web frameworks.","cat":"dev_tools"},
+{"id":"1794671930221496583","name":"AWS Emulator","url":"https://github.com/aws/aws-emulator","desc":"Local emulator of AWS APIs for offline development and testing without calling AWS.","cat":"dev_tools"},
 {"id":"it_1793733331825079785","name":"Better-T-Stack","url":"https://www.better-t-stack.dev/","desc":"CLI for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable stacks.","cat":"dev_tools"},
 {"id":"it_1793401277210070","name":"Chapar","url":"https://github.com/chapar-rest/chapar","desc":"Fast native API client for REST, gRPC, WebSocket, and GraphQL; local-first Postman alternative.","cat":"dev_tools"},
 {"id":"it_1793401277210050","name":"CodeRabbit","url":"https://www.coderabbit.ai/","desc":"Independent AI code review with PR triage, change explanations, and continuous security monitoring.","cat":"dev_tools"},

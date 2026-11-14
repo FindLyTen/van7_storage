@@ -4,15 +4,15 @@
 
 ## Contents
 - [Agent Memory](#agent-memory) (39)
-- [AI Agents](#ai-agents) (148)
+- [AI Agents](#ai-agents) (150)
 - [AI Images](#ai-images) (25)
 - [AI Search](#ai-search) (2)
 - [AI Video](#ai-video) (37)
-- [API & MCP](#api-mcp) (101)
+- [API & MCP](#api-mcp) (102)
 - [Avatars & Deepfakes](#avatars-deepfakes) (4)
 - [CLI Tools](#cli-tools) (31)
 - [Collections](#collections) (34)
-- [Local Models](#local-models) (35)
+- [Local Models](#local-models) (36)
 - [Routers & Gateways](#routers-gateways) (15)
 - [Skills](#skills) (93)
 - [Voice & Transcription](#voice-transcription) (13)
@@ -145,6 +145,7 @@
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant (web + Windows): chat, web search, image generation, file analysis; free with Microsoft account.
 - [Minitap mobile-use](https://github.com/minitap-ai/mobile-use) - AI agent controlling Android or iOS phones in natural language: accessibility-tree UI automation, app data scraping, MCP server mode; Docker quickstart (Android), Python; Apache-2.0.
 - [Minke](https://github.com/lencx/Minke) - Local-first desktop agent workspace on DeepSeek Harness: shared browser, files, terminal, plugins, remote PWA; Electron/Node; macOS/Windows/Linux; Apache-2.0.
+- [Mira](https://mira.tg/) - Telegram-native AI assistant.
 - [MiroMindAI](https://github.com/MiroMindAI) - AI research org: reasoning language models and deep-research agents (MiroMind-M1, MiroThinker, MiroFlow).
 - [MLflow](https://github.com/mlflow/mlflow) - AI engineering platform: experiment tracking, tracing, LLM evaluation, prompt registry and optimization, AI gateway for model access; Python SDK; Apache-2.0.
 - [Mobile-Agent (Tongyi Lab)](https://github.com/X-PLUG/MobileAgent) - GUI agent family by Alibaba Tongyi Lab: phone and computer use with GUI-Owl models, multimodal screen understanding, planning and reflection loops; Python; MIT.
@@ -159,6 +160,7 @@
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Phone agent framework by Zhipu AI: AutoGLM-powered Android control over ADB, VLM screen perception, plan and execute flows, CLI chat with GLM models; Python; Apache-2.0.
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - Lightweight open-source framework for building multi-agent workflows with tools, handoffs, and tracing.
 - [Openbot](https://github.com/CopilotKit/openbot) - Open-source AI coworkers from CopilotKit: each has its own computer with a browser, files and tools, every action is approved before and logged after. Works with any AG-UI agent.
+- [OpenClaw](https://openclaw.ai/) - Open-source AI agent that acts on your behalf via messaging apps.
 - [OpenCompute](https://factory.com/news/opencompute) - Factory self-hosted orchestrator for agent sandboxes: on-demand provisioning and lifecycle of agent computers on your infrastructure, with Environments, Automations, Remote Control; private preview.
 - [OpenHands](https://github.com/OpenHands/openhands) - This is an AI agent that writes and edits code for you on its own, like a personal programmer you give a task to, and it opens files, edits and runs commands itself, like Claude Code or Devin.
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) - Open-source agent harness to run hundreds of AI agents on a small VPS.
@@ -357,6 +359,7 @@
 - [pi-free](https://github.com/apmantza/pi-free) - Pi extension registering 20+ free/freemium model providers (Kilo, Cline, LLM7, AnyAPI, Qoder...) with free-only filter and auto-fallback between free models
 - [Pinterest MCP Server](https://github.com/collactivelabs/pinterest-mcp-server) - MCP server for integrating Pinterest API with AI agents via your own developer account.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Microsoft official MCP server for browser automation via Playwright: click, type, screenshot using accessibility tree; free, no key; very active (~37k stars).
+- [Portkey](https://portkey.ai/) - AI gateway for LLM apps: observability, guardrails and prompt management.
 - [Postgres MCP Pro](https://github.com/crystaldba/postgres-mcp) - Postgres MCP server for the whole dev cycle: index tuning, EXPLAIN plan analysis, health checks and safe-mode SQL execution; Docker image or pip install postgres-mcp; MIT.
 - [Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant) - Official MCP server exposing Qdrant vector search as semantic memory: qdrant-store and qdrant-search tools with metadata and collections; uvx mcp-server-qdrant; Apache-2.0.
 - [Reddit MCP Server](https://github.com/jordanburke/reddit-mcp-server) - MCP server for fetching and creating Reddit content via official API with your own account.
@@ -490,6 +493,7 @@
 - [Qwen](https://chat.qwen.ai/) - Chat with top Qwen models from Alibaba
 - [Qwen3.6-27B AEON Ultimate Uncensored](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) - A fully uncensored Qwen3.6-27B (abliteration) with DFlash speculative decoding and NVFP4 quantization: 6 variants for DGX Spark and regular graphics cards, docker-compose out of the box.
 - [Qwen3.8-27B Defiance Uncensored](https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF) - Uncensored Qwen3.8-27B GGUF (IQ4_XS 15.7 GB, Q6_K_P 25.9 GB), 40 selectable modes via chat template, MTP draft file for llama.cpp. 24 GB GPU for IQ4_XS. Apache-2.0.
+- [SillyTavern](https://sillytavern.app/) - Local LLM chat interface with character creation and prompt customization.
 - [transformers](https://github.com/huggingface/transformers) - Open-source Python library for defining, training, and running state-of-the-art ML models (text, vision, audio, multimodal) with PyTorch/TensorFlow/JAX.
 - [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) - custom engine in Swift/Metal that lets you run the large Gemma 4 model (26 billion parameters) on an ordinary Mac with just 8 GB of memory, using ~2 GB of RAM
 
